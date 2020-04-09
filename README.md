@@ -31,7 +31,7 @@ The next step is to **associate the document with the schema schema_grobid_outpu
 After the global structure of the document has been checked and corrected, the XML-TEI document is transformed thanks to a **second XSLT stylesheet named catalog_final_transformation.xsl**. Every item is especially given a single xml:id and can therefore be linked with a relevant manuscript description. Finally, the document is **associated with the global schema** of E-ditiones **named odd_editiones.rng** available [here](https://github.com/e-ditiones/_rules).
 
 ## Cite this repository
-Lucie Rondeau du Noyer and Simon Gabay (éd.), _Manuscript sale catalogues_, Neuchâtel: Université de Neuchâtel, 2019, [https://github.com/e-ditiones/CAT](https://github.com/e-ditiones/CAT).
+Lucie Rondeau du Noyer and Simon Gabay (éd.), _Manuscript sale catalogues_, Neuchâtel: Université de Neuchâtel, 2019, [https://github.com/katabase/Data](https://github.com/katabase/Data).
 
 ## Licence
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Licence</a>.
