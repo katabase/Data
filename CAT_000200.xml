@@ -1592,7 +1592,7 @@
             </item>
             <item n="123" xml:id="CAT__e123">
                <num type="lot">123</num>
-               <name>Jean Bon Saint-André (André)</name>
+               <name type="author">Jean Bon Saint-André (André)</name>
                <trait>
                   <p>député du Lot à la Convention, le réorganisateur de notre marine pendant la
                      Révolution, né à Montauban en 1749, mort en 1813.</p>
