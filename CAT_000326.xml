@@ -23,12 +23,12 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <title>à renseigner</title>
-               <num>si nécessaire</num>
-               <editor/>
-               <publisher/>
-               <pubPlace/>
-               <date/>
+               <title>REVUE DES CURIOSITÉS DE L'HISTOIRE ET DE LA BIOGRAPHIE</title>
+               <num type="lot">198</num>
+               <editor>Eugène Charavay fils</editor>
+               <publisher>Eugène Charavay fils</publisher>
+               <pubPlace>Paris,8 quai du Louvre</pubPlace>
+               <date when="1893-02" instant="false">Mai 1897</date>
             </bibl>
             <listEvent>
                <event>
