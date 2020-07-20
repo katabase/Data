@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../../../programmes/GROBID_Dictionaries/_schemas/odd_editiones.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../../../../../programmes/GROBID_Dictionaries/_schemas/odd_editiones.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAT_000326">
    <teiHeader xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:s="http://purl.oclc.org/dsdl/schematron">
       <fileDesc>
          <titleStmt>
@@ -22,13 +22,13 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <bibl >
-               <title>REVUE DES CURIOSITÉS DE L'HISTOIRE ET DE LA BIOGRAPHIE</title>
-               <num type="lot">198</num>
-               <editor>Eugène Charavay fils</editor>
-               <publisher>Eugène Charavay fils</publisher>
-               <pubPlace>Paris,8 quai du Louvre</pubPlace>
-               <date when="1893-02" instant="false">Mai 1897</date>
+            <bibl>
+               <title>à renseigner</title>
+               <num>si nécessaire</num>
+               <editor/>
+               <publisher/>
+               <pubPlace/>
+               <date/>
             </bibl>
             <listEvent>
                <event>
@@ -1347,14 +1347,14 @@
                <num type="price">15</num>
                <note>Il lui donne le prix et la description de télescopes achromatiques.</note>
             </item>
-            <item n="198" xml:id="CAT_000326_e198">
-               <num type="lot">198</num>
+            <item n="108" xml:id="CAT_000326_e108">
+               <num type="lot">108</num>
                <name type="author"> Dompierre d'Hornoy (Ch.-Marie.- Albert de)</name>
                <trait>
                   <p>célèbre amiral et homme politique, arrière-petit-neveu de Voltaire, né à Hornoy
                      (Somme) en 1816.</p>
                </trait>
-               <desc xml:id="CAT_000326_e198_d1">L. a. s. au</desc>
+               <desc xml:id="CAT_000326_e108_d1">L. a. s. au</desc>
                <note>baron de Mackau ; Hornoy, 19 juin 1885, 4 p. in-4. Papier à ses armes. 8 »
                   Intéressante lettre toute relative à la souscription pour élever un monument à
                   l'amiral Courbet.</note>
