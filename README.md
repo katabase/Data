@@ -6,7 +6,7 @@ Digitised manuscripts sale catalogs.
 
 ## Description of the data
 
-Basic bibliographic information for each catalogue are available [here](https://github.com/e-ditiones/CAT/blob/master/_listCAT.tsv).
+Basic bibliographic information for each catalogue are available [here](https://github.com/katabase/Data/blob/master/_listDATA.csv).
 
 ## Workflow
 
