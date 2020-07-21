@@ -81,7 +81,7 @@
          <list>
             <note>PREMIÈRE PARTIE.</note>
             <item n="1" xml:id="CAT_000162_e1">
-               <num>1</num>
+               <num type="lot">1</num>
                <name type="author">Barbés (A.),</name>
                <trait>
                   <p>célèbre révolutionnaire.</p>
@@ -92,7 +92,7 @@
 						d'Étienne Arago.</note>
             </item>
             <item n="2" xml:id="CAT_000162_e2">
-               <num>2</num>
+               <num type="lot">2</num>
                <name type="author">Barroilhet (Paul),</name>
                <trait>
                   <p>célèbre chanteur de
@@ -108,7 +108,7 @@
 						Pape et la nécessité de livrer Rome au roi d'Italie.</note>
             </item>
             <item n="3" xml:id="CAT_000162_e3">
-               <num>3</num>
+               <num type="lot">3</num>
                <name type="author">Baudelaire (Ch.),</name>
                <trait>
                   <p>l'auteur des Fleurs du
@@ -120,7 +120,7 @@
 						Plume.</note>
             </item>
             <item n="4" xml:id="CAT_000162_e4">
-               <num>4</num>
+               <num type="lot">4</num>
                <name type="author">Béranger (P.-J. de),</name>
                <trait>
                   <p>le célèbre
@@ -136,7 +136,7 @@
 						le vôtre...»</note>
             </item>
             <item n="5" xml:id="CAT_000162_e5">
-               <num>5</num>
+               <num type="lot">5</num>
                <name type="author">Bonheur (Rosa),</name>
                <trait>
                   <p>célèbre femme-peintre.</p>
@@ -145,7 +145,7 @@
 					lettre.</desc>
             </item>
             <item n="6" xml:id="CAT_000162_e6">
-               <num>6</num>
+               <num type="lot">6</num>
                <name type="author">Brohan (Suzanne),</name>
                <trait>
                   <p>célèbre actrice.</p>
@@ -155,7 +155,7 @@
                <desc xml:id="CAT_000162_e6_d3">3° L. a. s. de Madeleine Brohan, 1 p. in-8.</desc>
             </item>
             <item n="7" xml:id="CAT_000162_e7">
-               <num>7</num>
+               <num type="lot">7</num>
                <name type="author">Brohan (Madeleine),</name>
                <trait>
                   <p>célèbre actrice.</p>
@@ -163,12 +163,12 @@
                <desc xml:id="CAT_000162_e7_d1">3 l. a. s. à Yriarte, 3 p. in-8. Jolies lettres.</desc>
             </item>
             <item n="8" xml:id="CAT_000162_e8">
-               <num>8</num>
+               <num type="lot">8</num>
                <name type="author">Cantatrices</name>
                <desc xml:id="CAT_000162_e8_d1">4 l. a. s. Dabadie, Darcier, Dorus-Gras et Fargueil.</desc>
                </item>
             <item n="9" xml:id="CAT_000162_e9">
-               <num>9</num>
+               <num type="lot">9</num>
                <name>Corot (C.),</name>
                <trait>
                   <p>le célèbre peintre.</p>
@@ -177,7 +177,7 @@
                   1872-1874, 2 p. in-18.</desc>
             </item>
             <item n="10" xml:id="CAT_000162_e10">
-               <num>10</num>
+               <num type="lot">10</num>
                <name type="author">Courbet (Gustave),</name>
                <trait>
                   <p>le grand peintre.</p>
@@ -191,7 +191,7 @@
 						devait refuser quatre ans plus tard.</note>
             </item>
             <item n="11" xml:id="CAT_000162_e11">
-               <num>11</num>
+               <num type="lot">11</num>
                <name type="author">Cousin (V.),</name>
                <trait>
                   <p>le célèbre écrivain, de l'Acad.
@@ -203,7 +203,7 @@
 						ouvrage.</note>
             </item>
             <item n="12" xml:id="CAT_000162_e12">
-               <num>12</num>
+               <num type="lot">12</num>
                <name type="author">Decamps (A.-P.),</name>
                <trait>
                   <p>le célèbre peintre.</p>
@@ -211,7 +211,7 @@
                <desc xml:id="CAT_000162_e12_d1">2 l. a. s. à M. Tedesco ; 1853-60, 2 p. 3/4 in-8.</desc>
             </item>
             <item n="13" xml:id="CAT_000162_e13">
-               <num>13</num>
+               <num type="lot">13</num>
                <name type="author">Déjazet (Virginie),</name>
                <trait>
                   <p>la célèbre actrice.</p>
@@ -223,7 +223,7 @@
 					affaires.</note>
             </item>
             <item n="14" xml:id="CAT_000162_e14">
-               <num>14</num>
+               <num type="lot">14</num>
                <name type="author">Déjazet (Virginie)</name>
                <desc xml:id="CAT_000162_e14_d1">L. a. s. à Mme May; 16 juill. 1870, 4 p. pl.
 						in-8.</desc>
@@ -231,7 +231,7 @@
 						sur ses embarras pécuniaires.</note>
             </item>
             <item n="15" xml:id="CAT_000162_e15">
-               <num>15</num>
+               <num type="lot">15</num>
                <name type="author">Delacroix (Eugène),</name>
                <trait>
                   <p>le grand peintre.</p>
@@ -242,7 +242,7 @@
                   et l'autre Saint-Etienne.</desc>
             </item>
             <item n="16" xml:id="CAT_000162_e16">
-               <num>16</num>
+               <num type="lot">16</num>
                <name type="author">Diaz (N.),</name>
                <trait>
                   <p>célèbre peintre.</p>
@@ -253,7 +253,7 @@
 						récompenses.</note>
             </item>
             <item n="17" xml:id="CAT_000162_e17">
-               <num>17</num>
+               <num type="lot">17</num>
                <name type="author">Doré (Gustave),</name>
                <trait>
                   <p>célèbre dessinateur.</p>
@@ -264,7 +264,7 @@
 						d'en parler dans le Monde Illustré.</note>
             </item>
             <item n="18" xml:id="CAT_000162_e18">
-               <num>18</num>
+               <num type="lot">18</num>
                <name type="author">Dumas fils (Alex.),</name>
                <trait>
                   <p>l'auteur de la Dame aux
@@ -277,12 +277,12 @@
 						et revendu ensuite par lui.</note>
             </item>
             <item n="19" xml:id="CAT_000162_e19">
-               <num>19</num>
+               <num type="lot">19</num>
                <name type="author">Dumas fils (Alex.)</name>
                <desc xml:id="CAT_000162_e19_d1">2 l. a. s., 1 p. 1/2 in-8. Jolies lettres.</desc>
             </item>
             <item n="20" xml:id="CAT_000162_e20">
-               <num>20</num>
+               <num type="lot">20</num>
                <name type="author">Dupré (Jules),</name>
                <trait>
                   <p>célèbre peintre.</p>
@@ -292,7 +292,7 @@
 						à un tableau, qui doit être une oeuvre de sa jeunesse.</note>
             </item>
             <item n="21" xml:id="CAT_000162_e21">
-               <num>21</num>
+               <num type="lot">21</num>
                <name type="author">Gautier (Théophile),</name>
                <trait>
                   <p>le célèbre écrivain.</p>
@@ -302,14 +302,14 @@
 						d'envoi de son Capitaine Fracasse.</note>
             </item>
             <item n="22" xml:id="CAT_000162_e22">
-               <num>22</num>
+               <num type="lot">22</num>
                <name type="author">Gautier (Théophile)</name>
                <desc xml:id="CAT_000162_e22_d1">L. a. s. à Yriarte, 1/4 de p. in-18.</desc>
                <note>Prière
 						d'insérer l'article d'un chinois nommé Tin-Tou-Lin.</note>
             </item>
             <item n="23" xml:id="CAT_000162_e23">
-               <num>23</num>
+               <num type="lot">23</num>
                <name type="author">Grandville (J.-J.),</name>
                <trait>
                   <p>célèbre dessinateur.</p>
@@ -320,7 +320,7 @@
 						représenter une scène de l'avocat Pathelin.</note>
             </item>
             <item n="24" xml:id="CAT_000162_e24">
-               <num>24</num>
+               <num type="lot">24</num>
                <name type="author">Hugo (Victor),</name>
                <trait>
                   <p>le grand poëte.</p>
@@ -331,7 +331,7 @@
 						qu'il a consacré à Hernani.</note>
             </item>
             <item n="25" xml:id="CAT_000162_e25">
-               <num>25</num>
+               <num type="lot">25</num>
                <name type="author">Jacque (Ch.),</name>
                <trait>
                   <p>le célèbre aqua-fortiste.</p>
@@ -342,7 +342,7 @@
 						tableaux.</note>
             </item>
             <item n="26" xml:id="CAT_000162_e26">
-               <num>26</num>
+               <num type="lot">26</num>
                <name type="author">Jacque (Ch.)</name>
                <desc xml:id="CAT_000162_e26_d1">12 l. a. s. à M. Bauchau; 1874, 30 p.
 						in-18.</desc>
@@ -350,7 +350,7 @@
 						de ses tableaux.</note>
             </item>
             <item n="27" xml:id="CAT_000162_e27">
-               <num>27</num>
+               <num type="lot">27</num>
                <name type="author">Lamartine (A. de),</name>
                <trait>
                   <p>le grand poëte.</p>
@@ -365,7 +365,7 @@
 						niveau moral de cet océan qu'on appelle l'esprit humain...»</note>
             </item>
             <item n="28" xml:id="CAT_000162_e28">
-               <num>28</num>
+               <num type="lot">28</num>
                <name type="author">Louis-Philippe Ier,</name>
                <trait>
                   <p>roi des Français.</p>
@@ -376,7 +376,7 @@
 						avec la cour de Rome.</note>
             </item>
             <item n="29" xml:id="CAT_000162_e29">
-               <num>29</num>
+               <num type="lot">29</num>
                <name type="author">Meissonier (E.),</name>
                <trait>
                   <p>le célèbre peintre.</p>
@@ -387,7 +387,7 @@
 						de lui une promesse de vente de tous ses tableaux.</note>
             </item>
             <item n="30" xml:id="CAT_000162_e30">
-               <num>30</num>
+               <num type="lot">30</num>
                <name type="author">Millet (J.-Fr.),</name>
                <trait>
                   <p>célèbre peintre.</p>
@@ -400,7 +400,7 @@
 						plus ce qu'ils savaient si bisn faire.»</note>
             </item>
             <item n="31" xml:id="CAT_000162_e31">
-               <num>31</num>
+               <num type="lot">31</num>
                <name type="author">Millet (J.-Fr.)</name>
                <desc xml:id="CAT_000162_e31_d1">L. a. s. à M. Moureaux; Barbizon, 16 fév. 1869, 2 p.
 						in-8.</desc>
@@ -408,7 +408,7 @@
 						apporter les dessins japonais qu'il a achetés pour lui.</note>
             </item>
             <item n="32" xml:id="CAT_000162_e32">
-               <num>32</num>
+               <num type="lot">32</num>
                <name type="author">Morny (le duc de),</name>
                <trait>
                   <p>le plus célèbre des conseillers de
@@ -420,7 +420,7 @@
 					bourse.</note>
             </item>
             <item n="33" xml:id="CAT_000162_e33">
-               <num>33</num>
+               <num type="lot">33</num>
                <name type="author">Nilsson (Christine),</name>
                <trait>
                   <p>célèbre cantatrice.</p>
@@ -429,7 +429,7 @@
 					lettre.</desc>
             </item>
             <item n="34" xml:id="CAT_000162_e34">
-               <num>34</num>
+               <num type="lot">34</num>
                <name type="author">Périer (Casimir),</name>
                <trait>
                   <p>le célèbre ministre de
@@ -439,7 +439,7 @@
 						rare lettre.</desc>
             </item>
             <item n="35" xml:id="CAT_000162_e35">
-               <num>35</num>
+               <num type="lot">35</num>
                <name type="author">Rachel (Melle),</name>
                <trait>
                   <p>la grande tragédienne.</p>
@@ -447,7 +447,7 @@
                <desc xml:id="CAT_000162_e35_d1">L. a. s. à Verteuil, 1 p. in-18.</desc>
             </item>
             <item n="36" xml:id="CAT_000162_e36">
-               <num>36</num>
+               <num type="lot">36</num>
                <name type="author">Rachel (Mmlle)</name>
                <desc xml:id="CAT_000162_e36_d1">L. a. s. à son cher Alexandre; 8 mars, 1 p.
 						in-12.</desc>
@@ -455,7 +455,7 @@
 						quelques-uns de nos amis de l'école du bon sens.»</note>
             </item>
             <item n="37" xml:id="CAT_000162_e37">
-               <num>37</num>
+               <num type="lot">37</num>
                <name type="author">Ristori (Adélaïde),</name>
                <trait>
                   <p>célèbre tragédienne.</p>
@@ -463,7 +463,7 @@
                <desc xml:id="CAT_000162_e37_d1">L. a. s. ; mardi soir, 1 p. 1/2 in-12. Jolie pièce.</desc>
             </item>
             <item n="38" xml:id="CAT_000162_e38">
-               <num>38</num>
+               <num type="lot">38</num>
                <name type="author">Ristori (Adélaïde)</name>
                <desc xml:id="CAT_000162_e38_d1">L. a. s.; mercredi, 3 p. in-12.</desc>
                <note>Invitation à venir
@@ -471,7 +471,7 @@
 						Macbeth.</note>
             </item>
             <item n="39" xml:id="CAT_000162_e39">
-               <num>39</num>
+               <num type="lot">39</num>
                <name type="author">Rochefort (Henri),</name>
                <trait>
                   <p>publiciste et député, membre du
@@ -482,7 +482,7 @@
 						lettre, signée Henri de Rochefort.</note>
             </item>
             <item n="40" xml:id="CAT_000162_e40">
-               <num>40</num>
+               <num type="lot">40</num>
                <name type="author">Rossi (Ernesto),</name>
                <trait>
                   <p>célèbre tragédien
@@ -494,7 +494,7 @@
 						représentations.</note>
             </item>
             <item n="41" xml:id="CAT_000162_e41">
-               <num>41</num>
+               <num type="lot">41</num>
                <name type="author">Sand (George),</name>
                <trait>
                   <p>la grande romancière.</p>
@@ -506,12 +506,12 @@
 						1859.</note>
             </item>
             <item n="42" xml:id="CAT_000162_e42">
-               <num>42</num>
+               <num type="lot">42</num>
                <name type="author">Sand (George)</name>
                <desc xml:id="CAT_000162_e42_d1">2 l. a. s., 2 p. in-8.</desc>
             </item>
             <item n="43" xml:id="CAT_000162_e43">
-               <num>43</num>
+               <num type="lot">43</num>
                <name type="author">Sontag (Henriette),</name>
                <trait>
                   <p>célèbre cantatrice.</p>
@@ -519,7 +519,7 @@
                <desc xml:id="CAT_000162_e43_d1">L. a. s. Hure ; Londres, 28 juill. 1851, 4 p. pl. in-8.</desc>
             </item>
             <item n="44" xml:id="CAT_000162_e44">
-               <num>44</num>
+               <num type="lot">44</num>
                <name type="author">Talleyrand (le prince de),</name>
                <trait>
                   <p>l'illustre homme
@@ -533,7 +533,7 @@
                   Rossini.»</note>
             </item>
             <item n="45" xml:id="CAT_000162_e45">
-               <num>45</num>
+               <num type="lot">45</num>
                <name type="author">Talleyrand (le prince de)</name>
                <desc xml:id="CAT_000162_e45_d1">L. a. s., 3 p. 1/2 in-8.</desc>
                <note>Intéressante lettre où il
@@ -541,7 +541,7 @@
 						détails.</note>
             </item>
             <item n="46" xml:id="CAT_000162_e46">
-               <num>46</num>
+               <num type="lot">46</num>
                <name type="author">Tamberlick (H.),</name>
                <trait>
                   <p>célèbre ténor.</p>
@@ -552,7 +552,7 @@
 						parle de M. de Villemessant.</note>
             </item>
             <item n="47" xml:id="CAT_000162_e47">
-               <num>47</num>
+               <num type="lot">47</num>
                <name type="author">Thiers (Ad.),</name>
                <trait>
                   <p>président de la République
@@ -562,7 +562,7 @@
 						Jolie pièce.</desc>
             </item>
             <item n="48" xml:id="CAT_000162_e48">
-               <num>48</num>
+               <num type="lot">48</num>
                <name type="author">Vallès (Jules),</name>
                <trait>
                   <p>publiciste, membre de la Commune de
@@ -573,7 +573,7 @@
                </item>
             <note>DEUXIÊME PARTIE. COMPOSITEURS DE MUSIQUE</note>
             <item n="49" xml:id="CAT_000162_e49">
-               <num>49</num>
+               <num type="lot">49</num>
                <name type="author">Bellini (Vincenzo),</name>
                <trait>
                   <p>l'auteur de la
@@ -589,7 +589,7 @@
 						musique.</note>
             </item>
             <item n="50" xml:id="CAT_000162_e50">
-               <num>50</num>
+               <num type="lot">50</num>
                <name type="author">Bellini (Vincenzo)</name>
                <desc xml:id="CAT_000162_e50_d1">Morceau de musique autographe, avec paroles, 4 p. in-4
 						oblong.</desc>
@@ -597,7 +597,7 @@
 						porte des corrections de Zingarelli.</note>
             </item>
             <item n="51" xml:id="CAT_000162_e51">
-               <num>51</num>
+               <num type="lot">51</num>
                <name type="author">Bulow (Hans de),</name>
                <trait>
                   <p>célèbre pianiste.</p>
@@ -610,12 +610,12 @@
                   mal.</note>
             </item>
             <item n="52" xml:id="CAT_000162_e52">
-               <num>52</num>
+               <num type="lot">52</num>
                <name type="author">Cherubini (Luigi)</name>
                <desc xml:id="CAT_000162_e52_d1">L. a. s. ; 30 mars, 3/4 de p. in-8. Jolie pièce.</desc>
             </item>
             <item n="53" xml:id="CAT_000162_e53">
-               <num>53</num>
+               <num type="lot">53</num>
                <name type="author">Crescentini (G.),</name>
                <trait>
                   <p>compositeur et chanteur
@@ -626,7 +626,7 @@
 					musicale.</note>
             </item>
             <item n="54" xml:id="CAT_000162_e54">
-               <num>54</num>
+               <num type="lot">54</num>
                <name type="author">Donizetti (Gaetano),</name>
                <trait>
                   <p>l'auteur de la
@@ -638,7 +638,7 @@
 						à Paris.</note>
             </item>
             <item n="55" xml:id="CAT_000162_e55">
-               <num>55</num>
+               <num type="lot">55</num>
                <name type="author">Donizetti (Gaetano)</name>
                <desc xml:id="CAT_000162_e55_d1">L. a. s. à Barroilhet ; Vienne, 24 avril 1845, 3 p.
 						in-4.</desc>
@@ -650,7 +650,7 @@
 						Très-intéressants détails.</note>
             </item>
             <item n="56" xml:id="CAT_000162_e56">
-               <num>56</num>
+               <num type="lot">56</num>
                <name type="author">Donizetti (Gaetano).</name>
                <desc xml:id="CAT_000162_e56_d1">Morceau de musique
                   autographe, avec paroles, 3/4 de p. in-fol.
@@ -659,7 +659,7 @@
 						tous les biens de la terre, etc.</note>
             </item>
             <item n="57" xml:id="CAT_000162_e57">
-               <num>57</num>
+               <num type="lot">57</num>
                <name type="author">Flotow (Ferdinand de),</name>
                <trait>
                   <p>l'auteur de Martha.</p>
@@ -670,7 +670,7 @@
 						la Châtelaine.</note>
             </item>
             <item n="58" xml:id="CAT_000162_e58">
-               <num>58</num>
+               <num type="lot">58</num>
                <name type="author">Gounod (Charles),</name>
                <trait>
                   <p>l'auteur de Faust.</p>
@@ -678,7 +678,7 @@
                <desc xml:id="CAT_000162_e58_d1">3 l. a. s.; 1865-66, 3 p. in-8. Jolies lettres.</desc>
             </item>
             <item n="59" xml:id="CAT_000162_e59">
-               <num>59</num>
+               <num type="lot">59</num>
                <name type="author">Gounod (Charles)</name>
                <desc xml:id="CAT_000162_e59_d1">Morceau de musique aut. sig., 1/2 p. in-4
 						oblong.</desc>
@@ -686,26 +686,26 @@
 						musicale de son morceau de Mireille : Heureux petit berger!</note>
             </item>
             <item n="60" xml:id="CAT_000162_e60">
-               <num>60</num>
+               <num type="lot">60</num>
                <name type="author">Gyrowetz (Adalbert)</name>
                <desc xml:id="CAT_000162_e60_d1">Morceau de musique aut. sig., avec paroles ; 20 juin 1836, 2 p. 1/2 in-4
 						oblong. Belle pièce.</desc>
             </item>
             <item n="61" xml:id="CAT_000162_e61">
-               <num>61</num>
+               <num type="lot">61</num>
                <name type="author">Himmel (Frédéric-Henri)</name>
                <desc xml:id="CAT_000162_e61_d1">L. a. s.; Koenigsberg, 6 juillet 1809, 4 p.
 						in-4.</desc>
                <note>Superbe lettre, toute musicale.</note>
             </item>
             <item n="62" xml:id="CAT_000162_e62">
-               <num>62</num>
+               <num type="lot">62</num>
                <name type="author">Hummel (Jean-Népomucène)</name>
                <desc xml:id="CAT_000162_e62_d1">L. a. s. à Kushrer; Weimar, 12 janv. 1832, 3/4 de p. in-4, cachet. Très
 						belle lettre.</desc>
             </item>
             <item n="63" xml:id="CAT_000162_e63">
-               <num>63</num>
+               <num type="lot">63</num>
                <name type="author">Lesueur (Jean François)</name>
                <desc xml:id="CAT_000162_e63_d1">L. a. s. à Lefebvre ; 22 fév. 1812, 2 p. 1/2 in-8, tête
 						impr.</desc>
@@ -713,7 +713,7 @@
 						la musique de la chapelle impériale.</note>
             </item>
             <item n="64" xml:id="CAT_000162_e64">
-               <num>64</num>
+               <num type="lot">64</num>
                <name type="author">Liszt (Franz),</name>
                <trait>
                   <p>le grand pianiste.</p>
@@ -721,7 +721,7 @@
                <desc xml:id="CAT_000162_e64_d1">2 lignes de musique aut. sig., 1 p. in-8 oblong.</desc>
             </item>
             <item n="65" xml:id="CAT_000162_e65">
-               <num>65</num>
+               <num type="lot">65</num>
                <name type="author">Mercadante (Saverio)</name>
                <desc xml:id="CAT_000162_e65_d1">1° L. a. s. à Féderico Rieci ; Naples, 10 fév. 1858, 2 p. pl. in-4.
 						Très-belle lettre de recommandation en faveur d'un de ses élèves.</desc>
@@ -729,7 +729,7 @@
                   Rossini; Naples, 16 juill. 1867, 1 p. 1/4 in-8. Jolie lettre.</desc>
             </item>
             <item n="66" xml:id="CAT_000162_e66">
-               <num>66</num>
+               <num type="lot">66</num>
                <name type="author">Meyerbeer (G.),</name>
                <trait>
                   <p>l'auteur des Huguenots.</p>
@@ -740,14 +740,14 @@
 						opéras.</note>
             </item>
             <item n="67" xml:id="CAT_000162_e67">
-               <num>67</num>
+               <num type="lot">67</num>
                <name type="author">Raimondi (Pietro)</name>
                <desc xml:id="CAT_000162_e67_d1">L. a. s. à l'éditeur Ricordi ; Palerme, 2 sept. 1851, 2 p. in-fol.,
 						cachet.</desc>
                <note>Très-belle lettre musicale.</note>
             </item>
             <item n="68" xml:id="CAT_000162_e68">
-               <num>68</num>
+               <num type="lot">68</num>
                <name type="author">Ricci (Luigi)</name>
                <desc xml:id="CAT_000162_e68_d1">L. a. s. Luigi à son frère ; Trieste, 25 mai (1858), 4 p. pl. in-4.
 						Rare.</desc>
@@ -757,13 +757,13 @@
 						de son opéra de Scaramuccia.</note>
             </item>
             <item n="69" xml:id="CAT_000162_e69">
-               <num>69</num>
+               <num type="lot">69</num>
                <name type="author">Ricci (Luigi)</name>
                <desc xml:id="CAT_000162_e69_d1">Fragment de musique autographe, avec paroles, 2 p. in-4 oblong. Belle
 						pièce, certifiée par Féderico Ricci.</desc>
             </item>
             <item n="70" xml:id="CAT_000162_e70">
-               <num>70</num>
+               <num type="lot">70</num>
                <name type="author">Ricci (Federico),</name>
                <trait>
                   <p>frère du précédent.</p>
@@ -775,13 +775,13 @@
 						celle de son frère et il y expose ses doctrines musicales.</note>
             </item>
             <item n="71" xml:id="CAT_000162_e71">
-               <num>71</num>
+               <num type="lot">71</num>
                <name type="author">Ricci (Federico)</name>
                <desc xml:id="CAT_000162_e71_d1">Couplets à Madame de Villars, morceau de musique aut. sig. en tête;
 						Vienne, oct. 1865, 15 p. in-fol. Superbe pièce.</desc>
             </item>
             <item n="72" xml:id="CAT_000162_e72">
-               <num>72</num>
+               <num type="lot">72</num>
                <name type="author">Romberg (Bernard),</name>
                <trait>
                   <p>violoncelliste.</p>
@@ -791,7 +791,7 @@
                <note>Très-belle lettre musicale.</note>
             </item>
             <item n="73" xml:id="CAT_000162_e73">
-               <num>73</num>
+               <num type="lot">73</num>
                <name type="author">Rossini (G.),</name>
                <trait>
                   <p>l'auteur de Guillaume
@@ -803,12 +803,12 @@
 					dîner.</note>
             </item>
             <item n="74" xml:id="CAT_000162_e74">
-               <num>74</num>
+               <num type="lot">74</num>
                <name type="author">Schumann (Robert)</name>
                <desc xml:id="CAT_000162_e74_d1">L. a. s.;; Leipzig, 1848, 1 p. pl. in-8. Belle lettre.</desc>
             </item>
             <item n="75" xml:id="CAT_000162_e75">
-               <num>75</num>
+               <num type="lot">75</num>
                <name type="author">Verdi (G.),</name>
                <trait>
                   <p>l'auteur du Trouvère.</p>
@@ -820,7 +820,7 @@
 						destinés l'un à Ricordi, l'autre à Venise.</note>
             </item>
             <item n="76" xml:id="CAT_000162_e76">
-               <num>76</num>
+               <num type="lot">76</num>
                <name type="author">Vogler (l'abbé Joseph),</name>
                <trait>
                   <p>le maître de
@@ -829,27 +829,27 @@
                <desc xml:id="CAT_000162_e76_d1">L. a. s. de ses initiales, 1/2 p. in-4.</desc>
             </item>
             <item n="77" xml:id="CAT_000162_e77">
-               <num>77</num>
+               <num type="lot">77</num>
                <name type="author">Weigl (Joseph)</name>
                <desc xml:id="CAT_000162_e77_d1">Morceau de musique aut. sig., avec paroles; juin 1836, 1 p. in-4 oblong.
 						Très-belle pièce.</desc>
             </item>
             <item n="78" xml:id="CAT_000162_e78">
-               <num>78</num>
+               <num type="lot">78</num>
                <name type="author">Zingarelli (Niccolo)</name>
                <desc xml:id="CAT_000162_e78_d1">Morceau de musique autographe, 2 p. in-4 oblong. Belle pièce, certifiée
 						par son élève Féderico Ricci.</desc>
             </item>
             <note>TROISIEME PARTIE</note>
             <item n="79" xml:id="CAT_000162_e79">
-               <num>79</num>
+               <num type="lot">79</num>
                <name type="author">Académie française. 3 lettres</name>
                <desc xml:id="CAT_000162_e79_d1">Andrieux, 1. a.s.;</desc>
                <desc xml:id="CAT_000162_e79_d2">Chateaubriand, 1. s.</desc>
                <desc xml:id="CAT_000162_e79_d3">Sedaine, p. s.</desc>
             </item>
             <item n="80" xml:id="CAT_000162_e80">
-               <num>80</num>
+               <num type="lot">80</num>
                <name type="author">Aguesseau (H.-Fr. d'),</name>
                <trait>
                   <p>illustre chancelier de
@@ -859,7 +859,7 @@
 						lettre.</desc>
             </item>
             <item n="81" xml:id="CAT_000162_e81">
-               <num>81</num>
+               <num type="lot">81</num>
                <name type="author">Argenville (Ant.-Nic. Desallier d'),</name>
                <trait>
                   <p>l'auteur de la
@@ -868,7 +868,7 @@
                <desc xml:id="CAT_000162_e81_d1">P. a. s., sur vélin; Paris, 8 fév. 1773, 1 p. in-8 oblong.</desc>
             </item>
             <item n="82" xml:id="CAT_000162_e82">
-               <num>82</num>
+               <num type="lot">82</num>
                <name type="author">Arnould (Sophie),</name>
                <trait>
                   <p>la célèbre actrice.</p>
@@ -882,7 +882,7 @@
 						désagréments de la vieillesse.</note>
             </item>
             <item n="83" xml:id="CAT_000162_e83">
-               <num>83</num>
+               <num type="lot">83</num>
                <name type="author">Arnould (Sophie)</name>
                <desc xml:id="CAT_000162_e83_d1">L. a. s. (au même) ; Paris, 14 thermidor an IX, 3 p. 3/4
 						in-4.</desc>
@@ -890,7 +890,7 @@
 						de sa santé et de son fils. Intéressants détails.</note>
             </item>
             <item n="84" xml:id="CAT_000162_e84">
-               <num>84</num>
+               <num type="lot">84</num>
                <name type="author">Beaune (Charlotte de),</name>
                <trait>
                   <p>marquise de Noirmoutiers, une
@@ -899,7 +899,7 @@
                <desc xml:id="CAT_000162_e84_d1">P. s.; 7 fév. 1613, 1 p. 3/4 in-fol.</desc>
             </item>
             <item n="85" xml:id="CAT_000162_e85">
-               <num>85</num>
+               <num type="lot">85</num>
                <name type="author">Bellecour (J.-B. Colson, dit),</name>
                <trait>
                   <p>célèbre comédien du
@@ -911,7 +911,7 @@
 						qu'il l'a fortement recommandé au duc de Duras.</note>
             </item>
             <item n="86" xml:id="CAT_000162_e86">
-               <num>86</num>
+               <num type="lot">86</num>
                <name type="author">Blumenbach (J.-Fr.),</name>
                <trait>
                   <p>le célèbre naturaliste
@@ -920,7 +920,7 @@
                <desc xml:id="CAT_000162_e86_d1">L. a. s.; Goettingue, 20 déc. 1799, 1 p. in-4.</desc>
             </item>
             <item n="87" xml:id="CAT_000162_e87">
-               <num>87</num>
+               <num type="lot">87</num>
                <name type="author">Boivin (Jean),</name>
                <trait>
                   <p>érudit, garde de la bibliothèque du
@@ -933,7 +933,7 @@
 						charte.</note>
             </item>
             <item n="88" xml:id="CAT_000162_e88">
-               <num>88</num>
+               <num type="lot">88</num>
                <name type="author">Bosio (Fr.-Jos.),</name>
                <trait>
                   <p>célèbre sculpteur.</p>
@@ -944,7 +944,7 @@
 						ses épaulettes.</note>
             </item>
             <item n="89" xml:id="CAT_000162_e89">
-               <num>89</num>
+               <num type="lot">89</num>
                <name type="author">Bossuet (J.-B.),</name>
                <trait>
                   <p>l'illustre évêque de
@@ -955,7 +955,7 @@
 					d'humidité.</desc>
             </item>
             <item n="90" xml:id="CAT_000162_e90">
-               <num>90</num>
+               <num type="lot">90</num>
                <name type="author">Bourdelot (Pierre Michon, dit l'abbé),</name>
                <trait>
                   <p>médecin de
@@ -970,7 +970,7 @@
 						curieux sur le meurtre de Monaldeschi.</note>
             </item>
             <item n="91" xml:id="CAT_000162_e91">
-               <num>91</num>
+               <num type="lot">91</num>
                <name type="author">Bruix (Eustache),</name>
                <trait>
                   <p>amiral et ministre de la
@@ -984,7 +984,7 @@
 						servir.</note>
             </item>
             <item n="92" xml:id="CAT_000162_e92">
-               <num>92</num>
+               <num type="lot">92</num>
                <name type="author">Brumoy (Pierre),</name>
                <trait>
                   <p>savant jésuite, éditeur du Théâtre
@@ -996,7 +996,7 @@
 						ouvrages.</note>
             </item>
             <item n="93" xml:id="CAT_000162_e93">
-               <num>93</num>
+               <num type="lot">93</num>
                <name type="author">Chamillart (Michel de),</name>
                <trait>
                   <p>ministre de la guerre sous
@@ -1008,7 +1008,7 @@
 						l'état précaire de la France.</note>
             </item>
             <item n="94" xml:id="CAT_000162_e94">
-               <num>94</num>
+               <num type="lot">94</num>
                <name type="author">Chamillart (Michel de)</name>
                <desc xml:id="CAT_000162_e94_d1">L. a. s. (au duc de Vendôme) ; Versailles, 25 sept. 1708, 7 p.
 						in-4.</desc>
@@ -1016,7 +1016,7 @@
 						instructions pour sa campagne contre le duc de Marlhorough.</note>
             </item>
             <item n="95" xml:id="CAT_000162_e95">
-               <num>95</num>
+               <num type="lot">95</num>
                <name type="author">Charles III,</name>
                <trait>
                   <p>duc de Savoie, dit le Bon, beau-frère de
@@ -1026,7 +1026,7 @@
 						lettre.</desc>
             </item>
             <item n="96" xml:id="CAT_000162_e96">
-               <num>96</num>
+               <num type="lot">96</num>
                <name type="author">Charles,</name>
                <trait>
                   <p>archiduc d'Autriche, illustre général
@@ -1035,7 +1035,7 @@
                <desc xml:id="CAT_000162_e96_d1">L. a. s.; Vienne, 26 juin 1803, 1/2 p. in-4.</desc>
             </item>
             <item n="97" xml:id="CAT_000162_e97">
-               <num>97</num>
+               <num type="lot">97</num>
                <name type="author">Chaulieu (Guill. AMFRYe, abbé de),</name>
                <trait>
                   <p>le célèbre et
@@ -1050,14 +1050,14 @@
 						comme au siècle d'or, ni de lait, come je fais aujourd'hui...»</note>
             </item>
             <item n="98" xml:id="CAT_000162_e98">
-               <num>98</num>
+               <num type="lot">98</num>
                <name type="author">Chaulieu (Guill. AmfrYe, abbé de)</name>
                <desc xml:id="CAT_000162_e98_d1">Pièce de vers autographe, 3 p. 3/4 in-4.</desc>
                <note>Superbe
 						pièce, adressée à la comtesse de Stafford,</note>
             </item>
             <item n="99" xml:id="CAT_000162_e99">
-               <num>99</num>
+               <num type="lot">99</num>
                <name type="author">Chicoyneau (François),</name>
                <trait>
                   <p>médecin, célèbre par sa belle
@@ -1067,7 +1067,7 @@
 						cachet. Belle lettre.</desc>
             </item>
             <item n="100" xml:id="CAT_000162_e100">
-               <num>100</num>
+               <num type="lot">100</num>
                <name type="author">Costar (Pierre),</name>
                <trait>
                   <p>célèbre écrivain de l'hôtel de
@@ -1080,7 +1080,7 @@
 						Théocrite.</note>
             </item>
             <item n="101" xml:id="CAT_000162_e101">
-               <num>101</num>
+               <num type="lot">101</num>
                <name type="author">Decamps (A.-G.),</name>
                <trait>
                   <p>excellent peintre de
@@ -1089,7 +1089,7 @@
                <desc xml:id="CAT_000162_e101_d1">L. a. s. à M. Fau ; 1er août 1837, 2 p. in-8.</desc>
             </item>
             <item n="102" xml:id="CAT_000162_e102">
-               <num>102</num>
+               <num type="lot">102</num>
                <name type="author">Decazes (Elie, duc),</name>
                <trait>
                   <p>célèbre ministre de Louis
@@ -1099,7 +1099,7 @@
 						in-8. Intéressantes.</desc>
             </item>
             <item n="103" xml:id="CAT_000162_e103">
-               <num>103</num>
+               <num type="lot">103</num>
                <name type="author">Doria (André),</name>
                <trait>
                   <p>l'illustre amiral génois.</p>
@@ -1110,7 +1110,7 @@
 						événements du temps.</note>
             </item>
             <item n="104" xml:id="CAT_000162_e104">
-               <num>104</num>
+               <num type="lot">104</num>
                <name type="author">Dousa (Janus),</name>
                <trait>
                   <p>poëte hollandais, mort en 1596 à 26
@@ -1120,7 +1120,7 @@
 						juin, 1 p. in-fol. Très-belle lettre.</desc>
             </item>
             <item n="105" xml:id="CAT_000162_e105">
-               <num>105</num>
+               <num type="lot">105</num>
                <name type="author">Ducis (J.-Fr.),</name>
                <trait>
                   <p>célèbre poëte dramatique, de l'Acad.
@@ -1130,7 +1130,7 @@
 						2 p. in 4.</desc>
             </item>
             <item n="106" xml:id="CAT_000162_e106">
-               <num>106</num>
+               <num type="lot">106</num>
                <name type="author">Dumas (Alexandre),</name>
                <trait>
                   <p>le célèbre romancier.</p>
@@ -1142,7 +1142,7 @@
 						ménétrier.)</note>
             </item>
             <item n="107" xml:id="CAT_000162_e107">
-               <num>107</num>
+               <num type="lot">107</num>
                <name type="author">Epernon (J.-L. de Nogaret de La Vallette, duc d'),</name>
                <trait>
                   <p>un
@@ -1155,7 +1155,7 @@
 						événements militaires du temps.</note>
             </item>
             <item n="108" xml:id="CAT_000162_e108">
-               <num>108</num>
+               <num type="lot">108</num>
                <name type="author">Este (Hercule II d'),</name>
                <trait>
                   <p>duc de Ferrare.</p>
@@ -1164,7 +1164,7 @@
 						cachet. Superbe lettre.</desc>
             </item>
             <item n="109" xml:id="CAT_000162_e109">
-               <num>109</num>
+               <num type="lot">109</num>
                <name type="author">Este (Hippolyte d'),</name>
                <trait>
                   <p>cardinal de Ferrare, fils de
@@ -1176,7 +1176,7 @@
 						guerre contre les Turcs.</note>
             </item>
             <item n="110" xml:id="CAT_000162_e110">
-               <num>110</num>
+               <num type="lot">110</num>
                <name type="author">Ferdinand VI,</name>
                <trait>
                   <p>roi d'Espagne, successeur de Philippe
@@ -1187,7 +1187,7 @@
                <note>Très-belle lettre de compliments.</note>
             </item>
             <item n="111" xml:id="CAT_000162_e111">
-               <num>111</num>
+               <num type="lot">111</num>
                <name type="author">Ferdinand VII,</name>
                <trait>
                   <p>roi d'Espagne.</p>
@@ -1199,7 +1199,7 @@
 						Marie-Louise.</note>
             </item>
             <item n="112" xml:id="CAT_000162_e112">
-               <num>112</num>
+               <num type="lot">112</num>
                <name type="author">Francastel,</name>
                <trait>
                   <p>célèbre conventionnel.</p>
@@ -1215,7 +1215,7 @@
 						peuple.»</note>
             </item>
             <item n="113" xml:id="CAT_000162_e113">
-               <num>113</num>
+               <num type="lot">113</num>
                <name type="author">Garnier de Saintes (Jean),</name>
                <trait>
                   <p>célèbre
@@ -1226,7 +1226,7 @@
                <note>Curieuse lettre révolutionnaire.</note>
             </item>
             <item n="114" xml:id="CAT_000162_e114">
-               <num>114</num>
+               <num type="lot">114</num>
                <name type="author">Godoï (don Manuel),</name>
                <trait>
                   <p>prince de la Paix, fameux
@@ -1236,7 +1236,7 @@
 						lettre.</desc>
             </item>
             <item n="115" xml:id="CAT_000162_e115">
-               <num>115</num>
+               <num type="lot">115</num>
                <name type="author">Grand-Ménil (J.-B. Fauchard, dit),</name>
                <trait>
                   <p>célèbre artiste de
@@ -1248,7 +1248,7 @@
 						et dramatique.</note>
             </item>
             <item n="116" xml:id="CAT_000162_e116">
-               <num>116</num>
+               <num type="lot">116</num>
                <name type="author">Granvelle (Ant. PErrenot, cardinal de),</name>
                <trait>
                   <p>le grand
@@ -1258,7 +1258,7 @@
 						Très-belle pièce.</desc>
             </item>
             <item n="117" xml:id="CAT_000162_e117">
-               <num>117</num>
+               <num type="lot">117</num>
                <name type="author">Grimm (le baron de),</name>
                <trait>
                   <p>célèbre écrivain et
@@ -1270,7 +1270,7 @@
 						l'a nommé son ministre plénipotentiaire à Paris.</note>
             </item>
             <item n="118" xml:id="CAT_000162_e118">
-               <num>118</num>
+               <num type="lot">118</num>
                <name type="author">Guichen (L.-U. Du Bouexic, comte de),</name>
                <trait>
                   <p>célèbre
@@ -1282,7 +1282,7 @@
 						flotte.</note>
             </item>
             <item n="119" xml:id="CAT_000162_e119">
-               <num>119</num>
+               <num type="lot">119</num>
                <name type="author">Guillemot (Alex.-Ch.),</name>
                <trait>
                   <p>peintre d'histoire, élève de
@@ -1295,7 +1295,7 @@
 						a été commandé.</note>
             </item>
             <item n="120" xml:id="CAT_000162_e120">
-               <num>120</num>
+               <num type="lot">120</num>
                <name type="author">Hahnemann (Samuel),</name>
                <trait>
                   <p>médecin allemand, inventeur de
@@ -1304,7 +1304,7 @@
                <desc xml:id="CAT_000162_e120_d1">L. a. s.; Coethen, 25 août 1834, 2 p. in-18.</desc>
             </item>
             <item n="121" xml:id="CAT_000162_e121">
-               <num>121</num>
+               <num type="lot">121</num>
                <name type="author">Heeren (A.-L.-H.),</name>
                <trait>
                   <p>célèbre historien
@@ -1316,7 +1316,7 @@
 						chevalier de la Légion d'honneur.</note>
             </item>
             <item n="122" xml:id="CAT_000162_e122">
-               <num>122</num>
+               <num type="lot">122</num>
                <name type="author">Hénault (Ch.-J.-Fr.),</name>
                <trait>
                   <p>auteur de l'excellent Abrégé
@@ -1325,7 +1325,7 @@
                <desc xml:id="CAT_000162_e122_d1">L. a. s.; 17 fév. 1767, 1 p. 1/2 in-4. Jolie lettre.</desc>
             </item>
             <item n="123" xml:id="CAT_000162_e123">
-               <num>123</num>
+               <num type="lot">123</num>
                <name type="author">Heyne (Chr.-G.),</name>
                <trait>
                   <p>archéologue et érudit
@@ -1335,7 +1335,7 @@
 						lettres.</desc>
             </item>
             <item n="124" xml:id="CAT_000162_e124">
-               <num>124</num>
+               <num type="lot">124</num>
                <name type="author">Humboldt (Guillaume de),</name>
                <trait>
                   <p>célèbre homme d'Etat et
@@ -1344,7 +1344,7 @@
                <desc xml:id="CAT_000162_e124_d1">3 l. a. s.; 1824-1826, 2 p. in-4 et 1 p. in-8.</desc>
             </item>
             <item n="125" xml:id="CAT_000162_e125">
-               <num>125</num>
+               <num type="lot">125</num>
                <name type="author">Idiaquiz (don Juan),</name>
                <trait>
                   <p>secrétaire d'Etat de Philippe
@@ -1355,7 +1355,7 @@
 						Philippe II, dont la réponse autographe est en marge.</note>
             </item>
             <item n="126" xml:id="CAT_000162_e126">
-               <num>126</num>
+               <num type="lot">126</num>
                <name type="author">Juan d'Autriche (don),</name>
                <trait>
                   <p>fils naturel de Charles-Quint,
@@ -1365,7 +1365,7 @@
 						p. in-fol., cachet.</desc>
             </item>
             <item n="127" xml:id="CAT_000162_e127">
-               <num>127</num>
+               <num type="lot">127</num>
                <name type="author">Jussieu (Antoine de),</name>
                <trait>
                   <p>botaniste, successeur de Tournefort.</p>
@@ -1376,7 +1376,7 @@
 						mercure.</note>
             </item>
             <item n="128" xml:id="CAT_000162_e128">
-               <num>128</num>
+               <num type="lot">128</num>
                <name type="author">Kobell (Ferdinand),</name>
                <trait>
                   <p>peintre et graveur à l'eau
@@ -1385,7 +1385,7 @@
                <desc xml:id="CAT_000162_e128_d1">P. a. s.; Munich, 1er fév. 1795, 1 p. in-4.</desc>
             </item>
             <item n="129" xml:id="CAT_000162_e129">
-               <num>129</num>
+               <num type="lot">129</num>
                <name type="author">Kossuth (Louis),</name>
                <trait>
                   <p>le célèbre dessinateur
@@ -1395,7 +1395,7 @@
 						Important document.</desc>
             </item>
             <item n="130" xml:id="CAT_000162_e130">
-               <num>130</num>
+               <num type="lot">130</num>
                <name type="author">Lancelot (dom Claude),</name>
                <trait>
                   <p>le célèbre grammairien de
@@ -1406,7 +1406,7 @@
 						à travailler à la Grammaire grecque.</note>
             </item>
             <item n="131" xml:id="CAT_000162_e131">
-               <num>131</num>
+               <num type="lot">131</num>
                <name type="author">La Rochefoucauld (François, cardinal de),</name>
                <trait>
                   <p>évêque de
@@ -1417,7 +1417,7 @@
 						1 p. in-fol. Belle lettre.</desc>
             </item>
             <item n="132" xml:id="CAT_000162_e132">
-               <num>132</num>
+               <num type="lot">132</num>
                <name type="author">La Source (Marc-David ALBA, dit),</name>
                <trait>
                   <p>pasteur protestant,
@@ -1430,7 +1430,7 @@
 						eux.»</note>
             </item>
             <item n="133" xml:id="CAT_000162_e133">
-               <num>133</num>
+               <num type="lot">133</num>
                <name type="author">La Trémoille (Henri-Charles, duc de),</name>
                <trait>
                   <p>un des chefs de
@@ -1440,7 +1440,7 @@
 						soies. Très-belle lettre.</desc>
             </item>
             <item n="134" xml:id="CAT_000162_e134">
-               <num>134</num>
+               <num type="lot">134</num>
                <name type="author">La Vergne (Madame de),</name>
                <trait>
                   <p>mère de la comtesse de La
@@ -1453,7 +1453,7 @@
 						marquis de Brézé, qui est arrivé à La Rochelle.</note>
             </item>
             <item n="135" xml:id="CAT_000162_e135">
-               <num>135</num>
+               <num type="lot">135</num>
                <name type="author">Lavoisier (A.-L.),</name>
                <trait>
                   <p>l'illustre chimiste.</p>
@@ -1464,7 +1464,7 @@
 						s'occupe à Reims d'expériences sur les tabacs.</note>
             </item>
             <item n="136" xml:id="CAT_000162_e136">
-               <num>136</num>
+               <num type="lot">136</num>
                <name type="author">Lorraine (Léopold Ier, duc de),</name>
                <trait>
                   <p>fils de Charles V,
@@ -1478,7 +1478,7 @@
 						terminées.</note>
             </item>
             <item n="137" xml:id="CAT_000162_e137">
-               <num>137</num>
+               <num type="lot">137</num>
                <name type="author">Louis XV,</name>
                <trait>
                   <p>roi de France.</p>
@@ -1490,7 +1490,7 @@
 					secrète.)</note>
             </item>
             <item n="138" xml:id="CAT_000162_e138">
-               <num>138</num>
+               <num type="lot">138</num>
                <name type="author">Louville (Ch.-Aug. d'ALLONVIlLE, marquis de),</name>
                <trait>
                   <p>célèbre
@@ -1502,7 +1502,7 @@
 						l'histoire du règne de Louis XIV,</note>
             </item>
             <item n="139" xml:id="CAT_000162_e139">
-               <num>139</num>
+               <num type="lot">139</num>
                <name type="author">Marat (J</name>
                <desc xml:id="CAT_000162_e139_d1">-P.), conventionnel, dit l'Ami du peuple, assassiné par Charlotte Corday
 						Pièce autographe avec ratures et corrections, 1 p.
@@ -1511,7 +1511,7 @@
 						vexatoire.</note>
             </item>
             <item n="140" xml:id="CAT_000162_e140">
-               <num>140</num>
+               <num type="lot">140</num>
                <name type="author">Marceau (Fr.-Séverin Desgraviers),</name>
                <trait>
                   <p>illustre général
@@ -1523,7 +1523,7 @@
 					d'Hautpoul.</note>
             </item>
             <item n="141" xml:id="CAT_000162_e141">
-               <num>141</num>
+               <num type="lot">141</num>
                <name type="author">Maret (Hugues),</name>
                <trait>
                   <p>duc de Bassano, ministre de Napoléon
@@ -1533,7 +1533,7 @@
 					Intéressantes.</desc>
             </item>
             <item n="142" xml:id="CAT_000162_e142">
-               <num>142</num>
+               <num type="lot">142</num>
                <name type="author">Maria (dona),</name>
                <trait>
                   <p>reine de Portugal.</p>
@@ -1542,7 +1542,7 @@
 						lettre.</desc>
             </item>
             <item n="143" xml:id="CAT_000162_e143">
-               <num>143</num>
+               <num type="lot">143</num>
                <name type="author">Maximilien II,</name>
                <trait>
                   <p>empereur d'Allemagne.</p>
@@ -1551,7 +1551,7 @@
 						cachet. Très-belle pièce.</desc>
             </item>
             <item n="144" xml:id="CAT_000162_e144">
-               <num>144</num>
+               <num type="lot">144</num>
                <name type="author">Mirabeau (Gabriel RIQUETTI, comte de),</name>
                <trait>
                   <p>le grand
@@ -1564,7 +1564,7 @@
 						française.</note>
             </item>
             <item n="145" xml:id="CAT_000162_e145">
-               <num>145</num>
+               <num type="lot">145</num>
                <name type="author">Nicole (François),</name>
                <trait>
                   <p>savant géomètre, élève de
@@ -1577,7 +1577,7 @@
 						cercle.</note>
             </item>
             <item n="146" xml:id="CAT_000162_e146">
-               <num>146</num>
+               <num type="lot">146</num>
                <name type="author">Orange (Maurice de NASsau, prince d'),</name>
                <trait>
                   <p>fils du
@@ -1587,7 +1587,7 @@
 						Belle pièce.</desc>
             </item>
             <item n="147" xml:id="CAT_000162_e147">
-               <num>147</num>
+               <num type="lot">147</num>
                <name type="author">Oudinot (Nic.-Ch.),</name>
                <trait>
                   <p>duc de Reggio, maréchal de
@@ -1596,7 +1596,7 @@
                <desc xml:id="CAT_000162_e147_d1">2 l. a. s. ; 1839, 1 p. in-4 et 1 p. in-8.</desc>
             </item>
             <item n="148" xml:id="CAT_000162_e148">
-               <num>148</num>
+               <num type="lot">148</num>
                <name type="author">Pavillon (Nicolas),</name>
                <trait>
                   <p>évêque d'Alet, qui se fit un nom
@@ -1613,7 +1613,7 @@
 						soumis plus que jamais aux ordres de l'Eglise.</note>
             </item>
             <item n="149" xml:id="CAT_000162_e149">
-               <num>149</num>
+               <num type="lot">149</num>
                <name type="author">Philippe III,</name>
                <trait>
                   <p>roi d'Espagne, successeur de Philippe
@@ -1625,7 +1625,7 @@
 						entre les cours de France et d'Espagne.</note>
             </item>
             <item n="150" xml:id="CAT_000162_e150">
-               <num>150</num>
+               <num type="lot">150</num>
                <name type="author">Philippe V,</name>
                <trait>
                   <p>roi d'Espagne.</p>
@@ -1633,7 +1633,7 @@
                <desc xml:id="CAT_000162_e150_d1">Devoir aut. sig., 1 p. in-4 oblong.</desc>
             </item>
             <item n="151" xml:id="CAT_000162_e151">
-               <num>151</num>
+               <num type="lot">151</num>
                <name type="author">Richter (Jean-Paul),</name>
                <trait>
                   <p>célèbre écrivain et philosophe
@@ -1644,7 +1644,7 @@
                <note>Très-belle lettre.</note>
             </item>
             <item n="152" xml:id="CAT_000162_e152">
-               <num>152</num>
+               <num type="lot">152</num>
                <name type="author">Sainte-Palaye (J.-B. de LACURNe de),</name>
                <trait>
                   <p>savant
@@ -1657,7 +1657,7 @@
 						services et a cherché le livre qu'il a demandé.</note>
             </item>
             <item n="153" xml:id="CAT_000162_e153">
-               <num>153</num>
+               <num type="lot">153</num>
                <name type="author">Salieri (Antoine),</name>
                <trait>
                   <p>célèbre compositeur de musique
@@ -1668,7 +1668,7 @@
 						d'un petit changement dans le premier acte de son opéra.</note>
             </item>
             <item n="154" xml:id="CAT_000162_e154">
-               <num>154</num>
+               <num type="lot">154</num>
                <name type="author">Saurin (Bernard-Joseph),</name>
                <trait>
                   <p>avocat et
@@ -1681,7 +1681,7 @@
 						à feu mon père contre le dit sieur Rousseau ».</note>
             </item>
             <item n="155" xml:id="CAT_000162_e155">
-               <num>155</num>
+               <num type="lot">155</num>
                <name type="author">Sebastiani (Horace),</name>
                <trait>
                   <p>maréchal de France.</p>
@@ -1691,7 +1691,7 @@
                   in-4.</desc>
             </item>
             <item n="156" xml:id="CAT_000162_e156">
-               <num>156</num>
+               <num type="lot">156</num>
                <name type="author">Stanislas Leczinski,</name>
                <trait>
                   <p>roi de Pologne, beau-père de
@@ -1701,13 +1701,13 @@
 					in-4.</desc>
             </item>
             <item n="157" xml:id="CAT_000162_e157">
-               <num>157</num>
+               <num type="lot">157</num>
                <name type="author">Stanislas Leczinski</name>
                <desc xml:id="CAT_000162_e157_d1">L. a. s. à Gassion; Chambord, 22 janv. 1728, 3/4 de p.
 					in-4.</desc>
             </item>
             <item n="158" xml:id="CAT_000162_e158">
-               <num>158</num>
+               <num type="lot">158</num>
                <name type="author">Starhenberg (Guido-Balty, comte de),</name>
                <trait>
                   <p>célèbre
@@ -1719,7 +1719,7 @@
 					Pays-Bas.</note>
             </item>
             <item n="159" xml:id="CAT_000162_e159">
-               <num>159</num>
+               <num type="lot">159</num>
                <name type="author">Tallien (Thérèse Cabarrus),</name>
                <trait>
                   <p>l'héroïne de la réaction
@@ -1735,7 +1735,7 @@
 						sévèrement.</note>
             </item>
             <item n="160" xml:id="CAT_000162_e160">
-               <num>160</num>
+               <num type="lot">160</num>
                <name type="author">Tieck (Louis),</name>
                <trait>
                   <p>célèbre poëte allemand.</p>
@@ -1744,7 +1744,7 @@
 					lettre.</desc>
             </item>
             <item n="161" xml:id="CAT_000162_e161">
-               <num>161</num>
+               <num type="lot">161</num>
                <name type="author">Vernet (Carle),</name>
                <trait>
                   <p>peintre de batailles et

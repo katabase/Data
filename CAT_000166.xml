@@ -80,7 +80,7 @@
          <gap/>
          <list>
             <item n="1" xml:id="CAT_000166_e1">
-               <num>1</num>
+               <num type="lot">1</num>
                <name type="author">Aguesseau (H.-Fr. d'),</name>
                <trait>
                   <p>illustre chancelier de France,
@@ -91,7 +91,7 @@
                <note>Relative à Madame d'Armagnac.</note>
             </item>
             <item n="2" xml:id="CAT_000166_e2">
-               <num>2</num>
+               <num type="lot">2</num>
                <name type="author">Alembert (Jean-Lerond d'),</name>
                <trait>
                   <p>illustre géomètre et
@@ -101,7 +101,7 @@
 						-P.</desc>
             </item>
             <item n="3" xml:id="CAT_000166_e3">
-               <num>3</num>
+               <num type="lot">3</num>
                <name type="author">Anne d'Autriche,</name>
                <trait>
                   <p>reine et régente de France, n. 1602,
@@ -113,7 +113,7 @@
 						condoléances sur la blessure du duc d'Anjou.</note>
             </item>
             <item n="4" xml:id="CAT_000166_e4">
-               <num>4</num>
+               <num type="lot">4</num>
                <name type="author">Antonelli (le cardinal Giacomo),</name>
                <trait>
                   <p>premier ministre de
@@ -123,7 +123,7 @@
                <desc xml:id="CAT_000166_e4_d2">2° 2 l. s., avec la souscript. aut. ; 1856, 2 p. in-fol.</desc>
             </item>
             <item n="5" xml:id="CAT_000166_e5">
-               <num>5</num>
+               <num type="lot">5</num>
                <name type="author">Aubigné (Théodore-Agrippa d'),</name>
                <trait>
                   <p>illustre historien et
@@ -133,7 +133,7 @@
 						cachet. Très belle et rare lettre.</desc>
             </item>
             <item n="6" xml:id="CAT_000166_e6">
-               <num>6</num>
+               <num type="lot">6</num>
                <name type="author">Aubigné (Constant d'),</name>
                <trait>
                   <p>fils du précédent, père de
@@ -143,13 +143,13 @@
 					oblong.</desc>
             </item>
             <item n="7" xml:id="CAT_000166_e7">
-               <num>7</num>
+               <num type="lot">7</num>
                <name type="author">Aubigné (Constant d')</name>
                <desc xml:id="CAT_000166_e7_d1">Reçu aut. sig., sig. aussi par Anne Marchant; Maillezais, 13 oct. 1609, 1
 						p. in-fol.</desc>
             </item>
             <item n="8" xml:id="CAT_000166_e8">
-               <num>8</num>
+               <num type="lot">8</num>
                <name type="author">Babeuf (Fr.-Noël, dit Gracchus),</name>
                <trait>
                   <p>fameux journaliste
@@ -158,7 +158,7 @@
                <desc xml:id="CAT_000166_e8_d1">L. a. s.; 18 sept. 1792, 1/2 p. in-fol.</desc>
             </item>
             <item n="9" xml:id="CAT_000166_e9">
-               <num>9</num>
+               <num type="lot">9</num>
                <name type="author">Balzac (Honoré de),</name>
                <trait>
                   <p>grand romancier, n. 1799, m.
@@ -175,7 +175,7 @@
 						gaies...»</note>
             </item>
             <item n="10" xml:id="CAT_000166_e10">
-               <num>10</num>
+               <num type="lot">10</num>
                <name type="author">Balzac (Honoré de)</name>
                <desc xml:id="CAT_000166_e10_d1">L. a. s. Honoré à une dame; (sept. 1833), 3 p. 1/2
 						in-8.</desc>
@@ -188,14 +188,14 @@
 						libraire...»</note>
             </item>
             <item n="11" xml:id="CAT_000166_e11">
-               <num>11</num>
+               <num type="lot">11</num>
                <name type="author">Balzac (Honoré de)</name>
                <desc xml:id="CAT_000166_e11_d1">Manuscrit aut. sig., 15 p. in-fol.</desc>
                <note>Ce manuscrit
 						contient les 3° et àe chapitres de Maître Cornélius.</note>
             </item>
             <item n="12" xml:id="CAT_000166_e12">
-               <num>12</num>
+               <num type="lot">12</num>
                <name type="author">Barras (P.-F.-J.-Nic., comte de),</name>
                <trait>
                   <p>célèbre
@@ -206,7 +206,7 @@
                <desc xml:id="CAT_000166_e12_d2">2° Certificat aut. sig. ; Paris, 14 frimaire an III, 1/2 p. in-fol.</desc>
             </item>
             <item n="13" xml:id="CAT_000166_e13">
-               <num>13</num>
+               <num type="lot">13</num>
                <name type="author">Barthelemy (A.-M.),</name>
                <trait>
                   <p>poète satirique, auteur de
@@ -219,7 +219,7 @@
                <desc xml:id="CAT_000166_e13_d2">2° Réveil, pièce de vers autographe, 12 p. 1/2 in-4.</desc>
             </item>
             <item n="14" xml:id="CAT_000166_e14">
-               <num>14</num>
+               <num type="lot">14</num>
                <name type="author">Beffroy de Reigny (Louis-Abel),</name>
                <trait>
                   <p>dit le cousin
@@ -233,7 +233,7 @@
 						situation de la capitale l'empêchent d'y revenir.</note>
             </item>
             <item n="15" xml:id="CAT_000166_e15">
-               <num>15</num>
+               <num type="lot">15</num>
                <name type="author">Béranger (P.-J. de),</name>
                <trait>
                   <p>le célèbre chansonnier, n. 1780,
@@ -243,7 +243,7 @@
 					lettre.</desc>
             </item>
             <item n="16" xml:id="CAT_000166_e16">
-               <num>16</num>
+               <num type="lot">16</num>
                <name type="author">Béranger (P.-J. de)</name>
                <desc xml:id="CAT_000166_e16_d1">Les Révérends Pères, chanson autographe, 3 p. 1/2
 						in-4.</desc>
@@ -251,7 +251,7 @@
 						Béranger contre les jésuites.</note>
             </item>
             <item n="17" xml:id="CAT_000166_e17">
-               <num>17</num>
+               <num type="lot">17</num>
                <name type="author">Bernadotte (J.-B.-Jules),</name>
                <trait>
                   <p>maréchal de l'Empire, puis
@@ -263,13 +263,13 @@
 						citoyen Lehoreau, commissaire des guerres.</note>
             </item>
             <item n="18" xml:id="CAT_000166_e18">
-               <num>18</num>
+               <num type="lot">18</num>
                <name type="author">Bernadotte (J.-B.-Jules)</name>
                <desc xml:id="CAT_000166_e18_d1">6 l. s. ; an VII, 15 p. in-fol., vig. et têtes impr. Belles
 						lettres.</desc>
             </item>
             <item n="19" xml:id="CAT_000166_e19">
-               <num>19</num>
+               <num type="lot">19</num>
                <name type="author">Bernadotte (J.-B.-Jules)</name>
                <desc xml:id="CAT_000166_e19_d1">1° Recommandation de 6 lignes aut. sig., sig. aussi par Championnet,
 						M.-J. Chénier, Jourdan, etc., 1 p. in-fol.</desc>
@@ -277,7 +277,7 @@
                <desc xml:id="CAT_000166_e19_d3">3° 2 p. s.; an III, 2 p. in-fol. Un peu fatiguées.</desc>
             </item>
             <item n="20" xml:id="CAT_000166_e20">
-               <num>20</num>
+               <num type="lot">20</num>
                <name type="author">Bernadotte (J.-B.-Jules)</name>
                <desc xml:id="CAT_000166_e20_d1">1° 2 l. s. au brigadier Delevielleuze, colonel du régiment des Asturies;
 						camp de Rensburg, 22 juillet et 7 août 1808, 4 p. 1/2 in-fol.</desc>
@@ -287,7 +287,7 @@
 					Asturies.</note>
             </item>
             <item n="21" xml:id="CAT_000166_e21">
-               <num>21</num>
+               <num type="lot">21</num>
                <name type="author">Berri (Ch.-Ferd., duc de),</name>
                <trait>
                   <p>fils de Charles X, n.
@@ -301,7 +301,7 @@
                   dans la dépendance d'un ministère factieux, si cela arrivoit.»</note>
             </item>
             <item n="22" xml:id="CAT_000166_e22">
-               <num>22</num>
+               <num type="lot">22</num>
                <name type="author">Berthier (Alex.),</name>
                <trait>
                   <p>prince de Wagram, maréchal de
@@ -312,7 +312,7 @@
                <desc xml:id="CAT_000166_e22_d3">3° 5 lettres ou pièces signées.</desc>
             </item>
             <item n="23" xml:id="CAT_000166_e23">
-               <num>23</num>
+               <num type="lot">23</num>
                <name type="author">Berthier (Alex.)</name>
                <desc xml:id="CAT_000166_e23_d1">L. a. s. au maréchal (Rochambeau); Thorn, 15 nov. 1806, 3 p.
 						in-4.</desc>
@@ -324,7 +324,7 @@
 						remporter.</note>
             </item>
             <item n="24" xml:id="CAT_000166_e24">
-               <num>24</num>
+               <num type="lot">24</num>
                <name type="author">Bossuet (J.-B.),</name>
                <trait>
                   <p>l'illustre évêque de Meaux, n. 1627,
@@ -333,7 +333,7 @@
                <desc xml:id="CAT_000166_e24_d1">2 fragments autographes, 6 p. in-4, à mi-marge.</desc>
             </item>
             <item n="25" xml:id="CAT_000166_e25">
-               <num>25</num>
+               <num type="lot">25</num>
                <name type="author">Bourbotte (Pierre),</name>
                <trait>
                   <p>célèbre conventionnel, n. 1763,
@@ -345,7 +345,7 @@
                   an II, 3 p. in-4.</desc>
             </item>
             <item n="26" xml:id="CAT_000166_e26">
-               <num>26</num>
+               <num type="lot">26</num>
                <name type="author">Bourmont (L.-Aug.-Victor, comte de),</name>
                <trait>
                   <p>général vendéen,
@@ -355,7 +355,7 @@
 						pièce.</desc>
             </item>
             <item n="27" xml:id="CAT_000166_e27">
-               <num>27</num>
+               <num type="lot">27</num>
                <name type="author">Brosses (Charles de),</name>
                <trait>
                   <p>premier président au Parlement
@@ -367,7 +367,7 @@
 						in-4.</desc>
             </item>
             <item n="28" xml:id="CAT_000166_e28">
-               <num>28</num>
+               <num type="lot">28</num>
                <name type="author">Buzot (Fr.-Nic.-Léonard),</name>
                <trait>
                   <p>célèbre conventionnel
@@ -377,7 +377,7 @@
 						in-fol., tête impr. et cachet.</desc>
             </item>
             <item n="29" xml:id="CAT_000166_e29">
-               <num>29</num>
+               <num type="lot">29</num>
                <name type="author">Cambronne (P.-J.-Et., baron),</name>
                <trait>
                   <p>général, le héros, du
@@ -390,7 +390,7 @@
 						dessinait les objets payés.</note>
             </item>
             <item n="30" xml:id="CAT_000166_e30">
-               <num>30</num>
+               <num type="lot">30</num>
                <name type="author">Carlos (don),</name>
                <trait>
                   <p>infant d'Espagne, frère de Ferdinand
@@ -400,7 +400,7 @@
 					Curieuse.</desc>
             </item>
             <item n="31" xml:id="CAT_000166_e31">
-               <num>31</num>
+               <num type="lot">31</num>
                <name type="author">Carnot (Lazare),</name>
                <trait>
                   <p>l'illustre organisateur des armées
@@ -412,7 +412,7 @@
                   in-4.</desc>
             </item>
             <item n="32" xml:id="CAT_000166_e32">
-               <num>32</num>
+               <num type="lot">32</num>
                <name type="author">Carrel (Armand),</name>
                <trait>
                   <p>célèbre publiciste républicain, n.
@@ -423,7 +423,7 @@
 						une visite qu'il doit faire au célèbre peintre Ingres.</note>
             </item>
             <item n="33" xml:id="CAT_000166_e33">
-               <num>33</num>
+               <num type="lot">33</num>
                <name type="author">Carrier (J.-B.),</name>
                <trait>
                   <p>conventionnel, fameux par sa mission
@@ -436,13 +436,13 @@
 						Servan.</note>
             </item>
             <item n="34" xml:id="CAT_000166_e34">
-               <num>34</num>
+               <num type="lot">34</num>
                <name type="author">Carrier (J.-B.)</name>
                <desc xml:id="CAT_000166_e34_d1">P. s.; Nantes, an II, 3/4 de p. in-fol., vig., tête impr. et
 						cachet.</desc>
             </item>
             <item n="35" xml:id="CAT_000166_e35">
-               <num>35</num>
+               <num type="lot">35</num>
                <name type="author">Catherine Opalinska,</name>
                <trait>
                   <p>reine de Pologne, belle-mère de
@@ -452,7 +452,7 @@
 						1/2 p. in-4. Jolie lettre.</desc>
             </item>
             <item n="36" xml:id="CAT_000166_e36">
-               <num>36</num>
+               <num type="lot">36</num>
                <name type="author">Cavaignac (Godefroy),</name>
                <trait>
                   <p>un des chefs du parti
@@ -465,7 +465,7 @@
 						exprime son désespoir de la mort d'Armand Carrel.</note>
             </item>
             <item n="37" xml:id="CAT_000166_e37">
-               <num>37</num>
+               <num type="lot">37</num>
                <name type="author">Cazalès (J.-Ant.-M. de),</name>
                <trait>
                   <p>constituant, un des plus
@@ -474,7 +474,7 @@
                <desc xml:id="CAT_000166_e37_d1">L. a. s.; Paris, 24 brumaire, 1/2 p. in-fol.</desc>
             </item>
             <item n="38" xml:id="CAT_000166_e38">
-               <num>38</num>
+               <num type="lot">38</num>
                <name type="author">Chabot (François),</name>
                <trait>
                   <p>capucin, fameux conventionnel, n.
@@ -486,7 +486,7 @@
 						aristocrates de toutes les couleurs.</note>
             </item>
             <item n="39" xml:id="CAT_000166_e39">
-               <num>39</num>
+               <num type="lot">39</num>
                <name type="author">Cham,</name>
                <trait>
                   <p>le célèbre caricaturiste.</p>
@@ -495,7 +495,7 @@
 						complètes d'Alexandre Dumas, in-18.</desc>
             </item>
             <item n="40" xml:id="CAT_000166_e40">
-               <num>40</num>
+               <num type="lot">40</num>
                <name type="author">Cham</name>
                <desc xml:id="CAT_000166_e40_d1">Dessin à la plume, avec cette légende : Un monsieur qui tire unebretelle
 						élastique qui s'allonge indéfiniment, in-8
@@ -503,7 +503,7 @@
                <note>Collé sur une feuille de papier.</note>
             </item>
             <item n="41" xml:id="CAT_000166_e41">
-               <num>41</num>
+               <num type="lot">41</num>
                <name type="author">Charles IX,</name>
                <trait>
                   <p>roi de France, n. 1550, m.
@@ -515,7 +515,7 @@
 						nomination de chevalier de l'ordre de Saint-Michel.</note>
             </item>
             <item n="42" xml:id="CAT_000166_e42">
-               <num>42</num>
+               <num type="lot">42</num>
                <name type="author">Charles-Albert,</name>
                <trait>
                   <p>roi de Sardaigne, père de
@@ -527,7 +527,7 @@
                   de p. in-fol., cachet.</desc>
             </item>
             <item n="43" xml:id="CAT_000166_e43">
-               <num>43</num>
+               <num type="lot">43</num>
                <name type="author">Charlet (N.-T.),</name>
                <trait>
                   <p>peintre et dessinateur, célèbre par
@@ -539,7 +539,7 @@
                <note>Très belle lettre.</note>
             </item>
             <item n="44" xml:id="CAT_000166_e44">
-               <num>44</num>
+               <num type="lot">44</num>
                <name type="author">Chateaubriand (Fr.-A.-René, vicomte de),</name>
                <trait>
                   <p>le grand
@@ -549,7 +549,7 @@
 						lettre.</desc>
             </item>
             <item n="45" xml:id="CAT_000166_e45">
-               <num>45</num>
+               <num type="lot">45</num>
                <name type="author">Chaumette (Pierre-Gaspard),</name>
                <trait>
                   <p>procureur de la Commune
@@ -562,7 +562,7 @@
 						pouvons.»</note>
             </item>
             <item n="46" xml:id="CAT_000166_e46">
-               <num>46</num>
+               <num type="lot">46</num>
                <name type="author">Cherubini (L.),</name>
                <trait>
                   <p>célèbre compositeur de musique, n.
@@ -571,7 +571,7 @@
                <desc xml:id="CAT_000166_e46_d1">L. a. s. à Tulou, 1 p. in-8.</desc>
             </item>
             <item n="47" xml:id="CAT_000166_e47">
-               <num>47</num>
+               <num type="lot">47</num>
                <name type="author">Cobden (Richard),</name>
                <trait>
                   <p>le promoteur du libre échange, n.
@@ -581,7 +581,7 @@
 						d'huile.</desc>
             </item>
             <item n="48" xml:id="CAT_000166_e48">
-               <num>48</num>
+               <num type="lot">48</num>
                <name type="author">Coffinhal (J.-B.),</name>
                <trait>
                   <p>vice-président du tribunal
@@ -590,7 +590,7 @@
                <desc xml:id="CAT_000166_e48_d1">L. s.; 13 août 1793, 3/4 de p. in-4.</desc>
             </item>
             <item n="49" xml:id="CAT_000166_e49">
-               <num>49</num>
+               <num type="lot">49</num>
                <name type="author">Courier (P.-L.),</name>
                <trait>
                   <p>célèbre écrivain politique et savant
@@ -601,7 +601,7 @@
                <note>Relative à un de ses procès.</note>
             </item>
             <item n="50" xml:id="CAT_000166_e50">
-               <num>50</num>
+               <num type="lot">50</num>
                <name type="author">Couthon (Georges),</name>
                <trait>
                   <p>célèbre conventionnel et membre du
@@ -612,7 +612,7 @@
 						II, 2 p. 1/2 in-4.</desc>
             </item>
             <item n="51" xml:id="CAT_000166_e51">
-               <num>51</num>
+               <num type="lot">51</num>
                <name type="author">Crébillon (Cl.-Prosper Jolyor de),</name>
                <trait>
                   <p>romancier, auteur
@@ -622,7 +622,7 @@
 						in-4.</desc>
             </item>
             <item n="52" xml:id="CAT_000166_e52">
-               <num>52</num>
+               <num type="lot">52</num>
                <name type="author">Cujas (Jacques),</name>
                <trait>
                   <p>le grand jurisconsulte, n. 1522, m.
@@ -633,7 +633,7 @@
 						Tachée.</desc>
             </item>
             <item n="53" xml:id="CAT_000166_e53">
-               <num>53</num>
+               <num type="lot">53</num>
                <name type="author">Cuvier (Georges),</name>
                <trait>
                   <p>le grand naturaliste, n. 1769, m.
@@ -643,7 +643,7 @@
                <desc xml:id="CAT_000166_e53_d2">2° L. a. s., 1 p. in-4. Légères taches.</desc>
             </item>
             <item n="54" xml:id="CAT_000166_e54">
-               <num>54</num>
+               <num type="lot">54</num>
                <name type="author">Dampierre (A.-N.-H. Picot, marquis de),</name>
                <trait>
                   <p>célèbre
@@ -655,7 +655,7 @@
 					camp.</note>
             </item>
             <item n="55" xml:id="CAT_000166_e55">
-               <num>55</num>
+               <num type="lot">55</num>
                <name type="author">David (Jacques-Louis),</name>
                <trait>
                   <p>le grand peintre, n. 1748, m.
@@ -668,7 +668,7 @@
 						mes bons amis mardi prochain dit mardi gras.»</note>
             </item>
             <item n="56" xml:id="CAT_000166_e56">
-               <num>56</num>
+               <num type="lot">56</num>
                <name type="author">Déjazet (Virginie),</name>
                <trait>
                   <p>la célèbre comédienne, n. 1798,
@@ -680,7 +680,7 @@
 						elle va faire sa rentrée le 3 mai dans Richelieu.</note>
             </item>
             <item n="57" xml:id="CAT_000166_e57">
-               <num>57</num>
+               <num type="lot">57</num>
                <name type="author">Déjazet (Virginie)</name>
                <desc xml:id="CAT_000166_e57_d1">19 l. aut., dont une signée, à un de ses amis; 1852-53, 42 p.
 						in-8.</desc>
@@ -688,7 +688,7 @@
 					curieuses.</note>
             </item>
             <item n="58" xml:id="CAT_000166_e58">
-               <num>58</num>
+               <num type="lot">58</num>
                <name type="author">Diane de Poitiers,</name>
                <trait>
                   <p>la célèbre maîtresse du roi Henri
@@ -700,7 +700,7 @@
 						relative à une vente d'esclaves.</note>
             </item>
             <item n="59" xml:id="CAT_000166_e59">
-               <num>59</num>
+               <num type="lot">59</num>
                <name type="author">Donizetti (Gaetano),</name>
                <trait>
                   <p>célèbre compositeur de musique,
@@ -710,7 +710,7 @@
                   in-fol. oblong. Belle pièce</desc>
             </item>
             <item n="60" xml:id="CAT_000166_e60">
-               <num>60</num>
+               <num type="lot">60</num>
                <name type="author">Donizetti (Gaetano)</name>
                <desc xml:id="CAT_000166_e60_d1">Morceau de musique autographe, 2 p. in-4.</desc>
                <note>Ce
@@ -719,7 +719,7 @@
 					partition.</note>
             </item>
             <item n="61" xml:id="CAT_000166_e61">
-               <num>61</num>
+               <num type="lot">61</num>
                <name type="author">Doppet (Fr.-Amédée),</name>
                <trait>
                   <p>médecin, général des armées de
@@ -731,7 +731,7 @@
 						accusations dont il est l'objet.</note>
             </item>
             <item n="62" xml:id="CAT_000166_e62">
-               <num>62</num>
+               <num type="lot">62</num>
                <name type="author">Dorval (Marie),</name>
                <trait>
                   <p>célèbre actrice, n. 1801, m.
@@ -745,7 +745,7 @@
 						et nos appas, d'attenter à sa liberté.»</note>
             </item>
             <item n="63" xml:id="CAT_000166_e63">
-               <num>63</num>
+               <num type="lot">63</num>
                <name type="author">Drouet (J.-B.),</name>
                <trait>
                   <p>conventionnel, fameux par
@@ -755,7 +755,7 @@
                <desc xml:id="CAT_000166_e63_d1">P. a. s.; 29 août 1793, 1 p. in-4, tête impr. et cachet.</desc>
             </item>
             <item n="64" xml:id="CAT_000166_e64">
-               <num>64</num>
+               <num type="lot">64</num>
                <name type="author">Du Cayla (la comtesse),</name>
                <trait>
                   <p>l'amie du roi Louis
@@ -766,7 +766,7 @@
 						l'établissement royal de la Savonnerie.</note>
             </item>
             <item n="65" xml:id="CAT_000166_e65">
-               <num>65</num>
+               <num type="lot">65</num>
                <name type="author">Ducis (J.-Fr.),</name>
                <trait>
                   <p>poète tragique, de l'Acad. fr., n.
@@ -779,7 +779,7 @@
 					Révolution.</note>
             </item>
             <item n="66" xml:id="CAT_000166_e66">
-               <num>66</num>
+               <num type="lot">66</num>
                <name type="author">Ducos (J.-F.),</name>
                <trait>
                   <p>célèbre conventionnel girondin, n.
@@ -790,7 +790,7 @@
 					cachet.</desc>
             </item>
             <item n="67" xml:id="CAT_000166_e67">
-               <num>67</num>
+               <num type="lot">67</num>
                <name type="author">Dumas fils (Alexandre),</name>
                <trait>
                   <p>l'auteur de la Dame aux
@@ -800,7 +800,7 @@
 					montée.</desc>
             </item>
             <item n="68" xml:id="CAT_000166_e68">
-               <num>68</num>
+               <num type="lot">68</num>
                <name type="author">Dupanloup (F.),</name>
                <trait>
                   <p>évêque d'Orléans, de l'Acad. fr., n.
@@ -809,7 +809,7 @@
                <desc xml:id="CAT_000166_e68_d1">L. a. s.; 29 septembre, 1/2 p. in-8.</desc>
             </item>
             <item n="69" xml:id="CAT_000166_e69">
-               <num>69</num>
+               <num type="lot">69</num>
                <name type="author">Epernon (J.-L. de Nogaret, duc d'),</name>
                <trait>
                   <p>mignon de Henri
@@ -821,7 +821,7 @@
 						de la condamnation à mort d'un soldat convainçu de blasphème.</note>
             </item>
             <item n="70" xml:id="CAT_000166_e70">
-               <num>70</num>
+               <num type="lot">70</num>
                <name type="author">Epernon (Bernard de Nogaret, duc d'),</name>
                <trait>
                   <p>fils du
@@ -832,7 +832,7 @@
 						cachets.</desc>
             </item>
             <item n="71" xml:id="CAT_000166_e71">
-               <num>71</num>
+               <num type="lot">71</num>
                <name type="author">Fabre d'Eglantine (Ph.-Fr.-Nazaire),</name>
                <trait>
                   <p>poète comique et
@@ -843,7 +843,7 @@
                <note>Envoi des deux actes de l'Intrigue épistolaire</note>
             </item>
             <item n="72" xml:id="CAT_000166_e72">
-               <num>72</num>
+               <num type="lot">72</num>
                <name type="author">Fleury (A.-H., cardinal de),</name>
                <trait>
                   <p>premier ministre de
@@ -853,7 +853,7 @@
 						lettre.</desc>
             </item>
             <item n="73" xml:id="CAT_000166_e73">
-               <num>73</num>
+               <num type="lot">73</num>
                <name type="author">Florian (J.-P. Claris de),</name>
                <trait>
                   <p>célèbre romancier et
@@ -866,7 +866,7 @@
 						donne son avis sur une comédie qu'il lui a soumise.</note>
             </item>
             <item n="74" xml:id="CAT_000166_e74">
-               <num>74</num>
+               <num type="lot">74</num>
                <name type="author">Foucquet (Nicolas),</name>
                <trait>
                   <p>surintendant des finances de
@@ -880,7 +880,7 @@
 						Fronde.</note>
             </item>
             <item n="75" xml:id="CAT_000166_e75">
-               <num>75</num>
+               <num type="lot">75</num>
                <name type="author">Fouquier-Tinville (Ant.-Quentin),</name>
                <trait>
                   <p>le fameux
@@ -894,13 +894,13 @@
 						constituante.</note>
             </item>
             <item n="76" xml:id="CAT_000166_e76">
-               <num>76</num>
+               <num type="lot">76</num>
                <name type="author">Fouquier-Tinville (Ant.-Quentin)</name>
                <desc xml:id="CAT_000166_e76_d1">P. s.; 13 pluviôse an II, 1/2 p. in-4, tête impr. et
 					cachet.</desc>
             </item>
             <item n="77" xml:id="CAT_000166_e77">
-               <num>77</num>
+               <num type="lot">77</num>
                <name type="author">François Ier,</name>
                <trait>
                   <p>roi de France, n. 1494, m.
@@ -910,7 +910,7 @@
 						Germain-en-Laye, 6 mars 1545, 1/2 p. in-4.</desc>
             </item>
             <item n="78" xml:id="CAT_000166_e78">
-               <num>78</num>
+               <num type="lot">78</num>
                <name type="author">François de Sales (saint),</name>
                <trait>
                   <p>l'illustre évêque de
@@ -919,7 +919,7 @@
                <desc xml:id="CAT_000166_e78_d1">Pièce autographe, en latin, 2 p. pet. in-4. Légère tache.</desc>
             </item>
             <item n="79" xml:id="CAT_000166_e79">
-               <num>79</num>
+               <num type="lot">79</num>
                <name type="author">Frédéric II,</name>
                <trait>
                   <p>roi de Prusse, dit le Grand, n. 1712, m.
@@ -929,7 +929,7 @@
 						in-4.</desc>
             </item>
             <item n="80" xml:id="CAT_000166_e80">
-               <num>80</num>
+               <num type="lot">80</num>
                <name type="author">Fréron (L.-Stanislas),</name>
                <trait>
                   <p>conventionnel, fameux par sa
@@ -944,7 +944,7 @@
 						les citoyens Grandchamps et La Salette.</note>
             </item>
             <item n="81" xml:id="CAT_000166_e81">
-               <num>81</num>
+               <num type="lot">81</num>
                <name type="author">Ganteaume (H.-Jos.-Ant.),</name>
                <trait>
                   <p>célèbre amiral, n. 1755, m.
@@ -957,7 +957,7 @@
 						au retour de Bonaparte d'Egypte.</note>
             </item>
             <item n="82" xml:id="CAT_000166_e82">
-               <num>82</num>
+               <num type="lot">82</num>
                <name type="author">Gensonné (Armand),</name>
                <trait>
                   <p>célèbre conventionnel girondin, n.
@@ -967,7 +967,7 @@
 						mars 1792, 1 p. in-4.</desc>
             </item>
             <item n="83" xml:id="CAT_000166_e83">
-               <num>83</num>
+               <num type="lot">83</num>
                <name type="author">Georges III</name>
                <trait>
                   <p>roi d’Angleterre, n. 1738, m. 1820.</p>
@@ -975,7 +975,7 @@
                <desc xml:id="CAT_000166_e83_d1">2 p. s., dont une sur vélin; 1805, 2 p. in-fol.</desc>
             </item>
             <item n="84" xml:id="CAT_000166_e84">
-               <num>84</num>
+               <num type="lot">84</num>
                <name type="author">Gérard (le baron François),</name>
                <trait>
                   <p>célèbre peintre, membre
@@ -986,7 +986,7 @@
                <note>Demande de nouvelles de Girodet.</note>
             </item>
             <item n="85" xml:id="CAT_000166_e85">
-               <num>85</num>
+               <num type="lot">85</num>
                <name type="author">Girodet-Trioson (A.-L.),</name>
                <trait>
                   <p>célèbre peintre d'histoire,
@@ -1001,7 +1001,7 @@
 						délit.</note>
             </item>
             <item n="86" xml:id="CAT_000166_e86">
-               <num>86</num>
+               <num type="lot">86</num>
                <name type="author">Girodet-Trioson (A.-L.)</name>
                <desc xml:id="CAT_000166_e86_d1">Pièce de vers aut. sig.; an XIII, 2 p. in-4.</desc>
                <note>Vers
@@ -1010,7 +1010,7 @@
 						Jaffa.</note>
             </item>
             <item n="87" xml:id="CAT_000166_e87">
-               <num>87</num>
+               <num type="lot">87</num>
                <name type="author">Girodet-Trioson (A.-L.)</name>
                <desc xml:id="CAT_000166_e87_d1">1° Minute de lettre autographe; Paris, 2 messidor an IX, 3/4 de p. in-4.</desc>
                <desc xml:id="CAT_000166_e87_d2">2° Pièce autographe, avec ratures et corrections; (1819), 5 p. in-fol. à
@@ -1020,7 +1020,7 @@
                   protecteur; an IX, 8 p. in-4.</desc>
             </item>
             <item n="88" xml:id="CAT_000166_e88">
-               <num>88</num>
+               <num type="lot">88</num>
                <name type="author">Gouffé (Armand),</name>
                <trait>
                   <p>célèbre chansonnier, n. 1775, m.
@@ -1029,7 +1029,7 @@
                <desc xml:id="CAT_000166_e88_d1">Pièce de vers aut. sig., 3 p. in-8.</desc>
             </item>
             <item n="89" xml:id="CAT_000166_e89">
-               <num>89</num>
+               <num type="lot">89</num>
                <name type="author">Gounod (Ch.),</name>
                <trait>
                   <p>célèbre compositeur de musique, n.
@@ -1039,7 +1039,7 @@
 						déchirure dans un pli.</desc>
             </item>
             <item n="90" xml:id="CAT_000166_e90">
-               <num>90</num>
+               <num type="lot">90</num>
                <name type="author">Grégoire XVI,</name>
                <trait>
                   <p>pape, n. 1765, m. 1846.</p>
@@ -1051,7 +1051,7 @@
 						d'Avignon.</note>
             </item>
             <item n="91" xml:id="CAT_000166_e91">
-               <num>91</num>
+               <num type="lot">91</num>
                <name type="author">Grouchy (Emmanuel),</name>
                <trait>
                   <p>maréchal de France, n. 1766, m.
@@ -1062,7 +1062,7 @@
                <desc xml:id="CAT_000166_e91_d2">2° L. a. s., 1 p. in-8.</desc>
             </item>
             <item n="92" xml:id="CAT_000166_e92">
-               <num>92</num>
+               <num type="lot">92</num>
                <name type="author">Guadet (Marguerite-Elie),</name>
                <trait>
                   <p>célèbre conventionnel
@@ -1072,7 +1072,7 @@
 						in-fol., vig., tête impr. et cachet.</desc>
             </item>
             <item n="93" xml:id="CAT_000166_e93">
-               <num>93</num>
+               <num type="lot">93</num>
                <name type="author">Harville (Auguste Juvénal des Ursins, comte
 						d'),</name>
                <trait>
@@ -1086,7 +1086,7 @@
 						ses services militaires et révolutionnaires.</note>
             </item>
             <item n="94" xml:id="CAT_000166_e94">
-               <num>94</num>
+               <num type="lot">94</num>
                <name type="author">Hébert (Jacques-René),</name>
                <trait>
                   <p>dit le Père Duchesne, fameux
@@ -1098,7 +1098,7 @@
 						du citoyen Michel, brave soldat et bon patriote.</note>
             </item>
             <item n="95" xml:id="CAT_000166_e95">
-               <num>95</num>
+               <num type="lot">95</num>
                <name type="author">Henri II,</name>
                <trait>
                   <p>roi de France, n. 1519, m.
@@ -1111,7 +1111,7 @@
 						du traité avec les Suisses.</note>
             </item>
             <item n="96" xml:id="CAT_000166_e96">
-               <num>96</num>
+               <num type="lot">96</num>
                <name type="author">Henri IV,</name>
                <trait>
                   <p>roi de France, n. 1553, assassiné en
@@ -1121,7 +1121,7 @@
 						jaunie et doublée.</desc>
             </item>
             <item n="97" xml:id="CAT_000166_e97">
-               <num>97</num>
+               <num type="lot">97</num>
                <name type="author">Henri IV</name>
                <desc xml:id="CAT_000166_e97_d1">1° L. s. au vicomte de Comblizy ; camp de Clermont, 16 août 1589, 1/2 p.
 						in-fol., trace de cachet.</desc>
@@ -1130,7 +1130,7 @@
                <desc xml:id="CAT_000166_e97_d3">3° P. s., sur vélin; Nantes, avril 1598, 1/2 p. gr. in-fol. oblong.</desc>
             </item>
             <item n="98" xml:id="CAT_000166_e98">
-               <num>98</num>
+               <num type="lot">98</num>
                <name type="author">Hérault de Séchelles (M.-J.),</name>
                <trait>
                   <p>célèbre conventionnel,
@@ -1143,7 +1143,7 @@
 					Haut-Rhin.</note>
             </item>
             <item n="99" xml:id="CAT_000166_e99">
-               <num>99</num>
+               <num type="lot">99</num>
                <name type="author">Hoche (Lazare),</name>
                <trait>
                   <p>un des plus illustres généraux des
@@ -1153,13 +1153,13 @@
 						avec la devise Res non verba.</desc>
             </item>
             <item n="100" xml:id="CAT_000166_e100">
-               <num>100</num>
+               <num type="lot">100</num>
                <name type="author">Hoche (Lazare)</name>
                <desc xml:id="CAT_000166_e100_d1">L. s. au cit. Rostaing; Fridberg, 18 floréal an V, 1/2 p.
 					in-fol.</desc>
             </item>
             <item n="101" xml:id="CAT_000166_e101">
-               <num>101</num>
+               <num type="lot">101</num>
                <name type="author">Huet (Pierre-Daniel),</name>
                <trait>
                   <p>le savant évêque d'Avranches,
@@ -1171,14 +1171,14 @@
 						d'intérêt.</note>
             </item>
             <item n="102" xml:id="CAT_000166_e102">
-               <num>102</num>
+               <num type="lot">102</num>
                <name type="author">Huet (Pierre-Daniel)</name>
                <desc xml:id="CAT_000166_e102_d1">1° P. s., avec une ligne aut.; 9 avril 1692, 1 p. in-4 oblong.</desc>
                <desc xml:id="CAT_000166_e102_d2">2° Mémoire de mon revenu, pièce aut., 2 p. in-8.</desc>
                <desc xml:id="CAT_000166_e102_d3">3° Pièce aut., 3 p. 1/2 in-4.</desc>
             </item>
             <item n="103" xml:id="CAT_000166_e103">
-               <num>103</num>
+               <num type="lot">103</num>
                <name type="author">Hugo (Victor),</name>
                <trait>
                   <p>le grand poète, n. 1802.</p>
@@ -1188,14 +1188,14 @@
                <desc xml:id="CAT_000166_e103_d2">2° 3 l. a. s. de sa femme, 3 p. 1/2 in-8.</desc>
             </item>
             <item n="104" xml:id="CAT_000166_e104">
-               <num>104</num>
+               <num type="lot">104</num>
                <name type="author">Hugo (Victor)</name>
                <desc xml:id="CAT_000166_e104_d1">1° P. a. s.; 26 déc. 1841, 1 p. in-8 oblong.</desc>
                <desc xml:id="CAT_000166_e104_d2">2° L. a. s.; 8 oct. 1850, 1 p. pl. in-8.</desc>
                <desc xml:id="CAT_000166_e104_d3">3° L. a. s., 1 p. in-8.</desc>
             </item>
             <item n="105" xml:id="CAT_000166_e105">
-               <num>105</num>
+               <num type="lot">105</num>
                <name type="author">Hugo (Charles),</name>
                <trait>
                   <p>littérateur, fils du
@@ -1205,7 +1205,7 @@
 						Intéressantes.</desc>
             </item>
             <item n="106" xml:id="CAT_000166_e106">
-               <num>106</num>
+               <num type="lot">106</num>
                <name type="author">Isabelle II,</name>
                <trait>
                   <p>ex-reine d'Espagne.</p>
@@ -1215,7 +1215,7 @@
                   oblong.</desc>
             </item>
             <item n="107" xml:id="CAT_000166_e107">
-               <num>107</num>
+               <num type="lot">107</num>
                <name type="author">Karr (Alphonse),</name>
                <trait>
                   <p>l'auteur des Guêpes.</p>
@@ -1223,7 +1223,7 @@
                <desc xml:id="CAT_000166_e107_d1">3 l. a. s., 4 p. in-8.</desc>
             </item>
             <item n="108" xml:id="CAT_000166_e108">
-               <num>108</num>
+               <num type="lot">108</num>
                <name type="author">Kosciuszko (Thaddeus),</name>
                <trait>
                   <p>le célèbre patriote polonais,
@@ -1233,7 +1233,7 @@
 						in-fol.</desc>
             </item>
             <item n="109" xml:id="CAT_000166_e109">
-               <num>109</num>
+               <num type="lot">109</num>
                <name type="author">Lacépède (B.-G.-Et. de La Ville, comte de),</name>
                <trait>
                   <p>célèbre
@@ -1243,7 +1243,7 @@
                <desc xml:id="CAT_000166_e109_d2">2° 3 l. s., 3 p. in-fol.</desc>
             </item>
             <item n="110" xml:id="CAT_000166_e110">
-               <num>110</num>
+               <num type="lot">110</num>
                <name type="author">La Chastre (Claude de),</name>
                <trait>
                   <p>maréchal de France,
@@ -1264,7 +1264,7 @@
 						taiche de trahison ni d'acte indigne d'un gentilhomme...»</note>
             </item>
             <item n="111" xml:id="CAT_000166_e111">
-               <num>111</num>
+               <num type="lot">111</num>
                <name type="author">Lacordaire (J.-B.-H.),</name>
                <trait>
                   <p>illustre prédicateur, de l'Acad. fr., n. 1802, m. 1861.</p>
@@ -1276,7 +1276,7 @@
 						lui.</note>
             </item>
             <item n="112" xml:id="CAT_000166_e112">
-               <num>112</num>
+               <num type="lot">112</num>
                <name type="author">La Fayette (Gilbert Motier, marquis de),</name>
                <trait>
                   <p>illustre
@@ -1290,7 +1290,7 @@
 						Versailles.»</note>
             </item>
             <item n="113" xml:id="CAT_000166_e113">
-               <num>113</num>
+               <num type="lot">113</num>
                <name type="author">Lagrange (Jos.-Louis),</name>
                <trait>
                   <p>un des plus grands géomètres
@@ -1302,7 +1302,7 @@
 					Berthollet.</desc>
             </item>
             <item n="114" xml:id="CAT_000166_e114">
-               <num>114</num>
+               <num type="lot">114</num>
                <name type="author">Lagrange-Chancel (Fr.-Jos. de),</name>
                <trait>
                   <p>poète dramatique et
@@ -1316,7 +1316,7 @@
 						l'administration de ses biens.</note>
             </item>
             <item n="115" xml:id="CAT_000166_e115">
-               <num>115</num>
+               <num type="lot">115</num>
                <name type="author">Lamartine (Alphonse de),</name>
                <trait>
                   <p>le grand poète, n. 1790, m.
@@ -1326,7 +1326,7 @@
                <desc xml:id="CAT_000166_e115_d2">2° L. a. s.; Mâcon, 26 au soir, 2 p. in-8. Epître politique.</desc>
             </item>
             <item n="116" xml:id="CAT_000166_e116">
-               <num>116</num>
+               <num type="lot">116</num>
                <name type="author">Lamartine (Alphonse de)</name>
                <desc xml:id="CAT_000166_e116_d1">L. a. s.; Mâcon, 23 nov. 1849, 2 p. in-4. Légères
 						taches.</desc>
@@ -1336,12 +1336,12 @@
 						n'y a pas d'amélioration dans sa situation.</note>
             </item>
             <item n="117" xml:id="CAT_000166_e117">
-               <num>117</num>
+               <num type="lot">117</num>
                <name type="author">Lamartine (Alphonse de)</name>
                <desc xml:id="CAT_000166_e117_d1">Pièce de vers aut. sig., 1/2 p. in-4. Jolie pièce.</desc>
             </item>
             <item n="118" xml:id="CAT_000166_e118">
-               <num>118</num>
+               <num type="lot">118</num>
                <name type="author">Lamballe (Marie-Thérèse-Louise de Savoie, princesse
 						de),</name>
                <trait>
@@ -1353,7 +1353,7 @@
                   Viéville, commissaire des guerres</note>
             </item>
             <item n="119" xml:id="CAT_000166_e119">
-               <num>119</num>
+               <num type="lot">119</num>
                <name type="author">La Moricière (Ch.-L.-Léon JUchaUlt de),</name>
                <trait>
                   <p>excellent
@@ -1365,7 +1365,7 @@
                   lettre.</desc>
             </item>
             <item n="120" xml:id="CAT_000166_e120">
-               <num>120</num>
+               <num type="lot">120</num>
                <name type="author">Lanthenas (Fr.),</name>
                <trait>
                   <p>conventionnel, ami de Madame Roland,
@@ -1375,7 +1375,7 @@
 						jaunie.</desc>
             </item>
             <item n="121" xml:id="CAT_000166_e121">
-               <num>121</num>
+               <num type="lot">121</num>
                <name type="author">Laplace (P.-S., marquis de),</name>
                <trait>
                   <p>grand géomètre, auteur
@@ -1389,7 +1389,7 @@
 						monde.</note>
             </item>
             <item n="122" xml:id="CAT_000166_e122">
-               <num>122</num>
+               <num type="lot">122</num>
                <name type="author">Lasalle (Ant.-Ch.-L.),</name>
                <trait>
                   <p>un des plus brillants généraux
@@ -1402,7 +1402,7 @@
 						rupture du cachet. Belle et rare lettre.</note>
             </item>
             <item n="123" xml:id="CAT_000166_e123">
-               <num>123</num>
+               <num type="lot">123</num>
                <name type="author">La Tour d'Auvergne Corret (Th.-Malo de),</name>
                <trait>
                   <p>le premier
@@ -1415,7 +1415,7 @@
 						demi-brigade d'infanterie.</note>
             </item>
             <item n="124" xml:id="CAT_000166_e124">
-               <num>124</num>
+               <num type="lot">124</num>
                <name type="author">Lebon (Joseph),</name>
                <trait>
                   <p>fameux conventionnel, n. 1765,
@@ -1427,13 +1427,13 @@
 						comptes de son père.</note>
             </item>
             <item n="125" xml:id="CAT_000166_e125">
-               <num>125</num>
+               <num type="lot">125</num>
                <name type="author">Lebon (Joseph)</name>
                <desc xml:id="CAT_000166_e125_d1">Apostille signée sur une l. s. du représentant Taillefer au président de
 						la Convention ; 17 brumaire an II, 2 p. 3/4 in-fol.</desc>
             </item>
             <item n="126" xml:id="CAT_000166_e126">
-               <num>126</num>
+               <num type="lot">126</num>
                <name type="author">Lemot (Fr.-Fréd.),</name>
                <trait>
                   <p>célèbre sculpteur, n. 1773, m.
@@ -1446,7 +1446,7 @@
 						relative au dessin.</note>
             </item>
             <item n="127" xml:id="CAT_000166_e127">
-               <num>127</num>
+               <num type="lot">127</num>
                <name type="author">Le Peletier de Saint-Fargeau
 						(Louis-Michel),</name>
                <trait>
@@ -1460,7 +1460,7 @@
                   in-fol.</desc>
             </item>
             <item n="128" xml:id="CAT_000166_e128">
-               <num>128</num>
+               <num type="lot">128</num>
                <name type="author">Lesdiguières (Fr. de Bonne, duc de),</name>
                <trait>
                   <p>illustre
@@ -1470,13 +1470,13 @@
 						in-4. Intéressante.</desc>
             </item>
             <item n="129" xml:id="CAT_000166_e129">
-               <num>129</num>
+               <num type="lot">129</num>
                <name type="author">Lesdiguières (Fr. de Bonne, duc de)</name>
                <desc xml:id="CAT_000166_e129_d1">L. s., avec la souscript. aut.; Vizille, 22 juin 1615, 1 p. in-fol. Belle
 						lettre.</desc>
             </item>
             <item n="130" xml:id="CAT_000166_e130">
-               <num>130</num>
+               <num type="lot">130</num>
                <name type="author">Le Sueur (J.-Fr.),</name>
                <trait>
                   <p>célèbre compositeur de musique, n.
@@ -1489,7 +1489,7 @@
 					remplacer.</note>
             </item>
             <item n="131" xml:id="CAT_000166_e131">
-               <num>131</num>
+               <num type="lot">131</num>
                <name type="author">Le Tellier (Ch.-Maurice),</name>
                <trait>
                   <p>fils du chancelier,
@@ -1505,7 +1505,7 @@
 						paroistre...»</note>
             </item>
             <item n="132" xml:id="CAT_000166_e132">
-               <num>132</num>
+               <num type="lot">132</num>
                <name type="author">Le Tellier (Ch.-Maurice)</name>
                <desc xml:id="CAT_000166_e132_d1">L. a. s. à l'abbé Bossuet; Versailles, 15 déc. 1698, 1 p.
 						in-4.</desc>
@@ -1513,7 +1513,7 @@
 						Bossuet.</note>
             </item>
             <item n="133" xml:id="CAT_000166_e133">
-               <num>133</num>
+               <num type="lot">133</num>
                <name type="author">Le Tellier (Ch.-Maurice)</name>
                <desc xml:id="CAT_000166_e133_d1">Sermon autographe, 29 p. 1/4 in-4.</desc>
                <note>Sermon prêché
@@ -1521,7 +1521,7 @@
 						Saint-Antoine à Paris.</note>
             </item>
             <item n="134" xml:id="CAT_000166_e134">
-               <num>134</num>
+               <num type="lot">134</num>
                <name type="author">Ligne (Ch.-Jos., prince de),</name>
                <trait>
                   <p>feld-maréchal
@@ -1532,7 +1532,7 @@
                <note>Très belle lettre.</note>
             </item>
             <item n="135" xml:id="CAT_000166_e135">
-               <num>135</num>
+               <num type="lot">135</num>
                <name type="author">Louis XII,</name>
                <trait>
                   <p>roi de France, n. 1462, m.
@@ -1542,7 +1542,7 @@
 						oblong.</desc>
             </item>
             <item n="136" xml:id="CAT_000166_e136">
-               <num>136</num>
+               <num type="lot">136</num>
                <name type="author">Louis XIII,</name>
                <trait>
                   <p>roi de France, n. 1601, m.
@@ -1556,7 +1556,7 @@
 					ouvrir.»</note>
             </item>
             <item n="137" xml:id="CAT_000166_e137">
-               <num>137</num>
+               <num type="lot">137</num>
                <name type="author">Louis XIV,</name>
                <trait>
                   <p>roi de France, n. 1638, m.
@@ -1565,7 +1565,7 @@
                <desc xml:id="CAT_000166_e137_d1">Pièce aut., 1 p. in-8. Taches de rousseur.</desc>
             </item>
             <item n="138" xml:id="CAT_000166_e138">
-               <num>138</num>
+               <num type="lot">138</num>
                <name type="author">Louis XVI,</name>
                <trait>
                   <p>roi de France, n. 1754, décapité en
@@ -1577,7 +1577,7 @@
 						le matin même à l'Assemblée nationale.</note>
             </item>
             <item n="139" xml:id="CAT_000166_e139">
-               <num>139</num>
+               <num type="lot">139</num>
                <name type="author">Louis XVI</name>
                <desc xml:id="CAT_000166_e139_d1">1° P. s., avec 4 mots aut.; 1780, 1 p. 1/4 in-fol.</desc>
                <desc xml:id="CAT_000166_e139_d2">2° 2 pièces, l'une
@@ -1585,7 +1585,7 @@
                   in-fol.</desc>
             </item>
             <item n="140" xml:id="CAT_000166_e140">
-               <num>140</num>
+               <num type="lot">140</num>
                <name type="author">Louis XVIII,</name>
                <trait>
                   <p>roi de France, n. 1755, m.
@@ -1595,7 +1595,7 @@
                <desc xml:id="CAT_000166_e140_d2">2° P. s.; 1796, 1/2 p. in-fol.</desc>
             </item>
             <item n="141" xml:id="CAT_000166_e141">
-               <num>141</num>
+               <num type="lot">141</num>
                <name type="author">Louis-Philippe Ier,</name>
                <trait>
                   <p>roi des Français, n. 1773, m.
@@ -1607,13 +1607,13 @@
 						Louis-Philippe.</note>
             </item>
             <item n="142" xml:id="CAT_000166_e142">
-               <num>142</num>
+               <num type="lot">142</num>
                <name type="author">Louis-Philippe Ier</name>
                <desc xml:id="CAT_000166_e142_d1">1° L. aut. parafée à Pascalis; Neuilly, 2 oct. 1819,1 p. 1/2 in-8.</desc>
                <desc xml:id="CAT_000166_e142_d2">2° L. aut. parafée, 1 p. pl. in-4.</desc>
             </item>
             <item n="143" xml:id="CAT_000166_e143">
-               <num>143</num>
+               <num type="lot">143</num>
                <name type="author">Louis-Philippe Ier</name>
                <desc xml:id="CAT_000166_e143_d1">1° L. s. au vicomte de la Rochefoucauld; Palais-Royal, 9 avril 1830, 1 p.
 						1/4 in-4. Légère déchirure dans un pli. Il sollicite la croix de la Légion
@@ -1621,19 +1621,19 @@
 						autographes, 22 p. in-8. Curieuse pièce.</desc>
             </item>
             <item n="144" xml:id="CAT_000166_e144">
-               <num>144</num>
+               <num type="lot">144</num>
                <name type="author">Louis-Philippe Ier</name>
                <desc xml:id="CAT_000166_e144_d1">1° L. s.; 1843, 1/2 p. in-4.</desc>
                <desc xml:id="CAT_000166_e144_d2">2° L. aut. parafée; 4 oct. 1836, 2 p. in-4.</desc>
             </item>
             <item n="145" xml:id="CAT_000166_e145">
-               <num>145</num>
+               <num type="lot">145</num>
                <name type="author">Louis-Philippe Ier</name>
                <desc xml:id="CAT_000166_e145_d1">1° L. s.; 1837, 1/2 p. in-4.</desc>
                <desc xml:id="CAT_000166_e145_d2">2° L. aut. parafée, 2 p. in-8.</desc>
             </item>
             <item n="146" xml:id="CAT_000166_e146">
-               <num>146</num>
+               <num type="lot">146</num>
                <name type="author">Louise-Marie de France,</name>
                <trait>
                   <p>fille de Louis XV, religieuse
@@ -1642,7 +1642,7 @@
                <desc xml:id="CAT_000166_e146_d1">L. a. s., 3/4 de p. in-4.</desc>
             </item>
             <item n="147" xml:id="CAT_000166_e147">
-               <num>147</num>
+               <num type="lot">147</num>
                <name type="author">Louvet de Couvray (J.-B.),</name>
                <trait>
                   <p>conventionnel, auteur de
@@ -1652,13 +1652,13 @@
 						in-4. Jolie lettre. Rare.</desc>
             </item>
             <item n="148" xml:id="CAT_000166_e148">
-               <num>148</num>
+               <num type="lot">148</num>
                <name type="author">Louvet de Couvray (J.-B.)</name>
                <desc xml:id="CAT_000166_e148_d1">1° P. s.; 1792, 3/4 de p. in-fol., vig. et tête impr.</desc>
                <desc xml:id="CAT_000166_e148_d2">2° L. a. s. de sa femme, 2 p. 1/2 in-8.</desc>
             </item>
             <item n="149" xml:id="CAT_000166_e149">
-               <num>149</num>
+               <num type="lot">149</num>
                <name type="author">Mac-Mahon (Edme-Patrice de),</name>
                <trait>
                   <p>duc de Magenta, maréchal
@@ -1667,7 +1667,7 @@
                <desc xml:id="CAT_000166_e149_d1">L. s.; 17 déc. 1861, 1 p. in-8.</desc>
             </item>
             <item n="150" xml:id="CAT_000166_e150">
-               <num>150</num>
+               <num type="lot">150</num>
                <name type="author">Malibran (Maria),</name>
                <trait>
                   <p>la grande cantatrice, n. 1808, m.
@@ -1679,13 +1679,13 @@
 						elle lui propose de jouer Cendrillon.</note>
             </item>
             <item n="151" xml:id="CAT_000166_e151">
-               <num>151</num>
+               <num type="lot">151</num>
                <name type="author">Malibran (Maria)</name>
                <desc xml:id="CAT_000166_e151_d1">L. a. s. Maria M., en italien, à Severini, 2 p. pl. in-8. Jolie
 						lettre.</desc>
             </item>
             <item n="152" xml:id="CAT_000166_e152">
-               <num>152</num>
+               <num type="lot">152</num>
                <name type="author">Marat (J.-P.),</name>
                <trait>
                   <p>dit l'Ami du Peuple, fameux
@@ -1697,7 +1697,7 @@
 						Lafayette.</note>
             </item>
             <item n="153" xml:id="CAT_000166_e153">
-               <num>153</num>
+               <num type="lot">153</num>
                <name type="author">Marie Leczinska,</name>
                <trait>
                   <p>reine de France, n. 1703, m.
@@ -1706,7 +1706,7 @@
                <desc xml:id="CAT_000166_e153_d1">L. aut.; (1744?), 1/2 p. in-8, cachet.</desc>
             </item>
             <item n="154" xml:id="CAT_000166_e154">
-               <num>154</num>
+               <num type="lot">154</num>
                <name type="author">Marie-Antoinette,</name>
                <trait>
                   <p>reine de France, n. 1755, décapitée
@@ -1716,7 +1716,7 @@
 						une de ses femmes, 1 p. in-fol. oblong. Légères taches.</desc>
             </item>
             <item n="155" xml:id="CAT_000166_e155">
-               <num>155</num>
+               <num type="lot">155</num>
                <name type="author">Marie-Antoinette</name>
                <desc xml:id="CAT_000166_e155_d1">P. s.; 20 mars 1790, 3 p. 1/2 in-fol.</desc>
                <note>Elle approuve
@@ -1725,7 +1725,7 @@
 					fondation.»</note>
             </item>
             <item n="156" xml:id="CAT_000166_e156">
-               <num>156</num>
+               <num type="lot">156</num>
                <name type="author">Marie -Louise,</name>
                <trait>
                   <p>impératrice des Français, n. 1791, m.
@@ -1735,12 +1735,12 @@
 						pli.</desc>
             </item>
             <item n="157" xml:id="CAT_000166_e157">
-               <num>157</num>
+               <num type="lot">157</num>
                <name type="author">Marie-Louise</name>
                <desc xml:id="CAT_000166_e157_d1">P. s., sur vélin; 1811, 1 p. in-fol. oblong.</desc>
             </item>
             <item n="158" xml:id="CAT_000166_e158">
-               <num>158</num>
+               <num type="lot">158</num>
                <name type="author">Marie-Adélaïde de France,</name>
                <trait>
                   <p>fille de Louis XV, n. 1732, m. 1800</p>
@@ -1749,7 +1749,7 @@
                   brisé.</desc>
             </item>
             <item n="159" xml:id="CAT_000166_e159">
-               <num>159</num>
+               <num type="lot">159</num>
                <name type="author">Marie-Joséphine-Louise de Savoie,</name>
                <trait>
                   <p>comtesse de
@@ -1759,7 +1759,7 @@
 						in-4.</desc>
             </item>
             <item n="160" xml:id="CAT_000166_e160">
-               <num>160</num>
+               <num type="lot">160</num>
                <name type="author">Mars (Anne-Fr.-Hipp. BOUTet, dite),</name>
                <trait>
                   <p>célèbre actrice,
@@ -1771,7 +1771,7 @@
 						bienveillance et l'invite à dîner.</note>
             </item>
             <item n="161" xml:id="CAT_000166_e161">
-               <num>161</num>
+               <num type="lot">161</num>
                <name type="author">Maury (Jean-Siffrein, cardinal),</name>
                <trait>
                   <p>célèbre orateur de
@@ -1789,7 +1789,7 @@
 						mine et de la gaieté de ce jeune prince.»</note>
             </item>
             <item n="162" xml:id="CAT_000166_e162">
-               <num>162</num>
+               <num type="lot">162</num>
                <name type="author">Meunier (J.-B.-Marie),</name>
                <trait>
                   <p>célèbre physicien et général,
@@ -1801,7 +1801,7 @@
 					militaire.</note>
             </item>
             <item n="163" xml:id="CAT_000166_e163">
-               <num>163</num>
+               <num type="lot">163</num>
                <name type="author">Millevoye (Ch.-Hubert),</name>
                <trait>
                   <p>poète élégiaque, n. 1782,m.
@@ -1812,7 +1812,7 @@
                   in-8.</desc>
             </item>
             <item n="164" xml:id="CAT_000166_e164">
-               <num>164</num>
+               <num type="lot">164</num>
                <name type="author">Mina (Francisco Espoz y),</name>
                <trait>
                   <p>fameux chef de guérillas
@@ -1826,7 +1826,7 @@
 						Louis XVIII à Gand, et il sollicite un secours d'argent.</note>
             </item>
             <item n="165" xml:id="CAT_000166_e165">
-               <num>165</num>
+               <num type="lot">165</num>
                <name type="author">Mirabeau (Victor RIquEtti, marquis de),</name>
                <trait>
                   <p>économiste,
@@ -1835,7 +1835,7 @@
                <desc xml:id="CAT_000166_e165_d1">L. a. s.; Paris, 23 mai 1778, 1 p. in-4.</desc>
             </item>
             <item n="166" xml:id="CAT_000166_e166">
-               <num>166</num>
+               <num type="lot">166</num>
                <name type="author">Mirabeau (André-B.-L. Riquetti, vicomte de),</name>
                <trait>
                   <p>chef de
@@ -1848,7 +1848,7 @@
 						régiment de Touraine et de les avoir portées au Roi.</note>
             </item>
             <item n="167" xml:id="CAT_000166_e167">
-               <num>167</num>
+               <num type="lot">167</num>
                <name type="author">Monge (Gaspard),</name>
                <trait>
                   <p>illustre géomètre, n. 1746, m.
@@ -1862,7 +1862,7 @@
 						flatteur.</note>
             </item>
             <item n="168" xml:id="CAT_000166_e168">
-               <num>168</num>
+               <num type="lot">168</num>
                <name type="author">Montpensier (Antoine-Philippe d'OrLÉanS, duc
 						de),</name>
                <trait>
@@ -1875,7 +1875,7 @@
 						cette lettre, il s'intitule M. Antoine Egalité.</note>
             </item>
             <item n="169" xml:id="CAT_000166_e169">
-               <num>169</num>
+               <num type="lot">169</num>
                <name type="author">Moreau (Jean-Victor),</name>
                <trait>
                   <p>un des plus illustres généraux
@@ -1887,7 +1887,7 @@
                   VIII, 1 p. in-4. -3° L. aut. à sa femme, 1 p. 1/2 in-4.</desc>
             </item>
             <item n="170" xml:id="CAT_000166_e170">
-               <num>170</num>
+               <num type="lot">170</num>
                <name type="author">Moreau (Jean-Victor)</name>
                <desc xml:id="CAT_000166_e170_d1">L. a. s. à Jos. Moreau; Strasbourg, 15 prairial an V, 2 p. in-4, tête
 						impr., vig., enveloppe et cachet. Très légère
@@ -1896,7 +1896,7 @@
 						va être conclue avec l'Autriche.</note>
             </item>
             <item n="171" xml:id="CAT_000166_e171">
-               <num>171</num>
+               <num type="lot">171</num>
                <name type="author">Nemours (Louis d'OrLéanS, duc de),</name>
                <trait>
                   <p>fils de Louis-
@@ -1905,7 +1905,7 @@
                <desc xml:id="CAT_000166_e171_d1">2 l. a. s.; 1838, 3 p. in-8. Jolies lettres.</desc>
             </item>
             <item n="172" xml:id="CAT_000166_e172">
-               <num>172</num>
+               <num type="lot">172</num>
                <name type="author">Ney (Michel),</name>
                <trait>
                   <p>illustre maréchal de l'Empire, n. 1769,
@@ -1915,12 +1915,12 @@
 						Belle lettre.</desc>
             </item>
             <item n="173" xml:id="CAT_000166_e173">
-               <num>173</num>
+               <num type="lot">173</num>
                <name type="author">Ney (Michel)</name>
                <desc xml:id="CAT_000166_e173_d1">2 l. s., 1 p. in-4 et 1 p. in-fol.</desc>
             </item>
             <item n="174" xml:id="CAT_000166_e174">
-               <num>174</num>
+               <num type="lot">174</num>
                <name type="author">Nodier (Charles)</name>
                <trait>
                   <p>célèbre écrivain, de l’Acad. fr., n. 1780, m. 1844.</p>
@@ -1929,7 +1929,7 @@
                <desc xml:id="CAT_000166_e174_d2">2° De l'éducation du peuple, article aut. sig., 4 p. in-8 oblong.</desc>
             </item>
             <item n="175" xml:id="CAT_000166_e175">
-               <num>175</num>
+               <num type="lot">175</num>
                <name type="author">Nodier (Charles)</name>
                <desc xml:id="CAT_000166_e175_d1">L. a. s. à Raynouard; 21 mai 1833, 3/4 de p. in-4. Légères
 						taches.</desc>
@@ -1939,7 +1939,7 @@
 						(C'est cette année même qu'il fut élu.)</note>
             </item>
             <item n="176" xml:id="CAT_000166_e176">
-               <num>176</num>
+               <num type="lot">176</num>
                <name type="author">Orléans (Charles, duc d'),</name>
                <trait>
                   <p>un de nos premiers poètes,
@@ -1953,7 +1953,7 @@
 						aux édifices qu'il fait construire.</note>
             </item>
             <item n="177" xml:id="CAT_000166_e177">
-               <num>177</num>
+               <num type="lot">177</num>
                <name type="author">Orléans (Louis-Philippe, duc d'),</name>
                <trait>
                   <p>petit-fils du
@@ -1963,7 +1963,7 @@
                <desc xml:id="CAT_000166_e177_d2">2° L. s. au duc de Choiseul; Paris, 2 août 1763, 2 p. in-4.</desc>
             </item>
             <item n="178" xml:id="CAT_000166_e178">
-               <num>178</num>
+               <num type="lot">178</num>
                <name type="author">Orléans (Louis-Philippe-Joseph, duc d'),</name>
                <trait>
                   <p>fils du
@@ -1975,7 +1975,7 @@
                <desc xml:id="CAT_000166_e178_d2">2° L. s. au marquis de Ségur; Paris, 25 juillet 1781, 1/2 p. in-4.</desc>
             </item>
             <item n="179" xml:id="CAT_000166_e179">
-               <num>179</num>
+               <num type="lot">179</num>
                <name type="author">Orléans (Louise-Marie-Thérèse-Bathilde d'),</name>
                <trait>
                   <p>duchesse
@@ -1986,7 +1986,7 @@
                <desc xml:id="CAT_000166_e179_d2">2° L. a. s. au comte de Puységur, 1/2 p. in-4, cachet.</desc>
             </item>
             <item n="180" xml:id="CAT_000166_e180">
-               <num>180</num>
+               <num type="lot">180</num>
                <name type="author">Orléans (Ferdinand, duc d'),</name>
                <trait>
                   <p>fils aîné de
@@ -1995,7 +1995,7 @@
                <desc xml:id="CAT_000166_e180_d1">L. a. s.; Tuileries, jeudi, 1 p. in-8.</desc>
             </item>
             <item n="181" xml:id="CAT_000166_e181">
-               <num>181</num>
+               <num type="lot">181</num>
                <name type="author">Palloy (P.-Fr.),</name>
                <trait>
                   <p>qui eut l'entreprise de la
@@ -2005,7 +2005,7 @@
                <desc xml:id="CAT_000166_e181_d2">2° 3 l. s.; 1790-95, 5 p. in-fol. Curieuses</desc>
             </item>
             <item n="182" xml:id="CAT_000166_e182">
-               <num>182</num>
+               <num type="lot">182</num>
                <name type="author">Payan (Cl.-Fr. de), </name>
                <trait>
                   <p>procureur de là Commune de Paris, ami de Robespierre, n. 1766, décapité en 1794</p>
@@ -2014,7 +2014,7 @@
                   13 germinal, 1 p. in-4. Pièce montée.</desc>
             </item>
             <item n="183" xml:id="CAT_000166_e183">
-               <num>183</num>
+               <num type="lot">183</num>
                <name type="author">Peignot (Gabriel),</name>
                <trait>
                   <p>fécond bibliographe, n. 1767, m.
@@ -2024,7 +2024,7 @@
 						1/4 in-8. Intéressantes.</desc>
             </item>
             <item n="184" xml:id="CAT_000166_e184">
-               <num>184</num>
+               <num type="lot">184</num>
                <name type="author">Pie IX,</name>
                <trait>
                   <p>pape, n. 1792, m. 1878.</p>
@@ -2033,7 +2033,7 @@
 						cachet. Superbe pièce.</desc>
             </item>
             <item n="185" xml:id="CAT_000166_e185">
-               <num>185</num>
+               <num type="lot">185</num>
                <name type="author">Piron (Alexis),</name>
                <trait>
                   <p>célèbre poète dramatique, n. 1689, m.
@@ -2045,7 +2045,7 @@
 						lettre contre Laharpe,.</note>
             </item>
             <item n="186" xml:id="CAT_000166_e186">
-               <num>186</num>
+               <num type="lot">186</num>
                <name type="author">Rabaut-Saint-Étienne (Jean-Paul),</name>
                <trait>
                   <p>célèbre
@@ -2057,7 +2057,7 @@
 						d'Arles.</note>
             </item>
             <item n="187" xml:id="CAT_000166_e187">
-               <num>187</num>
+               <num type="lot">187</num>
                <name type="author">Rachel (Mlle),</name>
                <trait>
                   <p>la grande tragédienne, n. 1821, m.
@@ -2066,7 +2066,7 @@
                <desc xml:id="CAT_000166_e187_d1">L. a. s. à M. de Lazano; 14 fév., 1 p. in-8. Jolie lettre.</desc>
             </item>
             <item n="188" xml:id="CAT_000166_e188">
-               <num>188</num>
+               <num type="lot">188</num>
                <name type="author">Rachel (Mlle)</name>
                <desc xml:id="CAT_000166_e188_d1">L. a. s. à sa soeur Sarahi; Berlin, 2 septembre, 3 p.
 						in-8.</desc>
@@ -2077,7 +2077,7 @@
 						pas ou bien rien du tout...»</note>
             </item>
             <item n="189" xml:id="CAT_000166_e189">
-               <num>189</num>
+               <num type="lot">189</num>
                <name type="author">Raspail (Fr.-V.),</name>
                <trait>
                   <p>le célèbre chimiste, n. 1794, m.
@@ -2087,7 +2087,7 @@
                <desc xml:id="CAT_000166_e189_d2">2° Article aut., 1 p. 1/2 in-4.</desc>
             </item>
             <item n="190" xml:id="CAT_000166_e190">
-               <num>190</num>
+               <num type="lot">190</num>
                <name type="author">Récamier (Juliette),</name>
                <trait>
                   <p>la reine de l'Abbaye-aux-Bois,
@@ -2096,7 +2096,7 @@
                <desc xml:id="CAT_000166_e190_d1">L. a. s. à M. Corbin; 16 août, 1 p. 1/2 in-32. Rare.</desc>
             </item>
             <item n="191" xml:id="CAT_000166_e191">
-               <num>191</num>
+               <num type="lot">191</num>
                <name type="author">Restif de la Bretonne (Nicolas-Edme),</name>
                <trait>
                   <p>fameux
@@ -2105,7 +2105,7 @@
                <desc xml:id="CAT_000166_e191_d1">Fragment autographe d'un de ses romans, 2 p. in-4.</desc>
             </item>
             <item n="192" xml:id="CAT_000166_e192">
-               <num>192</num>
+               <num type="lot">192</num>
                <name type="author">Retz (J.-Fr. de Gondi, cardinal de),</name>
                <trait>
                   <p>archevêque de
@@ -2115,7 +2115,7 @@
 						cachet.</desc>
             </item>
             <item n="193" xml:id="CAT_000166_e193">
-               <num>193</num>
+               <num type="lot">193</num>
                <name type="author">Richelieu (Suzanne de La Porte, dame de),</name>
                <trait>
                   <p>mère du cardinal.</p>
@@ -2129,7 +2129,7 @@
 					servyteur...»</note>
             </item>
             <item n="194" xml:id="CAT_000166_e194">
-               <num>194</num>
+               <num type="lot">194</num>
                <name type="author">Richelieu (Armand-Jean Du Plessis, cardinal de),</name>
                <trait>
                   <p>le
@@ -2142,7 +2142,7 @@
 						tous les soldats devront être rentrés dans leurs quartiers.</note>
             </item>
             <item n="195" xml:id="CAT_000166_e195">
-               <num>195</num>
+               <num type="lot">195</num>
                <name type="author">Richelieu (Armand-Jean Du Plessis, cardinal de)</name>
                <desc xml:id="CAT_000166_e195_d1">L. s., écrite par Charpentier, au maréchal de La Force; Saint-Vallier, 19
 						septembre au soir, 1 p. pl. in-fol., cachets et soies. Tachée
@@ -2151,7 +2151,7 @@
 						en Languedoc contre le duc d'Orléans.</note>
             </item>
             <item n="196" xml:id="CAT_000166_e196">
-               <num>196</num>
+               <num type="lot">196</num>
                <name type="author">Richelieu (L.-Fr.-Armand Du Plessis, duc
 						de),</name>
                <trait>
@@ -2164,7 +2164,7 @@
 						sang.</note>
             </item>
             <item n="197" xml:id="CAT_000166_e197">
-               <num>197</num>
+               <num type="lot">197</num>
                <name type="author">Richelieu (L.-Fr.-Armand Du Plessis, duc de)</name>
                <desc xml:id="CAT_000166_e197_d1">L. a. s.; Dresde, 10 janv. 1747, 1 p. in-4. Légère
 						déchirure.</desc>
@@ -2173,12 +2173,12 @@
 						part le 14 avec la Dauphine.</note>
             </item>
             <item n="198" xml:id="CAT_000166_e198">
-               <num>198</num>
+               <num type="lot">198</num>
                <name type="author">Richelieu (L.-Fr.-Armand Du Plessis, duc de)</name>
                <desc xml:id="CAT_000166_e198_d1">L. a. s.; Paris, 30 novembre, 1 p. in-4.</desc>
             </item>
             <item n="199" xml:id="CAT_000166_e199">
-               <num>199</num>
+               <num type="lot">199</num>
                <name type="author">Robespierre (Maximilien de),</name>
                <trait>
                   <p>célèbre conventionnel et
@@ -2189,7 +2189,7 @@
 						enlevé.</desc>
             </item>
             <item n="200" xml:id="CAT_000166_e200">
-               <num>200</num>
+               <num type="lot">200</num>
                <name type="author">Robespierre (Maximilien de)</name>
                <desc xml:id="CAT_000166_e200_d1">P. s., sig. aussi par Couthon, Barère et Saint-Just; 3 août 1793, 1 p.
 						in-fol., vig. et tête impr.</desc>
@@ -2197,7 +2197,7 @@
 						député Sillery.</note>
             </item>
             <item n="201" xml:id="CAT_000166_e201">
-               <num>201</num>
+               <num type="lot">201</num>
                <name type="author">Robespierre (Maximilien de)</name>
                <desc xml:id="CAT_000166_e201_d1">P. s., sig. aussi par Collot d'Herbois, Jean-Bon Saint-Séchelles; 27
 						sept. 1793, 1 p. in-fol.</desc>
@@ -2205,7 +2205,7 @@
 						général Houchard et de Barthélemy, son chef d'état-major.</note>
             </item>
             <item n="202" xml:id="CAT_000166_e202">
-               <num>202</num>
+               <num type="lot">202</num>
                <name type="author">Robespierre (Maximilien de)</name>
                <desc xml:id="CAT_000166_e202_d1">P. s., écrite et sig. par Barère, sig. aussi par Billaud-Varenne; 27
 						floréal an II, 1 p. in-fol., vig. et tête impr. Déchirure enlevant la moitié
@@ -2215,7 +2215,7 @@
 						guerre.</note>
             </item>
             <item n="203" xml:id="CAT_000166_e203">
-               <num>203</num>
+               <num type="lot">203</num>
                <name type="author">Robespierre (Aug.-Bon -Jos. de),</name>
                <trait>
                   <p>conventionnel, frère
@@ -2228,7 +2228,7 @@
 						ordres du chef du génie à l'armée sous Toulon.</note>
             </item>
             <item n="204" xml:id="CAT_000166_e204">
-               <num>204</num>
+               <num type="lot">204</num>
                <name type="author">Robespierre (Aug.-Bon-Jos. de)</name>
                <desc xml:id="CAT_000166_e204_d1">L. s. de Trophime Lafont, chef du 3e bataillon de la 20° 1/2 brigade, au
 						Comité de Salut public; Rouabillière, 23 fructidor an II, 11 p. 1/2
@@ -2238,7 +2238,7 @@
 						Dumerbion et Serurier. Intéressant document.</note>
             </item>
             <item n="205" xml:id="CAT_000166_e205">
-               <num>205</num>
+               <num type="lot">205</num>
                <name type="author">Roederer (P.-L., comte),</name>
                <trait>
                   <p>homme d'Etat et écrivain, de
@@ -2251,7 +2251,7 @@
 						des lettres de comte demandées par le sénateur Roederer.</note>
             </item>
             <item n="206" xml:id="CAT_000166_e206">
-               <num>206</num>
+               <num type="lot">206</num>
                <name type="author">Rohan (A.-G.-Max., cardinal de),</name>
                <trait>
                   <p>évêque de
@@ -2261,7 +2261,7 @@
                <desc xml:id="CAT_000166_e206_d1">L. a. s.; Paris, 6 mars 1744, 1 p. in-4.</desc>
             </item>
             <item n="207" xml:id="CAT_000166_e207">
-               <num>207</num>
+               <num type="lot">207</num>
                <name type="author">Rohan (Louis-Constantin, cardinal de),</name>
                <trait>
                   <p>évêque de
@@ -2273,7 +2273,7 @@
 						Biblosheim.</note>
             </item>
             <item n="208" xml:id="CAT_000166_e208">
-               <num>208</num>
+               <num type="lot">208</num>
                <name type="author">Rohan (L.-R.-Ed., cardinal de),</name>
                <trait>
                   <p>évêque de Strasbourg,
@@ -2285,7 +2285,7 @@
 						malades le réclament.</desc>
                </item>
             <item n="209" xml:id="CAT_000166_e209">
-               <num>209</num>
+               <num type="lot">209</num>
                <name type="author">Roland de la Platière (J.-M.),</name>
                <trait>
                   <p>économiste et homme politique, n. 1734, m. 1793.</p>
@@ -2294,7 +2294,7 @@
                <desc xml:id="CAT_000166_e209_d2">2° 4 l. s., 4 p. in-fol.</desc>
             </item>
             <item n="210" xml:id="CAT_000166_e210">
-               <num>210</num>
+               <num type="lot">210</num>
                <name type="author">Roland de la Platière (Marie-Jeanne Phlipon),</name>
                <trait>
                   <p>femme
@@ -2307,7 +2307,7 @@
 						de Roland.</note>
             </item>
             <item n="211" xml:id="CAT_000166_e211">
-               <num>211</num>
+               <num type="lot">211</num>
                <name type="author">Ronsin (Ch.-Ph.),</name>
                <trait>
                   <p>auteur dramatique, général de la
@@ -2318,7 +2318,7 @@
                <desc xml:id="CAT_000166_e211_d2">2° L. s. au même; Tours, 22 juin 1793, 1/2 p. in-4.</desc>
             </item>
             <item n="212" xml:id="CAT_000166_e212">
-               <num>212</num>
+               <num type="lot">212</num>
                <name type="author">Rouget de Lisle (Cl.-Jos.),</name>
                <trait>
                   <p>l'illustre auteur de la
@@ -2330,7 +2330,7 @@
 						d'argent pour faire la publication de ses Chants français.</note>
             </item>
             <item n="213" xml:id="CAT_000166_e213">
-               <num>213</num>
+               <num type="lot">213</num>
                <name type="author">Rouget de Lisle (Cl.-Jos.)</name>
                <desc xml:id="CAT_000166_e213_d1">L. a. s. à M. Béjot; Choisy-le-Roy, 14 juillet (1830), 1 p. 1/2
 						in-4.</desc>
@@ -2338,7 +2338,7 @@
 						de nouvelles de Béranger.</note>
             </item>
             <item n="214" xml:id="CAT_000166_e214">
-               <num>214</num>
+               <num type="lot">214</num>
                <name type="author">Rouget de Lisle (Cl.-Jos.)</name>
                <desc xml:id="CAT_000166_e214_d1">P. s. par Du Tartre, Chilly, le chevalier de Balay, Lezay et de Vaulchier
 						de Grandchamp; Lons-le-Saulnier, 5 mai 1776, 3 p. 3/4 in-fol., cachet.
@@ -2348,7 +2348,7 @@
                   de Rouget de Lisle.</note>
             </item>
             <item n="215" xml:id="CAT_000166_e215">
-               <num>215</num>
+               <num type="lot">215</num>
                <name type="author">Rouget de Lisle (Cl.-Jos.)</name>
                <desc xml:id="CAT_000166_e215_d1">P. s. par Jean-Bon Saint-André, Carnot, Collot d'Herbois et Prieur de la
 						Marne; 18 sept. 1793, 1 p. 1/2 in-fol., vig. et tête
@@ -2357,7 +2357,7 @@
 						qui ordonne l'arrestation de Rouget de Lisle.</note>
             </item>
             <item n="216" xml:id="CAT_000166_e216">
-               <num>216</num>
+               <num type="lot">216</num>
                <name type="author">Sade (D.-Alph.-Fr., marquis de),</name>
                <trait>
                   <p>le trop fameux
@@ -2370,7 +2370,7 @@
 						actes, Jeanne Hachette. Piquants détails à ce sujet.</note>
             </item>
             <item n="217" xml:id="CAT_000166_e217">
-               <num>217</num>
+               <num type="lot">217</num>
                <name type="author">Saint-Just (Louis-Antoine de),</name>
                <trait>
                   <p>célèbre conventionnel
@@ -2379,7 +2379,7 @@
                <desc xml:id="CAT_000166_e217_d1">2 p. s.; 1793-1794, 2 p. in-4 et in-fol.</desc>
             </item>
             <item n="218" xml:id="CAT_000166_e218">
-               <num>218</num>
+               <num type="lot">218</num>
                <name type="author">Saint-Pierre (Bernardin de),</name>
                <trait>
                   <p>l'auteur de Paul et Vir-
@@ -2392,7 +2392,7 @@
 						Saint-Domingue.</note>
             </item>
             <item n="219" xml:id="CAT_000166_e219">
-               <num>219</num>
+               <num type="lot">219</num>
                <name type="author">Saint-Pierre (Bernardin de)</name>
                <desc xml:id="CAT_000166_e219_d1">L. a. s. au peintre Girodet; Paris, 22 germinal an XII, 2 p.
 						in-8.</desc>
@@ -2400,7 +2400,7 @@
 						illustration pour son édition in-4 de Paul et Virginie.</note>
             </item>
             <item n="220" xml:id="CAT_000166_e220">
-               <num>220</num>
+               <num type="lot">220</num>
                <name type="author">Sainte-Beuve (Ch.-Aug.),</name>
                <trait>
                   <p>célèbre critique et poète,
@@ -2409,7 +2409,7 @@
                <desc xml:id="CAT_000166_e220_d1">6 l. a. s.; 1848-54, 9 p. in-8.</desc>
             </item>
             <item n="221" xml:id="CAT_000166_e221">
-               <num>221</num>
+               <num type="lot">221</num>
                <name type="author">Salvandy (N.-A., comte de),</name>
                <trait>
                   <p>historien et homme
@@ -2419,7 +2419,7 @@
                <desc xml:id="CAT_000166_e221_d2">2° Article aut. sig., 29 p. in-4.</desc>
             </item>
             <item n="222" xml:id="CAT_000166_e222">
-               <num>222</num>
+               <num type="lot">222</num>
                <name type="author">Sand (George),</name>
                <trait>
                   <p>célèbre romancière, n. 1804, m.
@@ -2430,7 +2430,7 @@
                <desc xml:id="CAT_000166_e222_d2">2° Fragments autographes, 12 p. in-8.</desc>
             </item>
             <item n="223" xml:id="CAT_000166_e223">
-               <num>223</num>
+               <num type="lot">223</num>
                <name type="author">Saxe (Maurice, comte de),</name>
                <trait>
                   <p>illustre maréchal de
@@ -2440,13 +2440,13 @@
 						Belle pièce.</desc>
             </item>
             <item n="224" xml:id="CAT_000166_e224">
-               <num>224</num>
+               <num type="lot">224</num>
                <name type="author">Saxe (Maurice, comte de)</name>
                <desc xml:id="CAT_000166_e224_d1">L. s., avec un post-scriptum de 11 lignes aut., au comte de Lowendal;
 						Louvain, 23 juin 1747, 1 p. in-fol. Belle lettre.</desc>
             </item>
             <item n="225" xml:id="CAT_000166_e225">
-               <num>225</num>
+               <num type="lot">225</num>
                <name type="author">Scheffer (Ary),</name>
                <trait>
                   <p>célèbre peintre, n. 1795, m.
@@ -2455,12 +2455,12 @@
                <desc xml:id="CAT_000166_e225_d1">L. a. s. à un colonel, 2 p. in-8.</desc>
             </item>
             <item n="226" xml:id="CAT_000166_e226">
-               <num>226</num>
+               <num type="lot">226</num>
                <name type="author">Scheffer (Ary)</name>
                <desc xml:id="CAT_000166_e226_d1">L. a. s., 1 p. in-8.</desc>
                </item>
             <item n="227" xml:id="CAT_000166_e227">
-               <num>227</num>
+               <num type="lot">227</num>
                <name type="author">Sombreuil (Fanny de)</name>
                <trait>
                   <p>comtesse de Villelume, célèbre par son dévouement filial</p>
@@ -2474,7 +2474,7 @@
                   joint deux lettres du chevalier de Chalup sur le même sujet.</note>
             </item>
             <item n="228" xml:id="CAT_000166_e228">
-               <num>228</num>
+               <num type="lot">228</num>
                <name type="author">Sophie de France,</name>
                <trait>
                   <p>fille de Louis XV, n. 1734, m.
@@ -2483,7 +2483,7 @@
                <desc xml:id="CAT_000166_e228_d1">L. a. s. à M. de Forges; 29 avril 1781, 1/2 p. in-4.</desc>
             </item>
             <item n="229" xml:id="CAT_000166_e229">
-               <num>229</num>
+               <num type="lot">229</num>
                <name type="author">Soubise (Charles de Rohan, prince de),</name>
                <trait>
                   <p>maréchal de
@@ -2492,12 +2492,12 @@
                <desc xml:id="CAT_000166_e229_d1">L. a. s.; Paris, 7 déc. 1786, 1 p. 1/2 in-fol.</desc>
             </item>
             <item n="230" xml:id="CAT_000166_e230">
-               <num>230</num>
+               <num type="lot">230</num>
                <name type="author">Soubise (Charles de Rohan, prince de)</name>
                <desc xml:id="CAT_000166_e230_d1">L. a. s.; Paris, 14 mars 1782, 1 p. in-fol.</desc>
             </item>
             <item n="231" xml:id="CAT_000166_e231">
-               <num>231</num>
+               <num type="lot">231</num>
                <name type="author">Stanislas Leczinski,</name>
                <trait>
                   <p>roi de Pologne, duc de Lorraine,
@@ -2506,13 +2506,13 @@
                <desc xml:id="CAT_000166_e231_d1">L. a. s.; Lunéville, 5 avril 1763, 3/4 de p. in-4.</desc>
             </item>
             <item n="232" xml:id="CAT_000166_e232">
-               <num>232</num>
+               <num type="lot">232</num>
                <name type="author">Stanislas Leczinski</name>
                <desc xml:id="CAT_000166_e232_d1">L. a. s. au chevalier de Saumery; Lunéville, 28 janv. 1758, 1 p. in-4,
 						cachet. Belle lettre.</desc>
             </item>
             <item n="233" xml:id="CAT_000166_e233">
-               <num>233</num>
+               <num type="lot">233</num>
                <name type="author">Sully (Maximilien de Béthune, duc de),</name>
                <trait>
                   <p>le grand
@@ -2525,7 +2525,7 @@
 						du duc de Bouillon.</note>
             </item>
             <item n="234" xml:id="CAT_000166_e234">
-               <num>234</num>
+               <num type="lot">234</num>
                <name type="author">Talleyrand (Charles-Maurice, prince de),</name>
                <trait>
                   <p>le célèbre
@@ -2538,12 +2538,12 @@
 						prussiens.</note>
             </item>
             <item n="235" xml:id="CAT_000166_e235">
-               <num>235</num>
+               <num type="lot">235</num>
                <name type="author">Talleyrand (Charles-Maurice, prince de)</name>
                <desc xml:id="CAT_000166_e235_d1">L. a. s. à M. Doumere; Valençay, 23, 1 p. 1/2 in-4.</desc>
             </item>
             <item n="236" xml:id="CAT_000166_e236">
-               <num>236</num>
+               <num type="lot">236</num>
                <name type="author">Talma (Fr.-J.),</name>
                <trait>
                   <p>l'illustre tragédien, n. 1763, m.
@@ -2554,7 +2554,7 @@
 						situation financière du Théâtre-Français.</note>
             </item>
             <item n="237" xml:id="CAT_000166_e237">
-               <num>237</num>
+               <num type="lot">237</num>
                <name type="author">Thiers (Adolphe),</name>
                <trait>
                   <p>premier président de la 3°
@@ -2570,13 +2570,13 @@
 						désordre.»</note>
             </item>
             <item n="238" xml:id="CAT_000166_e238">
-               <num>238</num>
+               <num type="lot">238</num>
                <name type="author">Thiers (Adolphe)</name>
                <desc xml:id="CAT_000166_e238_d1">L. a. s. (à Baroche); 27 oct. 1850, 1 p. in-8. Belle
 					lettre.</desc>
             </item>
             <item n="239" xml:id="CAT_000166_e239">
-               <num>239</num>
+               <num type="lot">239</num>
                <name type="author">Thiers (Adolphe)</name>
                <desc xml:id="CAT_000166_e239_d1">L. a. s. à M. Ferdinand Favre; 16 juill. 1851, 1 p. 1/4 in-8,
 						cachet.</desc>
@@ -2584,7 +2584,7 @@
 						d'un congé pour aller aux eaux de Cauterets.</note>
             </item>
             <item n="240" xml:id="CAT_000166_e240">
-               <num>240</num>
+               <num type="lot">240</num>
                <name type="author">Treilhard (J.-B., comte),</name>
                <trait>
                   <p>conventionnel et directeur,
@@ -2596,7 +2596,7 @@
 						Naples.</note>
             </item>
             <item n="241" xml:id="CAT_000166_e241">
-               <num>241</num>
+               <num type="lot">241</num>
                <name type="author">Trochu (le général),</name>
                <trait>
                   <p>président du Gouvernement de la
@@ -2605,7 +2605,7 @@
                <desc xml:id="CAT_000166_e241_d1">L. a. s.; 12 janv. 1849,1 p. in-8.</desc>
             </item>
             <item n="242" xml:id="CAT_000166_e242">
-               <num>242</num>
+               <num type="lot">242</num>
                <name type="author">Turenne (Henri de La Tour d'Auvergne, vicomte
 						de),</name>
                <trait>
@@ -2619,13 +2619,13 @@
 						fait donner des coups de bâton aux paysans.</note>
             </item>
             <item n="243" xml:id="CAT_000166_e243">
-               <num>243</num>
+               <num type="lot">243</num>
                <name type="author">Turenne (Henri de La Tour d'Auvergne, vicomte de)</name>
                <desc xml:id="CAT_000166_e243_d1">L. s. à M. de Beauvizé; quartier général de Corbach, 22 juin, 2 p. in-4,
 						cachet brisé. Nouvelles militaires.</desc>
             </item>
             <item n="244" xml:id="CAT_000166_e244">
-               <num>244</num>
+               <num type="lot">244</num>
                <name type="author">Vendôme (César, duc de),</name>
                <trait>
                   <p>fils de Henri IV et de
@@ -2638,7 +2638,7 @@
 						d'Orange.</note>
             </item>
             <item n="245" xml:id="CAT_000166_e245">
-               <num>245</num>
+               <num type="lot">245</num>
                <name type="author">Vergennes (Ch. GraVier, comte de),</name>
                <trait>
                   <p>ministre des
@@ -2652,7 +2652,7 @@
 						étaient compromis dans la fameuse affaire du collier.)</note>
             </item>
             <item n="246" xml:id="CAT_000166_e246">
-               <num>246</num>
+               <num type="lot">246</num>
                <name type="author">Vergennes (Ch. GRAVIEr, comte de)</name>
                <desc xml:id="CAT_000166_e246_d1">3 l. a. s. à un cousin; Stockholm, 1771-1774, 9 p.
 						in-4.</desc>
@@ -2660,7 +2660,7 @@
 					diplomatiques.</note>
             </item>
             <item n="247" xml:id="CAT_000166_e247">
-               <num>247</num>
+               <num type="lot">247</num>
                <name type="author">Vernet (Horace),</name>
                <trait>
                   <p>célèbre peintre d'histoire, n. 1789,
@@ -2671,7 +2671,7 @@
                <desc xml:id="CAT_000166_e247_d3">3° L. s., 1 p. in-8. -4° Apostille aut. sig., 2 p. in-fol.</desc>
             </item>
             <item n="248" xml:id="CAT_000166_e248">
-               <num>248</num>
+               <num type="lot">248</num>
                <name type="author">Vestris (G.-A.-B.),</name>
                <trait>
                   <p>célèbre danseur, surnommé le Dieu
@@ -2684,7 +2684,7 @@
 						Vestris, 1 p. in-8.</note>
             </item>
             <item n="249" xml:id="CAT_000166_e249">
-               <num>249</num>
+               <num type="lot">249</num>
                <name type="author">Veuillot (Louis),</name>
                <trait>
                   <p>le célèbre publiciste
@@ -2696,12 +2696,12 @@
 						M. de Falloux et Monseigneur Dupanloup. Piquants détails.</note>
             </item>
             <item n="250" xml:id="CAT_000166_e250">
-               <num>250</num>
+               <num type="lot">250</num>
                <name type="author">Veuillot (Louis)</name>
                <desc xml:id="CAT_000166_e250_d1">Article aut. sig., (26 août 1857), 1 p. in-fol. Curieux.</desc>
             </item>
             <item n="251" xml:id="CAT_000166_e251">
-               <num>251</num>
+               <num type="lot">251</num>
                <name type="author">Victoire de France,</name>
                <trait>
                   <p>fille de Louis XV, n. 1733, m.
@@ -2711,7 +2711,7 @@
 						brisé. Jolie lettre.</desc>
             </item>
             <item n="252" xml:id="CAT_000166_e252">
-               <num>252</num>
+               <num type="lot">252</num>
                <name type="author">Victor-Emmanuel,</name>
                <trait>
                   <p>premier roi d'Italie, n. 1820,m.
@@ -2724,13 +2724,13 @@
 					Albert.</note>
             </item>
             <item n="253" xml:id="CAT_000166_e253">
-               <num>253</num>
+               <num type="lot">253</num>
                <name type="author">Victor-Emmanuel</name>
                <desc xml:id="CAT_000166_e253_d1">L. s., en français, au cardinal Du Pont; Turin, 24 mars 1857, 1/2 p.
 						in-fol., cachet. Très belle pièce.</desc>
             </item>
             <item n="254" xml:id="CAT_000166_e254">
-               <num>254</num>
+               <num type="lot">254</num>
                <name type="author">Villars (Louis-Hector, duc de),</name>
                <trait>
                   <p>maréchal de France,
@@ -2742,7 +2742,7 @@
 						était gouverneur.</note>
             </item>
             <item n="255" xml:id="CAT_000166_e255">
-               <num>255</num>
+               <num type="lot">255</num>
                <name type="author">Villars (Louis-Hector, duc de)</name>
                <desc xml:id="CAT_000166_e255_d1">L. s. à M. d'Angervilliers; Paris, 29 avril 1733, 8 p. 1/2
 						in-fol.</desc>
@@ -2751,7 +2751,7 @@
 						que Turenne et Condé professaient à ce sujet.</note>
             </item>
             <item n="256" xml:id="CAT_000166_e256">
-               <num>256</num>
+               <num type="lot">256</num>
                <name type="author">Voltaire (F.-M. Arouet de),</name>
                <trait>
                   <p>n. 1694, m.
@@ -2761,7 +2761,7 @@
 						in-4. Belle et intéressante lettre.</desc>
             </item>
             <item n="257" xml:id="CAT_000166_e257">
-               <num>257</num>
+               <num type="lot">257</num>
                <name type="author">Voltaire (F.-M. Arouet de)</name>
                <desc xml:id="CAT_000166_e257_d1">L. aut., sig. V. (à Tiriot); les Délices, 17 sept. 1758, 4 p. pl. pet.
 						in-4.</desc>
@@ -2772,13 +2772,13 @@
 						Jean -Jacques est-il devenu père de l'Eglise?»</note>
             </item>
             <item n="258" xml:id="CAT_000166_e258">
-               <num>258</num>
+               <num type="lot">258</num>
                <name type="author">Voltaire (F.-M. Arouet de)</name>
                <desc xml:id="CAT_000166_e258_d1">L. aut., sig. V., au comte d'Argental; 12 nov. 1760, 3/4 de p. in-4,
 						cachet. Recommandation en faveur d'un comédien.</desc>
             </item>
             <item n="259" xml:id="CAT_000166_e259">
-               <num>259</num>
+               <num type="lot">259</num>
                <name type="author">Voltaire (F.-M. Arouet de)</name>
                <desc xml:id="CAT_000166_e259_d1">Fragment de la tragédie de Zaire, avec des corrections autographes, 23 p.
 						in-fol.</desc>
@@ -2786,7 +2786,7 @@
 						tout le troisième acte.</note>
             </item>
             <item n="260" xml:id="CAT_000166_e260">
-               <num>260</num>
+               <num type="lot">260</num>
                <name type="author">Webster (Daniel),</name>
                <trait>
                   <p>un des meilleurs orateurs
@@ -2795,7 +2795,7 @@
                <desc xml:id="CAT_000166_e260_d1">L. a. s. à M. Bronton; Boston, 5 oct. 1829, 1 p. in-4.</desc>
             </item>
             <item n="261" xml:id="CAT_000166_e261">
-               <num>261</num>
+               <num type="lot">261</num>
                <name type="author">Wellington (Arthur Wellesley, duc de),</name>
                <trait>
                   <p>l'illustre
@@ -2804,13 +2804,13 @@
                <desc xml:id="CAT_000166_e261_d1">L. a. s. à Ross; Londres, 27 mai 1824, 1 p. in-8, cachet.</desc>
             </item>
             <item n="262" xml:id="CAT_000166_e262">
-               <num>262</num>
+               <num type="lot">262</num>
                <name type="author">Wellington (Arthur Wellesley, duc de)</name>
                <desc xml:id="CAT_000166_e262_d1">1° L. aut., à la 3° personne ; 27 mars 1844, 1/2 p. in-8.</desc>
                <desc xml:id="CAT_000166_e262_d2">2° L. s., 1 p. in-4.</desc>
             </item>
             <item n="263" xml:id="CAT_000166_e263">
-               <num>263</num>
+               <num type="lot">263</num>
                <name type="author">Willot (Amédée, comte),</name>
                <trait>
                   <p>général des armées de la
@@ -2824,7 +2824,7 @@
 						demande sa mise en liberté.</note>
             </item>
             <item n="264" xml:id="CAT_000166_e264">
-               <num>264</num>
+               <num type="lot">264</num>
                <name type="author">Willot (Amédée, comte)</name>
                <desc xml:id="CAT_000166_e264_d1">1° L. a. s. aux représentants du peuple près l'armée des Pyrénées
 						occidentales; 8 brumaire an III, 9 p. 1/2 in-fol.</desc>
@@ -2835,7 +2835,7 @@
 						importants.</note>
             </item>
             <item n="265" xml:id="CAT_000166_e265">
-               <num>265</num>
+               <num type="lot">265</num>
                <name type="author">Chénier (Louis-Sauveur),</name>
                <trait>
                   <p>adjudant général, frère du
@@ -2845,7 +2845,7 @@
 					imp.</desc>
             </item>
             <item n="266" xml:id="CAT_000166_e266">
-               <num>266</num>
+               <num type="lot">266</num>
                <name type="author">Cormenin (le vicomte de),</name>
                <trait>
                   <p>célèbre publiciste et
@@ -2854,7 +2854,7 @@
                <desc xml:id="CAT_000166_e266_d1">11 l. a. s. à M. Bourguignon, 20 p. in-8.</desc>
             </item>
             <item n="267" xml:id="CAT_000166_e267">
-               <num>267</num>
+               <num type="lot">267</num>
                <name type="author">Courier (P.-L.),</name>
                <trait>
                   <p>le célèbre écrivain.</p>
@@ -2865,7 +2865,7 @@
 						la grande armée.</note>
             </item>
             <item n="268" xml:id="CAT_000166_e268">
-               <num>268</num>
+               <num type="lot">268</num>
                <name type="author">Desmoulins (Lucile),</name>
                <trait>
                   <p>femme du
@@ -2875,7 +2875,7 @@
                <desc xml:id="CAT_000166_e268_d2">2° Pièce aut., 12 p. in-4.</desc>
             </item>
             <item n="269" xml:id="CAT_000166_e269">
-               <num>269</num>
+               <num type="lot">269</num>
                <name type="author">Dumouriez (Ch.-Fr.),</name>
                <trait>
                   <p>le célèbre général.</p>
@@ -2886,7 +2886,7 @@
 						d'Amérique.</desc>
             </item>
             <item n="270" xml:id="CAT_000166_e270">
-               <num>270</num>
+               <num type="lot">270</num>
                <name type="author">Grouchy (Emm.),</name>
                <trait>
                   <p>maréchal de France.</p>
@@ -2897,7 +2897,7 @@
 						sur l'esprit aristocratique qui régnait dans son régiment.</note>
             </item>
             <item n="271" xml:id="CAT_000166_e271">
-               <num>271</num>
+               <num type="lot">271</num>
                <name type="author">Guadet (E.-M.),</name>
                <trait>
                   <p>le célèbre conventionnel
@@ -2906,7 +2906,7 @@
                <desc xml:id="CAT_000166_e271_d1">L. a. s. ; 15 nov. an I, 1/2 p. in-4. Belle lettre. Rare.</desc>
             </item>
             <item n="272" xml:id="CAT_000166_e272">
-               <num>272</num>
+               <num type="lot">272</num>
                <name type="author">Kosciuszko (Thaddeus),</name>
                <trait>
                   <p>le célèbre patriote
@@ -2916,7 +2916,7 @@
 						in-fol. Très belle pièce.</desc>
             </item>
             <item n="273" xml:id="CAT_000166_e273">
-               <num>273</num>
+               <num type="lot">273</num>
                <name type="author">Monglat (Françoise, marquise de),</name>
                <trait>
                   <p>gouvernante des
@@ -2926,7 +2926,7 @@
 						oblong.</desc>
             </item>
             <item n="274" xml:id="CAT_000166_e274">
-               <num>274</num>
+               <num type="lot">274</num>
                <name type="author">Nivernois (le duc de),</name>
                <trait>
                   <p>lieutenant général, de l’Académie française</p>
@@ -2935,7 +2935,7 @@
 						lettre.</desc>
             </item>
             <item n="275" xml:id="CAT_000166_e275">
-               <num>275</num>
+               <num type="lot">275</num>
                <name type="author">Sergent-Marceau,</name>
                <trait>
                   <p>conventionnel, graveur, beau-frère
@@ -2945,7 +2945,7 @@
 						lettre.</desc>
             </item>
             <item n="276" xml:id="CAT_000166_e276">
-               <num>276</num>
+               <num type="lot">276</num>
                <name type="author">Thaumas de la Thaumassière (Gaspard),</name>
                <trait>
                   <p>célèbre
@@ -2954,7 +2954,7 @@
                <desc xml:id="CAT_000166_e276_d1">Consultation signée ; Bourges, 20 juin 1689,1 p. 1/2 in-4.</desc>
             </item>
             <item n="277" xml:id="CAT_000166_e277">
-               <num>277</num>
+               <num type="lot">277</num>
                <name type="author">Thiers (Ad.),</name>
                <trait>
                   <p>premier président de la 3° République
@@ -2968,7 +2968,7 @@
 						faire marcher les affaires et de calmer le pays.»</note>
             </item>
             <item n="278" xml:id="CAT_000166_e278">
-               <num>278</num>
+               <num type="lot">278</num>
                <name type="author">Académie française</name>
                <desc xml:id="CAT_000166_e278_d1">18 l. a. s.</desc>
                <note>Cabanis, Fontanes, Laharpe, reçu,
@@ -2977,7 +2977,7 @@
 						Volney.</note>
             </item>
             <item n="279" xml:id="CAT_000166_e279">
-               <num>279</num>
+               <num type="lot">279</num>
                <name type="author">Académie française</name>
                <desc xml:id="CAT_000166_e279_d1">27 l. a. s.</desc>
                <note>Choiseul-Gouffier, Destutt-Tracy, Dupin
@@ -2985,14 +2985,14 @@
 						Sicard, Suard, Villemain, etc.</note>
             </item>
             <item n="280" xml:id="CAT_000166_e280">
-               <num>280</num>
+               <num type="lot">280</num>
                <name type="author">Clergé</name>
                <desc xml:id="CAT_000166_e280_d1">40 l. a. s. ou l. s. Champion de Cicé, Billiet, Mathieu, Bonald, Chatel
 						(l'abbé).»</desc>
                <note>Wiseman, etc.</note>
             </item>
             <item n="281" xml:id="CAT_000166_e281">
-               <num>281</num>
+               <num type="lot">281</num>
                <name type="author">Conventionnels</name>
                <desc xml:id="CAT_000166_e281_d1">33 l. a. s.</desc>
                <note>Aubry, Blanqui, Chazal, Cochon, Daunou,
@@ -3003,7 +3003,7 @@
 						dossier.</note>
             </item>
             <item n="282" xml:id="CAT_000166_e282">
-               <num>282</num>
+               <num type="lot">282</num>
                <name type="author">Divers</name>
                <desc xml:id="CAT_000166_e282_d1">13 lettres ou pièces.</desc>
                <note>Bellegarde (Roger de), p. s.,
@@ -3015,7 +3015,7 @@
 						s.</note>
             </item>
             <item n="283" xml:id="CAT_000166_e283">
-               <num>283</num>
+               <num type="lot">283</num>
                <name type="author">Généraux</name>
                <desc xml:id="CAT_000166_e283_d1">33 l. a. s.</desc>
                <note>Berton, Bouillé, Bréa, Caffarelli du
@@ -3023,7 +3023,7 @@
 						Wimpffen, etc.</note>
             </item>
             <item n="284" xml:id="CAT_000166_e284">
-               <num>284</num>
+               <num type="lot">284</num>
                <name type="author">Généraux</name>
                <desc xml:id="CAT_000166_e284_d1">22 l. s.</desc>
                <note>Beauharnais (Alex.), Carteaux, Dumouriez,
@@ -3031,7 +3031,7 @@
 					etc.</note>
             </item>
             <item n="285" xml:id="CAT_000166_e285">
-               <num>285</num>
+               <num type="lot">285</num>
                <name type="author">Hommes d'État</name>
                <desc xml:id="CAT_000166_e285_d1">9 l. s.</desc>
                <note>Barbesieuz, 2 let., Chamillart, Duperron
@@ -3039,7 +3039,7 @@
 					Palmerston.</note>
             </item>
             <item n="286" xml:id="CAT_000166_e286">
-               <num>286</num>
+               <num type="lot">286</num>
                <name type="author">Hommes d'État</name>
                <desc xml:id="CAT_000166_e286_d1">50 l. a. s.</desc>
                <note>Billault, Brougham Crémieux, Decazes,
@@ -3048,7 +3048,7 @@
 						Peyronnet, Rouher, Siméon, Villèle, etc.</note>
             </item>
             <item n="287" xml:id="CAT_000166_e287">
-               <num>287</num>
+               <num type="lot">287</num>
                <name type="author">Littérateurs</name>
                <desc xml:id="CAT_000166_e287_d1">80 l. a. s.</desc>
                <note>Beulé, Blanc (Louis), Gay (Delphine),
@@ -3056,7 +3056,7 @@
 						(Fréd.), Suc (Eug.), etc.</note>
             </item>
             <item n="288" xml:id="CAT_000166_e288">
-               <num>288</num>
+               <num type="lot">288</num>
                <name type="author">Maréchaux de France</name>
                <desc xml:id="CAT_000166_e288_d1">6 p. s., sur vélin.</desc>
                <note>Albret (César d'), Boufflers,
@@ -3064,7 +3064,7 @@
 					Vivonne.</note>
             </item>
             <item n="289" xml:id="CAT_000166_e289">
-               <num>289</num>
+               <num type="lot">289</num>
                <name type="author">Maréchaux de France</name>
                <desc xml:id="CAT_000166_e289_d1">16 l. a. s.</desc>
                <note>Broglie, 2 let., Fitz-James, Laval,
@@ -3072,7 +3072,7 @@
 						Tonnerre, 2 let.</note>
             </item>
             <item n="290" xml:id="CAT_000166_e290">
-               <num>290</num>
+               <num type="lot">290</num>
                <name type="author">Maréchaux de France</name>
                <desc xml:id="CAT_000166_e290_d1">12 l. s.</desc>
                <note>Besons, Biron, Boufflers, Chamilly,
@@ -3080,14 +3080,14 @@
 						Villeroy.</note>
             </item>
             <item n="291" xml:id="CAT_000166_e291">
-               <num>291</num>
+               <num type="lot">291</num>
                <name type="author">Maréchaux du 1er Empire</name>
                <desc xml:id="CAT_000166_e291_d1">7 l. a. s.</desc>
                <note>Brune, Jourdan, Kellermann, Macdonald,
 						Marmont, Masséna et Suchet.</note>
             </item>
             <item n="292" xml:id="CAT_000166_e292">
-               <num>292</num>
+               <num type="lot">292</num>
                <name type="author">Maréchaux du 1er Empire</name>
                <desc xml:id="CAT_000166_e292_d1">20 l. s. et 1 l. aut. Berthier, Bessières, Brune, Davout, 2 let.,
 						Gouvion-Saint-Cyr, 2 let., Jourdan, 2 let., Macdonald, 2 let., Marmont, 2
@@ -3095,7 +3095,7 @@
 						let.</desc>
             </item>
             <item n="293" xml:id="CAT_000166_e293">
-               <num>293</num>
+               <num type="lot">293</num>
                <name type="author">Maréchaux de 1815 à 1851</name>
                <desc xml:id="CAT_000166_e293_d1">13 l. a. s.</desc>
                <note>Beurnonville, 3 let., Clarche, Coigny,
@@ -3103,20 +3103,20 @@
 						Valée.</note>
             </item>
             <item n="294" xml:id="CAT_000166_e294">
-               <num>294</num>
+               <num type="lot">294</num>
                <name type="author">Maréchaux du second Empire</name>
                <desc xml:id="CAT_000166_e294_d1">8 l. a. s. et 1 l. s. Baraguey-d'Hilliers, Canrobert, Le Boeuf, 1. s.,
 						Magnan, 2 let., Pélissier, 2 let., et Vaillant, 2 let.</desc>
                </item>
             <item n="295" xml:id="CAT_000166_e295">
-               <num>295</num>
+               <num type="lot">295</num>
                <name type="author">Ministres</name>
                <desc xml:id="CAT_000166_e295_d1">8 l. a. s.</desc>
                <note>Argenson, Chamillart, Latour-Dupin, Loménie de
                   Brienne, Montbarey, Monteynard, Necker et Saint-Germain.</note>
             </item>
             <item n="296" xml:id="CAT_000166_e296">
-               <num>296</num>
+               <num type="lot">296</num>
                <name type="author">Peintres</name>
                <desc xml:id="CAT_000166_e296_d1">12 l. a. s.</desc>
                <note>Cabanel, 2 let., Cabat, 2 let.,
@@ -3124,7 +3124,7 @@
 						Schnetz et Vien.</note>
             </item>
             <item n="297" xml:id="CAT_000166_e297">
-               <num>297</num>
+               <num type="lot">297</num>
                <name type="author">Rois et princes français</name>
                <desc xml:id="CAT_000166_e297_d1">23 p. s.</desc>
                <note>Henri II, Condé (le grand), Adélaïde,
@@ -3132,7 +3132,7 @@
 						(le duc d'), Beauharnais (Eugène), etc.</note>
             </item>
             <item n="298" xml:id="CAT_000166_e298">
-               <num>298</num>
+               <num type="lot">298</num>
                <name type="author">Savants</name>
                <desc xml:id="CAT_000166_e298_d1">120 l. a. s.</desc>
                <note>Chaptal, Dumas,
@@ -3140,7 +3140,7 @@
 						Quatrefages, Secchi, etc.</note>
             </item>
             <item n="299" xml:id="CAT_000166_e299">
-               <num>299</num>
+               <num type="lot">299</num>
                <name type="author">Souverains étrangers</name>
                <desc xml:id="CAT_000166_e299_d1">15 l. s.</desc>
                <note>Charles-Emmanuel III, roi de Sardaigne;
@@ -3153,7 +3153,7 @@
                </item>
             <note>NAPOLÉON I ET SA FAMILLE</note>
             <item n="300" xml:id="CAT_000166_e300">
-               <num>300</num>
+               <num type="lot">300</num>
                <name type="author">Napoléon Ier</name>
                <trait>
                   <p>empereur des Français.</p>
@@ -3162,7 +3162,7 @@
                   messidor an II, 3/4 de p. in-fol., tête impr.</desc>
             </item>
             <item n="301" xml:id="CAT_000166_e301">
-               <num>301</num>
+               <num type="lot">301</num>
                <name type="author">Napoléon Ier</name>
                <desc xml:id="CAT_000166_e301_d1"> L. s., comme commandant en
                   chef l'artillerie de l'armée d'Italie, avec 3 lignes aut., au cit. Berlier;
@@ -3170,7 +3170,7 @@
                   rousseur. Très belle lettre, contenant des ordres militaires.</desc>
             </item>
             <item n="302" xml:id="CAT_000166_e302">
-               <num>302</num>
+               <num type="lot">302</num>
                <name type="author">Napoléon</name>
                <desc xml:id="CAT_000166_e302_d1">Pièce de 6 lignes aut. sig., comme général de l'armée de l'intérieur, en
 						bas d'un certificat signé par Casabianca, Andrei, Moltedo et Arrighi ;
@@ -3181,7 +3181,7 @@
                   signature.</note>
             </item>
             <item n="303" xml:id="CAT_000166_e303">
-               <num>303</num>
+               <num type="lot">303</num>
                <name type="author">Napoléon Ier</name>
                <desc xml:id="CAT_000166_e303_d1">L. s., comme général en chef de l'armée d'Italie, à Kellermann ;
 						Plaisance, 20 floréal an IV, 1 p. in-fol., tête
@@ -3191,14 +3191,14 @@
 						l'activité et le mérite du fils de Kellermann.</note>
             </item>
             <item n="304" xml:id="CAT_000166_e304">
-               <num>304</num>
+               <num type="lot">304</num>
                <name type="author">Napoléon Ier</name>
                <desc xml:id="CAT_000166_e304_d1">L. s., comme général en chef de l'armée d'Italie, au cit. Périllier ;
 						Milan, 13 nivôse an V, 1/2 p. in-fol., vig. et tête impr. Très belle
 						pièce.</desc>
             </item>
             <item n="305" xml:id="CAT_000166_e305">
-               <num>305</num>
+               <num type="lot">305</num>
                <name type="author">Napoléon</name>
                <desc xml:id="CAT_000166_e305_d1">1° Apostille sig., comme premier consul, sur un rapport de police ; 20
 						vendémiaire an XI, 1 p. 1/2 in-fol., vig. et tête impr. Document
@@ -3207,7 +3207,7 @@
                   double in-fol.</desc>
             </item>
             <item n="306" xml:id="CAT_000166_e306">
-               <num>306</num>
+               <num type="lot">306</num>
                <name type="author">Napoléon Ier</name>
                <desc xml:id="CAT_000166_e306_d1">L. s. Napol. à l'archevêque d'Autun; palais des Tuileries, 9 pluviôse an
 						XIII, 1/4 de p. in-fol.</desc>
@@ -3215,7 +3215,7 @@
 						rétablissement de la paix et de l'union dans son diocèse.</note>
             </item>
             <item n="307" xml:id="CAT_000166_e307">
-               <num>307</num>
+               <num type="lot">307</num>
                <name type="author">Napoléon Ier</name>
                <desc xml:id="CAT_000166_e307_d1">Sa signature et le mot accordé autographe sur une lettre de Berthier ;
 						Paris, 24 pluviôse an XIII, 3/4 de p. in-fol.</desc>
@@ -3223,14 +3223,14 @@
 						autorise lord Elgin à venir à Paris.</note>
             </item>
             <item n="308" xml:id="CAT_000166_e308">
-               <num>308</num>
+               <num type="lot">308</num>
                <name type="author">Napoléon Ier</name>
                <desc xml:id="CAT_000166_e308_d1">L. s. Napol. au duc de Valmy ; Valladolid, 14 janv. 1809, 1 p. in-4. Il
 						lui ordonne de continuer à faire partir pour l'Espagne les vieux soldats qui
 						rentrent, en les organisant en compagnies isolées.</desc>
                </item>
             <item n="309" xml:id="CAT_000166_e309">
-               <num>309</num>
+               <num type="lot">309</num>
                <name type="author">Napoléon Ier</name>
                <desc xml:id="CAT_000166_e309_d1">P. s. Napoléon, avec une
                   ligne autographe, 1 p. in-4.</desc>
@@ -3238,7 +3238,7 @@
                   d'indemnités pour pertes d'effets.</note>
             </item>
             <item n="310" xml:id="CAT_000166_e310">
-               <num>310</num>
+               <num type="lot">310</num>
                <name type="author">Beauharnais (Joséphine),</name>
                <trait>
                   <p>impératrice des
@@ -3249,7 +3249,7 @@
 						faveur du citoyen Pauly.</desc>
             </item>
             <item n="311" xml:id="CAT_000166_e311">
-               <num>311</num>
+               <num type="lot">311</num>
                <name type="author">Napoléon II,</name>
                <trait>
                   <p>duc de Reichstadt, fils de Napoléon
@@ -3258,7 +3258,7 @@
                <desc xml:id="CAT_000166_e311_d1">Devoir aut. sig., en français, 4 p. in-4. Rare.</desc>
             </item>
             <item n="312" xml:id="CAT_000166_e312">
-               <num>312</num>
+               <num type="lot">312</num>
                <name type="author">Bonaparte (Joseph),</name>
                <trait>
                   <p>roi de Naples, puis d'Espagne,
@@ -3268,7 +3268,7 @@
 						in-4.</desc>
             </item>
             <item n="313" xml:id="CAT_000166_e313">
-               <num>313</num>
+               <num type="lot">313</num>
                <name type="author">Bonaparte (Jérôme),</name>
                <trait>
                   <p>roi de Westphalie, le plus jeune
@@ -3278,7 +3278,7 @@
 						enveloppe.</desc>
             </item>
             <item n="314" xml:id="CAT_000166_e314">
-               <num>314</num>
+               <num type="lot">314</num>
                <name type="author">Bonaparte (Jérôme-Napoléon),</name>
                <trait>
                   <p>fils du
@@ -3288,7 +3288,7 @@
                <desc xml:id="CAT_000166_e314_d2">2° P. a. s., 1/2 p. in-8. Signature barrée.</desc>
             </item>
             <item n="315" xml:id="CAT_000166_e315">
-               <num>315</num>
+               <num type="lot">315</num>
                <name type="author">Bonaparte (Elisa),</name>
                <trait>
                   <p>soeur de Napoléon
@@ -3298,7 +3298,7 @@
 						encadrements bleus. Belle pièce.</desc>
             </item>
             <item n="316" xml:id="CAT_000166_e316">
-               <num>316</num>
+               <num type="lot">316</num>
                <name type="author">Fesch (le cardinal),</name>
                <trait>
                   <p>oncle de Napoléon
@@ -3308,7 +3308,7 @@
 						lettre.</desc>
             </item>
             <item n="317" xml:id="CAT_000166_e317">
-               <num>317</num>
+               <num type="lot">317</num>
                <name type="author">Murat (Joachim),</name>
                <trait>
                   <p>roi de Naples, fusillé en
@@ -3318,7 +3318,7 @@
                <desc xml:id="CAT_000166_e317_d2">2° P. s. J. Napoléon ; Reggio, 11 mars 1814, 1/2 p. in-fol</desc>
             </item>
             <item n="318" xml:id="CAT_000166_e318">
-               <num>318</num>
+               <num type="lot">318</num>
                <name type="author">Leclerc (J.-V.),</name>
                <trait>
                   <p>général en chef de l'armée de
@@ -3328,7 +3328,7 @@
 						vig. et tête impr. Belle lettre.</desc>
             </item>
             <item n="319" xml:id="CAT_000166_e319">
-               <num>319</num>
+               <num type="lot">319</num>
                <name type="author">Napoléon III,</name>
                <trait>
                   <p>empereur des Français.</p>
@@ -3337,7 +3337,7 @@
                <desc xml:id="CAT_000166_e319_d2">2° Pièce aut., 1/2 p. in-8.</desc>
             </item>
             <item n="320" xml:id="CAT_000166_e320">
-               <num>320</num>
+               <num type="lot">320</num>
                <name type="author">Napoléon III.</name>
                <desc xml:id="CAT_000166_e320_d1"> L. s. aux membres de la commission pour l'érection d'un monument à Papin ;
                   Elysée, 23 déc. 1850, 1/2 p. in-4.</desc>
@@ -3346,7 +3346,7 @@
                   Papin.</note>
             </item>
             <item n="321" xml:id="CAT_000166_e321">
-               <num>321</num>
+               <num type="lot">321</num>
                <name type="author">Napoléon III</name>
                <desc xml:id="CAT_000166_e321_d1">L. s. à l'archevêque de Bourges; Paris, 28 déc. 1851, 1/2 p.
 						in-fol.</desc>
@@ -3357,7 +3357,7 @@
                </item>
             <note>DOCUMENTS HISTORIQUES</note>
             <item n="322" xml:id="CAT_000166_e322">
-               <num>322</num>
+               <num type="lot">322</num>
                <name type="author">Abd-el-Kader</name>
                <trait>
                   <p>le célèbre émir des
@@ -3369,7 +3369,7 @@
                   impériale.</desc>
             </item>
             <item n="323" xml:id="CAT_000166_e323">
-               <num>323</num>
+               <num type="lot">323</num>
                <name type="author">Aubigné (Famille d')</name>
                <desc xml:id="CAT_000166_e323_d1">1° 3 pièces, dont 2 sur vélin, concernant Théodore d'Aubigné (le célèbre
                   historien).</desc>
@@ -3383,13 +3383,13 @@
                   comtesse de Caylus ; Paris, 12 janv. 1705, 1/2p. in-4, cachet.</desc>
             </item>
             <item n="324" xml:id="CAT_000166_e324">
-               <num>324</num>
+               <num type="lot">324</num>
                <name type="author">Berri</name>
                <desc xml:id="CAT_000166_e324_d1">Comptes du grenier à sel de Vierzon pour l'année 1516, manuscrit
 						original, sur vélin, 43 p. in-fol.</desc>
             </item>
             <item n="325" xml:id="CAT_000166_e325">
-               <num>325</num>
+               <num type="lot">325</num>
                <name type="author">Berri</name>
                <desc xml:id="CAT_000166_e325_d1">Pièce originale, sur vélin; 7 janv. 1556 (1557, n. s.), 16 p.
 						in-fol.</desc>
@@ -3398,25 +3398,25 @@
 						Bourges, pour obtenir un dégrèvement de taxes.</note>
             </item>
             <item n="326" xml:id="CAT_000166_e326">
-               <num>326</num>
+               <num type="lot">326</num>
                <name type="author">Berri</name>
                <desc xml:id="CAT_000166_e326_d1">Recueil de 42 lettres adressées à Pelletier, député du Cher à la
 						Convention, 1 vol. in-fol., cart.</desc>
             </item>
             <item n="327" xml:id="CAT_000166_e327">
-               <num>327</num>
+               <num type="lot">327</num>
                <name type="author">Berri</name>
                <desc xml:id="CAT_000166_e327_d1">Lot de manuscrits et de pièces, sur vélin et sur papier, du XVIe au
 						XVIIIe siècle.</desc>
             </item>
             <item n="328" xml:id="CAT_000166_e328">
-               <num>328</num>
+               <num type="lot">328</num>
                <name type="author">Berri</name>
                <desc xml:id="CAT_000166_e328_d1">Dossier considérable de documents originaux concernant cette province.
 						Importante réunion.</desc>
             </item>
             <item n="329" xml:id="CAT_000166_e329">
-               <num>329</num>
+               <num type="lot">329</num>
                <name type="author">Berri</name>
                <desc xml:id="CAT_000166_e329_d1">14 l. aut., dont plusieurs signées, de P. DuverGier De Hauranne, député
 						du Cher, membre de l'Acad. fr., environ 30 p.
@@ -3425,31 +3425,31 @@
 						intéressante.</note>
             </item>
             <item n="330" xml:id="CAT_000166_e330">
-               <num>330</num>
+               <num type="lot">330</num>
                <name type="author">Brevets et diplômes</name>
                <desc xml:id="CAT_000166_e330_d1">Recueil de 48 brevets, diplômes et passeports de l'époque
 						révolutionnaire, 1 vol. in-fol.</desc>
             </item>
             <item n="331" xml:id="CAT_000166_e331">
-               <num>331</num>
+               <num type="lot">331</num>
                <name type="author">Brevets militaires</name>
                <desc xml:id="CAT_000166_e331_d1">Recueil de 47 brevets militaires des XVIIe et XVIIIe siècles, 1 vol.
 						in-fol.</desc>
             </item>
             <item n="332" xml:id="CAT_000166_e332">
-               <num>332</num>
+               <num type="lot">332</num>
                <name type="author">Broglie (Famille de)</name>
                <desc xml:id="CAT_000166_e332_d1">20 lettres des XVIIIe et XIXe siècles, émanant des membres de cette
 						famille.</desc>
             </item>
             <item n="333" xml:id="CAT_000166_e333">
-               <num>333</num>
+               <num type="lot">333</num>
                <name type="author">Campagne de Custine en 1793</name>
                <desc xml:id="CAT_000166_e333_d1">Recueil de copies de lettres, ordres, etc., concernant la campagne de
 						Custine en 1793, 1 vol. in-4, cart.</desc>
             </item>
             <item n="334" xml:id="CAT_000166_e334">
-               <num>334</num>
+               <num type="lot">334</num>
                <name type="author">Cardinaux</name>
                <desc xml:id="CAT_000166_e334_d1">Recueil de 125 lettres signées de cardinaux italiens adressées au
 						cardinal du Pont, archevêque de Bourges, de 1847 à 1851, 1 vol.
@@ -3458,7 +3458,7 @@
 						de Noël.</note>
             </item>
             <item n="335" xml:id="CAT_000166_e335">
-               <num>335</num>
+               <num type="lot">335</num>
                <name type="author">Cham,</name>
                <trait>
                   <p>le célèbre caricaturiste.</p>
@@ -3469,21 +3469,21 @@
 						ivrognes, sur l'éclairage à gaz, sur Cabet, etc.</note>
             </item>
             <item n="336" xml:id="CAT_000166_e336">
-               <num>336</num>
+               <num type="lot">336</num>
                <name type="author">Comité de Salut public</name>
                <desc xml:id="CAT_000166_e336_d1">18 p. s. par Billaud-Varenne, Barère, Collot-d'Herbois, Carnot, Tallien,
 						Cambacères, Prieur, Marie-Joseph Chénier, etc. ; Paris, ans II et III,
 						environ 25 p. in-4 ou in-fol., vig. et têtes impr.</desc>
             </item>
             <item n="337" xml:id="CAT_000166_e337">
-               <num>337</num>
+               <num type="lot">337</num>
                <name type="author">Comité de Sûreté générale</name>
                <desc xml:id="CAT_000166_e337_d1">8 p. s. par Courtois, Voulland, Vadier. Guffroy, Laignelot, Legendre,
 						Lavicomterie, etc. ; Paris, ans II et III, 8 p. in-4 ou in-fol., vig. et
 						têtes impr.</desc>
             </item>
             <item n="338" xml:id="CAT_000166_e338">
-               <num>338</num>
+               <num type="lot">338</num>
                <name type="author">Desmoulins,</name>
                <trait>
                   <p>lieutenant général du bailliage de Guise,
@@ -3495,7 +3495,7 @@
 						Révolution française. Document historique fort intéressant.</note>
             </item>
             <item n="339" xml:id="CAT_000166_e339">
-               <num>339</num>
+               <num type="lot">339</num>
                <name type="author">Desmoulins (Camille),</name>
                <trait>
                   <p>le célèbre
@@ -3517,13 +3517,13 @@
 						Maréchal, -etc.</note>
             </item>
             <item n="340" xml:id="CAT_000166_e340">
-               <num>340</num>
+               <num type="lot">340</num>
                <name type="author">Desmoulins (Camille)</name>
                <desc xml:id="CAT_000166_e340_d1">Copie, faite par M. Matton, de la correspondance de Camille Desmoulins, 1
 						vol. in-4, cart.</desc>
             </item>
             <item n="341" xml:id="CAT_000166_e341">
-               <num>341</num>
+               <num type="lot">341</num>
                <name type="author">Dezallier d'Argenville,</name>
                <trait>
                   <p>l'auteur de la Vie des
@@ -3533,13 +3533,13 @@
 						crayon, 1 vol. in-4. Très intéressant manuscrit.</desc>
             </item>
             <item n="342" xml:id="CAT_000166_e342">
-               <num>342</num>
+               <num type="lot">342</num>
                <name type="author">Documents du XVIIIe siècle</name>
                <desc xml:id="CAT_000166_e342_d1">Recueil de 60 lettres originales du XVIIIe siècle, sur divers sujets,
 						rel. en 1 vol. in-fol., cart. Intéressant recueil historique.</desc>
             </item>
             <item n="343" xml:id="CAT_000166_e343">
-               <num>343</num>
+               <num type="lot">343</num>
                <name type="author">Émigration</name>
                <desc xml:id="CAT_000166_e343_d1">Recueil de 70 pièces, la plupart signées par les comtes de Provence et
 						d'Artois et par le prince de Condé.</desc>
@@ -3547,14 +3547,14 @@
 						au point de vue historique.</note>
             </item>
             <item n="344" xml:id="CAT_000166_e344">
-               <num>344</num>
+               <num type="lot">344</num>
                <name type="author">Émigration</name>
                <desc xml:id="CAT_000166_e344_d1">Recueil de 35 brevets de l'ordre de Saint-Louis, signés par Louis XVIII,
 						par le comte d'Artois et par le prince de Condé; 1793-1801, 35 p.
 						in-fol.</desc>
             </item>
             <item n="345" xml:id="CAT_000166_e345">
-               <num>345</num>
+               <num type="lot">345</num>
                <name type="author">Guillotine</name>
                <desc xml:id="CAT_000166_e345_d1">10 pièces originales relatives à la construction de la guillotine ; 1792,
 						environ 15 p. in-4 ou in-fol.</desc>
@@ -3564,13 +3564,13 @@
 						l'exécution, etc.</note>
             </item>
             <item n="346" xml:id="CAT_000166_e346">
-               <num>346</num>
+               <num type="lot">346</num>
                <name type="author">Jacobins</name>
                <desc xml:id="CAT_000166_e346_d1">18 pièces originales, émanant des sociétés des Jacobins de Paris et des
                   départements, pendant la Révolution. Dossier fort curieux.</desc>
             </item>
             <item n="347" xml:id="CAT_000166_e347">
-               <num>347</num>
+               <num type="lot">347</num>
                <name type="author">Le Beau (Charles),</name>
                <trait>
                   <p>l'historien du Bas-Empire.</p>
@@ -3583,7 +3583,7 @@
 					dossier.</note>
             </item>
             <item n="348" xml:id="CAT_000166_e348">
-               <num>348</num>
+               <num type="lot">348</num>
                <name type="author">Lenain de Tillemont,</name>
                <trait>
                   <p>historien et
@@ -3594,7 +3594,7 @@
                <note>Très intéressante réunion.</note>
             </item>
             <item n="349" xml:id="CAT_000166_e349">
-               <num>349</num>
+               <num type="lot">349</num>
                <name type="author">Lettres de cachet</name>
                <desc xml:id="CAT_000166_e349_d1">Recueil de 140 pièces du XVIIIe siècle, lettres de cachet, suppliques,
 						brevets d'officier, permis de séjour, lettres de convocation, etc., 1 vol.
@@ -3605,7 +3605,7 @@
 						grossesse de cette princesse.</note>
             </item>
             <item n="350" xml:id="CAT_000166_e350">
-               <num>350</num>
+               <num type="lot">350</num>
                <name type="author">Marat (Jean-Paul),</name>
                <trait>
                   <p>dit l'Ami du peuple, fameux
@@ -3619,7 +3619,7 @@
 					Marat.</note>
             </item>
             <item n="351" xml:id="CAT_000166_e351">
-               <num>351</num>
+               <num type="lot">351</num>
                <name type="author">Marie-Antoinette,</name>
                <trait>
                   <p>reine de France.</p>
@@ -3632,13 +3632,13 @@
 						des comtesses de Provence et d'Artois.</note>
             </item>
             <item n="352" xml:id="CAT_000166_e352">
-               <num>352</num>
+               <num type="lot">352</num>
                <name type="author">Montargis</name>
                <desc xml:id="CAT_000166_e352_d1">Copie originale du journal socialiste le Loing, publié à Montargis de
 						1848 à 1851, 3 vol. in-4 et 1 vol. in-8.</desc>
             </item>
             <item n="353" xml:id="CAT_000166_e353">
-               <num>353</num>
+               <num type="lot">353</num>
                <name type="author">Montfalcon (J.-B.),</name>
                <trait>
                   <p>historien de Lyon.</p>
@@ -3647,26 +3647,26 @@
 					in-fol.</desc>
             </item>
             <item n="354" xml:id="CAT_000166_e354">
-               <num>354</num>
+               <num type="lot">354</num>
                <name type="author">Nantes</name>
                <desc xml:id="CAT_000166_e354_d1">P. s. par Grandmaison, Chaux, etc. , membres du Comité révolutionnaire,
 						institué à Nantes par Carrier; Nantes, 17 ventôse an II, 1 p. 1/2 in-fol.,
 						tête impr. Curieux document.</desc>
             </item>
             <item n="355" xml:id="CAT_000166_e355">
-               <num>355</num>
+               <num type="lot">355</num>
                <name type="author">Paris sous la Révolution française</name>
                <desc xml:id="CAT_000166_e355_d1">Recueil de 85 pièces, émanant des sections de Paris, 1 vol. in-fol.,
 						cart.</desc>
                <note>Importante réunion historique.</note>
             </item>
             <item n="356" xml:id="CAT_000166_e356">
-               <num>356</num>
+               <num type="lot">356</num>
                <name type="author">Révolution française</name>
                <desc xml:id="CAT_000166_e356_d1">Recueil d'environ 100 pièces de l'époque révolutionnaire.</desc>
             </item>
             <item n="357" xml:id="CAT_000166_e357">
-               <num>357</num>
+               <num type="lot">357</num>
                <name type="author">Révolution française</name>
                <desc xml:id="CAT_000166_e357_d1">Recueil d'environ 200 pièces originales concernant
 						Pariset</desc>
@@ -3675,7 +3675,7 @@
 						important.</note>
             </item>
             <item n="358" xml:id="CAT_000166_e358">
-               <num>358</num>
+               <num type="lot">358</num>
                <name type="author">Robespierre (Maximilien de)</name>
                <desc xml:id="CAT_000166_e358_d1">Copie des papiers trouvés chez Robespierre, 1 fort vol. in-4,
 						cart.</desc>
@@ -3683,7 +3683,7 @@
 						mort de Robespierre.</note>
             </item>
             <item n="359" xml:id="CAT_000166_e359">
-               <num>359</num>
+               <num type="lot">359</num>
                <name type="author">Sarrazin (le général),</name>
                <trait>
                   <p>écrivain militaire, condamné
@@ -3693,7 +3693,7 @@
 						in-fol.</desc>
             </item>
             <item n="360" xml:id="CAT_000166_e360">
-               <num>360</num>
+               <num type="lot">360</num>
                <name type="author">Tabourot (Étienne),</name>
                <trait>
                   <p>dit le Seigneur des Accords,
@@ -3706,7 +3706,7 @@
 						mis en couleur par Tabourot.</note>
             </item>
             <item n="361" xml:id="CAT_000166_e361">
-               <num>361</num>
+               <num type="lot">361</num>
                <name type="author">Talmond (le prince de),</name>
                <trait>
                   <p>célèbre chef
@@ -3720,12 +3720,12 @@
             </item>
             <note>CURIOSITÉS HISTORIQUES</note>
             <item n="362" xml:id="CAT_000166_e362">
-               <num>362</num>
+               <num type="lot">362</num>
                <name type="author">Affiches</name>
                <desc xml:id="CAT_000166_e362_d1">Lot considérable d'affiches postérieures à la révolution de 1789. Réunion curieuse</desc>
             </item>
             <item n="363" xml:id="CAT_000166_e363">
-               <num>363</num>
+               <num type="lot">363</num>
                <name type="author">Assignats</name>
                <desc xml:id="CAT_000166_e363_d1">Recueil d'environ 200 pièces, billet de la banque de Law, assignats
 						révolutionnaires, bons des municipalités de Cusset, Sancoins, Saint-Maixent,
@@ -3735,25 +3735,25 @@
 						le Berri et le Bourbonnais.</note>
             </item>
             <item n="364" xml:id="CAT_000166_e364">
-               <num>364</num>
+               <num type="lot">364</num>
                <name type="author">Cachets révolutionnaires</name>
                <desc xml:id="CAT_000166_e364_d1">20 matrices de cachets des municipalités de Montargis, Villemoutiers,
 						Conflans, Quers, Challet, Dammarie, Mézières, Bellegarde, Ferrières,
 						etc.</desc>
             </item>
             <item n="365" xml:id="CAT_000166_e365">
-               <num>365</num>
+               <num type="lot">365</num>
                <name type="author">Cachets</name>
                <desc xml:id="CAT_000166_e365_d1">14 matrices ou empreintes, de cachets du XVIe au XIXe
 					siècle.</desc>
             </item>
             <item n="366" xml:id="CAT_000166_e366">
-               <num>366</num>
+               <num type="lot">366</num>
                <name type="author">Cachets et sceaux</name>
                <desc xml:id="CAT_000166_e366_d1">150 cachets et sceaux, originaux ou empreintes.</desc>
             </item>
             <item n="367" xml:id="CAT_000166_e367">
-               <num>367</num>
+               <num type="lot">367</num>
                <name type="author">Cocardes</name>
                <desc xml:id="CAT_000166_e367_d1">Cinq cocardes</desc>
                <desc xml:id="CAT_000166_e367_d2">1° Cocarde du conventionnel Lavallée ;</desc>
@@ -3763,7 +3763,7 @@
                <desc xml:id="CAT_000166_e367_d5">5° Cocarde métallique de la Restauration.</desc>
             </item>
             <item n="368" xml:id="CAT_000166_e368">
-               <num>368</num>
+               <num type="lot">368</num>
                <name type="author">Déjazet (Virginie),</name>
                <trait>
                   <p>la célèbre actrice.</p>
@@ -3771,7 +3771,7 @@
                <desc xml:id="CAT_000166_e368_d1">Photographie de grand format, encadrée, avec ex-dono aut. signé</desc>
             </item>
             <item n="369" xml:id="CAT_000166_e369">
-               <num>369</num>
+               <num type="lot">369</num>
                <name type="author">Desmoulins (Camille),</name>
                <trait>
                   <p>le célèbre
@@ -3783,7 +3783,7 @@
 						de longueur.</note>
             </item>
             <item n="370" xml:id="CAT_000166_e370">
-               <num>370</num>
+               <num type="lot">370</num>
                <name type="author">Desmoulins (Lucile),</name>
                <trait>
                   <p>femme du précédent.</p>
@@ -3792,20 +3792,20 @@
 						provenant de M. Matton.</desc>
             </item>
             <item n="371" xml:id="CAT_000166_e371">
-               <num>371</num>
+               <num type="lot">371</num>
                <name type="author">Desmoulins (Lucile)</name>
                <desc xml:id="CAT_000166_e371_d1">Petit sac, garni de soie verte, à paillettes métalliques, ayant appartenu
 						à Lucile Desmoulins.</desc>
             </item>
             <item n="372" xml:id="CAT_000166_e372">
-               <num>372</num>
+               <num type="lot">372</num>
                <name type="author">Desmoulins (Lucile)</name>
                <desc xml:id="CAT_000166_e372_d1">Ceinture de soie tricolore, d'un mêtre vingt centimètres, ayant appartenu
 						à Lucile Desmoulins et provenant de M. Matton, ainsi que l'indique une
 						attestation sur vélin fixée à la ceinture.</desc>
             </item>
             <item n="373" xml:id="CAT_000166_e373">
-               <num>373</num>
+               <num type="lot">373</num>
                <name type="author">Desmoulins (Lucile)</name>
                <desc xml:id="CAT_000166_e373_d1">1° Boucle de ceinture en acier, taillé à facettes.</desc>
                <desc xml:id="CAT_000166_e373_d2">2° Bout de chaine et breloques.</desc>
@@ -3815,19 +3815,19 @@
                   proviennent de M. Matton.</desc>
             </item>
             <item n="374" xml:id="CAT_000166_e374">
-               <num>374</num>
+               <num type="lot">374</num>
                <name type="author">Fac-similé de Chartes</name>
                <desc xml:id="CAT_000166_e374_d1">Recueil de 16 planches de fac-similé de chartes du Xe au XVe siècle, 9 p.
 						in-fol.</desc>
             </item>
             <item n="375" xml:id="CAT_000166_e375">
-               <num>375</num>
+               <num type="lot">375</num>
                <name type="author">Hazé, dessinateur</name>
                <desc xml:id="CAT_000166_e375_d1">11 dessins originaux de Hazé, représentant des scènes de la Révolution de
 						juillet 1830, 1 vol. in-4, cart.</desc>
             </item>
             <item n="376" xml:id="CAT_000166_e376">
-               <num>376</num>
+               <num type="lot">376</num>
                <name type="author">Lavater (J.-G.),</name>
                <trait>
                   <p>le célèbre physiognomiste.</p>
@@ -3836,50 +3836,50 @@
 						moderne.</desc>
             </item>
             <item n="377" xml:id="CAT_000166_e377">
-               <num>377</num>
+               <num type="lot">377</num>
                <name type="author">Paléographie</name>
                <desc xml:id="CAT_000166_e377_d1">Recueil d'environ 30 fragments de manuscrits des XIVe et XVe siècles,
 						renfermés dans un carton in-fol.</desc>
             </item>
             <item n="378" xml:id="CAT_000166_e378">
-               <num>378</num>
+               <num type="lot">378</num>
                <name type="author">Portraits</name>
                <desc xml:id="CAT_000166_e378_d1">Lot considérable de portraits gravés ou lithographiés, de divers formats,
 						renfermé dans un carton in-fol.</desc>
             </item>
             <item n="379" xml:id="CAT_000166_e379">
-               <num>379</num>
+               <num type="lot">379</num>
                <name type="author">Règne de Napoléon III</name>
                <desc xml:id="CAT_000166_e379_d1">Lot considérable d'affiches du règne de Napoléon III et d'imprimés
 						relatifs au voyage de l'empereur et de sa femme en Bretagne et en Bourgogne
 						(1858).</desc>
             </item>
             <item n="380" xml:id="CAT_000166_e380">
-               <num>380</num>
+               <num type="lot">380</num>
                <name type="author">Révolution française</name>
                <desc xml:id="CAT_000166_e380_d1">Médaillon de l'époque révolutionnaire, représentant un canon, des drapeaux
 						et des feuillages exécutés en acier.</desc>
             </item>
             <item n="381" xml:id="CAT_000166_e381">
-               <num>381</num>
+               <num type="lot">381</num>
                <name type="author">Sceaux</name>
                <desc xml:id="CAT_000166_e381_d1">40 empreintes de sceaux en soufre ou en plâtre.</desc>
             </item>
             <item n="382" xml:id="CAT_000166_e382">
-               <num>382</num>
+               <num type="lot">382</num>
                <name type="author">Sceaux et cachets</name>
                <desc xml:id="CAT_000166_e382_d1">75 empreintes de sceaux et cachets du Ve au XVIIIe siècle, en cire,
 						plâtre ou galvanoplastie.</desc>
                </item>
             <item n="383" xml:id="CAT_000166_e383">
-               <num>383</num>
+               <num type="lot">383</num>
                <name type="author">Vignettes</name>
                <desc xml:id="CAT_000166_e383_d1">Recueil de 100 vignettes environ, la plupart de
                   l'époque révolutionnaire, apposées sur des lettres ou sur des affiches.
                   Intéressante réunion.</desc>
             </item>
             <item n="384" xml:id="CAT_000166_e384">
-               <num>384</num>
+               <num type="lot">384</num>
                <name type="author">Passages extraits du Nouveau Testament,</name>
                <trait>
                   <p>manuscrit
@@ -3889,13 +3889,13 @@
 						se trouvent dans une rosace au milieu du volume.</desc>
             </item>
             <item n="385" xml:id="CAT_000166_e385">
-               <num>385</num>
+               <num type="lot">385</num>
                <name type="author"/>
                <desc xml:id="CAT_000166_e385_d1">Recueil manuscrit, du XVIIe siècle, comprenant des
                   pièces de vers sur le règne de Louis XIII, 1 vol. in-4, cart</desc>
             </item>
             <item n="386" xml:id="CAT_000166_e386">
-               <num>386</num>
+               <num type="lot">386</num>
                <name type="author"/>
                <desc xml:id="CAT_000166_e386_d1">De libertatibus Ecclesiae Gallicanae, manuscrit du
                   commencement du XVIIIe siècle, 1 vol. pet. in-4, cart.</desc>
@@ -3904,26 +3904,26 @@
 						bibliotheca f. De la Mennais.</note>
             </item>
             <item n="387" xml:id="CAT_000166_e387">
-               <num>387</num>
+               <num type="lot">387</num>
                <name type="author"/>
                <desc xml:id="CAT_000166_e387_d1">Manuscrit tamoul, conte indien, sur 33 lamelles de
                   bois odorant</desc>
             </item>
             <item n="388" xml:id="CAT_000166_e388">
-               <num>388</num>
+               <num type="lot">388</num>
                <name type="author"/>
                <desc xml:id="CAT_000166_e388_d1">Fac-similé des testaments de Louis XVI et de
                   Marie-Antoinette, 6 p. in-4.</desc>
             </item>
             <note>LIVRES</note>
             <item n="389" xml:id="CAT_000166_e389">
-               <num>389</num>
+               <num type="lot">389</num>
                <name type="author">M. Vitruvii Pollionis</name>
                <desc xml:id="CAT_000166_e389_d1"> de architectura libri decem ; Lyon,
                   Jean de Tournes, 1552, in-4, rel. v.</desc>
             </item>
             <item n="390" xml:id="CAT_000166_e390">
-               <num>390</num>
+               <num type="lot">390</num>
                <name type="author">Paulli Merulaee</name>
                <desc xml:id="CAT_000166_e390_d1">Cosmographiae generalis libri tres; ex
                   officinà Plantiniana, 1595, in-4</desc>
@@ -3931,7 +3931,7 @@
 						Rochefoucauld.</note>
             </item>
             <item n="391" xml:id="CAT_000166_e391">
-               <num>391</num>
+               <num type="lot">391</num>
                <name type="author"/>
                <desc xml:id="CAT_000166_e391_d1">Recueil de la ville de Bourges; 1643, in-4, rel. v. Légères taches d'eau.</desc>
                <note>Les armoiries, qui sont
@@ -3939,7 +3939,7 @@
 						dans celui-ci, et on y a ajouté les échevins jusqu'en 1653.</note>
             </item>
             <item n="392" xml:id="CAT_000166_e392">
-               <num>392</num>
+               <num type="lot">392</num>
                <name type="author">Diplomatique</name>
                <desc xml:id="CAT_000166_e392_d1">pratique ou traité de l'arrangement des archives et trésors de chartes,
 						par M. Le Moine; Metz, 1765, in-4.</desc>
@@ -3947,7 +3947,7 @@
 						de 12 planches de fac-similés.</note>
             </item>
             <item n="393" xml:id="CAT_000166_e393">
-               <num>393</num>
+               <num type="lot">393</num>
                <name type="author"/>
                <desc xml:id="CAT_000166_e393_d1">De l'insurrection parisienne et de la prise de la
                   Bastille, discours historique par Dusaulx; Paris, Debure, 1790, in-8, rel. v. f.</desc>
@@ -3955,13 +3955,13 @@
                   aut. sig. de Dusaulx et une vue de la Bastille.</note>
             </item>
             <item n="394" xml:id="CAT_000166_e394">
-               <num>394</num>
+               <num type="lot">394</num>
                <name/>
                <desc xml:id="CAT_000166_e394_d1">Vie de Louis XVI; Londres, 1790, in-18.</desc>
                <note>Pamphlet orné du portrait de Louis XVI.</note>
             </item>
             <item n="395" xml:id="CAT_000166_e395">
-               <num>395</num>
+               <num type="lot">395</num>
                <name/>
                <desc xml:id="CAT_000166_e395_d1">Les Ruines, par Volney; Paris, 1791, in-8</desc>
                <note>Exemplaire
@@ -3969,7 +3969,7 @@
                   Lacépède.</note>
             </item>
             <item n="396" xml:id="CAT_000166_e396">
-               <num>396</num>
+               <num type="lot">396</num>
                <name/>
                <desc xml:id="CAT_000166_e396_d1">Documents originaux sur les relations diplomatiques de la Géorgie avec la France
 						vers la fin du règne de Louis XIV, recueillis par M. Brosset jeune; Paris,
@@ -3980,7 +3980,7 @@
                   Petit.</note>
             </item>
             <item n="397" xml:id="CAT_000166_e397">
-               <num>397</num>
+               <num type="lot">397</num>
                <name/>
                <desc xml:id="CAT_000166_e397_d1">Souvenirs historiques sur la Révolution de 1830 par S. Bérard; Paris, Perrotin, 1834, in-8, dem.-rel.</desc>
                <note>On a
@@ -3989,7 +3989,7 @@
 						Bérard.</note>
             </item>
             <item n="398" xml:id="CAT_000166_e398">
-               <num>398</num>
+               <num type="lot">398</num>
                <name type="author">Histoire des Français,</name>
                <trait>
                   <p>par Théophile Lavallée; Paris,
@@ -3998,7 +3998,7 @@
                <desc xml:id="CAT_000166_e398_d1">Exemplaire illustré d'autographes.</desc>
             </item>
             <item n="399" xml:id="CAT_000166_e399">
-               <num>399</num>
+               <num type="lot">399</num>
                <name type="author">Dictionnairedes anciens noms de lieux du département de
 						l'Eure par Aug. Le Prevost; Evreux, 1839, in-4</name>
                <trait>
@@ -4008,7 +4008,7 @@
                <desc xml:id="CAT_000166_e399_d1">Exemplaire avec ex-dono aut. sig. de l'auteur.</desc>
             </item>
             <item n="400" xml:id="CAT_000166_e400">
-               <num>400</num>
+               <num type="lot">400</num>
                <name type="author">,</name>
                <desc xml:id="CAT_000166_e400_d1">Mémorial de Sainte-Hélène par le comte de Las
                   Cases illustré de 500 dessins par Charlet; Paris,
@@ -4021,14 +4021,14 @@
 						(le maréchal). -etc.</note>
             </item>
             <item n="401" xml:id="CAT_000166_e401">
-               <num>401</num>
+               <num type="lot">401</num>
                <name/>
                <desc xml:id="CAT_000166_e401_d1">Les châteaux d'Ancy-le-Franc, de Saint-Fargeau, de
                   Chastellux et de Tanlay, par le baron Chaillou des Barres; Paris, Vaton,
                   1845, in-4, cart., planches</desc>
             </item>
             <item n="402" xml:id="CAT_000166_e402">
-               <num>402</num>
+               <num type="lot">402</num>
                <name/>
                <desc xml:id="CAT_000166_e402_d1">Preuves de la découverte du coeur de saint Louis rassemblées par MM. Berger de
 						Xivrey, A. Deville, etc. ; Paris, Didot, 1846,
@@ -4037,13 +4037,13 @@
 						Leprévost.</note>
             </item>
             <item n="403" xml:id="CAT_000166_e403">
-               <num>403</num>
+               <num type="lot">403</num>
                <name type="author">Recherches</name>
                <desc xml:id="CAT_000166_e403_d1">historiques et archéologiques sur la ville d'Issoudun, par Armand Pérémé
 						; Paris, 1847, in-8.</desc>
             </item>
             <item n="404" xml:id="CAT_000166_e404">
-               <num>404</num>
+               <num type="lot">404</num>
                <name type="author">Venise</name>
                <desc xml:id="CAT_000166_e404_d1">: Iconographie des chapiteaux du palais ducal, par William Burges,
 						architecte, et Didron aîné ; Paris, Didron, 1857, in-4, avec planches,
@@ -4052,37 +4052,37 @@
 					Didron.</note>
             </item>
             <item n="405" xml:id="CAT_000166_e405">
-               <num>405</num>
+               <num type="lot">405</num>
                <name/>
                <desc xml:id="CAT_000166_e405_d1">Inventaires des archives de l'Empire: Collection de
                   sceaux par Douet d'Arcq, 1re partie, tomes I et II ; Paris, Plon,
                   1863, 2 vol. in-4, dem.-rel. bas.</desc>
             </item>
             <item n="406" xml:id="CAT_000166_e406">
-               <num>406</num>
+               <num type="lot">406</num>
                <name type="author">Jules Fontaine</name>
                <desc xml:id="CAT_000166_e406_d1">Manuel de l'Amateur d'autographes, par Jules Fontaine; Paris, 1836, in-8, cart</desc>
             </item>
             <item n="407" xml:id="CAT_000166_e407">
-               <num>407</num>
+               <num type="lot">407</num>
                <name type="author"/>
                <desc xml:id="CAT_000166_e407_d1">Isographie des hommes célèbres; Paris, Delarue, 1843, 4 vol., in-4.</desc>
             </item>
             <item n="408" xml:id="CAT_000166_e408">
-               <num>408</num>
+               <num type="lot">408</num>
                <name type="author"/>
                <desc xml:id="CAT_000166_e408_d1">Dictionnaire de pièces autographes volées aux bibliothèques publiques de la France,
 						précédé d'observations sur le commerce des autographes par Lud. Lalanne et
 						H. Bordier; Paris, Panchoucke, 1851, in-8, cart. Rare.</desc>
             </item>
             <item n="409" xml:id="CAT_000166_e409">
-               <num>409</num>
+               <num type="lot">409</num>
                <name type="author"/>
                <desc xml:id="CAT_000166_e409_d1">Catalogue de la collection de Lettres autographes de feu M. Lucas de
                   Montigny ; Paris, Laverdet, 1860, in-8.</desc>
             </item>
             <item n="410" xml:id="CAT_000166_e410">
-               <num>410</num>
+               <num type="lot">410</num>
                <name type="author"/>
                <desc xml:id="CAT_000166_e410_d1">Sous ce numéro on vendra un certain nombre de lots d'autographes, de documents
 						et de manuscrits que le temps n'a pas permis de cataloguer. 6) Paris. -Typ.

@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../../../../programmes/GROBID_Dictionaries/_schemas/odd_editiones.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../../../../programmes/GROBID_Dictionaries/_schemas/odd_editiones.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../_schemas/odd_editiones.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../_schemas/odd_editiones.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAT_000328">
-   <teiHeader xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:s="http://purl.oclc.org/dsdl/schematron">
+   <teiHeader xmlns:tei="http://www.tei-c.org/ns/1.0"
+              xmlns:s="http://purl.oclc.org/dsdl/schematron">
       <fileDesc>
          <titleStmt>
             <title>CAT_000328</title>
@@ -22,13 +23,13 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
+            <bibl status="draft">
                <title>REVUE DES CURIOSITÉS DE L'HISTOIRE ET DE LA BIOGRAPHIE</title>
                <num type="lot">200</num>
                <editor>Eugène Charavay fils</editor>
                <publisher>Eugène Charavay fils</publisher>
                <pubPlace>Paris,8 quai du Louvre</pubPlace>
-               <date when="1893-02" instant="false">Juillet 1897</date>
+               <date when="1893-02">Juillet 1897</date>
             </bibl>
             <listEvent>
                <event>
@@ -48,7 +49,7 @@
                </witness>
             </listWit>
             <listBibl>
-               <bibl/>
+               <bibl status="draft"/>
             </listBibl>
          </sourceDesc>
       </fileDesc>
@@ -75,6 +76,9 @@
             </application>
          </appInfo>
       </encodingDesc>
+      <revisionDesc>
+         <change who="#COL_000001" when="2020-07">Correction, adding new mark-up for price</change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -89,7 +93,7 @@
                </trait>
                <desc xml:id="CAT_000328_e1_d1">L. a. s. à M. Leers, libraire à Rotterdam; 1689. 1 p.
                   in-8.</desc>
-               <num type="price">17</num>
+               <measure commodity="currency" unit="FRF" quantity="17">17</measure>
             </item>
             <item n="2" xml:id="CAT_000328_e2">
                <num type="lot">2</num>
@@ -97,10 +101,10 @@
                <trait>
                   <p>premier président au Parlement de Paris, né en 1726, mort en 1798.</p>
                </trait>
-               <desc xml:id="CAT_000328_e2_d1">Pièce sig. ; Paris, 8 sept. 1788,1 p. in-fol., cachet
+               <desc xml:id="CAT_000328_e2_d1">Pièce sig. ; Paris, 8 sept. 1788, 1 p. in-fol., cachet
                   à ses armes.</desc>
-               <num type="price">5</num>
-               <note>Curieuse pièce. Don de 300 livres comme droit curial au curé de la
+               <measure commodity="currency" unit="FRF" quantity="5">5</measure>
+               <note anchored="true">Curieuse pièce. Don de 300 livres comme droit curial au curé de la
                   Sainte-Chapelle.</note>
             </item>
             <item n="3" xml:id="CAT_000328_e3">
@@ -112,8 +116,8 @@
                </trait>
                <desc xml:id="CAT_000328_e3_d1">Let. sig., avec la souscript. autog., au cardinal
                   Alex. Farnèse ; Rome, 27 août 1563, 1 p. in-fol.</desc>
-               <num type="price">10</num>
-               <note>Belle lettre. Il félicite le cardinal sur la bravoure et les talents de son
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
+               <note anchored="true">Belle lettre. Il félicite le cardinal sur la bravoure et les talents de son
                   neveu (le prince Alexandre Farnèse).</note>
             </item>
             <item n="4" xml:id="CAT_000328_e4">
@@ -126,8 +130,8 @@
                <desc xml:id="CAT_000328_e4_d1">2 let. sig. à Rossini ; Paris. 7-8 juill. 1831, 2p.
                   1/4 in-4. Une de ces lettres est écrite par Prosper Mérimée, alors secrétaire du
                   comte d'Argout.</desc>
-               <num type="price">15</num>
-               <note>Désigné pour composer la musique d'une hymne funèbre, en l'honneur des victimes
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
+               <note anchored="true">Désigné pour composer la musique d'une hymne funèbre, en l'honneur des victimes
                   de 1830, dont Casimir Delavigne devait faire les paroles, Rossini, n'ayant pas
                   répondu immédiatement, s'est attiré une seconde lettre aigre-douce où on remarque
                   ce passage : « Cette réponse m'étant indispensable, je vous prie, monsieur, de
@@ -146,7 +150,7 @@
                </trait>
                <desc xml:id="CAT_000328_e5_d1">L. a. s., Sassy (Calvados), 12 août 1883,1/2 p. in-8.
                   Papier à ses armes.</desc>
-               <num type="price">5</num>
+               <measure commodity="currency" unit="FRF" quantity="5">5</measure>
             </item>
             <item n="6" xml:id="CAT_000328_e6">
                <num type="lot">6</num>
@@ -165,8 +169,8 @@
                </trait>
                <desc xml:id="CAT_000328_e7_d1">Pièce sig. comme ambassadeur en Suisse; Bâle, an IV,
                   1 p. in-fol. Jolie vignette. Légèrement tachée.</desc>
-               <num type="price">8</num>
-               <note>Laisser passer pour le baron de Normann, conseiller d'Etat du duc de
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
+               <note anchored="true">Laisser passer pour le baron de Normann, conseiller d'Etat du duc de
                   Wurtemberg, se rendant à Paris, pour y traiter de la paix du Cercle de Souabe avec
                   la République française.</note>
             </item>
@@ -176,10 +180,10 @@
                <trait>
                   <p>ex-maréchal de France, né en 1811, mort en 1888.</p>
                </trait>
-               <desc xml:id="CAT_000328_e8_d1">L. a. s. à un général; Madrid, 7 mai 1878,1 p.
+               <desc xml:id="CAT_000328_e8_d1">L. a. s. à un général; Madrid, 7 mai 1878, 1 p.
                   in-8.</desc>
-               <num type="price">15</num>
-               <note>Il lui demande un prêt de 1,000 francs et lui indique l'adresse où il faut lui
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
+               <note anchored="true">Il lui demande un prêt de 1,000 francs et lui indique l'adresse où il faut lui
                   adresser à Madrid.</note>
             </item>
             <item n="9" xml:id="CAT_000328_e9">
@@ -190,7 +194,7 @@
                </trait>
                <desc xml:id="CAT_000328_e9_d1">Pièce sig. avec 2 lig. aut., Paris, 1784, 1 p.
                   in-fol.</desc>
-               <num type="price">10</num>
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
             </item>
             <item n="10" xml:id="CAT_000328_e10">
                <num type="lot">10</num>
@@ -200,8 +204,8 @@
                </trait>
                <desc xml:id="CAT_000328_e10_d1">Let. sig. au comte d'Arros, commandant à Longwy;
                   Versailles, 20 août 1746, 1 p. in-4.</desc>
-               <num type="price">4</num>
-               <note>Relative au prince Charles qui avait fait demander un convoi de 10,000 chariots
+               <measure commodity="currency" unit="FRF" quantity="4">4</measure>
+               <note anchored="true">Relative au prince Charles qui avait fait demander un convoi de 10,000 chariots
                   du pays de Luxembourg pour porter des grains et fourrages à l'armée des alliés
                   près Namur.</note>
             </item>
@@ -214,7 +218,7 @@
                </trait>
                <desc xml:id="CAT_000328_e11_d1">L. a. s. au citoyen Gardanne; Marseille, 8 brumaire
                   an X, 1 p. 1/2 in-4, tête impr., vignette. Tachée.</desc>
-               <num type="price">5</num>
+               <measure commodity="currency" unit="FRF" quantity="5">5</measure>
             </item>
             <item n="12" xml:id="CAT_000328_e12">
                <num type="lot">12</num>
@@ -224,8 +228,8 @@
                      déclaration de guerre, né à Bastia en 1817.</p>
                </trait>
                <desc xml:id="CAT_000328_e12_d1">L. a. s.; Turin, 27 déc. 1861, 3 p. in-8.</desc>
-               <num type="price">8</num>
-               <note>Belle et curieuse lettre au sujet de décorations a accorder à des personnages
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
+               <note anchored="true">Belle et curieuse lettre au sujet de décorations a accorder à des personnages
                   ita¬»</note>
             </item>
             <item n="13" xml:id="CAT_000328_e13">
@@ -236,7 +240,7 @@
                </trait>
                <desc xml:id="CAT_000328_e13_d1">L. a. s. à M. de Valois; 31 juillet 1854, 4 p. pl.
                   in-8.</desc>
-               <num type="price">10</num>
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
             </item>
             <item n="14" xml:id="CAT_000328_e14">
                <num type="lot">14</num>
@@ -245,8 +249,8 @@
                   <p>le grand compositeur.</p>
                </trait>
                <desc xml:id="CAT_000328_e14_d1">L. a. s. à une dame, 1 p. in-8.</desc>
-               <num type="price">8</num>
-               <note>Il lui envoie un billet pour la répétition générale d'Alceste. « Voilà deux
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
+               <note anchored="true">Il lui envoie un billet pour la répétition générale d'Alceste. « Voilà deux
                   places pour le cas où vous auriez envie de prendre un bain de sublime.»</note>
             </item>
             <item n="15" xml:id="CAT_000328_e15">
@@ -257,8 +261,8 @@
                </trait>
                <desc xml:id="CAT_000328_e15_d1">Pièce sig. sur vélin, sig. aussi par Ant. Crozat,
                   marquis Du Châtel; 1704, 2 p. 1/4 in-4.</desc>
-               <num type="price">12</num>
-               <note>Curieuse pièce. C'est une action de la Compagnie royale de l'Assiente. (Cette
+               <measure commodity="currency" unit="FRF" quantity="12">12</measure>
+               <note anchored="true">Curieuse pièce. C'est une action de la Compagnie royale de l'Assiente. (Cette
                   Compagnie espagnole avait une agence à Paris depuis le couronnement de Philippe V;
                   elle s'occupait de la traite des nègres sur les côtes de la Guinée, et de là les
                   transportait en Amérique.)</note>
@@ -271,8 +275,8 @@
                </trait>
                <desc xml:id="CAT_000328_e16_d1">Let. sig. avec 3 lig. aut. à M. de La Chappelle;
                   Vienne, 3 avril 1800, 1 p. 1/4 in-4.</desc>
-               <num type="price">12</num>
-               <note>Intéressante lettre écrite pendant l'émigration. Il recommande au roi MM. de
+               <measure commodity="currency" unit="FRF" quantity="12">12</measure>
+               <note anchored="true">Intéressante lettre écrite pendant l'émigration. Il recommande au roi MM. de
                   Saint Mayme, de Raynes, de Ruzange et de Brachet.</note>
             </item>
             <item n="17" xml:id="CAT_000328_e17">
@@ -283,8 +287,8 @@
                </trait>
                <desc xml:id="CAT_000328_e17_d1">Let. sig., avec 2 lig. aut. au général Quantin ;
                   Paris, 1er ventôse an VIII, 1 p. in-fol., tête imp., vignette.</desc>
-               <num type="price">5</num>
-               <note>Il lui ordonne de se rendre sur-le-champ à Brest pour y prendre le commandement
+               <measure commodity="currency" unit="FRF" quantity="5">5</measure>
+               <note anchored="true">Il lui ordonne de se rendre sur-le-champ à Brest pour y prendre le commandement
                   d'un corps de troupes qui s'y trouve rassemblé, pour y être embarqué.</note>
             </item>
             <item n="18" xml:id="CAT_000328_e18">
@@ -295,7 +299,7 @@
                </trait>
                <desc xml:id="CAT_000328_e18_d1">L. a. s. à Regnier, duc de Massa; 26 mai 1808, 1 p.
                   in-fol. Papier au filigrane de Napoléon Ier.</desc>
-               <num type="price">5</num>
+               <measure commodity="currency" unit="FRF" quantity="5">5</measure>
             </item>
             <item n="19" xml:id="CAT_000328_e19">
                <num type="lot">19</num>
@@ -306,8 +310,8 @@
                </trait>
                <desc xml:id="CAT_000328_e19_d1">4 l. a. s. à François Arago; 1838. 1840, 14 p.
                   in-fol. et in-4.</desc>
-               <num type="price">40</num>
-               <note>Importante correspondance dont voici une analyse sommaire : Salins (île
+               <measure commodity="currency" unit="FRF" quantity="40">40</measure>
+               <note anchored="true">Importante correspondance dont voici une analyse sommaire : Salins (île
                   Martinique), 25 juin 1838. Il s'étonne de la querelle d'Arago avec Dumont
                   d'Urville; il va lire son éloge de Carnot; il ne croit pas que Talleyrand ait dit
                   que la parole a été donnée à l'homme pour déguiser sa pensée; il disait en 1828 :
@@ -333,10 +337,10 @@
                   <p>maréchal de France, membre du Conseil de Régence après la mort de Louis XIV, né
                      en 1645, mort en 1733.</p>
                </trait>
-               <desc xml:id="CAT_000328_e20_d1">Pièce aut. sig. ; Arras, 1er mai 1698,1 p. in-8,
+               <desc xml:id="CAT_000328_e20_d1">Pièce aut. sig. ; Arras, 1er mai 1698, 1 p. in-8,
                   obl., cachet. -On a joint une let. sig. de la maréchale de Besons au cardinal de
                   Fleury; Paris, 6 mars 1742. 2 p. in-4. Belle lettre.</desc>
-               <num type="price">8</num>
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
             </item>
             <item n="21" xml:id="CAT_000328_e21">
                <num type="lot">21</num>
@@ -348,7 +352,7 @@
                <desc xml:id="CAT_000328_e21_d1">-Pièce sig. sur vélin comme colonel général de la
                   garde impériale; Paris, 1806, 2 p. in-fol. obl., entourage gravé, vi
                   gnette.</desc>
-               <num type="price">8</num>
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
             </item>
             <item n="22" xml:id="CAT_000328_e22">
                <num type="lot">22</num>
@@ -359,8 +363,8 @@
                <desc xml:id="CAT_000328_e22_d1">Let. sig. avec 2 lig. aut. au général Castelverd ;
                   quartier-géneral d'Utrecht, 1er thermidor an IV, 2 p. in-fol., tête imp. Jolie
                   vignette de l'armée du Nord.</desc>
-               <num type="price">10</num>
-               <note>Belle lettre relative aux mouvements de l'armée, où il parle des généraux
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
+               <note anchored="true">Belle lettre relative aux mouvements de l'armée, où il parle des généraux
                   Kléber et Jourdan.</note>
             </item>
             <item n="23" xml:id="CAT_000328_e23">
@@ -371,8 +375,8 @@
                </trait>
                <desc xml:id="CAT_000328_e23_d1">L. a. s. au baron de Méne- val; Pointe Breeze, 16
                   déc. 1830, 1 p. in-4.</desc>
-               <num type="price">12</num>
-               <note>Il lui recommande M. Cornaro, auteur italien, « il est libéral et ami de la
+               <measure commodity="currency" unit="FRF" quantity="12">12</measure>
+               <note anchored="true">Il lui recommande M. Cornaro, auteur italien, « il est libéral et ami de la
                   mémoire de l'Empereur et de sa famille ».</note>
             </item>
             <item n="24" xml:id="CAT_000328_e24">
@@ -383,8 +387,8 @@
                </trait>
                <desc xml:id="CAT_000328_e24_d1">Let. sig. comme ministre de l'Intérieur, Paris ; 13
                   messidor an VIII, 1 p. in- fol., tête imp., vignette.</desc>
-               <num type="price">8</num>
-               <note>Au sujet de l'envoi de troupes dans l'Ardèche pour combattre les
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
+               <note anchored="true">Au sujet de l'envoi de troupes dans l'Ardèche pour combattre les
                   brigands.</note>
             </item>
             <item n="25" xml:id="CAT_000328_e25">
@@ -395,8 +399,8 @@
                </trait>
                <desc xml:id="CAT_000328_e25_d1">L. a. s. à sa soeur Elisa; 2 mai 1820, 1 p. 3/4
                   in-8.</desc>
-               <num type="price">20</num>
-               <note>Belle et curieuse lettre remplie de témoignages d'amitié. « J'ai assez de
+               <measure commodity="currency" unit="FRF" quantity="20">20</measure>
+               <note anchored="true">Belle et curieuse lettre remplie de témoignages d'amitié. « J'ai assez de
                   chagrin, Eliza, je souffre tant, qu'en vérité, je devrais espérer de ton ancienne
                   amitié que tu ne les augmenterais pas en me montrant dans toutes les occasions que
                   je ne suis plus ton Jérôme d'autrefois.»</note>
@@ -410,7 +414,7 @@
                </trait>
                <desc xml:id="CAT_000328_e26_d1">Pièce sig. ; Bologne, 27 mai 1814, 1 p. in-8,
                   obl.</desc>
-               <num type="price">12</num>
+               <measure commodity="currency" unit="FRF" quantity="12">12</measure>
             </item>
             <item n="27" xml:id="CAT_000328_e27">
                <num type="lot">27</num>
@@ -420,7 +424,7 @@
                </trait>
                <desc xml:id="CAT_000328_e27_d1">L. a. s.; Saint-Gratien, 17 juillet, 2 p.
                   in-8.</desc>
-               <num type="price">3</num>
+               <measure commodity="currency" unit="FRF" quantity="3">3</measure>
             </item>
             <item n="28" xml:id="CAT_000328_e28">
                <num type="lot">28</num>
@@ -428,9 +432,9 @@
                <trait>
                   <p>célèbre peintre d'animaux, née à Bordeaux en 1822.</p>
                </trait>
-               <desc xml:id="CAT_000328_e28_d1">L. a. s. à Mme Lebrun ; Paris, 26 oct. 1853,1 p. 2/3
+               <desc xml:id="CAT_000328_e28_d1">L. a. s. à Mme Lebrun ; Paris, 26 oct. 1853, 1 p. 2/3
                   in-8, cachet à son chiffre. Très jolie lettre.</desc>
-               <num type="price">8</num>
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
             </item>
             <item n="29" xml:id="CAT_000328_e29">
                <num type="lot">29</num>
@@ -440,8 +444,8 @@
                </trait>
                <desc xml:id="CAT_000328_e29_d1">L. a. s. à J.-B. Rousseau; Paris, 27 janv. 1736, 3
                   p. in-4, cachet à ses armes.</desc>
-               <num type="price">15</num>
-               <note>Il regrette que dans les Lettres qu'il vient de publier, il fasse l'éloge de
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
+               <note anchored="true">Il regrette que dans les Lettres qu'il vient de publier, il fasse l'éloge de
                   Gresset, auteur du Perroquet. « S'il s'agissoit icy, de faire l'Aristarque, je
                   m'imagine que je vous ferois convenir que le père Gresset n'a pas encore toutes
                   ces perfections capables d'intimider les confrères.»</note>
@@ -455,8 +459,8 @@
                      d'Autriche, reine de France, né vers 1630, mort en 1703.</p>
                </trait>
                <desc xml:id="CAT_000328_e30_d1">L. a. s. Tournay; 12 juin 1673, 1 p. in-4.</desc>
-               <num type="price">15</num>
-               <note>Il le félicite du succès de la campagne de Brandebourg, par Turenne. Il en a
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
+               <note anchored="true">Il le félicite du succès de la campagne de Brandebourg, par Turenne. Il en a
                   reçu la nouvelle par M. de Saint-Amans qui allait la porter au roi, qui faisait
                   alors le siège de Maëstricht.</note>
             </item>
@@ -469,8 +473,8 @@
                </trait>
                <desc xml:id="CAT_000328_e31_d1">L. a. s., 1 p. in-18. Papier à ses armes. Légères
                   taches.</desc>
-               <num type="price">5</num>
-               <note>Belle lettre d'amitié.</note>
+               <measure commodity="currency" unit="FRF" quantity="5">5</measure>
+               <note anchored="true">Belle lettre d'amitié.</note>
             </item>
             <item n="32" xml:id="CAT_000328_e32">
                <num type="lot">32</num>
@@ -480,7 +484,7 @@
                </trait>
                <desc xml:id="CAT_000328_e32_d1">L. a. s. ; Valenciennes, 14 juin 1783, 2 p.
                   in-4.</desc>
-               <num type="price">15</num>
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
             </item>
             <item n="33" xml:id="CAT_000328_e33">
                <num type="lot">33</num>
@@ -489,8 +493,8 @@
                   <p>ancien ministre de la guerre.</p>
                </trait>
                <desc xml:id="CAT_000328_e33_d1">L. a. s. à sa tante (1887), 2 p. in-8.</desc>
-               <num type="price">20</num>
-               <note>Jolie lettre d'amitié écrite lorsqu'il était ministre de la guerre.</note>
+               <measure commodity="currency" unit="FRF" quantity="20">20</measure>
+               <note anchored="true">Jolie lettre d'amitié écrite lorsqu'il était ministre de la guerre.</note>
             </item>
             <item n="34" xml:id="CAT_000328_e34">
                <num type="lot">34</num>
@@ -500,7 +504,7 @@
                      1816.</p>
                </trait>
                <desc xml:id="CAT_000328_e34_d1">L. a. s.; Metz, 16 août 1863, 1 p. in-8.</desc>
-               <num type="price">10</num>
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
             </item>
             <item n="35" xml:id="CAT_000328_e35">
                <num type="lot">35</num>
@@ -510,8 +514,8 @@
                </trait>
                <desc xml:id="CAT_000328_e35_d1">L. a. s., en français, à Charles Nisard; Bruxelles,
                   8 oct. 1845. 2 p. 1/2 in-8.</desc>
-               <num type="price">15</num>
-               <note>Belle lettre. Elle le remercie de l'envoi de sa CAMERA LUCidA, portraits
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
+               <note anchored="true">Belle lettre. Elle le remercie de l'envoi de sa CAMERA LUCidA, portraits
                   contemporains et tableaux de genre (1845, in-8); elle lui demande s'il n'a pas
                   écrit dans le Journal des Débats un petit article sur le voyage de la reine
                   d'Angleterre en France. -On a joint une l. a. s., en français, de la princesse
@@ -525,8 +529,8 @@
                   <p>le célèbre écrivain contemporain, de l'Acad. fr.</p>
                </trait>
                <desc xml:id="CAT_000328_e36_d1">L. a. s. ; 24 novembre 1894, 1 p. in-8.</desc>
-               <num type="price">6</num>
-               <note>Très-jolie lettre où il parle de Profils d'étrangers, nouvelles qui paraîtront
+               <measure commodity="currency" unit="FRF" quantity="6">6</measure>
+               <note anchored="true">Très-jolie lettre où il parle de Profils d'étrangers, nouvelles qui paraîtront
                   dans la Revue des Deux-Mondes.</note>
             </item>
             <item n="37" xml:id="CAT_000328_e37">
@@ -537,8 +541,8 @@
                </trait>
                <desc xml:id="CAT_000328_e37_d1">L. a. s. au citoyen Beaumont; Paris, 10 nivôse an
                   VI, 1/2 p. in-4.</desc>
-               <num type="price">6</num>
-               <note>Lettre écrite au nom du général Bonaparte.</note>
+               <measure commodity="currency" unit="FRF" quantity="6">6</measure>
+               <note anchored="true">Lettre écrite au nom du général Bonaparte.</note>
             </item>
             <item n="38" xml:id="CAT_000328_e38">
                <num type="lot">38</num>
@@ -547,8 +551,8 @@
                   <p>la spirituelle comédienne du Théâtre-Français, née en 1824, morte en 1893. </p>
                </trait>
                <desc xml:id="CAT_000328_e38_d1">L. a. s. ; 6 mars 1857, 1 p. in-8.</desc>
-               <num type="price">3</num>
-               <note>Elle demande l'insertion d'une lettre en réponse à celle d'Alexandre
+               <measure commodity="currency" unit="FRF" quantity="3">3</measure>
+               <note anchored="true">Elle demande l'insertion d'une lettre en réponse à celle d'Alexandre
                   Dumas.</note>
             </item>
             <item n="39" xml:id="CAT_000328_e39">
@@ -559,7 +563,7 @@
                </trait>
                <desc xml:id="CAT_000328_e39_d1">L.a.s.; à bord du Montebello, 17 janvier 1855, 1 p.
                   in-4.</desc>
-               <num type="price">6</num>
+               <measure commodity="currency" unit="FRF" quantity="6">6</measure>
             </item>
             <item n="40" xml:id="CAT_000328_e40">
                <num type="lot">40</num>
@@ -570,7 +574,7 @@
                </trait>
                <desc xml:id="CAT_000328_e40_d1">Let. sig. comme général en chef de l'armée d'Italie;
                   l'Escarenne, 3 juin 1793, 1 page in-4.</desc>
-               <num type="price">6</num>
+               <measure commodity="currency" unit="FRF" quantity="6">6</measure>
             </item>
             <item n="41" xml:id="CAT_000328_e41">
                <num type="lot">41</num>
@@ -580,8 +584,8 @@
                </trait>
                <desc xml:id="CAT_000328_e41_d1">L. a. s. à Grosley, à Troyes; Chartres, 21 mai 1784,
                   2 p. in-4, cachet.</desc>
-               <num type="price">10</num>
-               <note>Très curieuse lettre écrite de la capitale de la Beauce. « Celle qui a le plus
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
+               <note anchored="true">Très curieuse lettre écrite de la capitale de la Beauce. « Celle qui a le plus
                   mauvais pain, malgré la beauté et la bonté de ses blés. Ce vice tient moins à
                   l'art qu'à l'administration, et c'est pour l'éclairer que j'ai été envoyé dans ce
                   pays». Intéressants détails.</note>
@@ -594,7 +598,7 @@
                </trait>
                <desc xml:id="CAT_000328_e42_d1">L. a. s. à Monseigneur... ; 23 déc. 1755, 3 p. in-4.
                   Belle lettre.</desc>
-               <num type="price">18</num>
+               <measure commodity="currency" unit="FRF" quantity="18">18</measure>
             </item>
             <item n="43" xml:id="CAT_000328_e43">
                <num type="lot">43</num>
@@ -604,7 +608,7 @@
                </trait>
                <desc xml:id="CAT_000328_e43_d1">L. a. s.; Nantes, 8 sept. 1793, 1 p. 1/2 in-4.
                   Curieuse.</desc>
-               <num type="price">5</num>
+               <measure commodity="currency" unit="FRF" quantity="5">5</measure>
             </item>
             <item n="44" xml:id="CAT_000328_e44">
                <num type="lot">44</num>
@@ -615,7 +619,7 @@
                <desc xml:id="CAT_000328_e44_d1">L. a. s. à Mme Teresa Tambroni, femme de Joseph
                   Tambroni, érudit et di plomate; Possagno, 19 juillet 1820, 2 p. in-4. Très belle
                   lettre.</desc>
-               <num type="price">15</num>
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
             </item>
             <item n="45" xml:id="CAT_000328_e45">
                <num type="lot">45</num>
@@ -625,8 +629,8 @@
                </trait>
                <desc xml:id="CAT_000328_e45_d1">L. a. s., à don Bonifacio Marni ; Brighton, 1er
                   janvier 1888. 3 p. 1/2 in-8 obl. Papier à son chiffre.</desc>
-               <num type="price">20</num>
-               <note>Curieuse lettre politique. On lui demande d'obtenir de sa tante la reine
+               <measure commodity="currency" unit="FRF" quantity="20">20</measure>
+               <note anchored="true">Curieuse lettre politique. On lui demande d'obtenir de sa tante la reine
                   Isabelle que l'amnistie accordée aux républicains espagnols soit étendue aux
                   volontaires carlistes détenus dans les présidios; il ne veut pas entrer en
                   relations avec le Gouvernement usurpateur de Madrid, mais il prie don Bonifacio
@@ -640,7 +644,7 @@
                </trait>
                <desc xml:id="CAT_000328_e46_d1">L. a. s. à M. Cadart, 2 p. in-18. Belle
                   lettre.</desc>
-               <num type="price">8</num>
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
             </item>
             <item n="47" xml:id="CAT_000328_e47">
                <num type="lot">47</num>
@@ -650,7 +654,7 @@
                </trait>
                <desc xml:id="CAT_000328_e47_d1">Let. sig.; Saint- Pétersbourg, 1784, 2 p. in-fol.
                   Belle lettre.</desc>
-               <num type="price">20</num>
+               <measure commodity="currency" unit="FRF" quantity="20">20</measure>
             </item>
             <item n="48" xml:id="CAT_000328_e48">
                <num type="lot">48</num>
@@ -660,8 +664,8 @@
                </trait>
                <desc xml:id="CAT_000328_e48_d1">Let. sig. au marquis de Barbezieux; au camp de
                   Brillant (Brillanne, Basses-Alpes), 27 juillet 1690, 1 p. 3/4 in-fol.</desc>
-               <num type="price">15</num>
-               <note>Importante lettre. Il va essayer de faire sa jonction avec les troupes de M. de
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
+               <note anchored="true">Importante lettre. Il va essayer de faire sa jonction avec les troupes de M. de
                   Crenan pour pénétrer en Piémont; il fera venir de l'argent de Gênes; les vivres
                   vont manquer dans Pignerol; un re Deum a été chanté a l'occasion de la victoire de
                   Fleurus.</note>
@@ -675,8 +679,8 @@
                </trait>
                <desc xml:id="CAT_000328_e49_d1">L. a. s. (à la comtesse d'Al bany); Padoue, 18 mai
                   1786, 1 p. in-4.</desc>
-               <num type="price">20</num>
-               <note>Belle lettre. Il travaille à une traduction d'Homère qui, avec l'appareil
+               <measure commodity="currency" unit="FRF" quantity="20">20</measure>
+               <note anchored="true">Belle lettre. Il travaille à une traduction d'Homère qui, avec l'appareil
                   critique, formera deux volumes qui, à vrai dire, n'en feront qu'un seul ; un
                   lettré de Vicence vient de faire la censure de son oeuvre sur la langue.</note>
             </item>
@@ -686,9 +690,9 @@
                <trait>
                   <p/>
                </trait>
-               <desc xml:id="CAT_000328_e50_d1">Byron's beste liebe, pièce de versaut.,1 p.
+               <desc xml:id="CAT_000328_e50_d1">Byron's beste liebe, pièce de versaut., 1 p.
                   in-8.</desc>
-               <num type="price">12</num>
+               <measure commodity="currency" unit="FRF" quantity="12">12</measure>
             </item>
             <item n="51" xml:id="CAT_000328_e51">
                <num type="lot">51</num>
@@ -699,7 +703,7 @@
                </trait>
                <desc xml:id="CAT_000328_e51_d1">Let. sig. au général Gauthier: Quartier-général de
                   Nice (Armée d'Italie), 29 fructidor an VII (15 sept. 1799), 1 p. in-4.</desc>
-               <num type="price">5</num>
+               <measure commodity="currency" unit="FRF" quantity="5">5</measure>
             </item>
             <item n="52" xml:id="CAT_000328_e52">
                <num type="lot">52</num>
@@ -709,8 +713,8 @@
                </trait>
                <desc xml:id="CAT_000328_e52_d1">Let. sig.; Auxerre, 20 février 1570, 1/2 p. in-fol.
                   Cachet.</desc>
-               <num type="price">18</num>
-               <note>Mandement au trésorier de la généralité de Riom (Auvergne) de faire vendre les
+               <measure commodity="currency" unit="FRF" quantity="18">18</measure>
+               <note anchored="true">Mandement au trésorier de la généralité de Riom (Auvergne) de faire vendre les
                   bois appartenant aux rebelles (huguenots), « pour subvenir à la nécessité de noz
                   affaires.»</note>
             </item>
@@ -722,8 +726,8 @@
                </trait>
                <desc xml:id="CAT_000328_e53_d1">Pièce sig. sur vélin, sig. aussi par le maréchal de
                   Broglie; Coblence, 10 février 1792, 1 p. in-fol. obl.</desc>
-               <num type="price">10</num>
-               <note>Jolie pièce de l'émigration. Brevet de la charge d'officier attaché au corps
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
+               <note anchored="true">Jolie pièce de l'émigration. Brevet de la charge d'officier attaché au corps
                   des compagnies d'ordonnances d'hommes d'armes à pied pour M. de Montleau.</note>
             </item>
             <item n="54" xml:id="CAT_000328_e54">
@@ -734,7 +738,7 @@
                </trait>
                <desc xml:id="CAT_000328_e54_d1">L. a. s. à Catherine d'Autriche, sa femme ; Saluze,
                   14 octobre 1588, 3/4 de p. in-fol. Cachets. Superbe lettre. Rare</desc>
-               <num type="price">35</num>
+               <measure commodity="currency" unit="FRF" quantity="35">35</measure>
             </item>
             <item n="55" xml:id="CAT_000328_e55">
                <num type="lot">55</num>
@@ -744,8 +748,8 @@
                </trait>
                <desc xml:id="CAT_000328_e55_d1">L. a. s., en français, à sa Majesté...; Stockholm, 2
                   nov. 1852, 1 p. 1/2 in-4.</desc>
-               <num type="price">20</num>
-               <note>Il lui demande d'être la marraine d'un enfant qui va lui naître.</note>
+               <measure commodity="currency" unit="FRF" quantity="20">20</measure>
+               <note anchored="true">Il lui demande d'être la marraine d'un enfant qui va lui naître.</note>
             </item>
             <item n="56" xml:id="CAT_000328_e56">
                <num type="lot">56</num>
@@ -755,7 +759,7 @@
                </trait>
                <desc xml:id="CAT_000328_e56_d1">L. a. s. au baron de Barante, Marennes, 12 juillet
                   1816. 1 p. 1/2 in-4. Raccomodage.</desc>
-               <num type="price">6</num>
+               <measure commodity="currency" unit="FRF" quantity="6">6</measure>
             </item>
             <item n="57" xml:id="CAT_000328_e57">
                <num type="lot">57</num>
@@ -764,7 +768,7 @@
                   <p/>
                </trait>
                <desc xml:id="CAT_000328_e57_d1">L. a. s., Paris, 20 mars 1826, 1 p. in-4.</desc>
-               <num type="price">10</num>
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
             </item>
             <item n="58" xml:id="CAT_000328_e58">
                <num type="lot">58</num>
@@ -774,8 +778,8 @@
                </trait>
                <desc xml:id="CAT_000328_e58_d1">Pièce aut. sig.; 14 brumaire an XIII, 1 p. in-18
                   obl.</desc>
-               <num type="price">10</num>
-               <note>sur un buste de l'architecte David Leroy»</note>
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
+               <note anchored="true">sur un buste de l'architecte David Leroy»</note>
             </item>
             <item n="59" xml:id="CAT_000328_e59">
                <num type="lot">59</num>
@@ -784,8 +788,8 @@
                   <p/>
                </trait>
                <desc xml:id="CAT_000328_e59_d1">L. a. s.; Toulon. 20 nov. 1691, 7 p. in-4.</desc>
-               <num type="price">20</num>
-               <note>Belle lettre. Avec son navire le Constant, qui faisait partie de l'escadre de
+               <measure commodity="currency" unit="FRF" quantity="20">20</measure>
+               <note anchored="true">Belle lettre. Avec son navire le Constant, qui faisait partie de l'escadre de
                   Duquesne, il a obligé, dans la nuit du 20 novembre 1691, le vaisseau espagnol
                   N.-D. de la Tocha de se rendre avec 60 canons et 360 hommes d'équipage; la prise a
                   été amarinée par M. de Flacourt; mais on a empêché l'équipage français d'y
@@ -802,8 +806,8 @@
                </trait>
                <desc xml:id="CAT_000328_e60_d1">Let. sig. à un ministre du margrave de Bade;
                   Ratisbonne, 22 juin 1730, 4 p. in-4.</desc>
-               <num type="price">12</num>
-               <note>Intéressante lettre. Il a recommandé au Garde des Sceaux. Chauvelin, les
+               <measure commodity="currency" unit="FRF" quantity="12">12</measure>
+               <note anchored="true">Intéressante lettre. Il a recommandé au Garde des Sceaux. Chauvelin, les
                   intérêts du margrave; il défend, contre les accusations de la cour de Vienne, la
                   conduite de la France en Italie, où Fleury voulait faire donner le duché de Parme
                   à don Carlos, fils de Philippe V et d'Elisabeth Farnèse.</note>
@@ -816,7 +820,7 @@
                </trait>
                <desc xml:id="CAT_000328_e61_d1">L. a. s. à Haller, à Goet- tingue; mai 1752, 1 p.
                   in-4, curieux cachet.</desc>
-               <num type="price">10</num>
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
             </item>
             <item n="62" xml:id="CAT_000328_e62">
                <num type="lot">62</num>
@@ -827,8 +831,8 @@
                </trait>
                <desc xml:id="CAT_000328_e62_d1">L. a. s., en français, à Catherine de Médicis, 1565,
                   1 p. 1/2 in-fol. Très rare.</desc>
-               <num type="price">30</num>
-               <note>Belle lettre. Elle lui annonce la naissance de sa petite-fille Christine, fille
+               <measure commodity="currency" unit="FRF" quantity="30">30</measure>
+               <note anchored="true">Belle lettre. Elle lui annonce la naissance de sa petite-fille Christine, fille
                   du duc Charles II et de Claude de France.»</note>
             </item>
             <item n="63" xml:id="CAT_000328_e63">
@@ -839,7 +843,7 @@
                </trait>
                <desc xml:id="CAT_000328_e63_d1">L. a. s. au comte Revenklau; 17 nov. 1697, 1 p.
                   in-8.</desc>
-               <num type="price">20</num>
+               <measure commodity="currency" unit="FRF" quantity="20">20</measure>
             </item>
             <item n="64" xml:id="CAT_000328_e64">
                <num type="lot">64</num>
@@ -848,9 +852,9 @@
                   <p>savant antiquaire, auteur de l'Histoire de la sculpture, né à Ferrare en 1767,
                      mort à Venise en 1834.</p>
                </trait>
-               <desc xml:id="CAT_000328_e64_d1">L. a. s.; Venise, 3 déc. 1831,1 p. in-4. Jolie
+               <desc xml:id="CAT_000328_e64_d1">L. a. s.; Venise, 3 déc. 1831, 1 p. in-4. Jolie
                   lettre.</desc>
-               <num type="price">8</num>
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
             </item>
             <item n="65" xml:id="CAT_000328_e65">
                <num type="lot">65</num>
@@ -860,8 +864,8 @@
                      cabinet Palmerston, durant la guerre d'Orient, né en 1800, mort en 1870.</p>
                </trait>
                <desc xml:id="CAT_000328_e65_d1">L. a. s., en français, 1 p. in-8.</desc>
-               <num type="price">4</num>
-               <note>Il est enchanté de sa conversation avec l'Empereur.</note>
+               <measure commodity="currency" unit="FRF" quantity="4">4</measure>
+               <note anchored="true">Il est enchanté de sa conversation avec l'Empereur.</note>
             </item>
             <item n="66" xml:id="CAT_000328_e66">
                <num type="lot">66</num>
@@ -871,8 +875,8 @@
                </trait>
                <desc xml:id="CAT_000328_e66_d1">1° L.a.s.; Rome 13 mai 1679, 1 p. 1/2 in-4. -2°
                   Pièce sig.; Rome, 4 octobre 1708, 1 p. double in-fol., cachet.</desc>
-               <num type="price">30</num>
-               <note>Brevet associant Vicenzo Lini à toutes les prières de l'ordre de saint
+               <measure commodity="currency" unit="FRF" quantity="30">30</measure>
+               <note anchored="true">Brevet associant Vicenzo Lini à toutes les prières de l'ordre de saint
                   Dominique. Très- curieuse pièce imprimée avec encadrement représentant les plus
                   grands personnages de l'ordre, des scènes de martyre, etc.</note>
             </item>
@@ -884,7 +888,7 @@
                </trait>
                <desc xml:id="CAT_000328_e67_d1">L a. s. à un amiral; Cherbourg, 22 oct., 2 p. in-8.
                   Belle lettre.</desc>
-               <num type="price">4</num>
+               <measure commodity="currency" unit="FRF" quantity="4">4</measure>
             </item>
             <item n="68" xml:id="CAT_000328_e68">
                <num type="lot">68</num>
@@ -894,7 +898,7 @@
                </trait>
                <desc xml:id="CAT_000328_e68_d1">4 l. a. s., en français, dont une en abrégé, à Mme
                   de Lagrange de Chavagnac, 6 p. in-8.</desc>
-               <num type="price">15</num>
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
             </item>
             <item n="69" xml:id="CAT_000328_e69">
                <num type="lot">69</num>
@@ -904,7 +908,7 @@
                </trait>
                <desc xml:id="CAT_000328_e69_d1">Pièce sig. sur vélin; 1599, in-4 obl.,
                   cachet.</desc>
-               <num type="price">12</num>
+               <measure commodity="currency" unit="FRF" quantity="12">12</measure>
             </item>
             <item n="70" xml:id="CAT_000328_e70">
                <num type="lot">70</num>
@@ -915,8 +919,8 @@
                </trait>
                <desc xml:id="CAT_000328_e70_d1">Pièce sig. sur vélin; Versailles, 13 février 1715,
                   double in-fol. obl.</desc>
-               <num type="price">8</num>
-               <note>Nomination au prieuré d'Huriel (Allier).</note>
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
+               <note anchored="true">Nomination au prieuré d'Huriel (Allier).</note>
             </item>
             <item n="71" xml:id="CAT_000328_e71">
                <num type="lot">71</num>
@@ -927,7 +931,7 @@
                </trait>
                <desc xml:id="CAT_000328_e71_d1">L. a. s. au cardinal de Fleury; Paris, 23 décembre
                   (1727). 1. p. in-4. Joli cachet à ses armes. Belle lettre.</desc>
-               <num type="price">12</num>
+               <measure commodity="currency" unit="FRF" quantity="12">12</measure>
             </item>
             <item n="72" xml:id="CAT_000328_e72">
                <num type="lot">72</num>
@@ -950,7 +954,7 @@
                </trait>
                <desc xml:id="CAT_000328_e73_d1">Pièce de vers aut. en italien; 1 p. in-8. Légèrement
                   tachée. Curieuse pièce.</desc>
-               <num type="price">20</num>
+               <measure commodity="currency" unit="FRF" quantity="20">20</measure>
             </item>
             <item n="74" xml:id="CAT_000328_e74">
                <num type="lot">74</num>
@@ -960,7 +964,7 @@
                </trait>
                <desc xml:id="CAT_000328_e74_d1">L. a. s., en français, à un prince; Rome, 8 mai
                   1819, 1 p. pl, in-4. Jolie lettre.</desc>
-               <num type="price">8</num>
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
             </item>
             <item n="75" xml:id="CAT_000328_e75">
                <num type="lot">75</num>
@@ -972,8 +976,8 @@
                <desc xml:id="CAT_000328_e75_d1">Pièce sig. sur vélin, signé aussi 2 fois par Nicolas
                   Doublet de Persan (le mari de la célèbre Mme Doublet) ; 18 mars 1718, 43 p.
                   in-fol.</desc>
-               <num type="price">20</num>
-               <note>Importante pièce. Vente par Philippe Sébastien de Belloy à René Charles de
+               <measure commodity="currency" unit="FRF" quantity="20">20</measure>
+               <note anchored="true">Importante pièce. Vente par Philippe Sébastien de Belloy à René Charles de
                   Maupeou, de la terre et seigneurie de Morangles, située près de Beaumont-sur-
                   Oise.</note>
             </item>
@@ -986,7 +990,7 @@
                </trait>
                <desc xml:id="CAT_000328_e76_d1">Let. sig. au comte de Fersen; 22 oct. (1751), 2/3 de
                   p. in-4. Belle lettre.</desc>
-               <num type="price">4</num>
+               <measure commodity="currency" unit="FRF" quantity="4">4</measure>
             </item>
             <item n="77" xml:id="CAT_000328_e77">
                <num type="lot">77</num>
@@ -996,8 +1000,8 @@
                </trait>
                <desc xml:id="CAT_000328_e77_d1">Le Tirage, pièce aut. sig, avec ratures et
                   corrections, 2 p. in-4.</desc>
-               <num type="price">8</num>
-               <note>Intéressante pièce littéraire.</note>
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
+               <note anchored="true">Intéressante pièce littéraire.</note>
             </item>
             <item n="78" xml:id="CAT_000328_e78">
                <num type="lot">78</num>
@@ -1007,7 +1011,7 @@
                      Tuileries par le maréchal Saint-Arnaud, le 7 mars 1853.</p>
                </trait>
                <desc xml:id="CAT_000328_e78_d1">L. a s. au commandant Plée, 2 p. in-8.</desc>
-               <num type="price">4</num>
+               <measure commodity="currency" unit="FRF" quantity="4">4</measure>
             </item>
             <item n="79" xml:id="CAT_000328_e79">
                <num type="lot">79</num>
@@ -1017,7 +1021,7 @@
                </trait>
                <desc xml:id="CAT_000328_e79_d1">Son portrait photographie, format album, avec 2 lig.
                   aut. sig.</desc>
-               <num type="price">8</num>
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
             </item>
             <item n="80" xml:id="CAT_000328_e80">
                <num type="lot">80</num>
@@ -1028,8 +1032,8 @@
                </trait>
                <desc xml:id="CAT_000328_e80_d1">L. a. s.; Versailles, 9 juin, 1871, 4 p. pl. in
                   8.</desc>
-               <num type="price">12</num>
-               <note>Très intéressante lettre politique « Si l'Empire a commis des fautes graves, ce
+               <measure commodity="currency" unit="FRF" quantity="12">12</measure>
+               <note anchored="true">Très intéressante lettre politique « Si l'Empire a commis des fautes graves, ce
                   qui est incontestable, les auteurs du 4 sept. ont commis le plus grand crime
                   possible, en divisant, par une révolution en présence de l'étranger, les forces
                   nationales. Ces hommes sont aujourd'hui repoussés par tout le monde en France,
@@ -1045,7 +1049,7 @@
                </trait>
                <desc xml:id="CAT_000328_e81_d1">Pièce sig., sig. aussi par Prieur de la Côte-d'Or,
                   comme membres du Comité de Salut public ; 17 floréal an II, 1 p. in-8 obl.</desc>
-               <num type="price">15</num>
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
             </item>
             <item n="82" xml:id="CAT_000328_e82">
                <num type="lot">82</num>
@@ -1057,7 +1061,7 @@
                <desc xml:id="CAT_000328_e82_d1">Pièce aut. sig., sig. aussi par Lamartine et Marte,
                   comme membres du Gouvernement provisoire; Hôtel-de-Ville, 24 février (1848), 1/2
                   p. in-4.</desc>
-               <num type="price">5</num>
+               <measure commodity="currency" unit="FRF" quantity="5">5</measure>
             </item>
             <item n="83" xml:id="CAT_000328_e83">
                <num type="lot">83</num>
@@ -1068,7 +1072,7 @@
                </trait>
                <desc xml:id="CAT_000328_e83_d1">Pièce sig. ; château de la Roche-Gençay (Vienne), 6
                   sept. 1779, 1 p. in-8 obl.</desc>
-               <num type="price">8</num>
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
             </item>
             <item n="84" xml:id="CAT_000328_e84">
                <num type="lot">84</num>
@@ -1077,7 +1081,7 @@
                   <p>célèbre comédienne du Théâtre-Français, née à Saint-Pétersbourg en 1847.</p>
                </trait>
                <desc xml:id="CAT_000328_e84_d1">L. a. s., 4 p. pl. in-18. Curieuse.</desc>
-               <num type="price">10</num>
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
             </item>
             <item n="85" xml:id="CAT_000328_e85">
                <num type="lot">85</num>
@@ -1090,8 +1094,8 @@
                </trait>
                <desc xml:id="CAT_000328_e85_d1">Let. sig. au podestat de Saint-Anatoglia Camerino, 5
                   janvier 1524. 1 p. in-fol. Très rare.</desc>
-               <num type="price">50</num>
-               <note>Ordre de faire rendre justice à Boncio ou Bernadino Compio dont la maison de
+               <measure commodity="currency" unit="FRF" quantity="50">50</measure>
+               <note anchored="true">Ordre de faire rendre justice à Boncio ou Bernadino Compio dont la maison de
                   Fraddomantoli a été mise au pillage par des soldats.</note>
             </item>
             <item n="86" xml:id="CAT_000328_e86">
@@ -1103,7 +1107,7 @@
                </trait>
                <desc xml:id="CAT_000328_e86_d1">Pièce sig.; quartier général du Caire, 5e jour
                   complémentaire an VII, 1 p. in-fol., tête imp., vignette, cachet.</desc>
-               <num type="price">8</num>
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
             </item>
             <item n="87" xml:id="CAT_000328_e87">
                <num type="lot">87</num>
@@ -1112,7 +1116,7 @@
                   <p>sculpteur contemporain distingué, né à Venarey (Côled'Or) en 1858.</p>
                </trait>
                <desc xml:id="CAT_000328_e87_d1">L. a. s. (1896), 1 p. in-8.</desc>
-               <num type="price">3</num>
+               <measure commodity="currency" unit="FRF" quantity="3">3</measure>
             </item>
             <item n="88" xml:id="CAT_000328_e88">
                <num type="lot">88</num>
@@ -1121,8 +1125,8 @@
                   <p>le célèbre écrivain.</p>
                </trait>
                <desc xml:id="CAT_000328_e88_d1">Let. sig. 1/2 p. in-8.</desc>
-               <num type="price">4</num>
-               <note>Relative à la traduction en allemand de la Petite Paroisse.</note>
+               <measure commodity="currency" unit="FRF" quantity="4">4</measure>
+               <note anchored="true">Relative à la traduction en allemand de la Petite Paroisse.</note>
             </item>
             <item n="89" xml:id="CAT_000328_e89">
                <num type="lot">89</num>
@@ -1133,7 +1137,7 @@
                <desc xml:id="CAT_000328_e89_d1">Billet à ordre aut. sig.; 1872, in-8 obl. -On a
                   joint une curieuse lettre d'envoi et la copie du discours prononcé sur la tombe de
                   Daumier au dos d'un billet de faire-part.</desc>
-               <num type="price">10</num>
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
             </item>
             <item n="90" xml:id="CAT_000328_e90">
                <num type="lot">90</num>
@@ -1144,8 +1148,8 @@
                <desc xml:id="CAT_000328_e90_d1">1° Pièce sig. avec 2 lig. aut.; 1822, 1 p. in-4.
                   Relative à la planche de son tableau : La mort de Socrate. 2° 19 pièces
                   manuscrites et imprimées, 1791-1828, 25 p. in-4.</desc>
-               <num type="price">30</num>
-               <note>Important dossier relatif à ses oeuvres; la Mort de Socrate, le Serment du Jeu
+               <measure commodity="currency" unit="FRF" quantity="30">30</measure>
+               <note anchored="true">Important dossier relatif à ses oeuvres; la Mort de Socrate, le Serment du Jeu
                   de Paume, les Sabines, Léonidas aux Thermopyles.</note>
             </item>
             <item n="91" xml:id="CAT_000328_e91">
@@ -1155,7 +1159,7 @@
                   <p>le célèbre compositeur, auteur du Désert.</p>
                </trait>
                <desc xml:id="CAT_000328_e91_d1">L. a. s., 1 p. in-8.</desc>
-               <num type="price">3</num>
+               <measure commodity="currency" unit="FRF" quantity="3">3</measure>
             </item>
             <item n="92" xml:id="CAT_000328_e92">
                <num type="lot">92</num>
@@ -1165,7 +1169,7 @@
                </trait>
                <desc xml:id="CAT_000328_e92_d1">Pièce sig.; Paris, 3 juin 1815, 1 p. in-fol., tête
                   imp. et vignette. Belle pièce.</desc>
-               <num type="price">5</num>
+               <measure commodity="currency" unit="FRF" quantity="5">5</measure>
             </item>
             <item n="93" xml:id="CAT_000328_e93">
                <num type="lot">93</num>
@@ -1176,7 +1180,7 @@
                </trait>
                <desc xml:id="CAT_000328_e93_d1">L. a. s.; la Guillotière, 20 ventôse an VI, 2/3 de
                   p. in-4.</desc>
-               <num type="price">6</num>
+               <measure commodity="currency" unit="FRF" quantity="6">6</measure>
             </item>
             <item n="94" xml:id="CAT_000328_e94">
                <num type="lot">94</num>
@@ -1186,7 +1190,7 @@
                </trait>
                <desc xml:id="CAT_000328_e94_d1">L. a. s.; 8 janvier 1870, 4 p. in-8.
                   Fatiguée.</desc>
-               <num type="price">5</num>
+               <measure commodity="currency" unit="FRF" quantity="5">5</measure>
             </item>
             <item n="95" xml:id="CAT_000328_e95">
                <num type="lot">95</num>
@@ -1198,16 +1202,16 @@
                </trait>
                <desc xml:id="CAT_000328_e95_d1">Let. sig.; quartier-général de Gorcum (armée du
                   Nord), 30 brumaire an IV, 1 p. in-fol., tête imp., vignette.</desc>
-               <num type="price">5</num>
+               <measure commodity="currency" unit="FRF" quantity="5">5</measure>
             </item>
             <item n="96" xml:id="CAT_000328_e96">
                <num type="lot">96</num>
-               <name type="author">Descaves (Lucien</name>
+               <name type="author">Descaves (Lucien)</name>
                <trait>
                   <p>écrivain coutemporain, l'auteur de Sous-Offs.</p>
                </trait>
                <desc xml:id="CAT_000328_e96_d1">L. a. s.; 1891, 1. p. in-8.</desc>
-               <num type="price">3</num>
+               <measure commodity="currency" unit="FRF" quantity="3">3</measure>
             </item>
             <item n="97" xml:id="CAT_000328_e97">
                <num type="lot">97</num>
@@ -1219,8 +1223,8 @@
                <desc xml:id="CAT_000328_e97_d1">1° L. a. s.; quartier-général de Plaisance
                   (Stint-Domingue), 30 ventôse an X, 1 p. 1/2 in-4. 2° Manuscrit aut. (minute);
                   (1820), 21 p. in-4.</desc>
-               <num type="price">15</num>
-               <note>Intéressante pièce au point de vue militaire et politique, écrite à proros de
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
+               <note anchored="true">Intéressante pièce au point de vue militaire et politique, écrite à proros de
                   sa mise à la retraite. Il attribue cette mesure à la critique de la capitulation
                   de Silésie signée en 1813 par le maréchal Gouvion Saint-Cyr avec Schwarzenberg ;
                   comme réclamation, il expose ses états de service; il rappelle ses deux
@@ -1235,7 +1239,7 @@
                   <p>le célèbre peintre militaire.</p>
                </trait>
                <desc xml:id="CAT_000328_e98_d1">L. a. s ; Paris, 1881, 1 p. 1/2 in-18 obl.</desc>
-               <num type="price">4</num>
+               <measure commodity="currency" unit="FRF" quantity="4">4</measure>
             </item>
             <item n="99" xml:id="CAT_000328_e99">
                <num type="lot">99</num>
@@ -1247,8 +1251,8 @@
                </trait>
                <desc xml:id="CAT_000328_e99_d1">L. a. s., en français; Vienne, 9 juin 1827, 1 p.
                   in-4.</desc>
-               <num type="price">12</num>
-               <note>Curieuse lettre écrite comme gouverneur du duc de Reichstadt, où il le remercie
+               <measure commodity="currency" unit="FRF" quantity="12">12</measure>
+               <note anchored="true">Curieuse lettre écrite comme gouverneur du duc de Reichstadt, où il le remercie
                   de l'envoi d'un ouvrage. « Je puis d'avance vous assurer de l'intérêt et de la
                   reconnaissance avec laquelle il le recevra, lorsqu'on pourra le mettre sous ses
                   yeux.»</note>
@@ -1260,8 +1264,8 @@
                   <p>le célèbre peintre et dessinateur, né à Strasbourg en 1832, mort en 1883.</p>
                </trait>
                <desc xml:id="CAT_000328_e100_d1">L. a. s., 2 p. in-8. Papier à son chiffre</desc>
-               <num type="price">12</num>
-               <note>Belle lettre d'envoi de dessins destinés à illustrer les oeuvres de
+               <measure commodity="currency" unit="FRF" quantity="12">12</measure>
+               <note anchored="true">Belle lettre d'envoi de dessins destinés à illustrer les oeuvres de
                   Tennyson.</note>
             </item>
             <item n="101" xml:id="CAT_000328_e101">
@@ -1272,7 +1276,7 @@
                </trait>
                <desc xml:id="CAT_000328_e101_d1">Pièce sig. sur vélin, 30 juin 1555, 1/2 p. in-4
                   obl., beau cachet. Rare.</desc>
-               <num type="price">15</num>
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
             </item>
             <item n="102" xml:id="CAT_000328_e102">
                <num type="lot">102</num>
@@ -1282,7 +1286,7 @@
                </trait>
                <desc xml:id="CAT_000328_e102_d1">Pièce sig.; Strasbourg, 25 mars 1734, 1 p. in-fol.,
                   tête imp., vignette. Belle pièce.</desc>
-               <num type="price">4</num>
+               <measure commodity="currency" unit="FRF" quantity="4">4</measure>
             </item>
             <item n="103" xml:id="CAT_000328_e103">
                <num type="lot">103</num>
@@ -1292,8 +1296,8 @@
                </trait>
                <desc xml:id="CAT_000328_e103_d1">L. a. s. à Maton de la Varenne; Sainte-Pélagie, 19
                   nivôse, 1 p. in-8.</desc>
-               <num type="price">8</num>
-               <note>Intéressante lettre écrite de prison où il avait été enfermé pour avoir laissé
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
+               <note anchored="true">Intéressante lettre écrite de prison où il avait été enfermé pour avoir laissé
                   passer, dans les Petites Affiches, l'annonce d'une vente à payer en assignats
                   démonétisés.</note>
             </item>
@@ -1305,7 +1309,7 @@
                </trait>
                <desc xml:id="CAT_000328_e104_d1">Let. sig. au citoyen Jourdeuil ; Quartier-général
                   de Perpignan, 9 ventôse an II, 2/3 de p. in-4, cachet. Léger raccommodage.</desc>
-               <num type="price">15</num>
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
             </item>
             <item n="105" xml:id="CAT_000328_e105">
                <num type="lot">105</num>
@@ -1315,7 +1319,7 @@
                </trait>
                <desc xml:id="CAT_000328_e105_d1">L. a. s. à Ampère, à Lyon ; Paris, 15 oct. 1821, 1
                   p. in-4. Un peu tachée. Intéressante.</desc>
-               <num type="price">5</num>
+               <measure commodity="currency" unit="FRF" quantity="5">5</measure>
             </item>
             <item n="106" xml:id="CAT_000328_e106">
                <num type="lot">106</num>
@@ -1324,7 +1328,7 @@
                   <p/>
                </trait>
                <desc xml:id="CAT_000328_e106_d1">L. a. s. à Buchon, 1/2 p. in-8.</desc>
-               <num type="price">3</num>
+               <measure commodity="currency" unit="FRF" quantity="3">3</measure>
             </item>
             <item n="107" xml:id="CAT_000328_e107">
                <num type="lot">107</num>
@@ -1333,8 +1337,8 @@
                   <p/>
                </trait>
                <desc xml:id="CAT_000328_e107_d1">Pièce aut. sig., 1 p. in-8 obl.</desc>
-               <num type="price">5</num>
-               <note>Il demande des exemplaires de la Dame aux Camétias.</note>
+               <measure commodity="currency" unit="FRF" quantity="5">5</measure>
+               <note anchored="true">Il demande des exemplaires de la Dame aux Camétias.</note>
             </item>
             <item n="108" xml:id="CAT_000328_e108">
                <num type="lot">108</num>
@@ -1344,7 +1348,7 @@
                </trait>
                <desc xml:id="CAT_000328_e108_d1">Let. sig., en italien avec la souscr. aut. à M. de
                   Bellune ; Rome, 1607, 1 p. in-f.</desc>
-               <num type="price">15</num>
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
             </item>
             <item n="109" xml:id="CAT_000328_e109">
                <num type="lot">109</num>
@@ -1354,8 +1358,8 @@
                      Henri IV, né en 1549, mort en 1623.</p>
                </trait>
                <desc xml:id="CAT_000328_e109_d1">P. a. s.; Gaud, 3 mai 1580, 1 p. in-4 obl.</desc>
-               <num type="price">20</num>
-               <note>Il reconnaît devoir à François de la Noue, « à présent général de l'armée des
+               <measure commodity="currency" unit="FRF" quantity="20">20</measure>
+               <note anchored="true">Il reconnaît devoir à François de la Noue, « à présent général de l'armée des
                   Estats Généraux des Pars Bas en Flandres », la somme de 900 florins, « laquelle il
                   m'a prestée pour alter par commandement du Roy de Navarre et pour ses afaires
                   expresses en Angleterre ». (La Noue servait aux Pays Bas depuis 1578, mais cinq
@@ -1372,7 +1376,7 @@
                </trait>
                <desc xml:id="CAT_000328_e110_d1">4 l. a. s.; Samoreau (près Fontainebleau), 9 août
                   1814-24, 5 p. in 4. Papier au filigrane de Napoléon Ier. Curieuses.</desc>
-               <num type="price">15</num>
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
             </item>
             <item n="111" xml:id="CAT_000328_e111">
                <num type="lot">111</num>
@@ -1382,8 +1386,8 @@
                </trait>
                <desc xml:id="CAT_000328_e111_d1">L. a. s. à une dame ; Paris, 25 avril 1870, 4 p.
                   pl. in-8.</desc>
-               <num type="price">20</num>
-               <note>Très importante lettre politique écrite à son retour d'un voyage en Orient. Il
+               <measure commodity="currency" unit="FRF" quantity="20">20</measure>
+               <note anchored="true">Très importante lettre politique écrite à son retour d'un voyage en Orient. Il
                   décrit minutieusement la phase de l'Empire libéral. « Lui (Forcade), le jeune
                   Pinard, qui ne grandit pas, Duvernois, Dréolle, Cassagnac, baron David se sont cru
                   très fins et très habiles en se faisant plus royalistes que le roi. L'Empereur a
@@ -1401,7 +1405,7 @@
                </trait>
                <desc xml:id="CAT_000328_e112_d1">-La Liberté reconquise, chanson aut. sig.; (juillet
                   1831), 4 p. in-4. Jolie pièce.</desc>
-               <num type="price">6</num>
+               <measure commodity="currency" unit="FRF" quantity="6">6</measure>
             </item>
             <item n="113" xml:id="CAT_000328_e113">
                <num type="lot">113</num>
@@ -1411,8 +1415,8 @@
                </trait>
                <desc xml:id="CAT_000328_e113_d1">L. a. s. à la princesse Trivulzi ; Parme, 16 déc.
                   1754, 4 p. in-4.</desc>
-               <num type="price">15</num>
-               <note>Très jolie lettre. Il demande que Mlle Renard, chassée de la Cour par les
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
+               <note anchored="true">Très jolie lettre. Il demande que Mlle Renard, chassée de la Cour par les
                   ordres de Mme Elisabeth, fille de Louis XV, semble se retirer non par un ordre de
                   renvoi, mais par permission d'aller embrasser sa soeur.</note>
             </item>
@@ -1427,7 +1431,7 @@
                   tête imp.-3° Etat de linventaire de librairie et cartes géographiques composant la
                   bibliothèque de Mme Eblé, manuscrit original (fragment), 4 p. grand in-fol.
                   Curieux dossier.</desc>
-               <num type="price">10</num>
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
             </item>
             <item n="115" xml:id="CAT_000328_e115">
                <num type="lot">115</num>
@@ -1437,7 +1441,7 @@
                      d'Orléans, né en 1638, mort en 1719.</p>
                </trait>
                <desc xml:id="CAT_000328_e115_d1">Pièce sig. sur vélin; 1681. 1 p. in-4 obl.</desc>
-               <num type="price">8</num>
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
             </item>
             <item n="116" xml:id="CAT_000328_e116">
                <num type="lot">116</num>
@@ -1457,20 +1461,20 @@
                </trait>
                <desc xml:id="CAT_000328_e117_d1">Pièce sig. sur vélin; 26 déc. 1753, double in-fol.
                   obl.</desc>
-               <num type="price">10</num>
-               <note>Nomination de Pedro-Angello Godar de Montpellier, en Languedoc, comme son
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
+               <note anchored="true">Nomination de Pedro-Angello Godar de Montpellier, en Languedoc, comme son
                   lieutenant-colonel.</note>
             </item>
             <item n="118" xml:id="CAT_000328_e118">
                <num type="lot">118</num>
-               <name type="author">Estaing (Ch.-Hector</name>
+               <name type="author">Estaing (Ch.-Hector)</name>
                <trait>
                   <p/>
                </trait>
-               <desc xml:id="CAT_000328_e118_d1">Let. sig.; Paris, 29sept. 1784,1 p. 1/2 in-4.
+               <desc xml:id="CAT_000328_e118_d1">Let. sig.; Paris, 29sept. 1784, 1 p. 1/2 in-4.
                   Coupure enlevant des fins de lignes.</desc>
-               <num type="price">8</num>
-               <note>Intéressante lettre où il désigne des officiers devant faire partie de la
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
+               <note anchored="true">Intéressante lettre où il désigne des officiers devant faire partie de la
                   Société de Cincinnatus.</note>
             </item>
             <item n="119" xml:id="CAT_000328_e119">
@@ -1481,7 +1485,7 @@
                </trait>
                <desc xml:id="CAT_000328_e119_d1">L. a. s. à un général, 1 p. 1/2 in-8. Papier à son
                   chiffre.</desc>
-               <num type="price">25</num>
+               <measure commodity="currency" unit="FRF" quantity="25">25</measure>
             </item>
             <item n="120" xml:id="CAT_000328_e120">
                <num type="lot">120</num>
@@ -1490,10 +1494,10 @@
                   <p/>
                </trait>
                <desc xml:id="CAT_000328_e120_d1">L. a. s. à M. de Beaumont à Sedan; Paris, 19 août
-                  1645,1 p. in-4, cachets et soies. Déchirure atteignant un mot Légère tache
+                  1645, 1 p. in-4, cachets et soies. Déchirure atteignant un mot Légère tache
                   d'humidité.</desc>
-               <num type="price">30</num>
-               <note>Curieuse lettre sur la prise à Nordlingen, du maréchal Antoine de
+               <measure commodity="currency" unit="FRF" quantity="30">30</measure>
+               <note anchored="true">Curieuse lettre sur la prise à Nordlingen, du maréchal Antoine de
                   Gramont.</note>
             </item>
             <item n="121" xml:id="CAT_000328_e121">
@@ -1505,7 +1509,7 @@
                </trait>
                <desc xml:id="CAT_000328_e121_d1">L. a. s. au docteur Lepetit, médecin en chef de la
                   marine; Sidi-Bel-Abbés, 17 juin 1862, 3 p. in-8.</desc>
-               <num type="price">12</num>
+               <measure commodity="currency" unit="FRF" quantity="12">12</measure>
             </item>
             <item n="122" xml:id="CAT_000328_e122">
                <num type="lot">122</num>
@@ -1515,7 +1519,7 @@
                </trait>
                <desc xml:id="CAT_000328_e122_d1">Let. sig., en français, à Jean Frouslart,
                   lieute¬</desc>
-               <note>nant-général du comte de Bourgogne; Mons, 13 juin 1580, 1/2 p. in-fol., cachet.
+               <note anchored="true">nant-général du comte de Bourgogne; Mons, 13 juin 1580, 1/2 p. in-fol., cachet.
                   10»</note>
             </item>
             <item n="123" xml:id="CAT_000328_e123">
@@ -1525,8 +1529,8 @@
                   <p/>
                </trait>
                <desc xml:id="CAT_000328_e123_d1">L. a. s., 3 p. in-8.</desc>
-               <num type="price">6</num>
-               <note>Jolie lettre où il parle d'un album destiné à l'Empereur Napoléon III. « En le
+               <measure commodity="currency" unit="FRF" quantity="6">6</measure>
+               <note anchored="true">Jolie lettre où il parle d'un album destiné à l'Empereur Napoléon III. « En le
                   présentant à son Excellence n'oubliez pas, mon général, que j'ai été présenté à
                   l'Empereur en 1867 et que j'ai eu l'insigne honneur de lui faire les honneurs de
                   notre foyer. » Il donne aussi la nomenclature des ordres dont il est
@@ -1540,8 +1544,8 @@
                </trait>
                <desc xml:id="CAT_000328_e124_d1">Let. sig. avec la souscript. aut., en français; 3
                   mars 1789, 1 p. in-4.</desc>
-               <num type="price">12</num>
-               <note>Curieuse lettre relative à son portrait et à celui de la reine Caroline.</note>
+               <measure commodity="currency" unit="FRF" quantity="12">12</measure>
+               <note anchored="true">Curieuse lettre relative à son portrait et à celui de la reine Caroline.</note>
             </item>
             <item n="125" xml:id="CAT_000328_e125">
                <num type="lot">125</num>
@@ -1550,7 +1554,7 @@
                   <p/>
                </trait>
                <desc xml:id="CAT_000328_e125_d1">L. a. s., 1 p. in-8. Jolie lettre.</desc>
-               <num type="price">5</num>
+               <measure commodity="currency" unit="FRF" quantity="5">5</measure>
             </item>
             <item n="126" xml:id="CAT_000328_e126">
                <num type="lot">126</num>
@@ -1560,8 +1564,8 @@
                </trait>
                <desc xml:id="CAT_000328_e126_d1">L. a. s. à M. André à Stuttgart, 2 p. 1/2
                   in-4.</desc>
-               <num type="price">8</num>
-               <note>Il lui donne la liste des membres des comités Badois et Wurtembourgeois de la
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
+               <note anchored="true">Il lui donne la liste des membres des comités Badois et Wurtembourgeois de la
                   Société du Bulletin Universel pour la propaindustrielles.</note>
             </item>
             <item n="127" xml:id="CAT_000328_e127">
@@ -1572,8 +1576,8 @@
                </trait>
                <desc xml:id="CAT_000328_e127_d1">Pièce aut. sig. F.; novembre 1804, 1 p.
                   in-8.</desc>
-               <num type="price">10</num>
-               <note>Minute de lettre au pape Pie VII, au sujet du couronnement de Napoléon
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
+               <note anchored="true">Minute de lettre au pape Pie VII, au sujet du couronnement de Napoléon
                   Ier.</note>
             </item>
             <item n="128" xml:id="CAT_000328_e128">
@@ -1583,8 +1587,8 @@
                   <p>le célèbre astronome contemporain, né dans la Haute</p>
                </trait>
                <desc xml:id="CAT_000328_e128_d1">L. a. s., 1/2 p. in-8.</desc>
-               <num type="price">5</num>
-               <note>Au sujet du gonflement d'un aérostat.</note>
+               <measure commodity="currency" unit="FRF" quantity="5">5</measure>
+               <note anchored="true">Au sujet du gonflement d'un aérostat.</note>
             </item>
             <item n="129" xml:id="CAT_000328_e129">
                <num type="lot">129</num>
@@ -1595,8 +1599,8 @@
                </trait>
                <desc xml:id="CAT_000328_e129_d1">L. a. s. à Males- herbes; Palais-Royal, 15 octobre,
                   2 p. 1/2 pet. in-4, cachet à ses armes.</desc>
-               <num type="price">45</num>
-               <note>Il vient d'examiner l'édition contrefaite de l'Encyclopédie que lui recommande
+               <measure commodity="currency" unit="FRF" quantity="45">45</measure>
+               <note anchored="true">Il vient d'examiner l'édition contrefaite de l'Encyclopédie que lui recommande
                   d'Argental; elle parait venir de Genève plutôt que de Lyon; il n'y manque que les
                   cartes; il est d'avis qu'on peut la laisser circuler.</note>
             </item>
@@ -1609,8 +1613,8 @@
                </trait>
                <desc xml:id="CAT_000328_e130_d1">L. a. s. à un général; Puebla, 2 juin 1863, 2p. 1/4
                   in-8.</desc>
-               <num type="price">8</num>
-               <note>Belle lettre où il fait le récit de la prise de Puebla. Curieux détails.</note>
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
+               <note anchored="true">Belle lettre où il fait le récit de la prise de Puebla. Curieux détails.</note>
             </item>
             <item n="131" xml:id="CAT_000328_e131">
                <num type="lot">131</num>
@@ -1620,7 +1624,7 @@
                </trait>
                <desc xml:id="CAT_000328_e131_d1">L. a. s. à un colonel, 4 p. pl. in-8. Curieuse
                   lettre.</desc>
-               <num type="price">10</num>
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
             </item>
             <item n="132" xml:id="CAT_000328_e132">
                <num type="lot">132</num>
@@ -1629,8 +1633,8 @@
                   <p/>
                </trait>
                <desc xml:id="CAT_000328_e132_d1">Let. sig.; Paris, 3 germinalan II, 1p. in-4.</desc>
-               <num type="price">15</num>
-               <note>Il annonce le prochain jugement de CyrSalm -Hégésippe Hennet, lieutenant de
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
+               <note anchored="true">Il annonce le prochain jugement de CyrSalm -Hégésippe Hennet, lieutenant de
                   prévôt, acquitté le 22 vendémiaire an III.</note>
             </item>
             <item n="133" xml:id="CAT_000328_e133">
@@ -1641,7 +1645,7 @@
                </trait>
                <desc xml:id="CAT_000328_e133_d1">L. a. s. à Cuvier; Paris, 19 février 1821, 1/2 p.
                   in-4.</desc>
-               <num type="price">8</num>
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
             </item>
             <item n="134" xml:id="CAT_000328_e134">
                <num type="lot">134</num>
@@ -1650,8 +1654,8 @@
                   <p/>
                </trait>
                <desc xml:id="CAT_000328_e134_d1">L. a. s.; Paris, 1875, 1 p. in-8.</desc>
-               <num type="price">4</num>
-               <note>Relative à son tableau la Campagne, de Rome.</note>
+               <measure commodity="currency" unit="FRF" quantity="4">4</measure>
+               <note anchored="true">Relative à son tableau la Campagne, de Rome.</note>
             </item>
             <item n="135" xml:id="CAT_000328_e135">
                <num type="lot">135</num>
@@ -1660,7 +1664,7 @@
                   <p/>
                </trait>
                <desc xml:id="CAT_000328_e135_d1">L. a. s.; Londres, 1 p. in-8.</desc>
-               <num type="price">4</num>
+               <measure commodity="currency" unit="FRF" quantity="4">4</measure>
             </item>
             <item n="136" xml:id="CAT_000328_e136">
                <num type="lot">136</num>
@@ -1669,8 +1673,8 @@
                   <p/>
                </trait>
                <desc xml:id="CAT_000328_e136_d1">L. a. s., 3 p. in-8.</desc>
-               <num type="price">10</num>
-               <note>Belle lettre relative à l'exécution de son Chasseur maudit..</note>
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
+               <note anchored="true">Belle lettre relative à l'exécution de son Chasseur maudit..</note>
             </item>
             <item n="137" xml:id="CAT_000328_e137">
                <num type="lot">137</num>
@@ -1680,8 +1684,8 @@
                </trait>
                <desc xml:id="CAT_000328_e137_d1">8 let. sig. avec la souscript. aut. et 1 let.
                   originale en français, à M. de Fontenay ; 1821-1829, 12 p. in-4</desc>
-               <num type="price">40</num>
-               <note>Intéressante correspondance dont voici une analyse sommaire. Naples, 2 avril
+               <measure commodity="currency" unit="FRF" quantity="40">40</measure>
+               <note anchored="true">Intéressante correspondance dont voici une analyse sommaire. Naples, 2 avril
                   1821. -Il le remercie de le renseigner sur la santé de la duchesse de Berry: « Je
                   vous renvoie la Quotidienne que vous m'avez prêtée pour lire l'article qui
                   concerne le duc de Bordeaux. ». Caserte, 26 avril 1821.-Il a reçu les lettres de
@@ -1701,8 +1705,8 @@
                </trait>
                <desc xml:id="CAT_000328_e138_d1">-Let. sig., en français; Charlottenbourg, 25
                   juillet 1812, 1/3 de p. in-4.</desc>
-               <num type="price">6</num>
-               <note>Il le remercie de ses Mémoires de chirurgie militaire et campagnes.</note>
+               <measure commodity="currency" unit="FRF" quantity="6">6</measure>
+               <note anchored="true">Il le remercie de ses Mémoires de chirurgie militaire et campagnes.</note>
             </item>
             <item n="139" xml:id="CAT_000328_e139">
                <num type="lot">139</num>
@@ -1711,7 +1715,7 @@
                   <p/>
                </trait>
                <desc xml:id="CAT_000328_e139_d1">L. a. s. ; Paris, 13 mai 1870, 1 p. in-8.</desc>
-               <num type="price">15</num>
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
             </item>
             <item n="140" xml:id="CAT_000328_e140">
                <num type="lot">140</num>
@@ -1721,8 +1725,8 @@
                </trait>
                <desc xml:id="CAT_000328_e140_d1">L. a. s. à la baronne Marie -Espérance de Schwartz,
                   Caprera, 12 sept. 1871, 1 p. in-4. Légère déchirure.</desc>
-               <num type="price">30</num>
-               <note>Charmante lettre intime.</note>
+               <measure commodity="currency" unit="FRF" quantity="30">30</measure>
+               <note anchored="true">Charmante lettre intime.</note>
             </item>
             <item n="141" xml:id="CAT_000328_e141">
                <num type="lot">141</num>
@@ -1731,7 +1735,7 @@
                   <p>fils du précédent et son lieutenant dans la campagne de 1870-71.</p>
                </trait>
                <desc xml:id="CAT_000328_e141_d1">L. a. s. à son père; 1 p. in-8.</desc>
-               <num type="price">8</num>
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
             </item>
             <item n="142" xml:id="CAT_000328_e142">
                <num type="lot">142</num>
@@ -1741,7 +1745,7 @@
                </trait>
                <desc xml:id="CAT_000328_e142_d1">L. a. s., Milan, 1876, 1 p. in-8. Belle
                   lettre.</desc>
-               <num type="price">4</num>
+               <measure commodity="currency" unit="FRF" quantity="4">4</measure>
             </item>
             <item n="143" xml:id="CAT_000328_e143">
                <num type="lot">143</num>
@@ -1752,8 +1756,8 @@
                </trait>
                <desc xml:id="CAT_000328_e143_d1">Pièce sig., sig. aussi par Duval; Vienne, 12
                   janvier 1775, 1 p. 1/2 in-fol., tête imp., vignettes.</desc>
-               <num type="price">8</num>
-               <note>Certificat en faveur de Valentin-Jameray Duval, bibliothécaire de feu
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
+               <note anchored="true">Certificat en faveur de Valentin-Jameray Duval, bibliothécaire de feu
                   l'empereur François Ier»</note>
             </item>
             <item n="144" xml:id="CAT_000328_e144">
@@ -1765,7 +1769,7 @@
                <desc xml:id="CAT_000328_e144_d1">L. a. s. comme représentant du peuple près l'armée
                   de Sambre-et-Meuse, au géné rai Scherer ; Quartier général de Cologne, 16
                   vendémiaire an III, 1 p. 1/4 in-4, tête imp., jolie vignette.</desc>
-               <num type="price">5</num>
+               <measure commodity="currency" unit="FRF" quantity="5">5</measure>
             </item>
             <item n="145" xml:id="CAT_000328_e145">
                <num type="lot">145</num>
@@ -1775,8 +1779,8 @@
                </trait>
                <desc xml:id="CAT_000328_e145_d1">Let. sig. ; Paris, 22 nivôse an V, 2 p. in-4, tête
                   imp., vignette.</desc>
-               <num type="price">6</num>
-               <note>Relative aux jeunes colons Toussaint Louverture et Pierrot, qui ont déserté
+               <measure commodity="currency" unit="FRF" quantity="6">6</measure>
+               <note anchored="true">Relative aux jeunes colons Toussaint Louverture et Pierrot, qui ont déserté
                   deux fois l'école de Liancourt.</note>
             </item>
             <item n="146" xml:id="CAT_000328_e146">
@@ -1790,7 +1794,7 @@
                   président de l'Administration départementale du Rhin, Aruhem, 6 nov. 1799, 1 p.
                   in-fol. obl. Belle pièce attestant les services rendus par le général Girod aux
                   habitants de la partie de la Hollande où il commandait.</desc>
-               <num type="price">10</num>
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
             </item>
             <item n="147" xml:id="CAT_000328_e147">
                <num type="lot">147</num>
@@ -1808,8 +1812,8 @@
                   <p>le célèbre écrivain contemporain, né à Nancy en 1822, mort en 1896.</p>
                </trait>
                <desc xml:id="CAT_000328_e148_d1">L. a. s.; Paris, 13 sept. 1883, 1 p. in-8.</desc>
-               <num type="price">6</num>
-               <note>Jolie lettre au sujet de la traduction de ses romans.</note>
+               <measure commodity="currency" unit="FRF" quantity="6">6</measure>
+               <note anchored="true">Jolie lettre au sujet de la traduction de ses romans.</note>
             </item>
             <item n="149" xml:id="CAT_000328_e149">
                <num type="lot">149</num>
@@ -1821,7 +1825,7 @@
                </trait>
                <desc xml:id="CAT_000328_e149_d1">Let. sig., avec la souscript. aut., au Cardinal de
                   Trente; 1554, 1/2 p. in-4. Sceau. Superbe pièce. Rare.</desc>
-               <num type="price">10</num>
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
             </item>
             <item n="150" xml:id="CAT_000328_e150">
                <num type="lot">150</num>
@@ -1830,7 +1834,7 @@
                   <p>le célèbre comédien du Théâtre-Français, né à Lignerolles (Orne) en 1822.</p>
                </trait>
                <desc xml:id="CAT_000328_e150_d1">L. a. s.; 18 juillet 1860, 1 p. 1/2 in-8.</desc>
-               <num type="price">3</num>
+               <measure commodity="currency" unit="FRF" quantity="3">3</measure>
             </item>
             <item n="151" xml:id="CAT_000328_e151">
                <num type="lot">151</num>
@@ -1840,8 +1844,8 @@
                      guerre à la Prusse.</p>
                </trait>
                <desc xml:id="CAT_000328_e151_d1">L. a. s.; Vienne, 25 mai 1870, 3 p. in-8.</desc>
-               <num type="price">6</num>
-               <note>Curieuse lettre écrite peu après sa nomination d'ambassadeur à Vienne. «
+               <measure commodity="currency" unit="FRF" quantity="6">6</measure>
+               <note anchored="true">Curieuse lettre écrite peu après sa nomination d'ambassadeur à Vienne. «
                   Veuillez remercier le prince Gortchakoff de son bon souvenir et lui dire combien
                   je désire marcher d'accord avec lui.»</note>
             </item>
@@ -1852,7 +1856,7 @@
                   <p>président de la République.</p>
                </trait>
                <desc xml:id="CAT_000328_e152_d1">Pièce aut. sig., 1 p. in-32 obl.</desc>
-               <num type="price">5</num>
+               <measure commodity="currency" unit="FRF" quantity="5">5</measure>
             </item>
             <item n="153" xml:id="CAT_000328_e153">
                <num type="lot">153</num>
@@ -1862,8 +1866,8 @@
                </trait>
                <desc xml:id="CAT_000328_e153_d1">Let. orig. avec 3 lig. aut. ; camp de Lenz (près
                   Soignies), 25 mai 1697, 1 p. 1/4 in-4.</desc>
-               <num type="price">20</num>
-               <note>Curieuse pièce adressée au chevalier de Grignan. Nouvelles à la main sur le
+               <measure commodity="currency" unit="FRF" quantity="20">20</measure>
+               <note anchored="true">Curieuse pièce adressée au chevalier de Grignan. Nouvelles à la main sur le
                   siège d'Ath par Catinat et Vauban, que le maréchal de Boufflers couvrait contre
                   les attaques de Guillaume III ; on espérait cependant la prompte conclusion de la
                   paix de Ryswick.</note>
@@ -1876,8 +1880,8 @@
                </trait>
                <desc xml:id="CAT_000328_e154_d1">L. a. s. Em. à un ami; 10 juin 1816, 1 p. 2/3
                   in-4.</desc>
-               <num type="price">10</num>
-               <note>Belle et intéressante lettre. « Informes le premier ministre de ma résolution ;
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
+               <note anchored="true">Belle et intéressante lettre. « Informes le premier ministre de ma résolution ;
                   prie-le de désigner le pays où je pourrais être, sans porter ombrage; je
                   l'habiterai, sous un nom supposé, si on le veut.»</note>
             </item>
@@ -1889,7 +1893,7 @@
                </trait>
                <desc xml:id="CAT_000328_e155_d1">Let. sig. comme prince royal de Prusse; Mainz, 17
                   juillet 1845, 1/2 p. in-4.</desc>
-               <num type="price">15</num>
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
             </item>
             <item n="156" xml:id="CAT_000328_e156">
                <num type="lot">156</num>
@@ -1899,8 +1903,8 @@
                </trait>
                <desc xml:id="CAT_000328_e156_d1">L. a. s. ; Paris, 28 frimaire an XIII (19 déc.
                   1804), 3 p. 1/4 in-4.</desc>
-               <num type="price">5</num>
-               <note>Belle lettre au sujet du couronnement de l'empereur qui avait eu lieu le 2
+               <measure commodity="currency" unit="FRF" quantity="5">5</measure>
+               <note anchored="true">Belle lettre au sujet du couronnement de l'empereur qui avait eu lieu le 2
                   décembre précédent</note>
             </item>
             <item n="157" xml:id="CAT_000328_e157">
@@ -1912,8 +1916,8 @@
                </trait>
                <desc xml:id="CAT_000328_e157_d1">-Let. sig. au Chapitre de Saint-Dié; (1570), 1 p.
                   in-4.</desc>
-               <num type="price">8</num>
-               <note>Il invite les chanoines de Saint-Dié à permettre aux habitants de Frémifontaine
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
+               <note anchored="true">Il invite les chanoines de Saint-Dié à permettre aux habitants de Frémifontaine
                   (Vosges) de lever une dime pour l'entretien de l'église par eux nouvellement
                   établie.»</note>
             </item>
@@ -1926,7 +1930,7 @@
                </trait>
                <desc xml:id="CAT_000328_e158_d1">Pièce sig. sur vélin; Paris, 1693, in-fol. obl.
                   cachet.</desc>
-               <num type="price">8</num>
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
             </item>
             <item n="159" xml:id="CAT_000328_e159">
                <num type="lot">159</num>
@@ -1937,8 +1941,8 @@
                <desc xml:id="CAT_000328_e159_d1">L. a. s. de Nicolas de Neufville, seigneu de
                   Villeroy au roi, avec 12 apostilles sig. en marge par Henri III ; Paris, 23
                   janvier 1579, 4 p. pl. in-fol., cachets.</desc>
-               <num type="price">100</num>
-               <note>Belle et importante lettre historique. Villeroy parle au roi du voyage de
+               <measure commodity="currency" unit="FRF" quantity="100">100</measure>
+               <note anchored="true">Belle et importante lettre historique. Villeroy parle au roi du voyage de
                   Soffrey de Calignon et de Sansac près du roi de Navarre et de Catherine de Médicis
                   pour la conclusion du Traité de Nérac, il lui demande de payer 400 écus pour le
                   voyage de Sansac, quant à Calignon il n'a pas de quoi s'en retourner. Il
@@ -1966,8 +1970,8 @@
                </trait>
                <desc xml:id="CAT_000328_e160_d1">Pièce. sig. sur vélin; Paris, 27 déc. 1599, in-fol.
                   obl.</desc>
-               <num type="price">8</num>
-               <note>Don de 600 écus à Claude de Boisgaultier, « naguères receveur général de noz
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
+               <note anchored="true">Don de 600 écus à Claude de Boisgaultier, « naguères receveur général de noz
                   greniers à sel de Berry.»</note>
             </item>
             <item n="161" xml:id="CAT_000328_e161">
@@ -1979,8 +1983,8 @@
                </trait>
                <desc xml:id="CAT_000328_e161_d1">L. a. s. au capitaine Le Cat; Quartier général de
                   Rennes, 5 prairial an IV, 1/2 p. in-4, tête imp.</desc>
-               <num type="price">8</num>
-               <note>Belle lettre où il parle du général Hoche.</note>
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
+               <note anchored="true">Belle lettre où il parle du général Hoche.</note>
             </item>
             <item n="162" xml:id="CAT_000328_e162">
                <num type="lot">162</num>
@@ -1990,8 +1994,8 @@
                </trait>
                <desc xml:id="CAT_000328_e162_d1">L. a. s. comme commandant le département
                   d'Eure-et-Loir; Chartres, 23 mars 1815, 4 p. in-fol.</desc>
-               <num type="price">12</num>
-               <note>Intéressante lettre militaire, où il proteste de son dévouement à
+               <measure commodity="currency" unit="FRF" quantity="12">12</measure>
+               <note anchored="true">Intéressante lettre militaire, où il proteste de son dévouement à
                   l'Empereur.</note>
             </item>
             <item n="163" xml:id="CAT_000328_e163">
@@ -2001,7 +2005,7 @@
                   <p>illustre chancelier de France.</p>
                </trait>
                <desc xml:id="CAT_000328_e163_d1">Pièce sig. sur vélin; 1566, in-4 obl.</desc>
-               <num type="price">18</num>
+               <measure commodity="currency" unit="FRF" quantity="18">18</measure>
             </item>
             <item n="164" xml:id="CAT_000328_e164">
                <num type="lot">164</num>
@@ -2011,8 +2015,8 @@
                </trait>
                <desc xml:id="CAT_000328_e164_d1">P. a. s.; Paris. 9 avril 1850, 1 p. in-4
                   obl.</desc>
-               <num type="price">6</num>
-               <note>Ordre de payer 1,000 francs à compte à Alexandre Dumas sur les droits d'auteur
+               <measure commodity="currency" unit="FRF" quantity="6">6</measure>
+               <note anchored="true">Ordre de payer 1,000 francs à compte à Alexandre Dumas sur les droits d'auteur
                   d'une pièce en trois actes intitulée : Un entévement.</note>
             </item>
             <item n="165" xml:id="CAT_000328_e165">
@@ -2023,8 +2027,8 @@
                </trait>
                <desc xml:id="CAT_000328_e165_d1">L. a. s.; Hauteville house. 28 avril, 1 p. in-8.
                   Légèrement tachée.</desc>
-               <num type="price">10</num>
-               <note>Curieuse lettre au sujet de l'interdiction de ses pièces. « Je ne puis rentrer
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
+               <note anchored="true">Curieuse lettre au sujet de l'interdiction de ses pièces. « Je ne puis rentrer
                   au théâtre par une porte de côté. Il me faut la porte ouverte à deux battants,
                   comme à tous, Sino no.»</note>
             </item>
@@ -2036,8 +2040,8 @@
                </trait>
                <desc xml:id="CAT_000328_e166_d1">Let. sig. au nonce du pape Clément XI; Paris, 16
                   juin 1717, 1 p. in-fol.</desc>
-               <num type="price">5</num>
-               <note>Il lui envoie les lettres patentes nécessaires sur le bref qui nomme M.
+               <measure commodity="currency" unit="FRF" quantity="5">5</measure>
+               <note anchored="true">Il lui envoie les lettres patentes nécessaires sur le bref qui nomme M.
                   Gonthieri, pour exercer la vice-délégation d'Avignon.</note>
             </item>
             <item n="167" xml:id="CAT_000328_e167">
@@ -2048,7 +2052,7 @@
                </trait>
                <desc xml:id="CAT_000328_e167_d1">L. a. s. au vicomte Walsh, 11 mai 1879, 3 p. in-8.
                   Papier à ses armes. Jolie lettre.</desc>
-               <num type="price">12</num>
+               <measure commodity="currency" unit="FRF" quantity="12">12</measure>
             </item>
             <item n="168" xml:id="CAT_000328_e168">
                <num type="lot">168</num>
@@ -2058,8 +2062,8 @@
                </trait>
                <desc xml:id="CAT_000328_e168_d1">L. a. s.; Chantilly, 11 mai 1890. 2 p. 1/2
                   in-8.</desc>
-               <num type="price">10</num>
-               <note>Très belle lettre relative à la visite qu'il a faite à la maison Bonaparte à
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
+               <note anchored="true">Très belle lettre relative à la visite qu'il a faite à la maison Bonaparte à
                   Ajaccio en 1831. Intéressants détails.</note>
             </item>
             <item n="169" xml:id="CAT_000328_e169">
@@ -2072,7 +2076,7 @@
                <desc xml:id="CAT_000328_e169_d1">Pièce sig., sig. aussi par les généraux d'Acranche
                   d'Haugeranville et du Plessis; Paris, 21 nov. 1806, 1 p. in-fol. obl., vignette,
                   entourage gravé. Déchirure. Montée.</desc>
-               <num type="price">6</num>
+               <measure commodity="currency" unit="FRF" quantity="6">6</measure>
             </item>
             <item n="170" xml:id="CAT_000328_e170">
                <num type="lot">170</num>
@@ -2082,7 +2086,7 @@
                </trait>
                <desc xml:id="CAT_000328_e170_d1">Let. sig. avec la souscript. aut. en allemand, 15
                   oct. 1740. 2 p. in-fol. Belle lettre.</desc>
-               <num type="price">12</num>
+               <measure commodity="currency" unit="FRF" quantity="12">12</measure>
             </item>
             <item n="171" xml:id="CAT_000328_e171">
                <num type="lot">171</num>
@@ -2092,8 +2096,8 @@
                </trait>
                <desc xml:id="CAT_000328_e171_d1">L. a. s.; Paris, 14 pluviôse an X, 2 p. 1/2
                   in-4.</desc>
-               <num type="price">6</num>
-               <note>Belle lettre où il rappelle ses états de service.</note>
+               <measure commodity="currency" unit="FRF" quantity="6">6</measure>
+               <note anchored="true">Belle lettre où il rappelle ses états de service.</note>
             </item>
             <item n="172" xml:id="CAT_000328_e172">
                <num type="lot">172</num>
@@ -2103,7 +2107,7 @@
                </trait>
                <desc xml:id="CAT_000328_e172_d1">L. a. s. à Hoschédé; Paris, 31 décembre 1876, 2 p.
                   in-8. Papier à son chiffre.</desc>
-               <num type="price">6</num>
+               <measure commodity="currency" unit="FRF" quantity="6">6</measure>
             </item>
             <item n="173" xml:id="CAT_000328_e173">
                <num type="lot">173</num>
@@ -2115,8 +2119,8 @@
                </trait>
                <desc xml:id="CAT_000328_e173_d1">L. a, s. au marquis Octave Alexandre de Barol;
                   Paris, 5 mai 1808, 2 p. in-4, cachet. Notice aut. de Silrio Pellico.</desc>
-               <num type="price">10</num>
-               <note>Il lui recommande M. Devereux, son ami intime, gentilhomme irlandais, de la
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
+               <note anchored="true">Il lui recommande M. Devereux, son ami intime, gentilhomme irlandais, de la
                   famille du comte d'Essex.</note>
             </item>
             <item n="174" xml:id="CAT_000328_e174">
@@ -2129,7 +2133,7 @@
                </trait>
                <desc xml:id="CAT_000328_e174_d1">Pièce sig. sur vélin; 31 déc. 1615, 1 p. in-4
                   obl.</desc>
-               <num type="price">6</num>
+               <measure commodity="currency" unit="FRF" quantity="6">6</measure>
             </item>
             <item n="175" xml:id="CAT_000328_e175">
                <num type="lot">175</num>
@@ -2139,8 +2143,8 @@
                      RoyalAllemand en 1789, né en 1751, mort en 1825.</p>
                </trait>
                <desc xml:id="CAT_000328_e175_d1">L. a. s.; Trêves, 10 mai 1790, 1 p. in-fol.</desc>
-               <num type="price">12</num>
-               <note>Il demande un congé d'été pour un officier de son régiment Royal
+               <measure commodity="currency" unit="FRF" quantity="12">12</measure>
+               <note anchored="true">Il demande un congé d'été pour un officier de son régiment Royal
                   Allemand.</note>
             </item>
             <item n="176" xml:id="CAT_000328_e176">
@@ -2151,7 +2155,7 @@
                      protestants, né en 1648, mort en 1724.</p>
                </trait>
                <desc xml:id="CAT_000328_e176_d1">L.a. s.; Montpellier, 1716, 1 p. petit in-4.</desc>
-               <num type="price">15</num>
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
             </item>
             <item n="177" xml:id="CAT_000328_e177">
                <num type="lot">177</num>
@@ -2163,19 +2167,19 @@
                </trait>
                <desc xml:id="CAT_000328_e177_d1">L. a. s.; Château de Luciennes. 17 janvier 1785, 1
                   p. in-4. Belle lettre. Très rare.</desc>
-               <num type="price">35</num>
+               <measure commodity="currency" unit="FRF" quantity="35">35</measure>
             </item>
             <item n="178" xml:id="CAT_000328_e178">
                <num type="lot">178</num>
-               <name type="author">La Moskowa (Edgar Ney</name>
+               <name type="author">La Moskowa (Edgar Ney)</name>
                <trait>
                   <p>prince de),</p>
                </trait>
                <desc xml:id="CAT_000328_e178_d1">général et sénateur, à qui Napoléon III adressa en
                   1849, une lettre sur la sécularis ition et le Code Napoléon, comme condition du
                   rétablissement du Cannes (1870), 4 p. in-8.</desc>
-               <num type="price">10</num>
-               <note>Belle lettre relative à l'admission comme officier de son beau-fils le comte
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
+               <note anchored="true">Belle lettre relative à l'admission comme officier de son beau-fils le comte
                   Jehan de La Bédoyère.</note>
             </item>
             <item n="179" xml:id="CAT_000328_e179">
@@ -2187,7 +2191,7 @@
                </trait>
                <desc xml:id="CAT_000328_e179_d1">Let. sig.; 30 messidor an XIII, 1 p. 1/4 in fol,
                   tête imp., vignette.</desc>
-               <num type="price">8</num>
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
             </item>
             <item n="180" xml:id="CAT_000328_e180">
                <num type="lot">180</num>
@@ -2198,8 +2202,8 @@
                </trait>
                <desc xml:id="CAT_000328_e180_d1">L. a. s. au cardinal de Noailles, archevêque de
                   Paris; Rome, 10 mars 1708, 3 p. in-4.</desc>
-               <num type="price">25</num>
-               <note>Lettre intéressante pour l'histoire du Jansénisme et la ruine de
+               <measure commodity="currency" unit="FRF" quantity="25">25</measure>
+               <note anchored="true">Lettre intéressante pour l'histoire du Jansénisme et la ruine de
                   Port-Royal-des-Champs : « La supplique pour la bulle de Port-Royal a esté signée
                   et il ne reste plus que les formalités du banquier pour la conponende et autres
                   choses; l'affaire est entièrement consommée; je mande à M. de Torcy, (min. des
@@ -2222,8 +2226,8 @@
                </trait>
                <desc xml:id="CAT_000328_e181_d1">Pièce sig. ; Sablé, 16 mai 1625, 2 p. 1/2
                   in-4.</desc>
-               <num type="price">15</num>
-               <note>Prise de possession par le maréchal de la métairie de la Grand Maison, sise à
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
+               <note anchored="true">Prise de possession par le maréchal de la métairie de la Grand Maison, sise à
                   Sablé, sur la paroisse de Saint-Martin.</note>
             </item>
             <item n="182" xml:id="CAT_000328_e182">
@@ -2234,7 +2238,7 @@
                      Saint- Sauveur (Manche) en 1739, mort en 1824.</p>
                </trait>
                <desc xml:id="CAT_000328_e182_d1">L. a. s., 23 de p. in-4. Belle lettre.</desc>
-               <num type="price">6</num>
+               <measure commodity="currency" unit="FRF" quantity="6">6</measure>
             </item>
             <item n="183" xml:id="CAT_000328_e183">
                <num type="lot">183</num>
@@ -2245,7 +2249,7 @@
                </trait>
                <desc xml:id="CAT_000328_e183_d1">L. a. s.; Soisy-sous-Etioles, 8 vendémiaire an X. 1
                   p. in-4, tête imp., vignette, fragments de cachet.</desc>
-               <num type="price">5</num>
+               <measure commodity="currency" unit="FRF" quantity="5">5</measure>
             </item>
             <item n="184" xml:id="CAT_000328_e184">
                <num type="lot">184</num>
@@ -2255,7 +2259,7 @@
                      (Loiret) en 1853.</p>
                </trait>
                <desc xml:id="CAT_000328_e184_d1">L. a. s , 1 p. in-18 obl.</desc>
-               <num type="price">3</num>
+               <measure commodity="currency" unit="FRF" quantity="3">3</measure>
             </item>
             <item n="185" xml:id="CAT_000328_e185">
                <num type="lot">185</num>
@@ -2275,8 +2279,8 @@
                <desc xml:id="CAT_000328_e186_d1">Let. sig. à Louis-Antoine, duc de Bavière, comte de
                   Veldenz, grand-maître de l'ordre teutonique; Vienne, 2 mai 1686, 4 p. in-fol.,
                   cachet.</desc>
-               <num type="price">15</num>
-               <note>Il lui demande de faire rendre justice à l'ambassadeur de la république de
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
+               <note anchored="true">Il lui demande de faire rendre justice à l'ambassadeur de la république de
                   Venise, molesté par les bourgeois de Nuremberg.</note>
             </item>
             <item n="187" xml:id="CAT_000328_e187">
@@ -2287,21 +2291,21 @@
                </trait>
                <desc xml:id="CAT_000328_e187_d1">L. a. s., en français; Rome, 26 javvier 1882, 2 p.
                   in-8.</desc>
-               <num type="price">8</num>
-               <note>Très belle lettre. « Mon état de santé, sans être précisément mauvais, se
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
+               <note anchored="true">Très belle lettre. « Mon état de santé, sans être précisément mauvais, se
                   réduit à beaucoup de fatigue; elle m'interdit d'écrire avec suite, même de la
                   musique, mon occupation d'enfance poursuivie obstinément à travers 60 années de
                   travail»</note>
             </item>
             <item n="188" xml:id="CAT_000328_e188">
                <num type="lot">188</num>
-               <name type="author">Lobau (Georges Mouton</name>
+               <name type="author">Lobau (Georges Mouton)</name>
                <trait>
                   <p>comte de). né à Phalsbourg en 1770, mort en 1838.</p>
                </trait>
                <desc xml:id="CAT_000328_e188_d1">Let. sig. à M. Loustau, sousintendant militaire, à
                   Haguenau ; Paris, 17 mai 1828, 1 p. 2/3 in-4. cachet. Belle lettre.</desc>
-               <num type="price">8</num>
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
             </item>
             <item n="189" xml:id="CAT_000328_e189">
                <num type="lot">189</num>
@@ -2310,7 +2314,7 @@
                   <p>maréchal de France, neveu de Turenne, mort en 1702.</p>
                </trait>
                <desc xml:id="CAT_000328_e189_d1">Pièce sig. sur vélin, 1679, 1 page in-4 obl.</desc>
-               <num type="price">6</num>
+               <measure commodity="currency" unit="FRF" quantity="6">6</measure>
             </item>
             <item n="190" xml:id="CAT_000328_e190">
                <num type="lot">190</num>
@@ -2322,8 +2326,8 @@
                </trait>
                <desc xml:id="CAT_000328_e190_d1">Pièce sig. sur vélin; Nancy, 8 janvier 1555 (1556);
                   double in-fol.</desc>
-               <num type="price">10</num>
-               <note>Lettres patentes à son maître d'hôtel François du Buchet, seigneur de Joncourt
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
+               <note anchored="true">Lettres patentes à son maître d'hôtel François du Buchet, seigneur de Joncourt
                   et de Gelaucourt (Meurthe), par lesquelles il lui abandonne le terroir de Nomeny
                   (Meurthe), dont du Buchet lui avait cédé la moitié, au nom d'Anne de Gournay, sa
                   femme, nièce de Humbert de Servières.</note>
@@ -2337,8 +2341,8 @@
                </trait>
                <desc xml:id="CAT_000328_e191_d1">L. a. s. au duc Guillaume de Bavière; Nancy, 8
                   octobre 1576, 1 p. in-fol.</desc>
-               <num type="price">50</num>
-               <note>Superbe lettre où il fait allusion à la mort de l'empereur d'Allemagne (Maximi
+               <measure commodity="currency" unit="FRF" quantity="50">50</measure>
+               <note anchored="true">Superbe lettre où il fait allusion à la mort de l'empereur d'Allemagne (Maximi
                   lien II).</note>
             </item>
             <item n="192" xml:id="CAT_000328_e192">
@@ -2350,9 +2354,9 @@
                </trait>
                <desc xml:id="CAT_000328_e192_d1">L. a. s. à M. Liégeois, à Nancy, 1 p. in-4, cachets
                   et soies.</desc>
-               <num type="price">10</num>
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
             </item>
-            <note>Elle lui demande, de la part de M. de Vaudemont, d'écrire à « maissieurs (les
+            <note anchored="true">Elle lui demande, de la part de M. de Vaudemont, d'écrire à « maissieurs (les
                échevins) de Maés (Metz).</note>
             <item n="193" xml:id="CAT_000328_e193">
                <num type="lot">193</num>
@@ -2363,8 +2367,8 @@
                <desc xml:id="CAT_000328_e193_d1">Pièce sig., avec deux mots aut. sig. par Claude de
                   Bullion (le célèbre mi nistre); Paris, 28 août 1613, 1/2 p. in-fol. Légèrement
                   tachée d'humidité.</desc>
-               <num type="price">8</num>
-               <note>Mandement du roi en faveur de MM. de Bullion et Arnaud.</note>
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
+               <note anchored="true">Mandement du roi en faveur de MM. de Bullion et Arnaud.</note>
             </item>
             <item n="194" xml:id="CAT_000328_e194">
                <num type="lot">194</num>
@@ -2375,8 +2379,8 @@
                <desc xml:id="CAT_000328_e194_d1">Let. sig., contresignée par Hugues de Lionne, au
                   prince Maximilien de Bavière ; St-Germain-en-Laye, 27 avril 1665, 1 p.
                   in-fol.</desc>
-               <num type="price">15</num>
-               <note>Belle lettre. Il lui donne mission de tenir en son nom sur les fonts de baptême
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
+               <note anchored="true">Belle lettre. Il lui donne mission de tenir en son nom sur les fonts de baptême
                   le jeune prince dont l'Electrice de Bavière est heureusement accouchée.</note>
             </item>
             <item n="195" xml:id="CAT_000328_e195">
@@ -2387,7 +2391,7 @@
                </trait>
                <desc xml:id="CAT_000328_e195_d1">Pièce sig., comme comte de Provence, Brunoy, 1784.
                   2/3 de p. in-fol. Fripée.</desc>
-               <num type="price">8</num>
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
             </item>
             <item n="196" xml:id="CAT_000328_e196">
                <num type="lot">196</num>
@@ -2398,8 +2402,8 @@
                </trait>
                <desc xml:id="CAT_000328_e196_d1">L. a. s. à sa soeur Frédérique, épouse du prince
                   Henri Radziwill; Sundhûtte (Silésie), 1er août (1806), 1 p. 1/2 in-8.</desc>
-               <num type="price">15</num>
-               <note>Intéressante lettre. Il l'informe des mouvements préliminaires de la campagne
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
+               <note anchored="true">Intéressante lettre. Il l'informe des mouvements préliminaires de la campagne
                   de 1806, de l'arrivée du prince de Bruuswick aux environs de Warmbrünn, il
                   s'inquiète de la santé du prince Henri Radzivill et parle du duc de Weimar, du
                   prince de Nassau, d'Oginski, de Jablonowski.</note>
@@ -2413,8 +2417,8 @@
                </trait>
                <desc xml:id="CAT_000328_e197_d1">L. a. s. à son père; Bruxelles, 4 janvier 1837, 2
                   p. in-4. Fripée.</desc>
-               <num type="price">15</num>
-               <note>Charmante lettre intime.</note>
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
+               <note anchored="true">Charmante lettre intime.</note>
             </item>
             <item n="198" xml:id="CAT_000328_e198">
                <num type="lot">198</num>
@@ -2424,8 +2428,8 @@
                </trait>
                <desc xml:id="CAT_000328_e198_d1">L. a. s. au maréchal Soult, avec apostille sig. de
                   ce dernier; Montauban, 19 avril 1814, 12 p. in-fol.</desc>
-               <num type="price">15</num>
-               <note>Importante lettre relative à l'abdication de Napoléon Ier, et à la situation de
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
+               <note anchored="true">Importante lettre relative à l'abdication de Napoléon Ier, et à la situation de
                   l'armée. Intéressants détails.</note>
             </item>
             <item n="199" xml:id="CAT_000328_e199">
@@ -2437,8 +2441,8 @@
                </trait>
                <desc xml:id="CAT_000328_e199_d1">Firman original de Mahomet IV; (1654). -3 p.
                   in-fol., avec traduction aut., en français, de Ruffin, faite en 1786.</desc>
-               <num type="price">30</num>
-               <note>Important document par lequel il ordonne au dey d'Alger et aux beys de Tunis et
+               <measure commodity="currency" unit="FRF" quantity="30">30</measure>
+               <note anchored="true">Important document par lequel il ordonne au dey d'Alger et aux beys de Tunis et
                   de Tripoli d'échanger le chevalier de Malte de Villeneuve la Rocoquelle contre
                   lbrahim, bey de Misistra (Sparte en Morée), détenu dans l'île de Malte.</note>
             </item>
@@ -2451,8 +2455,8 @@
                <desc xml:id="CAT_000328_e200_d1">L. a. s., en français, à la princesse Clémentine
                   d'Orléans, fille de Louis-Philippe; Lisbonne, 13 oct. 1839, 8 p. pl. in-8.
                   Rare.</desc>
-               <num type="price">30</num>
-               <note>Epître charmante d'abandon et d'un très grand intérêt. Elle lui demande son
+               <measure commodity="currency" unit="FRF" quantity="30">30</measure>
+               <note anchored="true">Epître charmante d'abandon et d'un très grand intérêt. Elle lui demande son
                   portrait enrichi de turquoises. Elle voudrait être en Auvergne pour faire ces
                   belles promenades qui lui rappelleraient celles de Cintra; mais il lui faut rester
                   à la maison avec les enfants, et elle finit par craindre de devenir comme les
@@ -2474,8 +2478,8 @@
                </trait>
                <desc xml:id="CAT_000328_e201_d1">Pièce sig. sur vélin, comme régente, Saint-Cloud, 2
                   oct. 1813, in-fol. obl. Coupée dans la marge du bas</desc>
-               <num type="price">20</num>
-               <note>Lettres patentes pour autoriser le sieur Staudt à se faire naturaliser sujet de
+               <measure commodity="currency" unit="FRF" quantity="20">20</measure>
+               <note anchored="true">Lettres patentes pour autoriser le sieur Staudt à se faire naturaliser sujet de
                   S. A. R. le grand duc de Bade.</note>
             </item>
             <item n="202" xml:id="CAT_000328_e202">
@@ -2486,8 +2490,8 @@
                </trait>
                <desc xml:id="CAT_000328_e202_d1">Pièce sig. en français, sur vélin, Vienne, 2 janv.
                   1779, 7 p. in-fol.</desc>
-               <num type="price">20</num>
-               <note>Superbe pièce. Lettres patentes d'octroy portant création en Belgique d'un
+               <measure commodity="currency" unit="FRF" quantity="20">20</measure>
+               <note anchored="true">Superbe pièce. Lettres patentes d'octroy portant création en Belgique d'un
                   emprunt de 2,400,000 florins argent de change.</note>
             </item>
             <item n="203" xml:id="CAT_000328_e203">
@@ -2498,7 +2502,7 @@
                </trait>
                <desc xml:id="CAT_000328_e203_d1">Let. sig. au cardinal de Rohan, archévêque de
                   Besançon; Madrid, 1er mars 1831, 2/3 de p. in-fol.</desc>
-               <num type="price">6</num>
+               <measure commodity="currency" unit="FRF" quantity="6">6</measure>
             </item>
             <item n="204" xml:id="CAT_000328_e204">
                <num type="lot">204</num>
@@ -2508,7 +2512,7 @@
                </trait>
                <desc xml:id="CAT_000328_e204_d1">Pièce sig. ; camp de Verdun, 23 novembre 1626, 1 p.
                   in-fol. Un peu fripée.</desc>
-               <num type="price">15</num>
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
             </item>
             <item n="205" xml:id="CAT_000328_e205">
                <num type="lot">205</num>
@@ -2518,7 +2522,7 @@
                </trait>
                <desc xml:id="CAT_000328_e205_d1">L. a s. à Pauline Du Chambge, 1 p. in-8. Jolie
                   lettre.</desc>
-               <num type="price">6</num>
+               <measure commodity="currency" unit="FRF" quantity="6">6</measure>
             </item>
             <item n="206" xml:id="CAT_000328_e206">
                <num type="lot">206</num>
@@ -2529,7 +2533,7 @@
                </trait>
                <desc xml:id="CAT_000328_e206_d1">L. a. s. à M. Husson; Yerres, près Montgeron, 2
                   juillet, 1 p. in-8.</desc>
-               <num type="price">3</num>
+               <measure commodity="currency" unit="FRF" quantity="3">3</measure>
             </item>
             <item n="207" xml:id="CAT_000328_e207">
                <num type="lot">207</num>
@@ -2540,7 +2544,7 @@
                </trait>
                <desc xml:id="CAT_000328_e207_d1">Let. sig.; Quartier général de Besançon, 14 déc.
                   1813, 2 p. in-fol.</desc>
-               <num type="price">5</num>
+               <measure commodity="currency" unit="FRF" quantity="5">5</measure>
             </item>
             <item n="208" xml:id="CAT_000328_e208">
                <num type="lot">208</num>
@@ -2551,7 +2555,7 @@
                </trait>
                <desc xml:id="CAT_000328_e208_d1">L. a. s. à M. Bonnefous; Paris, 28 floréal an XII
                   (18 mai 1804), 3 p. 1/4 in-4. Belle lettre.</desc>
-               <num type="price">15</num>
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
             </item>
             <item n="209" xml:id="CAT_000328_e209">
                <num type="lot">209</num>
@@ -2560,8 +2564,8 @@
                   <p>le célèbre écrivain.</p>
                </trait>
                <desc xml:id="CAT_000328_e209_d1">L. a s.; Châtel-Guyon, 10 août, 1 p. in-8.</desc>
-               <num type="price">12</num>
-               <note>Belle lettre au sujet de la traduction de ses Contes de la Bécasse.</note>
+               <measure commodity="currency" unit="FRF" quantity="12">12</measure>
+               <note anchored="true">Belle lettre au sujet de la traduction de ses Contes de la Bécasse.</note>
             </item>
             <item n="210" xml:id="CAT_000328_e210">
                <num type="lot">210</num>
@@ -2571,8 +2575,8 @@
                </trait>
                <desc xml:id="CAT_000328_e210_d1">Let. sig., en français; Munich, 23 mai 1812, 1/4 de
                   p. in-4.</desc>
-               <num type="price">5</num>
-               <note>rurgie militaire et Campagnes de Larrey qu'il vient de recevoir.</note>
+               <measure commodity="currency" unit="FRF" quantity="5">5</measure>
+               <note anchored="true">rurgie militaire et Campagnes de Larrey qu'il vient de recevoir.</note>
             </item>
             <item n="211" xml:id="CAT_000328_e211">
                <num type="lot">211</num>
@@ -2583,8 +2587,8 @@
                <desc xml:id="CAT_000328_e211_d1">L. a. s., au duc de Parme, Alexandre Farnèse,
                   gouverneur des Pays-Bas; Paris, 26 janv 1589, 1 p. in-fol., cachet. Un peu tachée
                   et montée</desc>
-               <num type="price">40</num>
-               <note>Lettre historique. Il lui demande de venir au secours de la Ligue menacée par
+               <measure commodity="currency" unit="FRF" quantity="40">40</measure>
+               <note anchored="true">Lettre historique. Il lui demande de venir au secours de la Ligue menacée par
                   l'assassinat du duc de Guise et par l'alliance d'Henri III et du roi de Navarre :
                   « l'honneur qu'il a pleu à vostre Altesse de nous faire demonstrer la promptitude
                   de sa bonne volonté en nostre affliction nous a esté une des plus grande
@@ -2598,10 +2602,10 @@
                   <p>l'illustre ministre de Louis XIV.</p>
                </trait>
                <desc xml:id="CAT_000328_e212_d1">Let. sig. avec la souscript. aut., en français, au
-                  lieutenant-général de Folleville; Paris, 19 sept. 1658,1 p. in-4, cachets et
+                  lieutenant-général de Folleville; Paris, 19 sept. 1658, 1 p. in-4, cachets et
                   soies. Raccommodée dans les plis.</desc>
-               <num type="price">35</num>
-               <note>Intéressante lettre où il parle de M. de la Meilleraye.</note>
+               <measure commodity="currency" unit="FRF" quantity="35">35</measure>
+               <note anchored="true">Intéressante lettre où il parle de M. de la Meilleraye.</note>
             </item>
             <item n="213" xml:id="CAT_000328_e213">
                <num type="lot">213</num>
@@ -2611,7 +2615,7 @@
                </trait>
                <desc xml:id="CAT_000328_e213_d1">L. a. s., en français, au comte de Césolles; Nice,
                   1834, 1 p. in-8.</desc>
-               <num type="price">8</num>
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
             </item>
             <item n="214" xml:id="CAT_000328_e214">
                <num type="lot">214</num>
@@ -2622,7 +2626,7 @@
                </trait>
                <desc xml:id="CAT_000328_e214_d1">Let. sig. au comte de Liancourt: Barcelone, 10 nov.
                   1835, 1 p. in-fol. Légères déchirures dans la marge blanche.</desc>
-               <num type="price">5</num>
+               <measure commodity="currency" unit="FRF" quantity="5">5</measure>
             </item>
             <item n="215" xml:id="CAT_000328_e215">
                <num type="lot">215</num>
@@ -2632,8 +2636,8 @@
                </trait>
                <desc xml:id="CAT_000328_e215_d1">L. a. s. à un peintre; Maillane, 31 mai 1888, 3 p.
                   in-8.</desc>
-               <num type="price">8</num>
-               <note>Curieuse lettre relative à un portrait de Mireille.</note>
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
+               <note anchored="true">Curieuse lettre relative à un portrait de Mireille.</note>
             </item>
             <item n="216" xml:id="CAT_000328_e216">
                <num type="lot">216</num>
@@ -2643,8 +2647,8 @@
                   </p>
                </trait>
                <desc xml:id="CAT_000328_e216_d1">L. a. s. ; Paris, 30 avril 1806, 1 p. in-4.</desc>
-               <num type="price">10</num>
-               <note>Il accepte l'invitation d'assister aux chasses de l'Empereur.</note>
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
+               <note anchored="true">Il accepte l'invitation d'assister aux chasses de l'Empereur.</note>
             </item>
             <item n="217" xml:id="CAT_000328_e217">
                <num type="lot">217</num>
@@ -2654,7 +2658,7 @@
                      mort en 1770.</p>
                </trait>
                <desc xml:id="CAT_000328_e217_d1">L a. s. à une dame, 1 p. in-8. Jolie lettre.</desc>
-               <num type="price">15</num>
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
             </item>
             <item n="218" xml:id="CAT_000328_e218">
                <num type="lot">218</num>
@@ -2664,7 +2668,7 @@
                </trait>
                <desc xml:id="CAT_000328_e218_d1">L. a. s. à Louis Ulbach, 2 p. in-8. Jolie
                   lettre.</desc>
-               <num type="price">3</num>
+               <measure commodity="currency" unit="FRF" quantity="3">3</measure>
             </item>
             <item n="219" xml:id="CAT_000328_e219">
                <num type="lot">219</num>
@@ -2674,8 +2678,8 @@
                </trait>
                <desc xml:id="CAT_000328_e219_d1">L. a. s.; Montpellier, 1er oct. 1852, 2 p. 1/2
                   in-8.</desc>
-               <num type="price">10</num>
-               <note>Belle lettre politique des débuts du second Empire.</note>
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
+               <note anchored="true">Belle lettre politique des débuts du second Empire.</note>
             </item>
             <item n="220" xml:id="CAT_000328_e220">
                <num type="lot">220</num>
@@ -2685,8 +2689,8 @@
                </trait>
                <desc xml:id="CAT_000328_e220_d1">Pièce sig. : Paris, 31 mars 1695, 1 p. 1/2 in fol.
                   Très rare.</desc>
-               <num type="price">130</num>
-               <note>Donation (post mortem) de 2,000 livres aux Carmélites de la rue de Grenelle,
+               <measure commodity="currency" unit="FRF" quantity="130">130</measure>
+               <note anchored="true">Donation (post mortem) de 2,000 livres aux Carmélites de la rue de Grenelle,
                   représentées par la prieure Françoise de la Croix, soeur Marie-Elisabeth de Jésus,
                   sous-prieure, soeur Marie-Thérèse de Jésus, et soeur Elisabeth de Jésus,
                   dépositaires.</note>
@@ -2700,8 +2704,8 @@
                </trait>
                <desc xml:id="CAT_000328_e221_d1">L. a. s., en français, au baron de Constant,
                   maréchal de l'armée des Pays-Bas, à Paris; Paris, 19 août 1815, 1 p. in-4.</desc>
-               <num type="price">10</num>
-               <note>Il mande qu'il a pris des mesures pour éviter tout ce qui pourrait être
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
+               <note anchored="true">Il mande qu'il a pris des mesures pour éviter tout ce qui pourrait être
                   désagréable à la position des cantonnements de l'armée des Pays-Bas.</note>
             </item>
             <item n="222" xml:id="CAT_000328_e222">
@@ -2712,7 +2716,7 @@
                </trait>
                <desc xml:id="CAT_000328_e222_d1">L a. s., Kristiania, 1er nov. 1889, 3 p. in-8.
                   Belle lettre.</desc>
-               <num type="price">20</num>
+               <measure commodity="currency" unit="FRF" quantity="20">20</measure>
             </item>
             <item n="223" xml:id="CAT_000328_e223">
                <num type="lot">223</num>
@@ -2723,7 +2727,7 @@
                <desc xml:id="CAT_000328_e223_d1">Let. sig. Bonaparte, écrite par Bourrienne à
                   Berthier; Paris, 20 germinal an X, 1/2 p. in-4, vignette de Roger. Légèrement
                   écornée dans la partie blanche.</desc>
-               <num type="price">25</num>
+               <measure commodity="currency" unit="FRF" quantity="25">25</measure>
             </item>
             <item n="224" xml:id="CAT_000328_e224">
                <num type="lot">224</num>
@@ -2733,7 +2737,7 @@
                </trait>
                <desc xml:id="CAT_000328_e224_d1">L. a. s. à un général; Compiègne. 5 déc. 1858, 1 p
                   1/4 in-8. Papier à son chiffre. Jolie lettre.</desc>
-               <num type="price">25</num>
+               <measure commodity="currency" unit="FRF" quantity="25">25</measure>
             </item>
             <item n="225" xml:id="CAT_000328_e225">
                <num type="lot">225</num>
@@ -2742,8 +2746,8 @@
                   <p/>
                </trait>
                <desc xml:id="CAT_000328_e225_d1">L. a. s. ; Cambden Place, Chislehurst, 18 janvier
-                  1879,3 p. in-8. Jolie lettre. Très rare.</desc>
-               <num type="price">50</num>
+                  1879, 3 p. in-8. Jolie lettre. Très rare.</desc>
+               <measure commodity="currency" unit="FRF" quantity="50">50</measure>
             </item>
             <item n="226" xml:id="CAT_000328_e226">
                <num type="lot">226</num>
@@ -2753,7 +2757,7 @@
                </trait>
                <desc xml:id="CAT_000328_e226_d1">Pièce sig. avec 2 lig. aut. ; Paris, 9 ventôse an
                   XII, 1 p. in-4.</desc>
-               <num type="price">20</num>
+               <measure commodity="currency" unit="FRF" quantity="20">20</measure>
             </item>
             <item n="227" xml:id="CAT_000328_e227">
                <num type="lot">227</num>
@@ -2764,7 +2768,7 @@
                </trait>
                <desc xml:id="CAT_000328_e227_d1">L. a. s. à un général; Senlis, 5 juin 1878, 2 p.
                   2/3 in-8 Jolie lettre.</desc>
-               <num type="price">10</num>
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
             </item>
             <item n="228" xml:id="CAT_000328_e228">
                <num type="lot">228</num>
@@ -2774,7 +2778,7 @@
                </trait>
                <desc xml:id="CAT_000328_e228_d1">Pièce sig.; Paris, 19 nov. 1782, 2/3 de p.
                   in-4.</desc>
-               <num type="price">6</num>
+               <measure commodity="currency" unit="FRF" quantity="6">6</measure>
             </item>
             <item n="229" xml:id="CAT_000328_e229">
                <num type="lot">229</num>
@@ -2784,8 +2788,8 @@
                </trait>
                <desc xml:id="CAT_000328_e229_d1">Let. sig. au prince de Salm-Salm; La Haye, 25
                   novembre 1771, 1 p. in-fol.</desc>
-               <num type="price">15</num>
-               <note>Il le félicite du mariage de sa soeur Marie Joséphe, princesse de Salm,
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
+               <note anchored="true">Il le félicite du mariage de sa soeur Marie Joséphe, princesse de Salm,
                   duchesse de Hochstraten, avec Charles-Albert, prince de Hohenlohe
                   Waldenbourg.</note>
             </item>
@@ -2797,7 +2801,7 @@
                </trait>
                <desc xml:id="CAT_000328_e230_d1">Let. sig. au comte de Bondy; Tuileries, 1er mars
                   1832, 1/2 p. in-4.</desc>
-               <num type="price">5</num>
+               <measure commodity="currency" unit="FRF" quantity="5">5</measure>
             </item>
             <item n="231" xml:id="CAT_000328_e231">
                <num type="lot">231</num>
@@ -2808,7 +2812,7 @@
                </trait>
                <desc xml:id="CAT_000328_e231_d1">L a. s., en français, 23 nov. 1872, 4 p. in-8.
                   Papier à son chiffre.</desc>
-               <num type="price">10</num>
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
             </item>
             <item n="232" xml:id="CAT_000328_e232">
                <num type="lot">232</num>
@@ -2819,8 +2823,8 @@
                <desc xml:id="CAT_000328_e232_d1">1° Let. sig., en français, à Beulé, de l'Acad. fr.,
                   Athènes, 23 juillet 1855, 1 p. in-fol., à mi-marge. - 2° L. a. s. de Beulé au roi
                   Othon; 1855, 2 p. in-fol.</desc>
-               <num type="price">12</num>
-               <note>Intéressantes lettres relatives aux Etudes sur le Péloponèse et à Athènes et
+               <measure commodity="currency" unit="FRF" quantity="12">12</measure>
+               <note anchored="true">Intéressantes lettres relatives aux Etudes sur le Péloponèse et à Athènes et
                   les Grecs modernes de Beulé.</note>
             </item>
             <item n="233" xml:id="CAT_000328_e233">
@@ -2830,7 +2834,7 @@
                   <p>le célèbre peintre d'affiches contemporain</p>
                </trait>
                <desc xml:id="CAT_000328_e233_d1">L. a. s.; Clichy, 1895, 1/2 p. in-4.</desc>
-               <num type="price">3</num>
+               <measure commodity="currency" unit="FRF" quantity="3">3</measure>
             </item>
             <item n="234" xml:id="CAT_000328_e234">
                <num type="lot">234</num>
@@ -2839,8 +2843,8 @@
                   <p>l'illustre savant, de l'Acad. fr., né à Dôle.</p>
                </trait>
                <desc xml:id="CAT_000328_e234_d1">L. a. s. ; 14 oct. 1882, 1 p. in-8.</desc>
-               <num type="price">8</num>
-               <note>Relative au travail de M. Challan de Belval sur la situation sanitaire de
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
+               <note anchored="true">Relative au travail de M. Challan de Belval sur la situation sanitaire de
                   Perpignan.</note>
             </item>
             <item n="235" xml:id="CAT_000328_e235">
@@ -2853,19 +2857,19 @@
                </trait>
                <desc xml:id="CAT_000328_e235_d1">Pièce sig. ; 1705, 1/2 p. in-fol. Très rare. Belle
                   pièce.</desc>
-               <num type="price">50</num>
+               <measure commodity="currency" unit="FRF" quantity="50">50</measure>
             </item>
             <item n="236" xml:id="CAT_000328_e236">
                <num type="lot">236</num>
-               <name type="author">Paulin (Bertrand de Rabastens</name>
+               <name type="author">Paulin (Bertrand de Rabastens)</name>
                <trait>
                   <p>vicomte de),</p>
                </trait>
                <desc xml:id="CAT_000328_e236_d1">le célèbre général des protestants pour le Castrais
                   et l'Albigeois -Pièce sig. sur vélin, Castres (Tarn), 25 janvier 1576, in-fol.
                   obl. Rare.</desc>
-               <num type="price">15</num>
-               <note>Quittance à Etienne Guiraud, bourgeois et habitant de Réalmont (Tarn), receveur
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
+               <note anchored="true">Quittance à Etienne Guiraud, bourgeois et habitant de Réalmont (Tarn), receveur
                   général pour les réformés des diocèses d'Albi, Castres, Lavaur, Saint-Pons de Tho
                   mières, d'un reliquat de 69 l. 10 s. t. sur la prévôte du dit Réalmont; Paulin
                   prend dans la pièce le nom de « commandant generallement pour le service du roy et
@@ -2882,8 +2886,8 @@
                      (Seine-Inf.) en 1794, mort en 1864.</p>
                </trait>
                <desc xml:id="CAT_000328_e237_d1">L. a. s., 1 p. in-8.</desc>
-               <num type="price">8</num>
-               <note>Relative au colonel Langlois, le célèbre peintre de panoramas.</note>
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
+               <note anchored="true">Relative au colonel Langlois, le célèbre peintre de panoramas.</note>
             </item>
             <item n="238" xml:id="CAT_000328_e238">
                <num type="lot">238</num>
@@ -2893,8 +2897,8 @@
                </trait>
                <desc xml:id="CAT_000328_e238_d1">L. a. s., en français, à sa soeur Joséphine Pellico
                   ; Turin, 22 mai 1848, 3 p. in-8.</desc>
-               <num type="price">15</num>
-               <note>Jolie et intéressante lettre. Il lui parle d'une manifestation d'ouvriers à
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
+               <note anchored="true">Jolie et intéressante lettre. Il lui parle d'une manifestation d'ouvriers à
                   Turin; des mitraillades ordonnées par le roi de Naples pour rétablir le
                   gouvernement absolu. « On dit qu'à Rome les partis sont aussi en grande lutte; une
                   partie nombreuse du peuple veut que le Pape soit remis dans toute son autorité. Tu
@@ -2910,7 +2914,7 @@
                      mort en 1825.</p>
                </trait>
                <desc xml:id="CAT_000328_e239_d1">L. a. s., 2 p. in-4. Belle lettre.</desc>
-               <num type="price">10</num>
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
             </item>
             <item n="240" xml:id="CAT_000328_e240">
                <num type="lot">240</num>
@@ -2921,16 +2925,16 @@
                </trait>
                <desc xml:id="CAT_000328_e240_d1">L. a. s. au conventionnel Richard, membre du Comité
                   du Salut public; Bruxelles, 20 brumaire an III, 1 p. in-8.</desc>
-               <num type="price">12</num>
-               <note>Il lui annonce la prise de Nimègue et de Maëstricht.</note>
+               <measure commodity="currency" unit="FRF" quantity="12">12</measure>
+               <note anchored="true">Il lui annonce la prise de Nimègue et de Maëstricht.</note>
             </item>
             <item n="241" xml:id="CAT_000328_e241">
                <num type="lot">241</num>
-               <name type="author">Pie VI (J</name>
+               <name type="author">Pie VI (J)</name>
                <desc xml:id="CAT_000328_e241_d1">Ange Braschi), pape célèbre, mort prisonnier à
                   Valence (Drôme) en 1798. Let. sig. à la marquise Romagnoli; Rome. 1794, 2 p. 1/4.
                   in-4. Belle lettre.</desc>
-               <num type="price">15</num>
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
             </item>
             <item n="242" xml:id="CAT_000328_e242">
                <num type="lot">242</num>
@@ -2940,8 +2944,8 @@
                      Médicis, auteur des Mémoires, né à Blois, en 1569, mort en 1621.</p>
                </trait>
                <desc xml:id="CAT_000328_e242_d1">L. a. s.; Blois, 10 juin 1617, 1 p. in-fol.</desc>
-               <num type="price">25</num>
-               <note>Très curieuse lettre dans laquelle il donne des nouvelles de la Cour, parle de
+               <measure commodity="currency" unit="FRF" quantity="25">25</measure>
+               <note anchored="true">Très curieuse lettre dans laquelle il donne des nouvelles de la Cour, parle de
                   l'évêque de Béziers, de la douairière de Guez, etc.</note>
             </item>
             <item n="243" xml:id="CAT_000328_e243">
@@ -2952,8 +2956,8 @@
                </trait>
                <desc xml:id="CAT_000328_e243_d1">L. a. s. au duc de Saint-Simon; 1711. 1 p.
                   in-4.</desc>
-               <num type="price">15</num>
-               <note>Très curieuse lettre relative à la duchépairie dont l'auteur des Mémoires était
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
+               <note anchored="true">Très curieuse lettre relative à la duchépairie dont l'auteur des Mémoires était
                   entiché. Pontchartrain a vu M. de La Rocheguyon; il attend un mémoire du duc de La
                   Rochefoucauld; il a proposé au roi d'agir comme pour MM. de Bouillon et de la
                   Meilleraye, mais le roi veut décider de tout par lui-même. Il recommande en
@@ -2968,7 +2972,7 @@
                </trait>
                <desc xml:id="CAT_000328_e244_d1">L. a. s. à la comtesse...; 2 août 1882, 2 p. in-4.
                   Jolie lettre.</desc>
-               <num type="price">5</num>
+               <measure commodity="currency" unit="FRF" quantity="5">5</measure>
             </item>
             <item n="245" xml:id="CAT_000328_e245">
                <num type="lot">245</num>
@@ -2979,12 +2983,12 @@
                </trait>
                <desc xml:id="CAT_000328_e245_d1">L. a s. à un libraire de Venise; Rome, 21 juin
                   1722, 4 p. in-4.</desc>
-               <num type="price">10</num>
-               <note>Au sujet de la publication de son officium quadragesimale Grecorum.</note>
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
+               <note anchored="true">Au sujet de la publication de son officium quadragesimale Grecorum.</note>
             </item>
             <item n="246" xml:id="CAT_000328_e246">
                <num type="lot">246</num>
-               <name type="author">Raglan (James-Henri Fitzroy Somerset</name>
+               <name type="author">Raglan (James-Henri Fitzroy Somerset)</name>
                <trait>
                   <p>lord) célèbre général anglais, né en 1788, mort devant Sébastopol le 28 juin
                      1855.</p>
@@ -3001,7 +3005,7 @@
                </trait>
                <desc xml:id="CAT_000328_e247_d1">L. a. s., comme gouverneur général de l'Algérie, à
                   un général; Alger, 5 oct. 1853, 6 p. 1/4 in-8.</desc>
-               <num type="price">12</num>
+               <measure commodity="currency" unit="FRF" quantity="12">12</measure>
             </item>
             <item n="248" xml:id="CAT_000328_e248">
                <num type="lot">248</num>
@@ -3011,7 +3015,7 @@
                </trait>
                <desc xml:id="CAT_000328_e248_d1">L. a. s. à Curner; 25 mars 1837, 1 p. petit in-8.
                   Légère déchirure. Curieuse.</desc>
-               <num type="price">5</num>
+               <measure commodity="currency" unit="FRF" quantity="5">5</measure>
             </item>
             <item n="249" xml:id="CAT_000328_e249">
                <num type="lot">249</num>
@@ -3020,7 +3024,7 @@
                   <p>le célèbre géographe.</p>
                </trait>
                <desc xml:id="CAT_000328_e249_d1">L. a. s., 1 p. in-8.</desc>
-               <num type="price">3</num>
+               <measure commodity="currency" unit="FRF" quantity="3">3</measure>
             </item>
             <item n="250" xml:id="CAT_000328_e250">
                <num type="lot">250</num>
@@ -3029,7 +3033,7 @@
                   <p>le célèbre dessinateur d'escrime, né en 1851.</p>
                </trait>
                <desc xml:id="CAT_000328_e250_d1">L. a. s., 1 p. 2/3 in-8. Belle lettre.</desc>
-               <num type="price">5</num>
+               <measure commodity="currency" unit="FRF" quantity="5">5</measure>
             </item>
             <item n="251" xml:id="CAT_000328_e251">
                <num type="lot">251</num>
@@ -3039,7 +3043,7 @@
                </trait>
                <desc xml:id="CAT_000328_e251_d1">L. a. s., 1 p. 1/2 in-8. Papier à son
                   chiffre.</desc>
-               <num type="price">3</num>
+               <measure commodity="currency" unit="FRF" quantity="3">3</measure>
             </item>
             <item n="252" xml:id="CAT_000328_e252">
                <num type="lot">252</num>
@@ -3049,7 +3053,7 @@
                </trait>
                <desc xml:id="CAT_000328_e252_d1">L. a. s.; Baveno (près Novare, Italie), 28 sept.
                   1872, 2 p. in-8. Jolie lettre.</desc>
-               <num type="price">8</num>
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
             </item>
             <item n="253" xml:id="CAT_000328_e253">
                <num type="lot">253</num>
@@ -3060,7 +3064,7 @@
                </trait>
                <desc xml:id="CAT_000328_e253_d1">L. a. s.; 1710, 1 p. in-4. Belle lettre.
                   Rare.</desc>
-               <num type="price">40</num>
+               <measure commodity="currency" unit="FRF" quantity="40">40</measure>
             </item>
             <item n="254" xml:id="CAT_000328_e254">
                <num type="lot">254</num>
@@ -3069,8 +3073,8 @@
                   <p>le célèbre écrivain contemporain.</p>
                </trait>
                <desc xml:id="CAT_000328_e254_d1">L. a. s; Vichy, 1893, 1. in-8.</desc>
-               <num type="price">5</num>
-               <note>Belle lettre au sujet du Flibustier et où il parle de César Cui, qui venait
+               <measure commodity="currency" unit="FRF" quantity="5">5</measure>
+               <note anchored="true">Belle lettre au sujet du Flibustier et où il parle de César Cui, qui venait
                   d'en faire la musique.</note>
             </item>
             <item n="255" xml:id="CAT_000328_e255">
@@ -3082,8 +3086,8 @@
                </trait>
                <desc xml:id="CAT_000328_e255_d1">L. a. s. à Charpentier, secrétaire du cardinal de
                   Richelieu, 1 p. in-fol., cachets à ses armes. Rare.</desc>
-               <num type="price">20</num>
-               <note>Belle lettre qui contient de curieuses observations sur la société de Paris; il
+               <measure commodity="currency" unit="FRF" quantity="20">20</measure>
+               <note anchored="true">Belle lettre qui contient de curieuses observations sur la société de Paris; il
                   les adresse à Charpentier pour qu'il les fasse lire à Richelieu. « Paris, dit-il,
                   est un petyt abrégé du monde », etc.</note>
             </item>
@@ -3098,7 +3102,7 @@
                </trait>
                <desc xml:id="CAT_000328_e256_d1">L. a. s.; 14 nov. 1777, 2 p. in-4. Belle
                   lettre.</desc>
-               <num type="price">15</num>
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
             </item>
             <item n="257" xml:id="CAT_000328_e257">
                <num type="lot">257</num>
@@ -3108,7 +3112,7 @@
                      suicide en 1793.</p>
                </trait>
                <desc xml:id="CAT_000328_e257_d1">L. a. s. à Bosc, 1/2 p. in-4.</desc>
-               <num type="price">8</num>
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
             </item>
             <item n="258" xml:id="CAT_000328_e258">
                <num type="lot">258</num>
@@ -3118,7 +3122,7 @@
                </trait>
                <desc xml:id="CAT_000328_e258_d1">L. a. s. au général...; Paris, 10 février 1876. 3
                   p. 1/2 in-18. Intéressante lettre politique.</desc>
-               <num type="price">6</num>
+               <measure commodity="currency" unit="FRF" quantity="6">6</measure>
             </item>
             <item n="259" xml:id="CAT_000328_e259">
                <num type="lot">259</num>
@@ -3128,8 +3132,8 @@
                </trait>
                <desc xml:id="CAT_000328_e259_d1">L. a. s. à l'archevêque de Bordeaux (Du Bois de
                   Sauzai); Rome, 31 août 1820, 2 p. in-4.</desc>
-               <num type="price">8</num>
-               <note>Il lui adresse des indults de la congrégation des rites, et lui annonce la
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
+               <note anchored="true">Il lui adresse des indults de la congrégation des rites, et lui annonce la
                   préconisation des archevêques de Toulouse (Anne de Clermont-Tonnerre) et de
                   Bourges (J.-M. Cliquet de Fontenay), de l'évêque de Sois- sons (G.A. de Villèle);
                   il souhaite que des évêchés soient établis à Luçon, Rodez, Nîmes.</note>
@@ -3142,7 +3146,7 @@
                </trait>
                <desc xml:id="CAT_000328_e260_d1">L. a. s. à un colonel; Nohant, 9 janvier 1866, 2 p.
                   1/2 in-8. Belle lettre.</desc>
-               <num type="price">10</num>
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
             </item>
             <item n="261" xml:id="CAT_000328_e261">
                <num type="lot">261</num>
@@ -3151,7 +3155,7 @@
                   <p>le célèbre auteur dramatique, de l'Acad. fr.</p>
                </trait>
                <desc xml:id="CAT_000328_e261_d1">L. a. s.,</desc>
-               <note>(1er mai 1870), 1 p. in-8. Papier à son chiffre. 5»</note>
+               <note anchored="true">(1er mai 1870), 1 p. in-8. Papier à son chiffre. 5»</note>
             </item>
             <item n="262" xml:id="CAT_000328_e262">
                <num type="lot">262</num>
@@ -3162,7 +3166,7 @@
                <desc xml:id="CAT_000328_e262_d1">Let sig avec un post-scriptum de 10 lignes aut., en
                   français, au marquis de Saint-Thomas, premier ministre du duc de Savoie; Parme.
                   1662, 1 p. in-fol. Cachet et soies. Très belle lettre. Rare.</desc>
-               <num type="price">18</num>
+               <measure commodity="currency" unit="FRF" quantity="18">18</measure>
             </item>
             <item n="263" xml:id="CAT_000328_e263">
                <num type="lot">263</num>
@@ -3172,7 +3176,7 @@
                </trait>
                <desc xml:id="CAT_000328_e263_d1">Pièce sig., sig. aussi par Philippe de Fouilleuse,
                   seigneur de Flavacour, gouverneur de Gisors. 5 février 1621. 2 p. in-fol.</desc>
-               <num type="price">6</num>
+               <measure commodity="currency" unit="FRF" quantity="6">6</measure>
             </item>
             <item n="264" xml:id="CAT_000328_e264">
                <num type="lot">264</num>
@@ -3185,7 +3189,7 @@
                   in-4 et in-8.-2° 3 pièces concernant ses ouvrages, 17 p. in-4 et in-8.-3°2 l. a.
                   s. de F. Schweighauser; Strasbourg, 1843-1854, 6 p. in-8. Intéressant
                   dossier.</desc>
-               <num type="price">15</num>
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
             </item>
             <item n="265" xml:id="CAT_000328_e265">
                <num type="lot">265</num>
@@ -3196,8 +3200,8 @@
                <desc xml:id="CAT_000328_e265_d1">Fin de lettre aut. à sa fille Mme de Grignan; aux
                   Rochers, 12 août 1685, 3 p. in-4, suivie de 2 pages aut. d'Emmanuel de
                   Coulanges.</desc>
-               <num type="price">200</num>
-               <note>Précieuse pièce où elle parle longuement de son séjour aux Rochers, en
+               <measure commodity="currency" unit="FRF" quantity="200">200</measure>
+               <note anchored="true">Précieuse pièce où elle parle longuement de son séjour aux Rochers, en
                   compagnie d'Emmanuel de Coulanges, et du prochain depart de ce dernier avec
                   Charles de Sévigné pour les Etats de Bretagne.</note>
             </item>
@@ -3209,7 +3213,7 @@
                      mort récemment.</p>
                </trait>
                <desc xml:id="CAT_000328_e266_d1">L. a. s , 1 p. 1/2 in-8.</desc>
-               <num type="price">3</num>
+               <measure commodity="currency" unit="FRF" quantity="3">3</measure>
             </item>
             <item n="267" xml:id="CAT_000328_e267">
                <num type="lot">267</num>
@@ -3219,7 +3223,7 @@
                </trait>
                <desc xml:id="CAT_000328_e267_d1">L. a. s. à Duvau; Genève, 25 sept. 1806, 4 p. pl.
                   in-8. Intéressante.</desc>
-               <num type="price">10</num>
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
             </item>
             <item n="268" xml:id="CAT_000328_e268">
                <num type="lot">268</num>
@@ -3228,8 +3232,8 @@
                   <p/>
                </trait>
                <desc xml:id="CAT_000328_e268_d1">Pièce sig.; 27 janv. 1674, 2 p. in-fol.</desc>
-               <num type="price">15</num>
-               <note>Acte de vente au roi, pour 400,000 livres, du brevet de colonel-général des
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
+               <note anchored="true">Acte de vente au roi, pour 400,000 livres, du brevet de colonel-général des
                   Suisses que possédait son mari depuis le. 16 nov. 1657.</note>
             </item>
             <item n="269" xml:id="CAT_000328_e269">
@@ -3240,8 +3244,8 @@
                </trait>
                <desc xml:id="CAT_000328_e269_d1">Let. sig. 2 fois au général Darricau ; Hagetmau
                   (Landes), 27-28 février 1814, 3 p. in-4, cachet.</desc>
-               <num type="price">12</num>
-               <note>Intéressante lettre écrite pendant la première invasion, relative aux combats
+               <measure commodity="currency" unit="FRF" quantity="12">12</measure>
+               <note anchored="true">Intéressante lettre écrite pendant la première invasion, relative aux combats
                   livrés autour d'Orthez.</note>
             </item>
             <item n="270" xml:id="CAT_000328_e270">
@@ -3252,7 +3256,7 @@
                </trait>
                <desc xml:id="CAT_000328_e270_d1">Pièce sig. ; Saint-Germain-en-Laye, 1er avril 1670,
                   1 p. in-fol.; légère dé chirure atteignant le texte.</desc>
-               <num type="price">6</num>
+               <measure commodity="currency" unit="FRF" quantity="6">6</measure>
             </item>
             <item n="271" xml:id="CAT_000328_e271">
                <num type="lot">271</num>
@@ -3262,8 +3266,8 @@
                </trait>
                <desc xml:id="CAT_000328_e271_d1">L. a. s.; Rome, sept. 1616, 3 p. 1/2 in-fol.,
                   cachet. Rare.</desc>
-               <num type="price">25</num>
-               <note>Belle et intéressante lettre où il se recommande à Richelieu. « Je vous
+               <measure commodity="currency" unit="FRF" quantity="25">25</measure>
+               <note anchored="true">Belle et intéressante lettre où il se recommande à Richelieu. « Je vous
                   remercie de l'office que vous avez fait par moy envers M. de Lusson. » Le pape
                   (Paul V) vient d'enlever la barrette au frère du duc de Mantoue (Ferd. de
                   Gonzague) « pour ce qu'il s'est marié. Quelques uns disent qu'il avoit envoyé
@@ -3280,7 +3284,7 @@
                </trait>
                <desc xml:id="CAT_000328_e272_d1">Pièce sig.; Varsovie, 1786, 1 p. in-fol. obl. Jolie
                   sceau.</desc>
-               <num type="price">10</num>
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
             </item>
             <item n="273" xml:id="CAT_000328_e273">
                <num type="lot">273</num>
@@ -3290,7 +3294,7 @@
                </trait>
                <desc xml:id="CAT_000328_e273_d1">Let. sig., Paris, 7 mars 1610, 1 p. in-fol. Belle
                   lettre.</desc>
-               <num type="price">20</num>
+               <measure commodity="currency" unit="FRF" quantity="20">20</measure>
             </item>
             <item n="274" xml:id="CAT_000328_e274">
                <num type="lot">274</num>
@@ -3300,7 +3304,7 @@
                </trait>
                <desc xml:id="CAT_000328_e274_d1">L. a. s., 1 p. in-8. Relative à une représentation
                   de Louis XI.</desc>
-               <num type="price">3</num>
+               <measure commodity="currency" unit="FRF" quantity="3">3</measure>
             </item>
             <item n="275" xml:id="CAT_000328_e275">
                <num type="lot">275</num>
@@ -3310,7 +3314,7 @@
                </trait>
                <desc xml:id="CAT_000328_e275_d1">Let. sig., comme ministre des Relations
                   extérieures, Paris, 23 pluviôse an VII. 2 p. in-fol., tête imp., vignette.</desc>
-               <num type="price">5</num>
+               <measure commodity="currency" unit="FRF" quantity="5">5</measure>
             </item>
             <item n="276" xml:id="CAT_000328_e276">
                <num type="lot">276</num>
@@ -3320,8 +3324,8 @@
                </trait>
                <desc xml:id="CAT_000328_e276_d1">L. a. s. au chevalier de Pougens; Chimay, 30 déc.
                   1831, 1 p. 3/4 in-8.</desc>
-               <num type="price">25</num>
-               <note>Belle lettre. « Vos vers que j'ai lus avec attendrissement et que d'autres
+               <measure commodity="currency" unit="FRF" quantity="25">25</measure>
+               <note anchored="true">Belle lettre. « Vos vers que j'ai lus avec attendrissement et que d'autres
                   liront avec admiration ennobliront ce nom de Teresa qu'on a voulu si souvent
                   flétrir; consacré, béni et honoré par vous qu'aurait-il désormais à redouter? Mais
                   saura-t-on par une note que c'est Teresa Chimay que vous avez ainsi recommandée à
@@ -3336,8 +3340,8 @@
                </trait>
                <desc xml:id="CAT_000328_e277_d1">L. a. s. à M. de la Ramée; Paris, 21 août 1637, 1
                   p. pl. in-fol. Cachets à ses armes. Rare.</desc>
-               <num type="price">50</num>
-               <note>Superbe lettre. Le grand maître de l'artillerie (Charles de la Porte, duc de la
+               <measure commodity="currency" unit="FRF" quantity="50">50</measure>
+               <note anchored="true">Superbe lettre. Le grand maître de l'artillerie (Charles de la Porte, duc de la
                   Meilleraye) vient d'annoncer qu'en compagnie du cardinal de la Vallette, il a
                   repris Landrecies. « L'image de la guerre qui persécute nos voisins et nos
                   frontières ne nous espouvente point et les vacations du palais qui s'aprochent
@@ -3353,8 +3357,8 @@
                </trait>
                <desc xml:id="CAT_000328_e278_d1">L. a. s., au comte de Maurepas ; La Motte Tilly, 9
                   sept. 1774, 1 p. in-4.</desc>
-               <num type="price">10</num>
-               <note>Il le remercie de lui avoir obtenu de Louis XVI la conservation des honneurs de
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
+               <note anchored="true">Il le remercie de lui avoir obtenu de Louis XVI la conservation des honneurs de
                   la place de secrétaire des Ordres.</note>
             </item>
             <item n="279" xml:id="CAT_000328_e279">
@@ -3365,8 +3369,8 @@
                </trait>
                <desc xml:id="CAT_000328_e279_d1">Let. sig. à M. d'Ormesson, Vernie (Sarthe), 16 août
                   1739, 3 p. in-4.</desc>
-               <num type="price">8</num>
-               <note>Au sujet de la très pauvre noblesse du Mans.</note>
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
+               <note anchored="true">Au sujet de la très pauvre noblesse du Mans.</note>
             </item>
             <item n="280" xml:id="CAT_000328_e280">
                <num type="lot">280</num>
@@ -3374,9 +3378,9 @@
                <trait>
                   <p>premier président de la République française.</p>
                </trait>
-               <desc xml:id="CAT_000328_e280_d1">L. a. s.; Versailles, 14 juillet 1872,1 p. in-8.
+               <desc xml:id="CAT_000328_e280_d1">L. a. s.; Versailles, 14 juillet 1872, 1 p. in-8.
                   Jolie lettre.</desc>
-               <num type="price">8</num>
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
             </item>
             <item n="281" xml:id="CAT_000328_e281">
                <num type="lot">281</num>
@@ -3386,7 +3390,7 @@
                      mort en 1846.</p>
                </trait>
                <desc xml:id="CAT_000328_e281_d1">L. a. s. au pasteur Thouron. 1/2 p. in-4.</desc>
-               <num type="price">15</num>
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
             </item>
             <item n="282" xml:id="CAT_000328_e282">
                <num type="lot">282</num>
@@ -3397,8 +3401,8 @@
                </trait>
                <desc xml:id="CAT_000328_e282_d1">Pièce sig. ; Salzwe lel (Marche de Brandebourg), 30
                   janv 1642, 1 p. in-fol., cachet à ses armes bien conservé.</desc>
-               <num type="price">20</num>
-               <note>Ordonnance réglant la dépense journalière de l'état-major de la garnison de
+               <measure commodity="currency" unit="FRF" quantity="20">20</measure>
+               <note anchored="true">Ordonnance réglant la dépense journalière de l'état-major de la garnison de
                   Salzwedel (hommes et montures).</note>
             </item>
             <item n="283" xml:id="CAT_000328_e283">
@@ -3410,7 +3414,7 @@
                <desc xml:id="CAT_000328_e283_d1">1° Let. sig. à M. de Fontette; Paris, 28 mai 1774,
                   1/2 p. in-4. -2° Prière pour obtenir l'indifférence, traduite de l'anglais de
                   Madame Gréville, pièce aut., 1 p. 2/3 in-4. Belles pièces.</desc>
-               <num type="price">20</num>
+               <measure commodity="currency" unit="FRF" quantity="20">20</measure>
             </item>
             <item n="284" xml:id="CAT_000328_e284">
                <num type="lot">284</num>
@@ -3421,8 +3425,8 @@
                </trait>
                <desc xml:id="CAT_000328_e284_d1">Pièce sig. ; Bragny (Saône-et-Loire), 5 jandont une
                   enlevant plusieurs fins de lignes. Rare.</desc>
-               <num type="price">25</num>
-               <note>Procuration de Pontus de Tyard, « antien evesque de Chalon, conseillier du Roy
+               <measure commodity="currency" unit="FRF" quantity="25">25</measure>
+               <note anchored="true">Procuration de Pontus de Tyard, « antien evesque de Chalon, conseillier du Roy
                   nostre Sire en son conseil d'estat privé, aulmosnier de Sa Majesté », comme tuteur
                   de feu Eleidore de Tyard, gouverneur de Verdun, pour comparaître à Bouthéon en
                   Forez (Loire), et protester contre les faits et lettres du sieur Mauldin.</note>
@@ -3433,9 +3437,9 @@
                <trait>
                   <p>célèbre peintre belge contemporain, né en 1851.</p>
                </trait>
-               <desc xml:id="CAT_000328_e285_d1">L. a. s. ; 6 août 1888,1 p. 1/2 in-8.</desc>
-               <num type="price">5</num>
-               <note>Relative à trois de ses tableaux : Femme de ballet, Paysan rouge buvant et
+               <desc xml:id="CAT_000328_e285_d1">L. a. s. ; 6 août 1888, 1 p. 1/2 in-8.</desc>
+               <measure commodity="currency" unit="FRF" quantity="5">5</measure>
+               <note anchored="true">Relative à trois de ses tableaux : Femme de ballet, Paysan rouge buvant et
                   Pierrot au bouquet.</note>
             </item>
             <item n="286" xml:id="CAT_000328_e286">
@@ -3447,7 +3451,7 @@
                </trait>
                <desc xml:id="CAT_000328_e286_d1">Let. sig. au général Durutte; Cassel, 29 prairial
                   an X, 1 p. in-fol.</desc>
-               <num type="price">6</num>
+               <measure commodity="currency" unit="FRF" quantity="6">6</measure>
             </item>
             <item n="287" xml:id="CAT_000328_e287">
                <num type="lot">287</num>
@@ -3458,8 +3462,8 @@
                </trait>
                <desc xml:id="CAT_000328_e287_d1">Let. sig. au Chapitre de Saint-Dié ; Joinville, 21
                   juin 1503, 1 p. in-4.</desc>
-               <num type="price">10</num>
-               <note>Il leur recommande, pour une prébende, son chapelain Raimbault, déjà appuyé par
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
+               <note anchored="true">Il leur recommande, pour une prébende, son chapelain Raimbault, déjà appuyé par
                   son neveu le roi de Sicile et duc de Lorraine, René II.</note>
             </item>
             <item n="288" xml:id="CAT_000328_e288">
@@ -3472,7 +3476,7 @@
                </trait>
                <desc xml:id="CAT_000328_e288_d1">L. a. s. à M. du Hirel, gouverneur de Lamballe;
                   Vannes, 4 juillet 1614, 1 p. in-8, cachets et soies. Jolie lettre.</desc>
-               <num type="price">25</num>
+               <measure commodity="currency" unit="FRF" quantity="25">25</measure>
             </item>
             <item n="289" xml:id="CAT_000328_e289">
                <num type="lot">289</num>
@@ -3481,7 +3485,7 @@
                   <p>le grand compositeur.</p>
                </trait>
                <desc xml:id="CAT_000328_e289_d1">L a. s., 1/2 p. in-8.</desc>
-               <num type="price">5</num>
+               <measure commodity="currency" unit="FRF" quantity="5">5</measure>
             </item>
             <item n="290" xml:id="CAT_000328_e290">
                <num type="lot">290</num>
@@ -3491,7 +3495,7 @@
                </trait>
                <desc xml:id="CAT_000328_e290_d1">Let. sig., en français, à bord du Prince, 6 nov.
                   1813, 1 p. 1/2 in-fol.</desc>
-               <num type="price">5</num>
+               <measure commodity="currency" unit="FRF" quantity="5">5</measure>
             </item>
             <item n="291" xml:id="CAT_000328_e291">
                <num type="lot">291</num>
@@ -3502,7 +3506,7 @@
                </trait>
                <desc xml:id="CAT_000328_e291_d1">L. a. s. ; Péra-lez-Constantinople, 6 ventôse an
                   IV, 1 p. 1/2 in-4. Belle lettre.</desc>
-               <num type="price">6</num>
+               <measure commodity="currency" unit="FRF" quantity="6">6</measure>
             </item>
             <item n="292" xml:id="CAT_000328_e292">
                <num type="lot">292</num>
@@ -3512,7 +3516,7 @@
                </trait>
                <desc xml:id="CAT_000328_e292_d1">L. a s. ; Paris, 1720, 3 p. in-8. Un peu
                   tachée.</desc>
-               <num type="price">10</num>
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
             </item>
             <item n="293" xml:id="CAT_000328_e293">
                <num type="lot">293</num>
@@ -3522,7 +3526,7 @@
                </trait>
                <desc xml:id="CAT_000328_e293_d1">L. a. s. à Mme Seghers (femme du célèbre
                   violoniste), 1 p. 1/2 in-8. Très jolie lettre.</desc>
-               <num type="price">4</num>
+               <measure commodity="currency" unit="FRF" quantity="4">4</measure>
             </item>
             <item n="294" xml:id="CAT_000328_e294">
                <num type="lot">294</num>
@@ -3533,7 +3537,7 @@
                <desc xml:id="CAT_000328_e294_d1">Pièce sig. sur vélin avec 2 lig. aut. ; sig. aussi
                   deux fois par François de Morreton, son aide de camp; à l'armée d'Allemagne, 26
                   juin 1693, 2 p. in-4 obl.</desc>
-               <num type="price">10</num>
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
             </item>
             <item n="295" xml:id="CAT_000328_e295">
                <num type="lot">295</num>
@@ -3544,8 +3548,8 @@
                <desc xml:id="CAT_000328_e295_d1">L. a. s. au duc de Bouillon (H. de la Tour
                   d'Auvergne, vicomte de Turenne, ambassadeur près d'Elisabeth, reine d'Angleterre);
                   Paris, 18 juin 1597, 2 p. in-fol., cachets à ses armes.</desc>
-               <num type="price">40</num>
-               <note>Importante lettre historique. Il a vu par la lettre du duc « que vous avez très
+               <measure commodity="currency" unit="FRF" quantity="40">40</measure>
+               <note anchored="true">Importante lettre historique. Il a vu par la lettre du duc « que vous avez très
                   mauvaise oppinion de nous et de noz affaires (surprise d'Amiens par les
                   Espagnols)» ; M. de Rignac déplore l'absence du duc de Bouillon : « Je vous
                   souhaite seullement icy pour nous aider à souffler d'alquemie pour trouver de quoi
@@ -3563,7 +3567,7 @@
                   <p>l'illustre écrivain.</p>
                </trait>
                <desc xml:id="CAT_000328_e296_d1">Métaphisique, pièce aut.; 1 p. in-4.</desc>
-               <num type="price">15</num>
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
             </item>
             <item n="297" xml:id="CAT_000328_e297">
                <num type="lot">297</num>
@@ -3573,7 +3577,7 @@
                </trait>
                <desc xml:id="CAT_000328_e297_d1">L. a. s., en français, au musicien Chelard, 1 p.
                   in-8. Fragments de cachet.</desc>
-               <num type="price">8</num>
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
             </item>
             <item n="298" xml:id="CAT_000328_e298">
                <num type="lot">298</num>
@@ -3583,7 +3587,7 @@
                </trait>
                <desc xml:id="CAT_000328_e298_d1">L. a. s. à un général; 7 janvier 1881, 1 p. in-8.
                   Belle lettre.</desc>
-               <num type="price">3</num>
+               <measure commodity="currency" unit="FRF" quantity="3">3</measure>
             </item>
             <item n="299" xml:id="CAT_000328_e299">
                <num type="lot">299</num>
@@ -3593,15 +3597,15 @@
                </trait>
                <desc xml:id="CAT_000328_e299_d1">L. a. s.; Paris, 22 avril 1887, 1 p. 3/4
                   in-8.</desc>
-               <num type="price">8</num>
-               <note>Curieuse lettre relative aux représentations de Renée, pièce en cinq actes
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
+               <note anchored="true">Curieuse lettre relative aux représentations de Renée, pièce en cinq actes
                   tirée du roman La Curée.</note>
             </item>
             <item n="300" xml:id="CAT_000328_e300">
                <num type="lot">300</num>
                <name type="author">Zola (Emile)</name>
                <desc xml:id="CAT_000328_e300_d1">Sa carte de visite avec 6 lig. aut. sig.</desc>
-               <num type="price">3</num>
+               <measure commodity="currency" unit="FRF" quantity="3">3</measure>
             </item>
             <item n="301" xml:id="CAT_000328_e301">
                <num type="lot">301</num>
@@ -3612,8 +3616,8 @@
                </trait>
                <desc xml:id="CAT_000328_e301_d1">Pièce en latin sur vélin; 4 nov. 1410, in-4
                   obl.</desc>
-               <num type="price">10</num>
-               <note>Décharge du trésor à Nicolas de la Hèze, receveur du bailliage de Mantes, de 27
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
+               <note anchored="true">Décharge du trésor à Nicolas de la Hèze, receveur du bailliage de Mantes, de 27
                   l. 19 s. 4 d. p., pour payement d'un revenu acheté pour le roi, du cardinal de Bar
                   sur la recette de Troyes.»</note>
             </item>
@@ -3622,8 +3626,8 @@
                <name type="author">Charles VI</name>
                <desc xml:id="CAT_000328_e302_d1">Pièce sur vélin; La Rochelle (Charente
                   -Inférieure), 11 mars 1387 (1388). in-4 obl.</desc>
-               <num type="price">10</num>
-               <note>Quittance de Roys Goutières, chevalier. de 720 francs d'or « en prest sur les
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
+               <note anchored="true">Quittance de Roys Goutières, chevalier. de 720 francs d'or « en prest sur les
                   gaiges de nous, patron de la gallée nommée Sainte-Croiz de dix-huit hommes d'ar
                   mes, trante arbaletriers, trois commitres, neuf nochieles, ung remolat et huit
                   vins dix et huit vogueurs d'aviron de nostre compaignie sur nostre ditte gallée
@@ -3638,8 +3642,8 @@
                </trait>
                <desc xml:id="CAT_000328_e303_d1">2 pièces originales sur vélin; Rouen, 26-27 sept.
                   1438, 2 p. in-4 obl.</desc>
-               <num type="price">12</num>
-               <note>Ordre de paver à Bérard de Montferrant, son conseiller, la somme de 50 livres
+               <measure commodity="currency" unit="FRF" quantity="12">12</measure>
+               <note anchored="true">Ordre de paver à Bérard de Montferrant, son conseiller, la somme de 50 livres
                   tournois. « Lequel nous envoyons présentement partant jusques à la Roche Guyon
                   pour y acomplir ce que est chargé lui a esté de par nostre très cher et très amé
                   cousin Richart conte de Warrewik (Warwick), nostre lieutenant-général et
@@ -3653,7 +3657,7 @@
                </trait>
                <desc xml:id="CAT_000328_e304_d1">1 billet de 100 livres tournois et 4 billets de 10
                   livres de la banque de Law; 1720, 5 p. in-8 obl.</desc>
-               <num type="price">15</num>
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
             </item>
             <item n="304bis" xml:id="CAT_000328_e304bis">
                <num type="lot">304bis</num>
@@ -3665,8 +3669,8 @@
                   armoiries peintes, sig. par Louis XIV (du secrétaire de la main) Leblanc,
                   Voyer-d'Argenson et Charles d'Hozier; 1719, 4 p. in-fol. et in-4, cachet, sceau
                   pendant.</desc>
-               <num type="price">30</num>
-               <note>Belles pièces. Lettres de noblesse accordées à M. de Crousillac, capitaine
+               <measure commodity="currency" unit="FRF" quantity="30">30</measure>
+               <note anchored="true">Belles pièces. Lettres de noblesse accordées à M. de Crousillac, capitaine
                   exempt des gardes du roi dans la compagnie de Villeroy, pour avoir servi le roi
                   pendant 47 ans, pris part à 11 batailles et reçu 8 blessures. Les services de M.
                   de Crousillac sont énumérés dans la pièce.»</note>
@@ -3683,8 +3687,8 @@
                   parlé dans la correspondance de l'empereur Maximilien avec sa fille, à Marguerite
                   d'Autriche, gouvernante des Pays-Bas; Paris, 8 juin (1519), 1 p. 1/2 in-fol.
                   Raccommodage dans une marge. Un peu tachée d'eau.</desc>
-               <num type="price">15</num>
-               <note>Importante lettre historique. « Dimanche dernier fust créé ung nouviau duc
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
+               <note anchored="true">Importante lettre historique. « Dimanche dernier fust créé ung nouviau duc
                   d'Orléans nommé Henry (Henri II, fils de François 1er et de Claude de France) et à
                   ce que l'on dist, y a eu à ce baptesme grand triomphe. » Il n'aura audience qu'à
                   l'arrivée du grand prévôt qui revient de Montpellier. « Le roy ne fait que aler à
@@ -3702,8 +3706,8 @@
                </trait>
                <desc xml:id="CAT_000328_e306_d1">Pièce sur vélin; Harfleur, 12 juillet 1838, in- 4
                   obl.</desc>
-               <num type="price">7</num>
-               <note>Quittance de Sauvage de Jucourt, écuyer, pour un prêt sur ses gages, et ceux de
+               <measure commodity="currency" unit="FRF" quantity="7">7</measure>
+               <note anchored="true">Quittance de Sauvage de Jucourt, écuyer, pour un prêt sur ses gages, et ceux de
                   10 autres écuyers, de 47 1. 10 s. t., sous les ordres dudit Jacques de
                   Montmor.</note>
             </item>
@@ -3712,8 +3716,8 @@
                <name type="author">Angoumois</name>
                <desc xml:id="CAT_000328_e307_d1">Pièce originale sur vélin; Angoulêine, 5 juin 1347,
                   in-4 obl.</desc>
-               <num type="price">5</num>
-               <note>Quittance de Pierre Guernier, receveur d'Angoulême, à Pierre de la Tour, cheva
+               <measure commodity="currency" unit="FRF" quantity="5">5</measure>
+               <note anchored="true">Quittance de Pierre Guernier, receveur d'Angoulême, à Pierre de la Tour, cheva
                   lier, de 9 livres 2 sols 8 deniers tournois pour droit de Lods et ventes (« ventes
                   et honneurs. »)</note>
             </item>
@@ -3723,8 +3727,8 @@
                <desc xml:id="CAT_000328_e308_d1">Pièce originale sur vélin de Guillaume Le
                   Bouthillier, sénéchal d'Angoulême, « gentil chevalier d'Auvergne », au dire de
                   Frois- sart; Angoulême, 7 avril 1385, in-4 obl.</desc>
-               <num type="price">8</num>
-               <note>Envoi par les maréchaux de France au trésorier des guerres de la montre de
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
+               <note anchored="true">Envoi par les maréchaux de France au trésorier des guerres de la montre de
                   Guillaume le Boutillier, sénéchal d'Angoulème, ayant en sa compagnie 7 chevaliers
                   et 42 écuyers.</note>
             </item>
@@ -3733,8 +3737,8 @@
                <name type="author">Ardennes</name>
                <desc xml:id="CAT_000328_e309_d1">Pièce originale sur vélin ; Paris, 9 octobre 1593,
                   1 p. in- fol. obl.</desc>
-               <num type="price">6</num>
-               <note>Constitution de procureur par Catherine de Clèves, en la personne de Claude de
+               <measure commodity="currency" unit="FRF" quantity="6">6</measure>
+               <note anchored="true">Constitution de procureur par Catherine de Clèves, en la personne de Claude de
                   Fine, seigneur d'Oronce, pour administrer ses terres de Moncornet
                   (Ardennes)..</note>
             </item>
@@ -3743,8 +3747,8 @@
                <name type="author">Artois. -Monnaies</name>
                <desc xml:id="CAT_000328_e310_d1">Pièce originale sur vélin; Malines, 20 oct, 1530,
                   gr. in-fol. Légèrement trouée.</desc>
-               <num type="price">15</num>
-               <note>Importante pièce. Ordonnance de Charles-Quint applicable à l'Artois que lui
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
+               <note anchored="true">Importante pièce. Ordonnance de Charles-Quint applicable à l'Artois que lui
                   avait rendu le traité de Cambrai; il y défend la circulation des monnaies
                   françaises, spécialement des « grandz blancz de la forge et coing de nostre très
                   chier et tres amé bon frère et cousin le Roy tres chrestien. » (Ces grands blancs
@@ -3752,11 +3756,11 @@
             </item>
             <item n="311" xml:id="CAT_000328_e311">
                <num type="lot">311</num>
-               <name>Auvergne</name>
+               <name type="author">Auvergne</name>
                <desc xml:id="CAT_000328_e311_d1">Pièce en latin sur vélin; Clermont-Ferrand, 12
                   septembre 1374, in-8 obl.</desc>
-               <num type="price">6</num>
-               <note>Quittance par devant l'official de Clermont- Ferrand, de Robert Ayme
+               <measure commodity="currency" unit="FRF" quantity="6">6</measure>
+               <note anchored="true">Quittance par devant l'official de Clermont- Ferrand, de Robert Ayme
                   d'Aigueperse, à Etienne de Cormeilles, receveur des aides, de 16 l. t. pour
                   location d'une maison sise à .J Clermont, rue de la Crot.</note>
             </item>
@@ -3765,8 +3769,8 @@
                <name type="author">Bretagne</name>
                <desc xml:id="CAT_000328_e312_d1">Pièce originale sur vélin; Nantes, 23 avril 1539,
                   grand in-fol. obl.</desc>
-               <num type="price">15</num>
-               <note>Sentence rendue par les conseillers au parlement de Rennes « comys par le Roy
+               <measure commodity="currency" unit="FRF" quantity="15">15</measure>
+               <note anchored="true">Sentence rendue par les conseillers au parlement de Rennes « comys par le Roy
                   (François I) nostre sire sur le faict de la refformation des fyes nobles acquis,
                   tenuz et possedez par gens non nobles plebeyens et de bas estat contre la
                   constitution du duc Pierres que Dieu absolle » contre les conclusions de Charles
@@ -3786,8 +3790,8 @@
                <name type="author">Bretagne</name>
                <desc xml:id="CAT_000328_e313_d1">Pièce sur vélin; Fougères, 1662, 6 p. 1/2
                   in-fol.</desc>
-               <num type="price">10</num>
-               <note>Aveu et dénombrement à Julienne du Guesclin, dame du Parc, mère et tutrice de
+               <measure commodity="currency" unit="FRF" quantity="10">10</measure>
+               <note anchored="true">Aveu et dénombrement à Julienne du Guesclin, dame du Parc, mère et tutrice de
                   René Porée, seigneur de Chaudebeuf, par Valentin Bertin, sieur de la Pellouère,
                   Jullien Dutail, sieur de la Vigne, etc., à cause de masures (manoirs) sises en la
                   paroisse Saint-Sauveur des Landes (Ille-et-Vilaine).</note>
@@ -3797,8 +3801,8 @@
                <name type="author">Caen</name>
                <desc xml:id="CAT_000328_e314_d1">Pièce originale sur vélin; 5 août 1355, in-4
                   obl.</desc>
-               <num type="price">8</num>
-               <note>Quittance de Guy du Tremblay, chevalier à Aymar Bourgoise, receveur général de
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
+               <note anchored="true">Quittance de Guy du Tremblay, chevalier à Aymar Bourgoise, receveur général de
                   Caen et de Cotentin, de 20 florins d'or à l'écu en prêt sur les gages de lui et de
                   ses compagnons, aux ordres de Louis d'Harcourt.</note>
             </item>
@@ -3814,15 +3818,15 @@
                   une grande carte manuscrite levée sur les lieux par ordre de M. le Maréchal de
                   Maillebois, par Robert de Vaugondy; Paris, 1768, Om61 sur 0m46, montée sur
                   toile.</desc>
-               <num type="price">5</num>
+               <measure commodity="currency" unit="FRF" quantity="5">5</measure>
             </item>
             <item n="316" xml:id="CAT_000328_e316">
                <num type="lot">316</num>
                <name type="author">Dauphiné</name>
                <desc xml:id="CAT_000328_e316_d1">Pièce sig. par toutes les autorités de Vienne; 3
                   sept. 1783. 5 p. in-fol.</desc>
-               <num type="price">8</num>
-               <note>Intéressante pièce. Procès-verbal de la visite des Prisons de Vienne.</note>
+               <measure commodity="currency" unit="FRF" quantity="8">8</measure>
+               <note anchored="true">Intéressante pièce. Procès-verbal de la visite des Prisons de Vienne.</note>
             </item>
             <item n="317" xml:id="CAT_000328_e317">
                <num type="lot">317</num>
@@ -3830,24 +3834,24 @@
                <desc xml:id="CAT_000328_e317_d1">L. a. s. de la marquise de Rosen, née de Grammont,
                   belle-fille du maréchal, au cardinal de Fleury; Belleville, 13 déc. 1737, 2 p.
                   in-4.</desc>
-               <num type="price">6</num>
-               <note>Elle recommande son fils le chevalier de Rosen.</note>
+               <measure commodity="currency" unit="FRF" quantity="6">6</measure>
+               <note anchored="true">Elle recommande son fils le chevalier de Rosen.</note>
             </item>
             <item n="318" xml:id="CAT_000328_e318">
                <num type="lot">318</num>
                <name type="author">Languedoc</name>
                <desc xml:id="CAT_000328_e318_d1">Pièce sur vélin; 26 mars 1436 (1437), in-8
                   obl.</desc>
-               <num type="price">5</num>
-               <note>Quittance de 262 1. 10 s. t. baillées à l'archevêque de Toulouse, Denis du
+               <measure commodity="currency" unit="FRF" quantity="5">5</measure>
+               <note anchored="true">Quittance de 262 1. 10 s. t. baillées à l'archevêque de Toulouse, Denis du
                   Moulin, pour un voyage à Béziers..</note>
             </item>
             <item n="319" xml:id="CAT_000328_e319">
                <num type="lot">319</num>
                <name type="author">Lorraine. -Barrois</name>
                <desc xml:id="CAT_000328_e319_d1">Charte sur vélin; Toul, mai 1234, in-4.</desc>
-               <num type="price">20</num>
-               <note>Belle pièce. Vente par Hugues Tennevez, chevalier, d'Arembécourt (Aube), à
+               <measure commodity="currency" unit="FRF" quantity="20">20</measure>
+               <note anchored="true">Belle pièce. Vente par Hugues Tennevez, chevalier, d'Arembécourt (Aube), à
                   l'abbaye cistercienne de l'Isle-en-Barrois (Meuse) de tout ce qu'il possédait en
                   blé sur les dîmes d'Agonville, dépendantes du comté de Bar; l'acte est rendu au
                   nom de l'évêque de Toul, Roger de Marcey.</note>
@@ -3857,8 +3861,8 @@
                <name type="author">Maine</name>
                <desc xml:id="CAT_000328_e320_d1">2 pièces originales sur vélin, dont une sig. par
                   Jean et Antoine de Boisjourdain; Le Mans, 1576. -Nantes, 1597, 4 p. in-fol.</desc>
-               <num type="price">12</num>
-               <note>Intéressantes pièces. Procuration de Jean de Boisjourdain, chevalier, demeurant
+               <measure commodity="currency" unit="FRF" quantity="12">12</measure>
+               <note anchored="true">Intéressantes pièces. Procuration de Jean de Boisjourdain, chevalier, demeurant
                   à Bouere (Mayenne), donnée à son fils Antoine de Boisjourdain, pour recevoir de
                   Rolland de l'Isle, seigneur de la Corméraye, tuteur des enfants de René de
                   Rochereuil, seigneur de la Fondière, connétable de la ville de Nantes, la somme de
@@ -3871,8 +3875,8 @@
                <name type="author">Normandie. -Dieppe</name>
                <desc xml:id="CAT_000328_e321_d1">Pièce sur vélin; Dieppe, 1er octobre 1356, in-4 obl
                   , un peu tachée.</desc>
-               <num type="price">12</num>
-               <note>Intéressante pièce. Mandement des généraux « deputez » (par les Etats de 1356)
+               <measure commodity="currency" unit="FRF" quantity="12">12</measure>
+               <note anchored="true">Intéressante pièce. Mandement des généraux « deputez » (par les Etats de 1356)
                   sur le fait du subside octroié à monsieur le duc (depuis Charles V) ou pays de
                   Normandie » aux trésoriers Jean d'Orléans et Jean le Vilain, de prendre sur la
                   recette d'Arques 1,200 livres pour les bailler à Jehan de l'Ospital, ancien
@@ -3884,8 +3888,8 @@
                <name type="author">Normandie. -Domination anglaise</name>
                <desc xml:id="CAT_000328_e322_d1">Pièce originale sur vélin; Falaise. 4 juin 1436,
                   in-4 obl.</desc>
-               <num type="price">12</num>
-               <note>Pièce historique. Quittance de Georges Quevrel, messager, à Roger le Cloutier,
+               <measure commodity="currency" unit="FRF" quantity="12">12</measure>
+               <note anchored="true">Pièce historique. Quittance de Georges Quevrel, messager, à Roger le Cloutier,
                   écuyer, vicomte de Falaise, de la somme de 30 sols tournois, pour avoir porté
                   mandements du bailli de Caen et du sénéchal de Normandie, M. de Scalles, aux
                   sergents de Saint-Pierre-sur Dive, Jumel et Bretteville, pour défendre aux gens de
