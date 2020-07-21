@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../Users/lucierdn/Downloads/GROBID_Dictionaries-master/_schemas/odd_editiones.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../Users/lucierdn/Downloads/GROBID_Dictionaries-master/_schemas/odd_editiones.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../_schemas/odd_editiones.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../_schemas/odd_editiones.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAT_000165">
    <teiHeader xmlns:tei="http://www.tei-c.org/ns/1.0"
       xmlns:s="http://purl.oclc.org/dsdl/schematron">
@@ -8,37 +8,37 @@
          <titleStmt>
             <title>CAT_000165</title>
             <respStmt>
-               <persName ref="#COL_000002" instant="false">Lucie Rondeau du Noyer</persName>
+               <persName ref="#COL_000002">Lucie Rondeau du Noyer</persName>
                <resp>
-                  <date when="2019" instant="false">2020</date>
+                  <date when="2019">2020</date>
                </resp>
             </respStmt>
          </titleStmt>
          <extent/>
          <publicationStmt>
             <publisher>Projet e-Ditiones, Université de Neuchâtel</publisher>
-            <availability status="restricted" default="false">
+            <availability status="restricted">
                <licence target="https://creativecommons.org/licenses/by/2.0">Attribution 2.0 Generic (CC BY 2.0)</licence>
             </availability>
          </publicationStmt>
-         <sourceDesc default="false">
-            <bibl default="false" status="draft">
+         <sourceDesc>
+            <bibl>
                <title>REVUE DES CURIOSITÉS DE L'HISTOIRE ET DE LA BIOGRAPHIE</title>
                <num>158</num>
                <editor>Eugène Charavay fils</editor>
                <publisher>Eugène Charavay fils</publisher>
                <pubPlace>Paris, 34 rue du Faubourg Poissonière</pubPlace>
-               <date when="1893-08" instant="false">Août-Septembre 1893</date>
+               <date when="1893-08">Août-Septembre 1893</date>
             </bibl>
-            <listEvent default="false">
-               <event instant="false">
-                  <p part="N">
+            <listEvent>
+               <event>
+                  <p>
                      <address>
                         <addrLine/>
                      </address>
-                     <persName type="auctioneer" instant="false"/>
-                     <persName type="expert" instant="false"/>
-                     <date instant="false"/>
+                     <persName type="auctioneer"/>
+                     <persName type="expert"/>
+                     <date/>
                   </p>
                </event>
             </listEvent>
@@ -47,19 +47,19 @@
                   <ptr/>
                </witness>
             </listWit>
-            <listBibl default="false">
-               <bibl default="false" status="draft"/>
+            <listBibl>
+               <bibl/>
             </listBibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <langUsage default="false">
+         <langUsage>
             <language ident="fr">french</language>
          </langUsage>
       </profileDesc>
       <encodingDesc>
-         <samplingDecl default="false">
-            <p part="N">This electronic version of the catalog only reproduces the entries that correspond to documents for sale. All text preceding or succeeding the list of documents for sale is not reproduced below.</p>
+         <samplingDecl>
+            <p>This electronic version of the catalog only reproduces the entries that correspond to documents for sale. All text preceding or succeeding the list of documents for sale is not reproduced below.</p>
          </samplingDecl>
          <appInfo>
             <application version="1.11" ident="Transkribus" when="2020-07-17">
@@ -75,7 +75,7 @@
    </teiHeader>
    <text>
       <body>
-         <gap instant="false"/>
+         <gap/>
          <list>
             <item n="1" xml:id="CAT_000165_e1">
                <num type="lot">1</num>
@@ -141,7 +141,7 @@
                <num type="lot">8</num>
                <name type="author">Anglure (René d')</name>
                <trait>
-                  <p>baron de Bourlemont, seigneur de Conflans Sainte- Honorine, époux d'Antoinette d'Aspremont, princesse d'Amblise.</p>
+                  <p>baron de Bourlemont, seigneur de Conflans Sainte-Honorine, époux d'Antoinette d'Aspremont, princesse d'Amblise.</p>
                </trait>
                <desc xml:id="CAT_000165_e8_d1">Let. sig. avec la souscrip. aut. au duc d'Anjou (depuis Henri III) ; Langres, 1er janv. 1568, 1 p. in-fol. 10</desc>
                <note>Intéressante lettre. Depuis le départ du sieur de Thou Chastellet, il a, sur l'invitation du cardinal de Lorraine et du duc de Guise, écrit une longue lettre au comte de Rey, pour informer le duc d'Anjou de la situation de l'évéché de Langres.</note>
@@ -2487,6 +2487,6 @@
             </item>
          </list>
       </body>
-      <gap instant="false"/>
+      <gap/>
    </text>
 </TEI>

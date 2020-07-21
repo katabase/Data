@@ -83,7 +83,7 @@
          <gap/>
          <list>
             <item n="1" xml:id="CAT_000167_e1">
-               <num>1</num>
+               <num type="lot">1</num>
                <name type="author">ALEXANDRE VI (Roderigo Borgia),</name>
                <trait>
                   <p>pape, le père de César et de Lucrèce Borgia, n. 1430, m. 1503.</p>
@@ -95,7 +95,7 @@
                   droit d'avoir un autel particulier pour y faire dire la messe.</note>
             </item>
             <item n="2" xml:id="CAT_000167_e2">
-               <num>2</num>
+               <num type="lot">2</num>
                <name type="author">BACHAUMONT (Louis),</name>
                <trait>
                   <p>littérateur du XVIIIe siècle, auteur des fameux Mémoires secrets, n. 1690, m.
@@ -106,7 +106,7 @@
                   sons.</note>
             </item>
             <item n="3" xml:id="CAT_000167_e3">
-               <num>3</num>
+               <num type="lot">3</num>
                <name type="author">BALUZE (Etienne),</name>
                <trait>
                   <p>le célèbre érudit, bibliothécaire de Colbert, n. 1630, m. 1718.</p>
@@ -115,7 +115,7 @@
                <note>Belle pièce concernant ses fonctions de bibliothécaire.</note>
             </item>
             <item n="4" xml:id="CAT_000167_e4">
-               <num>4</num>
+               <num type="lot">4</num>
                <name type="author">BARERE (Bertrand),</name>
                <trait>
                   <p>célèbre conventionnel, le rapporteur infatigable du Comité de salut public, n.
@@ -131,7 +131,7 @@
                   ordonnant de verser aux comités de surveillance l'or et l'argent monnayés.</note>
             </item>
             <item n="5" xml:id="CAT_000167_e5">
-               <num>5</num>
+               <num type="lot">5</num>
                <name type="author">BEAUHARNAIS (Eugène de),</name>
                <trait>
                   <p>fils adoptif de Napoléon Ier, vice-roi d'Italie, n. 1781, m. 1824.</p>
@@ -145,7 +145,7 @@
                   Intéressants détails intimes.</note>
             </item>
             <item n="6" xml:id="CAT_000167_e6">
-               <num>6</num>
+               <num type="lot">6</num>
                <name type="author">BERANGER (Pierre-Jean de),</name>
                <trait>
                   <p>le célèbre chansonnier, n. 1780, m. 1857.</p>
@@ -159,7 +159,7 @@
                   et la réception de Chateaubriand fut indéfiniment ajournée.</note>
             </item>
             <item n="7" xml:id="CAT_000167_e7">
-               <num>7</num>
+               <num type="lot">7</num>
                <name type="author">BÉRANGER (Pierre-Jean de)</name>
                <desc xml:id="CAT_000167_e7_d1">L. a. s. à son père; Péronne, 18 pluviôse an II (6
                   février 1794), 1 p. in-4.</desc>
@@ -170,7 +170,7 @@
                   28 fructidor an II 14 septembre 1794),</note>
             </item>
             <item n="8" xml:id="CAT_000167_e8">
-               <num>8</num>
+               <num type="lot">8</num>
                <name type="author">BERLIOZ (Hector),</name>
                <trait>
                   <p>le grand compositeur de musique, n. 1803, m. 1869.</p>
@@ -182,7 +182,7 @@
                   votre apostrophe à Paganini m'a fait fondre en larmes.»</note>
             </item>
             <item n="9" xml:id="CAT_000167_e9">
-               <num>9</num>
+               <num type="lot">9</num>
                <name type="author">BERNADOTTE (Jean-Baptiste),</name>
                <trait>
                   <p>illustre maréchal de l'Empire, puis roi de Suède sous le nom de Charles-Jean
@@ -195,7 +195,7 @@
                   Anglais à Quiberon.</note>
             </item>
             <item n="10" xml:id="CAT_000167_e10">
-               <num>10</num>
+               <num type="lot">10</num>
                <name type="author">BILLAUD-VARENNE (Jacques-Nicolas),</name>
                <trait>
                   <p>célèbre conventionnel, n. à La Rochelle, 1756, m. 1819.</p>
@@ -205,7 +205,7 @@
                <note>Il lui recommande un patriote pour l'emploi de garçon de bureau.</note>
             </item>
             <item n="11" xml:id="CAT_000167_e11">
-               <num>11</num>
+               <num type="lot">11</num>
                <name type="author">BOISMONT (Nicolas Thyrel, abbé de),</name>
                <trait>
                   <p>célèbre prédicateur, membre de l'Académie française, n. 1715, m. 1786.</p>
@@ -216,7 +216,7 @@
                   et de l'abbé Maury.</note>
             </item>
             <item n="12" xml:id="CAT_000167_e12">
-               <num>12</num>
+               <num type="lot">12</num>
                <name type="author">BOSSUET (Bénigne),</name>
                <trait>
                   <p>l'illustre évêque de Meaux, n. 1627, m.</p>
@@ -227,7 +227,7 @@
                   chrétiens en Espagne, sous le règne de quelques empereurs.</note>
             </item>
             <item n="13" xml:id="CAT_000167_e13">
-               <num>13</num>
+               <num type="lot">13</num>
                <name type="author">BRISSOT (Jean-Pierre),</name>
                <trait>
                   <p>célèbre conventionnel girondin n. à Chartres, 1754, décapité le 31 octobre
@@ -242,7 +242,7 @@
                   liberté.</note>
             </item>
             <item n="14" xml:id="CAT_000167_e14">
-               <num>14</num>
+               <num type="lot">14</num>
                <name type="author">BRUNE (Guillaume-Marie-Anne),</name>
                <trait>
                   <p>célèbre général républicain, maréchal de l'Empire, n. 1763, massacré en
@@ -256,7 +256,7 @@
                   succès.»</note>
             </item>
             <item n="15" xml:id="CAT_000167_e15">
-               <num>15</num>
+               <num type="lot">15</num>
                <name type="author">CHALIER (Marie-Joseph),</name>
                <trait>
                   <p>chef du parti montagnard à Lyon, n. 1747, décapité en 1793.</p>
@@ -265,7 +265,7 @@
                   rare.</desc>
             </item>
             <item n="16" xml:id="CAT_000167_e16">
-               <num>16</num>
+               <num type="lot">16</num>
                <name type="author">CHAMBORD (Henri de Bourbon, comte de),</name>
                <trait>
                   <p>le dernier représentant de la branche aînée des Bourbons, n. 1820, m. 1883.</p>
@@ -280,7 +280,7 @@
                   utile.)</note>
             </item>
             <item n="17" xml:id="CAT_000167_e17">
-               <num>17</num>
+               <num type="lot">17</num>
                <name type="author">CHAMPIONNET (Jean-Étienne)</name>
                <trait>
                   <p>l’illustre général républicain, n. à Valence, 1762, m. 1800.</p>
@@ -297,7 +297,7 @@
                   du Directoire prévenu de concussion.))</note>
             </item>
             <item n="18" xml:id="CAT_000167_e18">
-               <num>18</num>
+               <num type="lot">18</num>
                <name type="author">CHARETTE</name>
                <desc xml:id="CAT_000167_e18_d1">DE LA CONTRIE (François-Athanase), un des plus
                   fameux chefs vendéens, n. 1763, fusillé à Nantes en 1796. Lettre signée à
@@ -310,7 +310,7 @@
                   Stofflet lorsqu'il était prisonnier.)</note>
             </item>
             <item n="19" xml:id="CAT_000167_e19">
-               <num>19</num>
+               <num type="lot">19</num>
                <name type="author">CHATEAUBRIAND (François-René, vicomte de),</name>
                <trait>
                   <p>l'illustre écrivain, n. 1768, m. 1848.</p>
@@ -323,13 +323,13 @@
                   comparez pas à un petit singe noir.»</note>
             </item>
             <item n="20" xml:id="CAT_000167_e20">
-               <num>20</num>
+               <num type="lot">20</num>
                <name type="author">CHATEAUBRIAND (François-René, vicomte de)</name>
                <desc xml:id="CAT_000167_e20_d1">L. a. s. à M. Delamarinière; Aunay, 27 août 1809, 1
                   p. in-4. Jolie lettre.</desc>
             </item>
             <item n="21" xml:id="CAT_000167_e21">
-               <num>21</num>
+               <num type="lot">21</num>
                <name type="author">CHATEAUBRIAND (François-René, vicomte de)</name>
                <desc xml:id="CAT_000167_e21_d1">L. a. s. (à Béranger) ; Genève, 16 septembre 1832, 4
                   p. in-4.</desc>
@@ -342,7 +342,7 @@
                   un esprit ainsi disposé.»</note>
             </item>
             <item n="22" xml:id="CAT_000167_e22">
-               <num>22</num>
+               <num type="lot">22</num>
                <name type="author">CHERUBINI (Louis),</name>
                <trait>
                   <p>le célèbre compositeur de musique. n. 1760, m. 1842.</p>
@@ -358,7 +358,7 @@
             </item>
 
             <item n="23" xml:id="CAT_000167_e23">
-               <num>23</num>
+               <num type="lot">23</num>
                <name type="author">CHOPIN (Frédéric),</name>
                <trait>
                   <p>le célèbre pianiste et compositeur de musique, n. 1810, m. 1849.</p>
@@ -373,7 +373,7 @@
                   vue.»</note>
             </item>
             <item n="24" xml:id="CAT_000167_e24">
-               <num>24</num>
+               <num type="lot">24</num>
                <name type="author">CLEMENT VI (Pierre Roger),</name>
                <trait>
                   <p>pape (1342), qui acheta Avignon à la reine Jeanne de Naples et qui eut de vifs
@@ -387,7 +387,7 @@
                   Négrépont.</note>
             </item>
             <item n="25" xml:id="CAT_000167_e25">
-               <num>25</num>
+               <num type="lot">25</num>
                <name type="author">CLEMENT VIII (Ippolito Aldobrandini),</name>
                <trait>
                   <p>pape (1592), qui reçut l'abjuration de Henri IV, n. 1536, m. 1605.</p>
@@ -399,7 +399,7 @@
                   prospérité.</note>
             </item>
             <item n="26" xml:id="CAT_000167_e26">
-               <num>26</num>
+               <num type="lot">26</num>
                <name type="author">CLÉRAMBAULT (Philippe de Palluau, comte de),</name>
                <trait>
                   <p>maréchal de France, un des meilleurs capitaines du siècle de Louis XIV, n.
@@ -410,7 +410,7 @@
                   la rivière devant ses troupes.</desc>
             </item>
             <item n="27" xml:id="CAT_000167_e27">
-               <num>27</num>
+               <num type="lot">27</num>
                <name type="author">DALAYRAC (Nicolas),</name>
                <trait>
                   <p>célèbre compositeur de musique, n. 1753, m. 1809.</p>
@@ -420,7 +420,7 @@
                <note>Intéressante lettre où il parle des représentations d'Adèle.</note>
             </item>
             <item n="28" xml:id="CAT_000167_e28">
-               <num>28</num>
+               <num type="lot">28</num>
                <name type="author">DANTON (Georges),</name>
                <trait>
                   <p>l'illustre conventionnel, n. 1759, décapité en 1794.</p>
@@ -432,7 +432,7 @@
                   que dans son emploi. Tout cela mérite considération.»</note>
             </item>
             <item n="29" xml:id="CAT_000167_e29">
-               <num>29</num>
+               <num type="lot">29</num>
                <name type="author">DAVID (Louis),</name>
                <trait>
                   <p>le grand peintre d'histoire, n. 1748, m. 1825.</p>
@@ -448,7 +448,7 @@
                   Curieux détails sur sa situation plus glorieuse que fortunée.</note>
             </item>
             <item n="30" xml:id="CAT_000167_e30">
-               <num>30</num>
+               <num type="lot">30</num>
                <name type="author">DESCHAMPS (Emile),</name>
                <trait>
                   <p>célèbre poète et romancier, n. à Bourges, 1791, m. 1871.</p>
@@ -458,7 +458,7 @@
                   tient pas plus à Samarie que moi à sa Marie.»</note>
             </item>
             <item n="31" xml:id="CAT_000167_e31">
-               <num>31</num>
+               <num type="lot">31</num>
                <name type="author">DUCIS (Jean-François),</name>
                <trait>
                   <p>célèbre poète tragique, membre de l'Académie française, n. 1733, m. 1816.</p>
@@ -471,7 +471,7 @@
                   Béranger.</note>
             </item>
             <item n="32" xml:id="CAT_000167_e32">
-               <num>32</num>
+               <num type="lot">32</num>
                <name type="author">DUMAS (Alexandre),</name>
                <trait>
                   <p>le grand romancier, n. 1803, m. 1870.</p>
@@ -485,7 +485,7 @@
                   Lingard.»</note>
             </item>
             <item n="33" xml:id="CAT_000167_e33">
-               <num>33</num>
+               <num type="lot">33</num>
                <name type="author">DUPLESSIS-MORNAY (Philippe),</name>
                <trait>
                   <p>illustre chef du parti protestant, ami et conseiller de Henri IV, surnommé le
@@ -495,7 +495,7 @@
                   in-folio. Belle pièce.</desc>
             </item>
             <item n="34" xml:id="CAT_000167_e34">
-               <num>34</num>
+               <num type="lot">34</num>
                <name type="author">DUROY (Jean-Michel),</name>
                <trait>
                   <p>député de l'Eure à la Convention, un des derniers montagnards, n. 1753,
@@ -505,7 +505,7 @@
                   1791,1 p. in-4. Belle et rare pièce.</desc>
             </item>
             <item n="35" xml:id="CAT_000167_e35">
-               <num>35</num>
+               <num type="lot">35</num>
                <name type="author">EISEN (Charles),</name>
                <trait>
                   <p>habile dessinateur et graveur, n. à Valenciennes, 1721, m. 1778.</p>
@@ -516,7 +516,7 @@
                   Lamentations de Jérémie par Baculard d'Arnaud.</note>
             </item>
             <item n="36" xml:id="CAT_000167_e36">
-               <num>36</num>
+               <num type="lot">36</num>
                <name type="author">ELISABETH,</name>
                <trait>
                   <p>reine de Roumanie, écrivain distinguée, connue sous le nom de Carmen Sylva.</p>
@@ -529,7 +529,7 @@
                   bien heureuse.»</note>
             </item>
             <item n="37" xml:id="CAT_000167_e37">
-               <num>37</num>
+               <num type="lot">37</num>
                <name type="author">ESTRADES (Godefroy, marquis d'),</name>
                <trait>
                   <p>maréchal de France, célèbre diplomate, n. à Agen, 1607, m. 1686.</p>
@@ -538,7 +538,7 @@
                   janvier 1671, 1 p. in-4. Belle pièce.</desc>
             </item>
             <item n="38" xml:id="CAT_000167_e38">
-               <num>38</num>
+               <num type="lot">38</num>
                <name type="author">FABERT (Abraham),</name>
                <trait>
                   <p>illustre maréchal de France, n. à Metz, 1599, m. 1662.</p>
@@ -548,7 +548,7 @@
                <note>Superbe lettre où il lui recommande la veuve de M. de Marolle.</note>
             </item>
             <item n="39" xml:id="CAT_000167_e39">
-               <num>39</num>
+               <num type="lot">39</num>
                <name type="author">FLEURY (Hercule, cardinal de),</name>
                <trait>
                   <p>le premier ministre de Louis XV, n. 1653, m. 1743.</p>
@@ -561,7 +561,7 @@
                   n'est pas excusable de la manière dont il s'est vengé.</note>
             </item>
             <item n="40" xml:id="CAT_000167_e40">
-               <num>40</num>
+               <num type="lot">40</num>
                <name type="author">FOUCHE (Joseph),</name>
                <trait>
                   <p>duc d'Otrante, ministre de la police de Napoléon Ier, n. 1763, m. 1820.</p>
@@ -575,7 +575,7 @@
                   grand peur que Roberspierre (sic) ne le prit pour moi ».</note>
             </item>
             <item n="41" xml:id="CAT_000167_e41">
-               <num>41</num>
+               <num type="lot">41</num>
                <name type="author">FOUCQUET (Nicolas),</name>
                <trait>
                   <p>le fameux surintendant des finances de Louis XIV, n. 1615, m. 1680.</p>
@@ -586,7 +586,7 @@
                   son retour à l'armée.</note>
             </item>
             <item n="42" xml:id="CAT_000167_e42">
-               <num>42</num>
+               <num type="lot">42</num>
                <name type="author">GASSION (Jean, comte),</name>
                <trait>
                   <p>maréchal de France, qui prit une part glorieuse à la bataille de Rocroy, n.
@@ -597,7 +597,7 @@
                   dont une partie est chiffrée.</desc>
             </item>
             <item n="43" xml:id="CAT_000167_e43">
-               <num>43</num>
+               <num type="lot">43</num>
                <name type="author">GRANCEY (Jacques Rouxel de Médavr, comte de),</name>
                <trait>
                   <p>maréchal de France, n. 1602, m. 1680.</p>
@@ -608,7 +608,7 @@
                   Courcelle.</note>
             </item>
             <item n="44" xml:id="CAT_000167_e44">
-               <num>44</num>
+               <num type="lot">44</num>
                <name type="author">GUARINI (Battista),</name>
                <trait>
                   <p>le Jeune, célèbre poète italien, auteur du Pastor fido, n. 1537, m. 1612.</p>
@@ -620,7 +620,7 @@
                   Pérouse.</note>
             </item>
             <item n="45" xml:id="CAT_000167_e45">
-               <num>45</num>
+               <num type="lot">45</num>
                <name type="author">HOOGHE (Romeyn de),</name>
                <trait>
                   <p>célèbre graveur flamand, n. 1650, m. 1720.</p>
@@ -629,7 +629,7 @@
                   (Coll. B. Fillon.)</desc>
             </item>
             <item n="46" xml:id="CAT_000167_e46">
-               <num>46</num>
+               <num type="lot">46</num>
                <name type="author">HUET (Daniel),</name>
                <trait>
                   <p>le savant évêque d'Avranches, membre de l'Académie française, n. 1630, m.
@@ -645,7 +645,7 @@
                   amies savantes.»</note>
             </item>
             <item n="47" xml:id="CAT_000167_e47">
-               <num>47</num>
+               <num type="lot">47</num>
                <name type="author">HUGO (Victor),</name>
                <trait>
                   <p>le grand poète, n. 1802, m. 1885.</p>
@@ -660,7 +660,7 @@
                   vous.»</note>
             </item>
             <item n="48" xml:id="CAT_000167_e48">
-               <num>48</num>
+               <num type="lot">48</num>
                <name type="author">HUMIERES (Louis de Crevant, duc de),</name>
                <trait>
                   <p>maréchal de France, m. 1694.</p>
@@ -673,7 +673,7 @@
                   l'empescher de partir.»</note>
             </item>
             <item n="49" xml:id="CAT_000167_e49">
-               <num>49</num>
+               <num type="lot">49</num>
                <name type="author">ISNARD (Maximin),</name>
                <trait>
                   <p>célèbre conventionnel girondin, n. à Grasse, 1751, m. 1825.</p>
@@ -686,7 +686,7 @@
                   détails.</note>
             </item>
             <item n="50" xml:id="CAT_000167_e50">
-               <num>50</num>
+               <num type="lot">50</num>
                <name type="author">JEANBON SAINT-ANDRE (André),</name>
                <trait>
                   <p>député du Lot à la Convention, organisateur de la marine de la Révolution, n.
@@ -707,7 +707,7 @@
                   Touchante anecdote sur sa dernière entrevue avec Danton à la Convention.</note>
             </item>
             <item n="51" xml:id="CAT_000167_e51">
-               <num>51</num>
+               <num type="lot">51</num>
                <name type="author">JOSEPHINE,</name>
                <trait>
                   <p>impéralrice des Français, première femme de Napoléon 1er, n. 1763, m. 1814.</p>
@@ -720,7 +720,7 @@
                   la Victoire où Bonaparte prépara plus tard le coup d'Etat du 18 brumaire.)</note>
             </item>
             <item n="52" xml:id="CAT_000167_e52">
-               <num>52</num>
+               <num type="lot">52</num>
                <name type="author">JOUBERT (Barthélemy-Catherine),</name>
                <trait>
                   <p>célèbre général des guerres de la République, n. 1769, tué à Novi en 1799.</p>
@@ -731,7 +731,7 @@
                   d'Italie.</note>
             </item>
             <item n="53" xml:id="CAT_000167_e53">
-               <num>53</num>
+               <num type="lot">53</num>
                <name type="author">JOYEUSE (Guillaume, vicomte de),</name>
                <trait>
                   <p>évêque d'Aleth, puis maréchal de France, grâce au crédit de son fils, l'amiral
@@ -742,7 +742,7 @@
                   agitaient leur ville.</desc>
             </item>
             <item n="54" xml:id="CAT_000167_e54">
-               <num>54</num>
+               <num type="lot">54</num>
                <name type="author">KOTZEBUE (August-Friedrich-Ferdinand von),</name>
                <trait>
                   <p>auteur dramatique et fameux pamphlétaire allemand, n. 1761, assassiné en
@@ -754,7 +754,7 @@
                   épistolaires.</note>
             </item>
             <item n="55" xml:id="CAT_000167_e55">
-               <num>55</num>
+               <num type="lot">55</num>
                <name type="author">LEFEBVRE (François-Joseph),</name>
                <trait>
                   <p>duc de Dantzig, célèbre général républicain, maréchal de l'Empire, n. 1755, m.
@@ -764,7 +764,7 @@
                   pièce.</desc>
             </item>
             <item n="56" xml:id="CAT_000167_e56">
-               <num>56</num>
+               <num type="lot">56</num>
                <name type="author">LEMIERRE (Antoine-Marin),</name>
                <trait>
                   <p>célèbre poète tragique, membre de l'Académie française, n. 1723, m. 1793.</p>
@@ -773,7 +773,7 @@
                   (Coll. Gilbert.).</desc>
             </item>
             <item n="57" xml:id="CAT_000167_e57">
-               <num>57</num>
+               <num type="lot">57</num>
                <name type="author">LEON X (Giovanni di Medici),</name>
                <trait>
                   <p>pape, protecteur des arts et des lettres, n. 1475, m. 1521.</p>
@@ -785,7 +785,7 @@
                   Petrucci.</note>
             </item>
             <item n="58" xml:id="CAT_000167_e58">
-               <num>58</num>
+               <num type="lot">58</num>
                <name type="author">LEON XIII (Gioacchino Pecci),</name>
                <trait>
                   <p>le pape actuel.</p>
@@ -799,7 +799,7 @@
                   fausses impressions produites par des publications exagérées.</note>
             </item>
             <item n="59" xml:id="CAT_000167_e59">
-               <num>59</num>
+               <num type="lot">59</num>
                <name type="author">LOUVET (Madame),</name>
                <trait>
                   <p>femme de l'auteur de Faublas, célèbre sous le nom de Lodoïska.</p>
@@ -812,7 +812,7 @@
                   prendre. Piquants détails.</note>
             </item>
             <item n="60" xml:id="CAT_000167_e60">
-               <num>60</num>
+               <num type="lot">60</num>
                <name type="author">LUCE III, pape (1181),</name>
                <trait>
                   <p>qui établit l'inquisition, m. 1 185.</p>
@@ -824,7 +824,7 @@
                   Sully.</note>
             </item>
             <item n="61" xml:id="CAT_000167_e61">
-               <num>61</num>
+               <num type="lot">61</num>
                <name type="author">MAINTENON (Françoise d'Aubigné, marquise de),</name>
                <trait>
                   <p>l'épouse de Louis XIV, n. 1635, m. 1719.</p>
@@ -836,7 +836,7 @@
                   sécheresse de sa conduite à son égard.</note>
             </item>
             <item n="62" xml:id="CAT_000167_e62">
-               <num>62</num>
+               <num type="lot">62</num>
                <name type="author">MAISTRE (Joseph, comte de),</name>
                <trait>
                   <p>l'illustre philosophe, auteur des Soirées de Saint-Pétersbourg, n. 1754, m.
@@ -850,7 +850,7 @@
                   détails.</note>
             </item>
             <item n="63" xml:id="CAT_000167_e63">
-               <num>63</num>
+               <num type="lot">63</num>
                <name type="author">MAISTRE (Joseph, comte de)</name>
                <desc xml:id="CAT_000167_e63_d1">Mémoires sur la position de la maison de Savoie au
                   mois d'octobre 1813, et sur les mesures qu'elle doit prendre à cette époque,
@@ -866,7 +866,7 @@
                   l'histoire de la diplomatie sarde vers la fin du premier empire.</note>
             </item>
             <item n="64" xml:id="CAT_000167_e64">
-               <num>64</num>
+               <num type="lot">64</num>
                <name type="author">MALEZIEU (Nicolas),</name>
                <trait>
                   <p>littérateur, membre de l'Académie française, l'organisateur des fêtes données à
@@ -878,7 +878,7 @@
                   Trévoux.</note>
             </item>
             <item n="65" xml:id="CAT_000167_e65">
-               <num>65</num>
+               <num type="lot">65</num>
                <name type="author">MARIE-THERESE,</name>
                <trait>
                   <p>impératrice d'Allemagne, dite la Grande, n. 1717, m. 1780.</p>
@@ -893,7 +893,7 @@
                   de ne rien risquer...»</note>
             </item>
             <item n="66" xml:id="CAT_000167_e66">
-               <num>66</num>
+               <num type="lot">66</num>
                <name type="author">MAXIMILIEN II,</name>
                <trait>
                   <p>empereur d'Allemagne, n. 1527, m. 1576.</p>
@@ -904,7 +904,7 @@
                   Belle lettre où il parle de la princesse Marguerite.</note>
             </item>
             <item n="67" xml:id="CAT_000167_e67">
-               <num>67</num>
+               <num type="lot">67</num>
                <name type="author">MONTESQUIEU (Charles Secondat, baron de),</name>
                <trait>
                   <p>l'illustre écrivain, membre de l'Académie française, n. 1689, m. 1755.</p>
@@ -915,7 +915,7 @@
                   leur est commune.</note>
             </item>
             <item n="68" xml:id="CAT_000167_e68">
-               <num>68</num>
+               <num type="lot">68</num>
                <name type="author">MOREAU (Victor),</name>
                <trait>
                   <p>illustre général républicain, n. 1763, blessé mortellement dans les rangs
@@ -928,7 +928,7 @@
                   donne ses instructions pour envoyer des renforts à l'armée d'Italie.</note>
             </item>
             <item n="69" xml:id="CAT_000167_e69">
-               <num>69</num>
+               <num type="lot">69</num>
                <name type="author">NEY (Michel),</name>
                <trait>
                   <p>duc d'Elchingen, prince de la Moskowa, illustre maréchal de l'Empire, n. 1769,
@@ -941,7 +941,7 @@
                   offre assez de force pour tenir jusqu'à l'arrivée des renforts promis.»</note>
             </item>
             <item n="70" xml:id="CAT_000167_e70">
-               <num>70</num>
+               <num type="lot">70</num>
                <name type="author">NEY (Michel)</name>
                <desc xml:id="CAT_000167_e70_d1">L. a. s. à Auguié ; Salzbourg, 10 février 1806, 1 p.
                   in-8.</desc>
@@ -951,7 +951,7 @@
                   coquilles.»</note>
             </item>
             <item n="71" xml:id="CAT_000167_e71">
-               <num>71</num>
+               <num type="lot">71</num>
                <name type="author">NIVERNOIS (Louis-Jules Barbon Mancini-Mazarin, duc de),</name>
                <trait>
                   <p>célèbre diplomate et homme d'Etat, membre de l'Académie française, n. 1716, m.
@@ -965,7 +965,7 @@
                   font pas moins de plaisir et j'y prends la part la plus sensible.»</note>
             </item>
             <item n="72" xml:id="CAT_000167_e72">
-               <num>72</num>
+               <num type="lot">72</num>
                <name type="author">PANIS (Etienne-Jean),</name>
                <trait>
                   <p>membre de la commune du DixAoût, député de Paris à la Convention, n. 1757, m.
@@ -982,7 +982,7 @@
                   pain de cette patrie, pour laquelle il s'est immolé.»</note>
             </item>
             <item n="73" xml:id="CAT_000167_e73">
-               <num>73</num>
+               <num type="lot">73</num>
                <name type="author">PICHEGRU (Charles),</name>
                <trait>
                   <p>général républicain, qui conquit la Hollande, n. 1761, m. 1804.</p>
@@ -997,7 +997,7 @@
                   redoublons d'efforts et ne leur laissons pas le temps de respirer.»</note>
             </item>
             <item n="74" xml:id="CAT_000167_e74">
-               <num>74</num>
+               <num type="lot">74</num>
                <name type="author">PIEVII,</name>
                <trait>
                   <p>pape, qui sacra Napoléon 1er, n. 1742, m. 1823.</p>
@@ -1013,7 +1013,7 @@
                   secours à tant d'angoisses.</note>
             </item>
             <item n="75" xml:id="CAT_000167_e75">
-               <num>75</num>
+               <num type="lot">75</num>
                <name type="author">RACINE (Louis),</name>
                <trait>
                   <p>fils de l'illustre poète, auteur du poème de la Grâce, n. 1692, m. 1763.</p>
@@ -1026,7 +1026,7 @@
                   de l'avoir pour gendre.»</note>
             </item>
             <item n="76" xml:id="CAT_000167_e76">
-               <num>76</num>
+               <num type="lot">76</num>
                <name type="author">RICHELIEU (Armand-Emmanuel-Sophie Septimanie Vianerot Du Plessis,
                   duc de),</name>
                <trait>
@@ -1047,7 +1047,7 @@
                   de son neveu Odet, qui lui succéda dans ses titres et à la pairie.</note>
             </item>
             <item n="77" xml:id="CAT_000167_e77">
-               <num>77</num>
+               <num type="lot">77</num>
                <name type="author">RICHEPIN (Jean),</name>
                <trait>
                   <p>célèbre poète et auteur dramatique.</p>
@@ -1056,7 +1056,7 @@
                   pièce.</desc>
             </item>
             <item n="78" xml:id="CAT_000167_e78">
-               <num>78</num>
+               <num type="lot">78</num>
                <name type="author">ROUGET DELISLE (Joseph),</name>
                <trait>
                   <p>lauteur de la Marseillaise, n. 1760, m. 1836.</p>
@@ -1067,7 +1067,7 @@
                   Révolution sur lesquels il compose un ouvrage.</note>
             </item>
             <item n="79" xml:id="CAT_000167_e79">
-               <num>79</num>
+               <num type="lot">79</num>
                <name type="author">SAINTE-BEUVE (Charles-Augustin),</name>
                <trait>
                   <p>le célèbre poète et critique, membre de l'Académie française, n. 1804, m.
@@ -1081,7 +1081,7 @@
                   il est un Univers.</note>
             </item>
             <item n="80" xml:id="CAT_000167_e80">
-               <num>80</num>
+               <num type="lot">80</num>
                <name type="author">SAND (George),</name>
                <trait>
                   <p>la grande romancière, n. 1804, m. 1876.</p>
@@ -1090,7 +1090,7 @@
                   2 p. in-8. Belle lettre.</desc>
             </item>
             <item n="81" xml:id="CAT_000167_e81">
-               <num>81</num>
+               <num type="lot">81</num>
                <name type="author">SERVIEN (Abel),</name>
                <trait>
                   <p>célèbre homme d'Etat, négociateur du traité de Munster, membre de l'Académie
@@ -1105,7 +1105,7 @@
                   bonté me les a redonnées...»</note>
             </item>
             <item n="82" xml:id="CAT_000167_e82">
-               <num>82</num>
+               <num type="lot">82</num>
                <name type="author">SIEYES (Emmanuel),</name>
                <trait>
                   <p>célèbre constituant et conventionnel, membre du Directoire, n. 1748, m.
@@ -1119,7 +1119,7 @@
                   voiture...»</note>
             </item>
             <item n="83" xml:id="CAT_000167_e83">
-               <num>83</num>
+               <num type="lot">83</num>
                <name type="author">STOFFLET (Nicolas),</name>
                <trait>
                   <p>célèbre général vendéen, n. 1752, fusillé le 24 février 1796.</p>
@@ -1138,7 +1138,7 @@
                   lettre, il fut fait prisonnier et fusillé à Angers.)</note>
             </item>
             <item n="84" xml:id="CAT_000167_e84">
-               <num>84</num>
+               <num type="lot">84</num>
                <name type="author">SURIAN (Jean-Baptiste),</name>
                <trait>
                   <p>évêque de Vence, célèbre prédicateur, membre de l'Académie française, n. 1670,
@@ -1148,7 +1148,7 @@
                   septembre 2 p. 1/2 in-4. Belle lettre.</desc>
             </item>
             <item n="85" xml:id="CAT_000167_e85">
-               <num>85</num>
+               <num type="lot">85</num>
                <name type="author">TALLEYRAND (Charles-Maurice de),</name>
                <trait>
                   <p>prince de Bénévent, le célèbre diplomate, n. 1754, m. 1838.</p>
@@ -1162,7 +1162,7 @@
                   » (Bonaparte fit son coup d'Etat du 18 brumaire le 9 novembre suivant.)</note>
             </item>
             <item n="86" xml:id="CAT_000167_e86">
-               <num>86</num>
+               <num type="lot">86</num>
                <name type="author">TALLIEN (Jean-Lambert),</name>
                <trait>
                   <p>conventionnel, un des principaux auteurs du 9 thermidor, n. 1769, m. 1820.</p>
@@ -1174,7 +1174,7 @@
                   même rigueur à l'égard de tous les aristocrates agioteurs.»</note>
             </item>
             <item n="87" xml:id="CAT_000167_e87">
-               <num>87</num>
+               <num type="lot">87</num>
                <name type="author">TALMA (François),</name>
                <trait>
                   <p>le célèbre tragédien, n. 1763, m. 1826.</p>
@@ -1185,7 +1185,7 @@
                <note>Jolie lettre où il le complimente sur son rôle d'Oreste.</note>
             </item>
             <item n="88" xml:id="CAT_000167_e88">
-               <num>88</num>
+               <num type="lot">88</num>
                <name type="author">TOURNEMINE (René-Joseph),</name>
                <trait>
                   <p>savant jésuite et célèbre écrivain, n. à Rennes, 1661, m. 1739.</p>
@@ -1202,7 +1202,7 @@
                   Curieuses recommandations pour obtenir sa rentrée en grâce.</note>
             </item>
             <item n="89" xml:id="CAT_000167_e89">
-               <num>89</num>
+               <num type="lot">89</num>
                <name type="author">TURENNE (Henri de La Tour, vicomte de),</name>
                <trait>
                   <p>l'illustre maréchal de France, n. 1611, tué à Salzbach, 1675.</p>
@@ -1213,7 +1213,7 @@
                   neveu.</note>
             </item>
             <item n="90" xml:id="CAT_000167_e90">
-               <num>90</num>
+               <num type="lot">90</num>
                <name type="author">VINCENT DE PAUL (Saint),</name>
                <trait>
                   <p>l'illustre fondateur de la Congrégation de la Mission, n. 1576, m. 1660.</p>
@@ -1222,7 +1222,7 @@
                   in-4. Jolie et rare pièce.</desc>
             </item>
             <item n="91" xml:id="CAT_000167_e91">
-               <num>91</num>
+               <num type="lot">91</num>
                <name type="author">VOLTAIRE (François-Marie Arouer de),</name>
                <trait>
                   <p>l'illustre écrivain, n. 1694, m. 1778.</p>
@@ -1238,7 +1238,7 @@
             </item>
             <note>DOCUMENTS.</note>
             <item n="92" xml:id="CAT_000167_e92">
-               <num>92</num>
+               <num type="lot">92</num>
                <name type="author">BREVET DE VAINQUEUR DE LA BASTILLE</name>
                <desc xml:id="CAT_000167_e92_d1">Pièce sur parchemin, signée par Charles Lameth,
                   comme président de l'Assemblée nationale, signée aussi par BoriE, Cholat et
@@ -1248,7 +1248,7 @@
                   très rare et bien conservée.</desc>
             </item>
             <item n="93" xml:id="CAT_000167_e93">
-               <num>93</num>
+               <num type="lot">93</num>
                <name type="author">CAMPAGNE DE FLANDRE DE1383</name>
                <desc xml:id="CAT_000167_e93_d1">Pièce, sur vélin ; (Paris ?), 20 octobre 1383, 1 p.
                   grand in-folio.</desc>
@@ -1258,7 +1258,7 @@
                   comte de Sancerre, de Robert de Ventadour, du sire de Nantouillet, etc.</note>
             </item>
             <item n="94" xml:id="CAT_000167_e94">
-               <num>94</num>
+               <num type="lot">94</num>
                <name type="author">CAPTIVITÉ DE LOUIS XVI AU TEMPLE</name>
                <desc xml:id="CAT_000167_e94_d1">L. s. par Loppé et Roché, commissaires au Temple, au
                   gardien du garde-meuble ; Paris, 13 novembre 1792, 1 p. in-folio, tête imprimée et
@@ -1268,13 +1268,13 @@
                   première nécessité.</note>
             </item>
             <item n="95" xml:id="CAT_000167_e95">
-               <num>95</num>
+               <num type="lot">95</num>
                <name type="author">COMITÉ DESALUT PUBLIC</name>
                <desc xml:id="CAT_000167_e95_d1">P. s. Carnot, Barère, Couthon, Collot-d'Herbois, R.
                   Lindet et C.-A. Prieur ; Paris, 5 floréal an II, 1 p. in-4.</desc>
             </item>
             <item n="96" xml:id="CAT_000167_e96">
-               <num>96</num>
+               <num type="lot">96</num>
                <name type="author">CONDE (Documents sur le Grand)</name>
                <desc xml:id="CAT_000167_e96_d1">1° 2 pièces signées par Louis II de Bourbon, prince
                   de Condé ; 5 février 1653, 4 p. 1/2 in-4. Ce sont deux procurations notariées
@@ -1288,14 +1288,14 @@
                   à se procurer de l'argent pour soutenir les frais de la Fronde.</note>
             </item>
             <item n="97" xml:id="CAT_000167_e97">
-               <num>97</num>
+               <num type="lot">97</num>
                <name type="author">CONGRÉGATION DE SAINT-MAUR</name>
                <desc xml:id="CAT_000167_e97_d1">Procès-verbal des séances du définitoire du chapitre
                   général de la Congrégation de Saint-Maur tenue en l'abbaye de Saint-Germain-
                   des-Prés le 28 septembre 1766 ; manuscrit, 192 p. in-folio.</desc>
             </item>
             <item n="98" xml:id="CAT_000167_e98">
-               <num>98</num>
+               <num type="lot">98</num>
                <name type="author">DUELS</name>
                <desc xml:id="CAT_000167_e98_d1">Pièce manuscrite signée par 16 docteurs de la
                   faculté de théologie de Paris; Paris, 30 mai 1651, 1 p. 1/2 in-folio.</desc>
@@ -1304,7 +1304,7 @@
                   signataires on remarque : Sainte-Beuve, Brousse, Grandin, etc.</note>
             </item>
             <item n="99" xml:id="CAT_000167_e99">
-               <num>99</num>
+               <num type="lot">99</num>
                <name type="author">GUERRES D'ITALIE</name>
                <desc xml:id="CAT_000167_e99_d1">Pour quelle cause l'on perdit la journée sur les
                   Chiaves, pièce manuscrite; 1554, 6 p. 1/2 in-folio.</desc>
@@ -1312,7 +1312,7 @@
                   Marciano.</note>
             </item>
             <item n="100" xml:id="CAT_000167_e100">
-               <num>100</num>
+               <num type="lot">100</num>
                <name type="author">HOROSCOPES DEHENRI II ET DEHENRI IV</name>
                <desc xml:id="CAT_000167_e100_d1">Pièce manuscrite du commencement du XVIIe siècle, 2
                   p. in-folio, cachet.</desc>
@@ -1321,7 +1321,7 @@
                   rareté.</note>
             </item>
             <item n="101" xml:id="CAT_000167_e101">
-               <num>101</num>
+               <num type="lot">101</num>
                <name type="author">FAUCONNERIE</name>
                <desc xml:id="CAT_000167_e101_d1">22 pièces sur vélin, des XVIe et XVIIe siècles,
                   dont 1 signée par François Ier, 22 p. in-4, oblong.</desc>
@@ -1330,7 +1330,7 @@
                   des oiseaux destinés aux chasses royales.</note>
             </item>
             <item n="102" xml:id="CAT_000167_e102">
-               <num>102</num>
+               <num type="lot">102</num>
                <name type="author">LETTRES D'ANOBLISSEMENT</name>
                <desc xml:id="CAT_000167_e102_d1">5 pièces sur parchemin; 1665, 5 p. grand in-folio,
                   cachets dont un très grand en bon état, les autres sont endommagés.</desc>
@@ -1338,7 +1338,7 @@
                   ses enfants. Les armes de l'anobli sont peintes sur une des pièces.</note>
             </item>
             <item n="103" xml:id="CAT_000167_e103">
-               <num>103</num>
+               <num type="lot">103</num>
                <name type="author">LOUIS XII (document sur le règne de).</name>
                <desc xml:id="CAT_000167_e103_d1">L. a. s. de Courteville au roi (Philippe le Beau?)
                   ; Tours, 2 juin 1506,7 p. in-folio.</desc>
@@ -1351,14 +1351,14 @@
                   accompagna Philippe II en Espagne.</note>
             </item>
             <item n="104" xml:id="CAT_000167_e104">
-               <num>104</num>
+               <num type="lot">104</num>
                <name type="author">MOLIERE (Famille de)</name>
                <desc xml:id="CAT_000167_e104_d1">27 pièces signées, la plupart sur vélin, au XVIIe
                   siècle, par des membres de la famille Pocquelin. C'est une réunion certainement
                   unique, à laquelle on a joint quelques notes et documents sur Molière..</desc>
             </item>
             <item n="105" xml:id="CAT_000167_e105">
-               <num>105</num>
+               <num type="lot">105</num>
                <name type="author">Paris</name>
                <desc xml:id="CAT_000167_e105_d1">3 pièces signées plusieurs fois par Jourdan,
                   marquis de Launey, gouverneur de la Bastille et par les entrepreneurs qui ont
@@ -1370,7 +1370,7 @@
             </item>
             <note>PIÈCES EN NOMBRE.</note>
             <item n="106" xml:id="CAT_000167_e106">
-               <num>106</num>
+               <num type="lot">106</num>
                <name type="author">ACADÉMIE FRANCAISE.</name>
                <desc xml:id="CAT_000167_e106_d1">1,000 pièces environ.</desc>
                <note>Intéressante réunion d'autographes de membres de l'Académie française, suite
@@ -1378,41 +1378,41 @@
                   divisé.</note>
             </item>
             <item n="107" xml:id="CAT_000167_e107">
-               <num>107</num>
+               <num type="lot">107</num>
                <name type="author">ARTISTES DRAMATIQUES</name>
                <desc xml:id="CAT_000167_e107_d1">300 pièces environ.</desc>
                <note>Agar, Emma Albani, Bouffé, Marie Cabel, les Brohan, Coquelin, Delaunay, Eugénie
                   Doche, Elleviou, Ligier, George Weimer, etc.</note>
             </item>
             <item n="108" xml:id="CAT_000167_e108">
-               <num>108</num>
+               <num type="lot">108</num>
                <name type="author">DIVERS</name>
                <desc xml:id="CAT_000167_e108_d1">19 pièces ou dossiers.</desc>
                <note>Amiral Decrès, amiral Truguet, Louvois, Le Tellier, Duportail, Aubert-Dubayet,
                   etc.</note>
             </item>
             <item n="109" xml:id="CAT_000167_e109">
-               <num>109</num>
+               <num type="lot">109</num>
                <name type="author">GENERAUX</name>
                <desc xml:id="CAT_000167_e109_d1">500 pièces environ.</desc>
                <note>Très intéressante réunion se composant d'autographes de la plupart des généraux
                   qui se sont distingués depuis un siècle.</note>
             </item>
             <item n="110" xml:id="CAT_000167_e110">
-               <num>110</num>
+               <num type="lot">110</num>
                <name type="author">GENÉRAUX</name>
                <desc xml:id="CAT_000167_e110_d1">20 pièces ou dossiers. Pichegru, Hédouville,
                   Andréossy, Drouot, Vandamme, Vaubois, Palikao, Pajol, Jomini, etc.</desc>
             </item>
             <item n="111" xml:id="CAT_000167_e111">
-               <num>111</num>
+               <num type="lot">111</num>
                <name type="author">GENÉRAUX</name>
                <desc xml:id="CAT_000167_e111_d1">73 pièces ou dossiers. Lauberdière, Lamarque,
                   d'Hautpoul, Guilleminot, Gourgaud, Gilly, Foy, Friant, Fririon, Rampon, Puthod,
                   Claparède, etc.</desc>
             </item>
             <item n="112" xml:id="CAT_000167_e112">
-               <num>112</num>
+               <num type="lot">112</num>
                <name type="author">GENÉRAUX DU XIXe SIECLE,</name>
                <trait>
                   <p>30 pièces ou dossiers.</p>
@@ -1421,21 +1421,21 @@
                   Schmitz, etc.</desc>
             </item>
             <item n="113" xml:id="CAT_000167_e113">
-               <num>113</num>
+               <num type="lot">113</num>
                <name type="author">LITTÉRATEURS.</name>
                <desc xml:id="CAT_000167_e113_d1">2,500 pièces environ.</desc>
                <note>Très importante réunion d'autographes de littérateurs des XVIIIe et XIXe
                   siècles. Ce lot pourra être divisé.</note>
             </item>
             <item n="114" xml:id="CAT_000167_e114">
-               <num>114</num>
+               <num type="lot">114</num>
                <name type="author">MARÉCHAUX DES XVIIe ET XVIIIe SIÉCLES</name>
                <desc xml:id="CAT_000167_e114_d1">13 pièces ou dossiers.</desc>
                <note>Vauban, Catinat, dHarcourt, d'Asfeld, de Ségur, Maurice de Saxe, duc de
                   Broqlie, etc.</note>
             </item>
             <item n="115" xml:id="CAT_000167_e115">
-               <num>115</num>
+               <num type="lot">115</num>
                <name type="author">MARÉCHAUX DU XIX SIÉCLE</name>
                <desc xml:id="CAT_000167_e115_d1">22 pièces ou dossiers. Suchet, Berthier, Soult,
                   Sébastiani Pélissier, Lobau, Forey, Macdonald, Masséna, etc.</desc>
