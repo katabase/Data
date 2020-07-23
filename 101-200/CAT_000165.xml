@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../_schemas/odd_editiones.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../_schemas/odd_editiones.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../schema/odd_editiones.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schema/odd_editiones.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAT_000165">
-   <teiHeader xmlns:tei="http://www.tei-c.org/ns/1.0"
-      xmlns:s="http://purl.oclc.org/dsdl/schematron">
+   <teiHeader xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:s="http://purl.oclc.org/dsdl/schematron">
       <fileDesc>
          <titleStmt>
-            <title>CAT_000165</title>
+            <title>RDA, N°158 (Août-Septembre 1893)</title>
             <respStmt>
                <persName ref="#COL_000002">Lucie Rondeau du Noyer</persName>
                <resp>
@@ -23,11 +22,11 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <title>REVUE DES CURIOSITÉS DE L'HISTOIRE ET DE LA BIOGRAPHIE</title>
+               <title>REVUE DES AUTOGRAPHES, DES CURIOSITÉS DE L'HISTOIRE ET DE LA BIOGRAPHIE</title>
                <num>158</num>
-               <editor>Eugène Charavay fils</editor>
-               <publisher>Eugène Charavay fils</publisher>
-               <pubPlace>Paris, 34 rue du Faubourg Poissonière</pubPlace>
+               <editor>Mme veuve CHARAVAY</editor>
+               <publisher>Mme veuve CHARAVAY</publisher>
+               <pubPlace>Paris, 34 rue du Faubourg-Poissonnière</pubPlace>
                <date when="1893-08">Août-Septembre 1893</date>
             </bibl>
             <listEvent>
@@ -44,7 +43,15 @@
             </listEvent>
             <listWit>
                <witness>
-                  <ptr/>
+                  <msDesc>
+                     <msIdentifier>
+                        <country>France</country>
+                        <settlement>Paris</settlement>
+                        <institution>Bibliothèque nationale de France</institution>
+                        <repository>Tolbiac</repository>
+                        <idno type="shelfmark">MICROFILM M-4961 Récolement : 01/03/1870-31/12/1936</idno>
+                     </msIdentifier>
+                  </msDesc>
                </witness>
             </listWit>
             <listBibl>
@@ -54,7 +61,7 @@
       </fileDesc>
       <profileDesc>
          <langUsage>
-            <language ident="fr">french</language>
+            <language ident="fr"/>
          </langUsage>
       </profileDesc>
       <encodingDesc>
@@ -72,6 +79,10 @@
             </application>
          </appInfo>
       </encodingDesc>
+      <revisionDesc>
+         <change who="#COL_000001" when="2020-07">Correction, improving bibliography, adding new mark-up (<gi>measure</gi>) for price and an ID
+            for <gi>desc</gi></change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -175,7 +186,7 @@
                <num type="lot">12</num>
                <name type="author">Armaignac (Jean d')</name>
                <trait>
-                  <p>gentilhomme français, premier valet de chambre de Henri IV, qu'il aida à fuir de Saint- Germain le 20 février 1576.</p>
+                  <p>gentilhomme français, premier valet de chambre de Henri IV, qu'il aida à fuir de Saint-Germain le 20 février 1576.</p>
                </trait>
                <desc xml:id="CAT_000165_e12_d1">Pièce sig. sur vélin, 1611, 2/3 de p. in-4 obl. 8</desc>
             </item>
@@ -533,7 +544,7 @@
                <trait>
                   <p/>
                </trait>
-               <desc xml:id="CAT_000165_e54_d1">Let. sig., en français, à Mme Roxane, Mavrogeni; Saint- Pétersbourg, 3 juillet 1822, 2 p. in-4. 6</desc>
+               <desc xml:id="CAT_000165_e54_d1">Let. sig., en français, à Mme Roxane, Mavrogeni; Saint-Pétersbourg, 3 juillet 1822, 2 p. in-4. 6</desc>
                <note>Il lui annonce que l'empereur Alexandre Ier, vient d'accorder une rente de mille roubles argent à sa correspondante.</note>
             </item>
             <item n="55" xml:id="CAT_000165_e55">
@@ -1401,7 +1412,7 @@
                <trait>
                   <p>l'illustre naturaliste et homme d'Etat, de l'Acad. fr., né à Agen en 1756, mort en 1825.</p>
                </trait>
-               <desc xml:id="CAT_000165_e155_d1">L. a. s. (au botaniste Saint- Amans, à Bordeaux) 7 avril 1791, 2 p. in-4, curieux cachet. 6</desc>
+               <desc xml:id="CAT_000165_e155_d1">L. a. s. (au botaniste Saint-Amans, à Bordeaux) 7 avril 1791, 2 p. in-4, curieux cachet. 6</desc>
                <note>Intéressante lettre relative à sa nomination comme administrateur du département de Paris.</note>
             </item>
             <item n="156" xml:id="CAT_000165_e156">
@@ -1651,7 +1662,7 @@
                <num type="lot">184</num>
                <name type="author">Lemaire (Madeleine)</name>
                <trait>
-                  <p>célèbre femme peintre contemporaine, née à Sainte- Rosteline (Var).</p>
+                  <p>célèbre femme peintre contemporaine, née à Sainte-Rosteline (Var).</p>
                </trait>
                <desc xml:id="CAT_000165_e184_d1">L. a. s., 1 p. in-8. Belle lettre. 4</desc>
             </item>
@@ -2024,7 +2035,7 @@
                <trait>
                   <p>célèbre homme d'Etat du XVIIe siècle, secrétaire aux affaires étrangères, né en 1583, mort en 1640.</p>
                </trait>
-               <desc xml:id="CAT_000165_e227_d1">Let. sig. avec la souscript, aut. au comte Rhingrave, « lieutenant général des gens de guerre allemans»; du camp devant Saint- Anthonin. 18 juin 1622, 1 p. in-fol. Intéressante. 10</desc>
+               <desc xml:id="CAT_000165_e227_d1">Let. sig. avec la souscript, aut. au comte Rhingrave, « lieutenant général des gens de guerre allemans»; du camp devant Saint-Anthonin. 18 juin 1622, 1 p. in-fol. Intéressante. 10</desc>
             </item>
             <item n="228" xml:id="CAT_000165_e228">
                <num type="lot">228</num>
@@ -2152,7 +2163,7 @@
                   <p>l'illustre auteur des Mémoires.</p>
                </trait>
                <desc xml:id="CAT_000165_e242_d1">L. a. s. (au comte de Maurepas); Paris, 27 mars 1726, 2 p 1/2 in4. 100</desc>
-               <note>Très belle et curieuse lettre écrite dans le style mordant des Mémoires, relative au chevalier d'Espoy, qui se plaint que Saint- Simon l'empêche d'entrer à la Trappe. « Le ch. d'Espoy est un chevalier d'industrie de dévotion et qui par cette voye a vesçu au despends d'autruy depuis plus de 30 ans. » Intéressants détails.</note>
+               <note>Très belle et curieuse lettre écrite dans le style mordant des Mémoires, relative au chevalier d'Espoy, qui se plaint que Saint-Simon l'empêche d'entrer à la Trappe. « Le ch. d'Espoy est un chevalier d'industrie de dévotion et qui par cette voye a vesçu au despends d'autruy depuis plus de 30 ans. » Intéressants détails.</note>
             </item>
             <item n="243" xml:id="CAT_000165_e243">
                <num type="lot">243</num>

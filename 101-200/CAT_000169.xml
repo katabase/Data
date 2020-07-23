@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../_schemas/odd_editiones.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../_schemas/odd_editiones.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../schema/odd_editiones.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schema/odd_editiones.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAT_000169">
-   <teiHeader xmlns:tei="http://www.tei-c.org/ns/1.0"
-              xmlns:s="http://purl.oclc.org/dsdl/schematron">
+   <teiHeader xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:s="http://purl.oclc.org/dsdl/schematron">
       <fileDesc>
          <titleStmt>
-            <title>CAT_000169</title>
+            <title>RDA, N°159 (Octobre 1893)</title>
             <respStmt>
-               <persName ref="#COL_000001">Matthias Gille Levenson</persName>
+               <persName ref="#COL_000006">Matthias Gille Levenson</persName>
                <resp>
-                  <date when="2019">2020</date>
+                  <date when="2020">2020</date>
                </resp>
             </respStmt>
          </titleStmt>
@@ -24,12 +23,12 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <title>REVUE DES CURIOSITÉS DE L'HISTOIRE ET DE LA BIOGRAPHIE</title>
-               <num type="lot">159</num>
-               <editor>Eugène Charavay fils</editor>
-               <publisher>Eugène Charavay fils</publisher>
-               <pubPlace>Paris,8 quai du Louvre</pubPlace>
-               <date when="1893-02">Octobre 1893</date>
+               <title>REVUE DES AUTOGRAPHES, DES CURIOSITÉS DE L'HISTOIRE ET DE LA BIOGRAPHIE</title>
+               <num>159</num>
+               <editor>Mme veuve CHARAVAY</editor>
+               <publisher>Mme veuve CHARAVAY</publisher>
+               <pubPlace>Paris, 34 rue du Faubourg-Poissonnière</pubPlace>
+               <date when="1893-10">Octobre 1893</date>
             </bibl>
             <listEvent>
                <event>
@@ -45,7 +44,15 @@
             </listEvent>
             <listWit>
                <witness>
-                  <ptr/>
+                  <msDesc>
+                     <msIdentifier>
+                        <country>France</country>
+                        <settlement>Paris</settlement>
+                        <institution>Bibliothèque nationale de France</institution>
+                        <repository>Tolbiac</repository>
+                        <idno type="shelfmark">MICROFILM M-4961 Récolement : 01/03/1870-31/12/1936</idno>
+                     </msIdentifier>
+                  </msDesc>
                </witness>
             </listWit>
             <listBibl>
@@ -55,7 +62,7 @@
       </fileDesc>
       <profileDesc>
          <langUsage>
-            <language ident="fr">french</language>
+            <language ident="fr"/>
          </langUsage>
       </profileDesc>
       <encodingDesc>
@@ -76,6 +83,10 @@
             </application>
          </appInfo>
       </encodingDesc>
+      <revisionDesc>
+         <change who="#COL_000001" when="2020-07">Correction, improving bibliography, adding new mark-up (<gi>measure</gi>) for price and an ID
+            for <gi>desc</gi></change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -98,7 +109,7 @@
                   <p>le célèbre peintre russe, né en 1817.</p>
                </trait>
                <desc xml:id="CAT_000169_e2_d1">L. a. s., en français, au baron de Bergh, aide de
-                  camp du prince de Prusse ; Saint- Pétersbourg, 181 , 2 p. in-4. Belle et
+                  camp du prince de Prusse ; Saint-Pétersbourg, 181 , 2 p. in-4. Belle et
                   intéressante lettre.</desc>
                <measure commodity="currency" unit="FRF" quantity="6">6</measure>
             </item>
@@ -974,7 +985,7 @@
                   au pape Léon XII. Il n'a pas écrit la Cassandra, à cause de laquelle l'imprimeur
                   Allenger a été mis à mort à Heilbronn, il rappelle ses services durant les guerres
                   de Vendée; il a sauvé, à Nantes, 132 habitants qu'on voulait noyer dans la Loire,
-                  il a favorisé, à Rouen, l'évasion de Filleul, curé de Saint- Eloi. Il parle encore
+                  il a favorisé, à Rouen, l'évasion de Filleul, curé de Saint-Eloi. Il parle encore
                   de sa brochure : Le fiéau des tyrans et des septembriseurs. -Playeberg, près
                   ltzehoe (Holstein), 18 juin 1829. Il se plaint d'un duc qu'il a sauvé sous
                   Robespierre et qui l'a déshonoré sous Louis XVIII.</note>
@@ -1228,7 +1239,7 @@
             <item n="95" xml:id="CAT_000169_e95">
                <num type="lot">95</num>
                <name type="author">Estaing (Ch.-Hector comte d')</name>
-               <desc xml:id="CAT_000169_e95_d1">Let. sig. au comte de Thorenc : Saint- Louis, 2
+               <desc xml:id="CAT_000169_e95_d1">Let. sig. au comte de Thorenc : Saint-Louis, 2
                   sept. 1764, 1 p. 1/4 infol. Les deux feuillets détachés. Curieuse.</desc>
                <measure commodity="currency" unit="FRF" quantity="6">6</measure>
             </item>
@@ -2175,7 +2186,7 @@
                <measure commodity="currency" unit="FRF" quantity="12">12</measure>
                <note>Intéressante lettre. Il lui adresse un paquet venant de feu son mari, le
                   général Leclerc ; il lui présente, à ce propos, ses compliments de condoléances et
-                  désire informer Bonaparte de l'état de Saint- Domingue, il lui remet aussi des
+                  désire informer Bonaparte de l'état de Saint-Domingue, il lui remet aussi des
                   lettres pour Mme Bacciochi, M. de Vaublanc, etc.</note>
             </item>
             <item n="172" xml:id="CAT_000169_e172">
@@ -2811,7 +2822,7 @@
                <trait>
                   <p>. Elle espère que le président Pierre Viole (seigneur de Guermande, partisan
                      des princes) réussira à rétablir la paix entre le prince de Condé et Gaston
-                     d'Orléans. En arrivant à Saint- Denis, elle a éprouvé une grande douleur. « Je
+                     d'Orléans. En arrivant à Saint-Denis, elle a éprouvé une grande douleur. « Je
                      trouve la petite trinité (les trois filles de Gaston et de sa deuxième femme,
                      Marguerite de Lorraine) avec la fièvre.</p>
                </trait>

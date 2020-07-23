@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../_schemas/odd_editiones.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../_schemas/odd_editiones.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../schema/odd_editiones.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schema/odd_editiones.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAT_000200">
-   <teiHeader xmlns:tei="http://www.tei-c.org/ns/1.0"
-              xmlns:s="http://purl.oclc.org/dsdl/schematron">
+   <teiHeader xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:s="http://purl.oclc.org/dsdl/schematron">
       <fileDesc>
          <titleStmt>
-            <title>CAT_000200</title>
+            <title>RDA, N°170 (Octobre 1894)</title>
             <respStmt>
-               <persName ref="#COL_000001">Matthias Gille Levenson</persName>
+               <persName ref="#COL_000006">Matthias Gille Levenson</persName>
                <resp>
                   <date when="2020">2020</date>
                </resp>
@@ -24,12 +23,12 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <title>REVUE DES CURIOSITÉS DE L'HISTOIRE ET DE LA BIOGRAPHIE</title>
-               <num type="lot">170</num>
-               <editor>Eugène Charavay fils</editor>
-               <publisher>Eugène Charavay fils</publisher>
-               <pubPlace>Paris, 8 quai du Louvre</pubPlace>
-               <date when="1893-02">Octobre 1894</date>
+               <title>REVUE DES AUTOGRAPHES, DES CURIOSITÉS DE L'HISTOIRE ET DE LA BIOGRAPHIE</title>
+               <num>170</num>
+               <editor>Mme veuve CHARAVAY</editor>
+               <publisher>Mme veuve CHARAVAY</publisher>
+               <pubPlace>Paris, 34 rue du Faubourg-Poissonnière</pubPlace>
+               <date when="1894-10">Octobre 1894</date>
             </bibl>
             <listEvent>
                <event>
@@ -45,7 +44,15 @@
             </listEvent>
             <listWit>
                <witness>
-                  <ptr/>
+                  <msDesc>
+                     <msIdentifier>
+                        <country>France</country>
+                        <settlement>Paris</settlement>
+                        <institution>Bibliothèque nationale de France</institution>
+                        <repository>Tolbiac</repository>
+                        <idno type="shelfmark">MICROFILM M-4961 Récolement : 01/03/1870-31/12/1936</idno>
+                     </msIdentifier>
+                  </msDesc>
                </witness>
             </listWit>
             <listBibl>
@@ -55,7 +62,7 @@
       </fileDesc>
       <profileDesc>
          <langUsage>
-            <language ident="fr">french</language>
+            <language ident="fr"/>
          </langUsage>
       </profileDesc>
       <encodingDesc>
@@ -76,6 +83,10 @@
             </application>
          </appInfo>
       </encodingDesc>
+      <revisionDesc>
+         <change who="#COL_000001" when="2020-07">Correction, improving bibliography, adding new mark-up (<gi>measure</gi>) for price and an ID
+            for <gi>desc</gi></change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -237,7 +248,7 @@
                <num type="lot">14</num>
                <name type="author">Bertrand (le général)</name>
                <trait>
-                  <p>compagnon d'infortune de Napoléon Ier à Sainte- Hélène, né à Châteauroux en
+                  <p>compagnon d'infortune de Napoléon Ier à Sainte-Hélène, né à Châteauroux en
                      1773, mort en 1844.</p>
                </trait>
                <desc xml:id="CAT__e14_d1">L. a. s.; Marray (Indre-et-Loire), 13 juillet 1807, 1 p.
@@ -301,7 +312,7 @@
                <trait>
                   <p>l'illustre poète satirique, de l'Acad. fr.</p>
                </trait>
-               <desc xml:id="CAT__e19_d1">L. a. s. de Remond de Saint- Mard, fermier général, à
+               <desc xml:id="CAT__e19_d1">L. a. s. de Remond de Saint-Mard, fermier général, à
                   Boileau; (1705), 2 p. in-18.</desc>
                <measure commodity="currency" unit="FRF" quantity="5">5</measure>
                <note>Belle lettre. Il l'invite à passer un jour de fête en sa compagnie; il se
@@ -3033,7 +3044,7 @@
                </trait>
                <desc xml:id="CAT__e237_d1">L. a. s. au docteur Chargé à Marseille; Paris, 17 janvier
                   1854, 2 p. in-8. 12 » Belle lettre d'affaires dans laquelle il donne des nouvelles
-                  de sa santé. -On a joint une l. a. s. L. de la maréchale de Saint- Arnaud à Mlle
+                  de sa santé. -On a joint une l. a. s. L. de la maréchale de Saint-Arnaud à Mlle
                   Caroline d'Avennes; Constantine, avril 1850, 2 p. in-8. Un peu fripée</desc>
             </item>
             <item n="238" xml:id="CAT__e238">
@@ -3480,7 +3491,7 @@
                   nous avons peu et aussi avons fait faire grant numbre d'aes d'aubier. » Les
                   pierres furent extraites des carrières de Coigny (Manche); elles devaient, ainsi
                   que les ais, servir aux engins à verge employés au siège de Cherbourg ou à celui
-                  de Saint- Malo. (Jean Le Mercier, sire de Noviant, conseiller maître d'hôtel et
+                  de Saint-Malo. (Jean Le Mercier, sire de Noviant, conseiller maître d'hôtel et
                   général visiteur sur le fait de la dépense du Roi. On peut voir le rôle important
                   qu'il joua dans le»mémoire de Moranvillé.)</note>
             </item>
@@ -3556,7 +3567,7 @@
                <desc xml:id="CAT__e280_d1">Pièce sur vélin; 21 août 1401, 2 p. in-fol.</desc>
                <measure commodity="currency" unit="FRF" quantity="8">8</measure>
                <note>Rôle du fouage à percevoir dans la paroisse de Grainville, sergenterie du
-                  Pont-Saint- Pierre (Eure). On distingue les hommes, les « veuves fames) », les «
+                  Pont-Saint-Pierre (Eure). On distingue les hommes, les « veuves fames) », les «
                   valles servans et meschinez ». Au dos de l'acte, on relève les noms de ceux qui
                   n'ont pas payé, pour exemption ou pour indigence. « Item à une meschine, nommée
                   Jehanne du Hamel, en la compaigne de sa mere et de son frère, et est boyteuse et

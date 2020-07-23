@@ -7,12 +7,14 @@
     
     <xsl:output method="text" encoding="UTF-8"/>
     
-    <xsl:variable name="xmlDocuments" select="collection('?select=?*.xml')"/>
+    <xsl:variable name="xmlDocuments" select="collection('?select=?*.xml;recurse=yes')"/>
     
     <xsl:template match="/">
         <xsl:text>File</xsl:text>
         <xsl:text>&#09;</xsl:text>
         <xsl:text>Id</xsl:text>
+        <xsl:text>&#09;</xsl:text>
+        <xsl:text>Title</xsl:text>
         <xsl:text>&#09;</xsl:text>
         <xsl:text>Catalogue number</xsl:text>
         <xsl:text>&#09;</xsl:text>
@@ -30,6 +32,8 @@
             <xsl:value-of select="base-uri()"/>
             <xsl:text>&#09;</xsl:text>
             <xsl:value-of select="//TEI/@xml:id"/>
+            <xsl:text>&#09;</xsl:text>
+            <xsl:value-of select="//titleStmt/title"/>
             <xsl:text>&#09;</xsl:text>
             <xsl:value-of select="//sourceDesc/bibl/num"/>
             <xsl:text>&#09;</xsl:text>

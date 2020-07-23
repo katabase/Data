@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../_schemas/odd_editiones.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../_schemas/odd_editiones.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../schema/odd_editiones.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schema/odd_editiones.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAT_000020">
    <teiHeader xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:s="http://purl.oclc.org/dsdl/schematron">
       <fileDesc>
          <titleStmt>
-            <title>CAT_000020</title>
+            <title>RDA, N°21 (Mars-Avril 1869)</title>
             <respStmt>
                <persName ref="#COL_000002">Lucie Rondeau du Noyer</persName>
                <resp>
@@ -23,7 +23,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <title>REVUE DES CURIOSITÉS DE L'HISTOIRE ET DE LA BIOGRAPHIE</title>
+               <title>REVUE DES AUTOGRAPHES, DES CURIOSITÉS DE L'HISTOIRE ET DE LA BIOGRAPHIE</title>
                <num>21</num>
                <editor>Gabriel Charavay</editor>
                <publisher>Gabriel Charavay</publisher>
@@ -43,7 +43,16 @@
                </event>
             </listEvent>
             <listWit>
-               <witness> BnF, MICROFILM M-4961 Récolement : 01/03/1870-31/12/1936 <ptr/>
+               <witness>
+                  <msDesc>
+                     <msIdentifier>
+                        <country>France</country>
+                        <settlement>Paris</settlement>
+                        <institution>Bibliothèque nationale de France</institution>
+                        <repository>Tolbiac</repository>
+                        <idno type="shelfmark">MICROFILM M-4961 Récolement : 01/03/1870-31/12/1936</idno>
+                     </msIdentifier>
+                  </msDesc>
                </witness>
             </listWit>
             <listBibl>
@@ -53,7 +62,7 @@
       </fileDesc>
       <profileDesc>
          <langUsage>
-            <language ident="fr">french</language>
+            <language ident="fr"/>
          </langUsage>
       </profileDesc>
       <encodingDesc>
@@ -74,6 +83,10 @@
             </application>
          </appInfo>
       </encodingDesc>
+      <revisionDesc>
+         <change who="#COL_000001" when="2020-07">Correction, improving bibliography, adding new mark-up (<gi>measure</gi>) for price and an ID
+            for <gi>desc</gi></change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -174,7 +187,7 @@
                <name type="author">Argenson (Marc-René d')</name>
                <trait>
                   <p>lieut, de police et garde des sc., inventeur des lettres de cachet, de l'Acad.
-                     franc</p>
+                     franc.</p>
                </trait>
                <desc xml:id="CAT_000020_e4095_d1">L. a. s. à Danchet, son collègue à l'Académie; 22
                   fév. 1706, 2 p.pl. in-4.</desc>
@@ -452,7 +465,7 @@
                <num type="lot">4120</num>
                <name type="author">Berryer</name>
                <trait>
-                  <p>l'illustre orateur, de l'Académie franc</p>
+                  <p>l'illustre orateur, de l'Académie franc.</p>
                </trait>
                <desc xml:id="CAT_000020_e4120_d1">L. a. s., 1 p. in-8.</desc>
                <measure commodity="currency" unit="FRF" quantity="1.50">1 50</measure>
@@ -580,7 +593,7 @@
                <num type="lot">4133</num>
                <name type="author">Bonald (le vicomte de)</name>
                <trait>
-                  <p>célèbre publiciste monarchiste et religieux, de l'Acad. franc</p>
+                  <p>célèbre publiciste monarchiste et religieux, de l'Acad. franc.</p>
                </trait>
                <desc xml:id="CAT_000020_e4133_d1">L. a. sig. B. (au baron de Trémont, préfet de
                   l'Aveyron), 6 mars 1812, 3 p. 1/2 in-4.</desc>
@@ -732,7 +745,7 @@
                <num type="lot">4147</num>
                <name type="author">Buffon (le comte de)</name>
                <trait>
-                  <p>le grand naturaliste, de l'Acad. franc</p>
+                  <p>le grand naturaliste, de l'Acad. franc.</p>
                </trait>
                <desc xml:id="CAT_000020_e4147_d1">L. s. ; Jardin du roi, 19 janv. 1784, 3 p. 1/4
                   in-4. Belle pièce.</desc>
@@ -1645,7 +1658,7 @@
                <num type="lot">4226</num>
                <name type="author">Lamartine (Alph. de)</name>
                <trait>
-                  <p>illustre écrivain et homme d'Etat, de l'Acad. fr</p>
+                  <p>illustre écrivain et homme d'Etat, de l'Acad. fr.</p>
                </trait>
                <desc xml:id="CAT_000020_e4226_d1">L. a. s. à M. Grün, 1 p. in-8.</desc>
                <measure commodity="currency" unit="FRF" quantity="3.50">3 50</measure>
@@ -2484,7 +2497,7 @@
                <name type="author">Valincourt (du Trousset de)</name>
                <trait>
                   <p>littér. et bel esprit, à qui Boileau adressa sa 11e satire, successeur de
-                     Racine à l'Acad. fr</p>
+                     Racine à l'Acad. fr.</p>
                </trait>
                <desc xml:id="CAT_000020_e4299_d1">L. a. s. à Danchet, 15 janv. 1727, 1 p. pet.
                   in-4.</desc>
@@ -2534,7 +2547,7 @@
                <name type="author">Watelet (Cl.-H.)</name>
                <trait>
                   <p>célèbre artiste et écrivain sur les arts, auteur du beau poème l'Art de
-                     peindre, de l'Acad. fr</p>
+                     peindre, de l'Acad. fr.</p>
                </trait>
                <desc xml:id="CAT_000020_e4303_d1">L. a. s. à l'Académie de Marseille ; Pans, 12 janv.
                   1773, 1 p. in-4.</desc>

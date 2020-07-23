@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../_schemas/odd_editiones.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../_schemas/odd_editiones.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../schema/odd_editiones.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schema/odd_editiones.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAT_000197">
-   <teiHeader xmlns:tei="http://www.tei-c.org/ns/1.0"
-              xmlns:s="http://purl.oclc.org/dsdl/schematron">
+   <teiHeader xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:s="http://purl.oclc.org/dsdl/schematron">
       <fileDesc>
          <titleStmt>
-            <title>CAT_000197</title>
+            <title>RDA, N°167 (Juin 1894)</title>
             <respStmt>
-               <persName ref="#COL_000001">Matthias Gille Levenson</persName>
+               <persName ref="#COL_000006">Matthias Gille Levenson</persName>
                <resp>
                   <date when="2020">2020</date>
                </resp>
@@ -24,12 +23,12 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <title>REVUE DES CURIOSITÉS DE L'HISTOIRE ET DE LA BIOGRAPHIE</title>
-               <num type="lot">167</num>
-               <editor>Eugène Charavay fils</editor>
-               <publisher>Eugène Charavay fils</publisher>
-               <pubPlace>Paris,8 quai du Louvre</pubPlace>
-               <date when="1893-02">Juin 1894</date>
+               <title>REVUE DES AUTOGRAPHES, DES CURIOSITÉS DE L'HISTOIRE ET DE LA BIOGRAPHIE</title>
+               <num>167</num>
+               <editor>Mme veuve CHARAVAY</editor>
+               <publisher>Mme veuve CHARAVAY</publisher>
+               <pubPlace>Paris, 34 rue du Faubourg-Poissonnière</pubPlace>
+               <date when="1894-06">Juin 1894</date>
             </bibl>
             <listEvent>
                <event>
@@ -45,7 +44,15 @@
             </listEvent>
             <listWit>
                <witness>
-                  <ptr/>
+                  <msDesc>
+                     <msIdentifier>
+                        <country>France</country>
+                        <settlement>Paris</settlement>
+                        <institution>Bibliothèque nationale de France</institution>
+                        <repository>Tolbiac</repository>
+                        <idno type="shelfmark">MICROFILM M-4961 Récolement : 01/03/1870-31/12/1936</idno>
+                     </msIdentifier>
+                  </msDesc>
                </witness>
             </listWit>
             <listBibl>
@@ -55,7 +62,7 @@
       </fileDesc>
       <profileDesc>
          <langUsage>
-            <language ident="fr">french</language>
+            <language ident="fr"/>
          </langUsage>
       </profileDesc>
       <encodingDesc>
@@ -76,6 +83,10 @@
             </application>
          </appInfo>
       </encodingDesc>
+      <revisionDesc>
+         <change who="#COL_000001" when="2020-07">Correction, improving bibliography, adding new mark-up (<gi>measure</gi>) for price and an ID
+            for <gi>desc</gi></change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -770,7 +781,7 @@
                <num type="lot">58</num>
                <name type="author">Cicéri (Pierre-Luc-Ch.)</name>
                <trait>
-                  <p>célèbre peintre et aquafortiste, né à Saint- Cloud en 1782, mort en 1868.</p>
+                  <p>célèbre peintre et aquafortiste, né à Saint-Cloud en 1782, mort en 1868.</p>
                </trait>
                <desc xml:id="CAT_000197_e58_d1">Dessin original au lavis de couleur; 1838, in-32
                   obl. Jolie pièce.</desc>
@@ -1410,7 +1421,7 @@
                <desc xml:id="CAT_000197_e111_d1">L. a. s.; Paris, 25 février 1747, 2 p. in-8.</desc>
                <measure commodity="currency" unit="FRF" quantity="15">15</measure>
                <note>Intéressante lettre. L'abbé Lemierre n'a pu faire imprimer les homélies de
-                  Saint- Chrysostome sur Saint-Jean ; l'avocat Cochin vient de mourir. Il souhaite
+                  Saint-Chrysostome sur Saint-Jean ; l'avocat Cochin vient de mourir. Il souhaite
                   la paix extérieure et la paix religieuse. Les oeuvres posthumes du président
                   Bouhier viennent de paraître. Il désirerait savoir si le sieur de Thémiseuil de
                   Saint-Hyacinthe, s'appelait Cordier. (On sait que cet Orléanais passait pour le
@@ -1935,7 +1946,7 @@
                <num type="lot">152</num>
                <name type="author">Loti (Julien Viaud dit Pierre)</name>
                <trait>
-                  <p>célèbre écrivain contemporain, de l'Acad fr</p>
+                  <p>célèbre écrivain contemporain, de l'Acad fr.</p>
                </trait>
                <desc xml:id="CAT_000197_e152_d1">L. a. s.; Formidable, 25 juin, 1 p. in-8. Belle
                   lettre.</desc>
@@ -2472,7 +2483,7 @@
                <measure commodity="currency" unit="FRF" quantity="12">12</measure>
                <note>Belle lettre relative à sa réception à l'Institut. « La nature m'a refusé la
                   facilité de la parole et la faiblesse de ma voix ajoute à cet inconvénient. M.
-                  Regnaud de Saint- Jean d'Angely me rendra le service de lire mon discours.»</note>
+                  Regnaud de Saint-Jean d'Angely me rendra le service de lire mon discours.»</note>
             </item>
             <item n="198" xml:id="CAT_000197_e198">
                <num type="lot">198</num>
@@ -2900,7 +2911,7 @@
                <num type="lot">232</num>
                <name type="author">Vaissète (Dom.-Jos.)</name>
                <trait>
-                  <p>célèbre historien de la Congrégation de Saint- Maur, auteur d'une Histoire
+                  <p>célèbre historien de la Congrégation de Saint-Maur, auteur d'une Histoire
                      générale du Languedoc, né à Gaillac (Tarn) en 1685, mort en 1756.</p>
                </trait>
                <desc xml:id="CAT_000197_e232_d1">L. a. s. à dom Jacques Portal, à l'abbaye de Saint

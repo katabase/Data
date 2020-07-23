@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../Users/lucierdn/Downloads/GROBID_Dictionaries-master/_schemas/odd_editiones.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../schema/odd_editiones.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schema/odd_editiones.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAT_000194">
-   <teiHeader xmlns:tei="http://www.tei-c.org/ns/1.0"
-              xmlns:s="http://purl.oclc.org/dsdl/schematron">
+   <teiHeader xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:s="http://purl.oclc.org/dsdl/schematron">
       <fileDesc>
          <titleStmt>
-            <title>CAT_000194</title>
+            <title>RDA, N°166 (Mai 1894)</title>
             <respStmt>
                <persName ref="#COL_000002">Lucie Rondeau du Noyer</persName>
                <resp>
@@ -22,11 +22,11 @@
          </publicationStmt>
          <sourceDesc>
             <bibl status="draft">
-               <title>REVUE DES CURIOSITÉS DE L'HISTOIRE ET DE LA BIOGRAPHIE</title>
+               <title>REVUE DES AUTOGRAPHES, DES CURIOSITÉS DE L'HISTOIRE ET DE LA BIOGRAPHIE</title>
                <num>166</num>
-               <editor>Eugène Charavay fils</editor>
-               <publisher>Eugène Charavay fils</publisher>
-               <pubPlace>Paris, 34 rue du Faubourg Poissonière</pubPlace>
+               <editor>Mme veuve CHARAVAY</editor>
+               <publisher>Mme veuve CHARAVAY</publisher>
+               <pubPlace>Paris, 34 rue du Faubourg-Poissonnière</pubPlace>
                <date when="1894-05">Mai 1894</date>
             </bibl>
             <listEvent>
@@ -43,7 +43,15 @@
             </listEvent>
             <listWit>
                <witness>
-                  <ptr/>
+                  <msDesc>
+                     <msIdentifier>
+                        <country>France</country>
+                        <settlement>Paris</settlement>
+                        <institution>Bibliothèque nationale de France</institution>
+                        <repository>Tolbiac</repository>
+                        <idno type="shelfmark">MICROFILM M-4961 Récolement : 01/03/1870-31/12/1936</idno>
+                     </msIdentifier>
+                  </msDesc>
                </witness>
             </listWit>
             <listBibl>
@@ -53,7 +61,7 @@
       </fileDesc>
       <profileDesc>
          <langUsage>
-            <language ident="fr">french</language>
+            <language ident="fr"/>
          </langUsage>
       </profileDesc>
       <encodingDesc>
@@ -71,6 +79,10 @@
             </application>
          </appInfo>
       </encodingDesc>
+      <revisionDesc>
+         <change who="#COL_000001" when="2020-07">Correction, improving bibliography, adding new mark-up (<gi>measure</gi>) for price and an ID
+            for <gi>desc</gi></change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -108,7 +120,7 @@
                <num type="lot">4</num>
                <name type="author">Albon (Jean d')</name>
                <trait>
-                  <p>seigneur de Saint- André, chevalier d'honneur de Catherine de Médicis, bailli de Mâcon, gouverneur du Lyonnais, du Bourbonnais et de la Marche, défenseur de Saint-Quentin contre les Anglais, père du maréchal de Saint-André, mort en 1550.</p>
+                  <p>seigneur de Saint-André, chevalier d'honneur de Catherine de Médicis, bailli de Mâcon, gouverneur du Lyonnais, du Bourbonnais et de la Marche, défenseur de Saint-Quentin contre les Anglais, père du maréchal de Saint-André, mort en 1550.</p>
                </trait>
                <desc xml:id="CAT_000194_e4_d1">Pièce sig. sur vélin, 1523, in-8 obl.</desc>
                <measure commodity="currency" unit="FRF" quantity="10">10</measure>
@@ -779,7 +791,7 @@
                <num type="lot">75</num>
                <name type="author">Dupanloup (Félix)</name>
                <trait>
-                  <p>le célèbre évêque d'Orléans, de l'Acad. fr., né à Saint- Félix (Savoie) en 1802, mort en 1878.</p>
+                  <p>le célèbre évêque d'Orléans, de l'Acad. fr., né à Saint-Félix (Savoie) en 1802, mort en 1878.</p>
                </trait>
                <desc xml:id="CAT_000194_e75_d1">L. a. s.; Versailles, 5 février 1874, 1 p. in-8.</desc>
                <measure commodity="currency" unit="FRF" quantity="10">10</measure>
@@ -809,7 +821,7 @@
                <num type="lot">78</num>
                <name type="author">Durand-Brager (J.-B.-H.)</name>
                <trait>
-                  <p>célèbre peintre de marines, élève de Gudin et d'Eug. Isabey, né à Saint- Malo en 1714, mort en 1879.</p>
+                  <p>célèbre peintre de marines, élève de Gudin et d'Eug. Isabey, né à Saint-Malo en 1714, mort en 1879.</p>
                </trait>
                <desc xml:id="CAT_000194_e78_d1">Marine, dessin au crayon sig. de ses initiales, 1847, in-4 obl.</desc>
                <measure commodity="currency" unit="FRF" quantity="10">10</measure>
@@ -850,7 +862,7 @@
                </trait>
                <desc xml:id="CAT_000194_e82_d1">Let. sig. (au comte de Thorenc); Les Cayes, 8 sept. 1764, 3 p. in-fol.</desc>
                <measure commodity="currency" unit="FRF" quantity="10">10</measure>
-               <note>Intéressante lettre pour l'histoire de Saint- Domingue. « M. de Barnaby, fils de l'amiral, et commandant le bâtiment du roi d'Angleterre Le Druide, doit, à ce qu'il me marque, arriver au Cap dans le mois de septembre. Je vous prie, Monsieur, de laisser tenir tous les propes qu'on voudra. Cela ne vous empêchera pas de faire examiner, sans qu'il s'en apperçoive, sa conduite; mais, à moins qu'elle ne soit poussée jusqu'au dernier degré d'indécence, il faut tolérer mêmes les indiscrétions, et ne les empêcher qu'à force de politesse.»</note>
+               <note>Intéressante lettre pour l'histoire de Saint-Domingue. « M. de Barnaby, fils de l'amiral, et commandant le bâtiment du roi d'Angleterre Le Druide, doit, à ce qu'il me marque, arriver au Cap dans le mois de septembre. Je vous prie, Monsieur, de laisser tenir tous les propes qu'on voudra. Cela ne vous empêchera pas de faire examiner, sans qu'il s'en apperçoive, sa conduite; mais, à moins qu'elle ne soit poussée jusqu'au dernier degré d'indécence, il faut tolérer mêmes les indiscrétions, et ne les empêcher qu'à force de politesse.»</note>
             </item>
             <item n="83" xml:id="CAT_000194_e83">
                <num type="lot">83</num>
@@ -1064,7 +1076,7 @@
                <trait>
                   <p>célèbre peintre de marines et de paysages, né en 1802, mort en 1880.</p>
                </trait>
-               <desc xml:id="CAT_000194_e105_d1">2 l. a. s. et 1 let. sig. avec 6 lig. aut.; Saint- Pierre-le-Moutier, 1861-1868, 14 p. in-8. Intéressantes.</desc>
+               <desc xml:id="CAT_000194_e105_d1">2 l. a. s. et 1 let. sig. avec 6 lig. aut.; Saint-Pierre-le-Moutier, 1861-1868, 14 p. in-8. Intéressantes.</desc>
                <measure commodity="currency" unit="FRF" quantity="12">12</measure>
             </item>
             <item n="106" xml:id="CAT_000194_e106">
@@ -1635,7 +1647,7 @@
                <num type="lot">167</num>
                <name type="author">Noailles (Louis  duc de)</name>
                <trait>
-                  <p>maréchal de France, gouverneur de Saint- Germain-on-Lave, connu par ses bons mots, né en 1713, mort en 1793.</p>
+                  <p>maréchal de France, gouverneur de Saint-Germain-on-Lave, connu par ses bons mots, né en 1713, mort en 1793.</p>
                </trait>
                <desc xml:id="CAT_000194_e167_d1">L. a. s.; Saint-Germain-en-Laye, 3 novembre 1780, 1 p. in-4. Belle lettre.</desc>
                <measure commodity="currency" unit="FRF" quantity="10">10</measure>
@@ -1963,7 +1975,7 @@
                </trait>
                <desc xml:id="CAT_000194_e201_d1">Pièce sig., sig. aussi par J.-B. de Gondi, introducteur des ambassadeurs; Paris, 17 octobre 1607, 4 p. in-fol.</desc>
                <measure commodity="currency" unit="FRF" quantity="10">10</measure>
-               <note>Ils reconnaissent, l'un comme héritier de Jérôme de Gondi, gentilhomme ordinaire de la chambre, chevalier d'honneur de la Reine, l'autre comme héritier d'Annibal de Schomberg, seigneur de Milly (Oise). Saint- Front, et Oulchy-le-Château (Aisne), s'accorder au sujet d'une dette contractée par le feu Gaspard de Schomberg envers feu Jérôme de Gondi.</note>
+               <note>Ils reconnaissent, l'un comme héritier de Jérôme de Gondi, gentilhomme ordinaire de la chambre, chevalier d'honneur de la Reine, l'autre comme héritier d'Annibal de Schomberg, seigneur de Milly (Oise). Saint-Front, et Oulchy-le-Château (Aisne), s'accorder au sujet d'une dette contractée par le feu Gaspard de Schomberg envers feu Jérôme de Gondi.</note>
             </item>
             <item n="202" xml:id="CAT_000194_e202">
                <num type="lot">202</num>
@@ -2138,7 +2150,7 @@
                <num type="lot">220</num>
                <name type="author">Taine (H.)</name>
                <trait>
-                  <p>célèbre philosophe et littérateur contemporain, de l'Acad fr</p>
+                  <p>célèbre philosophe et littérateur contemporain, de l'Acad fr.</p>
                </trait>
                <desc xml:id="CAT_000194_e220_d1">L. a s., 1 p. in-18 obl.</desc>
                <measure commodity="currency" unit="FRF" quantity="4">4</measure>
@@ -2405,7 +2417,7 @@
                <trait>
                   <p>chambellan du duc d'Anjou, tuteur du fils de Charles V, et qui prit part à l'ost de Gueldre en 1388, fils de Jean et de Marguerite de Beaumetz, mort en 1392.</p>
                </trait>
-               <desc xml:id="CAT_000194_e248_d1">Pièce sur vélin; Saint- Quentin (Aisne), 4 février 1371 (1372), in-8.</desc>
+               <desc xml:id="CAT_000194_e248_d1">Pièce sur vélin; Saint-Quentin (Aisne), 4 février 1371 (1372), in-8.</desc>
                <measure commodity="currency" unit="FRF" quantity="8">8</measure>
                <note>Quittance de Régnault de la Capelle, élu et receveur de Noyon (Oise) de par « monseigneur le comte de Brainne, conseiller, et Jehan le Merchier, trésorier des guerres du Roy » à Giart le Henuier, bourgeois de Saint-Quentin, de 30 francs d'or, prêtés au roi pour les dépenses de la guerre.</note>
             </item>
@@ -2526,7 +2538,7 @@
             <item n="261" xml:id="CAT_000194_e261">
                <num type="lot">261</num>
                <name type="author">Berri</name>
-               <desc xml:id="CAT_000194_e261_d1">Pièce sur vélin; Saint- Amand, &gt;Montrond (Cher), 6 nov. 1464, in-8 obl.</desc>
+               <desc xml:id="CAT_000194_e261_d1">Pièce sur vélin; Saint-Amand, &gt;Montrond (Cher), 6 nov. 1464, in-8 obl.</desc>
                <measure commodity="currency" unit="FRF" quantity="12">12</measure>
                <note>Lettres d'indulgence plénière à l'article de la mort, rédigées par Pierre Le Tuilier, précepteur de la préceptorerie Saint-Antoine de Saint-Amand, procureur général de la confrérie de Saint-Antoine dans toute la province de Berry. Le pape Pie II lui avait permis d'accorder ces indulgences à ceux qui voudraient entrer dans la confrérie, soigner les malades ou contribuer par leurs aumônes à relever l'hôpital et la chapelle de Saint-Antoine à Saint-Amand ; celles-ci ont été délivrées au seigneur de Dianne (Cher) et de Chaylar.</note>
             </item>

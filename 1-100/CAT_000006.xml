@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../_schemas/odd_editiones.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../_schemas/odd_editiones.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../schema/odd_editiones.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schema/odd_editiones.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAT_000006">
    <teiHeader xmlns:tei="http://www.tei-c.org/ns/1.0"
               xmlns:s="http://purl.oclc.org/dsdl/schematron">
       <fileDesc>
          <titleStmt>
-            <title>CAT_000006</title>
+            <title>RDA, N°24, seconde série (1927)</title>
             <respStmt>
                <persName ref="#COL_000002">Lucie Rondeau du Noyer</persName>
                <resp>
@@ -24,14 +24,23 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <title>REVUE DES CURIOSITÉS DE L'HISTOIRE ET DE LA BIOGRAPHIE </title>
+               <title>REVUE DES AUTOGRAPHES, CURIOSITÉS DE L'HISTOIRE ET DE LA BIOGRAPHIE</title>
                <num>24 - deuxième série</num>
                <publisher>Gabrielle Charavay</publisher>
                <pubPlace>Paris, 6 square du Croisic</pubPlace>
-               <date>1927</date>
+               <date when="1927">1927</date>
             </bibl>
             <listWit>
-               <witness> BnF, 8-Q-928 <ptr/>
+               <witness>
+                  <msDesc>
+                     <msIdentifier>
+                        <country>France</country>
+                        <settlement>Paris</settlement>
+                        <institution>Bibliothèque nationale de France</institution>
+                        <repository>Tolbiac</repository>
+                        <idno type="shelfmark">8-Q-928</idno>
+                     </msIdentifier>
+                  </msDesc>
                </witness>
             </listWit>
             <listBibl>
@@ -41,7 +50,7 @@
       </fileDesc>
       <profileDesc>
          <langUsage>
-            <language ident="fr">french</language>
+            <language ident="fr"/>
          </langUsage>
       </profileDesc>
       <encodingDesc>
@@ -63,8 +72,8 @@
          </appInfo>
       </encodingDesc>
       <revisionDesc>
-         <change who="#COL_000001" when="2020-07">Correction, adding new mark-up for price and an ID
-            for desc</change>
+         <change who="#COL_000001" when="2020-07">Correction, improving bibliography, adding new mark-up (<gi>measure</gi>) for price and an ID
+            for <gi>desc</gi></change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -214,10 +223,10 @@
                <trait>
                   <p>savant italien, bibliothécaire de la bibliothèque de Bréra</p>
                </trait>
-               <desc xml:id="CAT_000006_e13_d1">L. a. s. à l'abbé Mercier-de-Saint- Léger; Milan, 28
+               <desc xml:id="CAT_000006_e13_d1">L. a. s. à l'abbé Mercier-de-Saint-Léger; Milan, 28
                   mai 1788 ; 3 p. gr. in-fol.</desc>
                <measure commodity="currency" unit="FRF" quantity="60">60</measure>
-               <note>Très belle lettre littéraire. L'abbé de Saint- Léger a écrit en tète : Répondu
+               <note>Très belle lettre littéraire. L'abbé de Saint-Léger a écrit en tète : Répondu
                   le 23 août 1788 par le professeur danois Olivarius, et envoyé le catalogue de
                   Soubise, avec la plaisanterie du marquis de Luchet, contre l'Académie française.
                   Il a également écrit un grand nombre de notes sur la 4e page</note>
@@ -618,7 +627,7 @@
                <num type="lot">46</num>
                <name type="author">Morelli (l'abbé Jacques)</name>
                <trait>
-                  <p>helléniste et bibliographe, bibliothécaire de Saint- Marc ; ne à Venise en
+                  <p>helléniste et bibliographe, bibliothécaire de Saint-Marc ; ne à Venise en
                      1745, mort en 1819. Membre correspondant de l'Institut</p>
                </trait>
                <desc xml:id="CAT_000006_e46_d1">L. a. s. en tête à Daniel Wytenbach, professeur à
@@ -819,7 +828,7 @@
                <trait>
                   <p>conseiller d'Etat suisse, célèbre philosophe, auteur de savants ouvrages</p>
                </trait>
-               <desc xml:id="CAT_000006_e62_d1">Né à Saint- Aubin en 1808 -L. a. s. ; Valentin
+               <desc xml:id="CAT_000006_e62_d1">Né à Saint-Aubin en 1808 -L. a. s. ; Valentin
                   (Vaud), 12 octobre 1865; 1 p. 1/2 in-8.</desc>
                <measure commodity="currency" unit="FRF" quantity="20">20</measure>
             </item>
@@ -829,7 +838,7 @@
                <trait>
                   <p>savant naturaliste, membre de l'Académie celtique, né en 1748, m. en 1831</p>
                </trait>
-               <desc xml:id="CAT_000006_e63_d1">L. a. s. à M. Fauris de Saint- Vincens à Aix ;
+               <desc xml:id="CAT_000006_e63_d1">L. a. s. à M. Fauris de Saint-Vincens à Aix ;
                   Montpellier, 8 mars 1812 ; 3 p. in-4, cachet à son chiffre.</desc>
                <measure commodity="currency" unit="FRF" quantity="35">35</measure>
                <note>Lettre scientifique</note>
@@ -1746,7 +1755,7 @@
                   'or. Il mourut le 22 décembre 1640. - P. sig., sig. aussi par Nicolas Brulart de
                   Sillery ; Paris, 6 mai 1610 ; 3/4 de p. in-fol.</desc>
                <measure commodity="currency" unit="FRF" quantity="80">80</measure>
-               <note>Arrêt du Roi accordant au sieur de Sainte- Colombe, sénéchal du Béarn, en
+               <note>Arrêt du Roi accordant au sieur de Sainte-Colombe, sénéchal du Béarn, en
                   considération de ses bons services, la permission d'assister aux audiences de la
                   chambre et d'y prendre rang après le président</note>
             </item>
@@ -1768,7 +1777,7 @@
                <num type="lot">135</num>
                <name type="author">Cambacérès (J.-J. Régis de)</name>
                <trait>
-                  <p>consul, archi-chancelier, membre de l'Institut et de l'Acad. fr</p>
+                  <p>consul, archi-chancelier, membre de l'Institut et de l'Acad. fr.</p>
                </trait>
                <desc xml:id="CAT_000006_e135_d1">L. sig. au citoyen Lacretelle aîné, membre du Corps
                   législatif; Paris, 6 vendémiaire an XI ; 3/4 de p. in-4.</desc>
@@ -1970,7 +1979,7 @@
                <num type="lot">148</num>
                <name type="author">Ferronnays (Pierre -Louis -Auguste Ferron, comte de La)</name>
                <trait>
-                  <p>célèbre diplomate de la Restauration, né à Saint- Malo en 1777, m. en 1842</p>
+                  <p>célèbre diplomate de la Restauration, né à Saint-Malo en 1777, m. en 1842</p>
                </trait>
                <desc xml:id="CAT_000006_e148_d1">L. a. s. au comte de Rayneval ; Inspruck, 9 oct.
                   1822 ; 1 p. in-4, cachets et nombreuses marques postales.</desc>
@@ -2221,7 +2230,7 @@
                <name type="author">Rabutin (Christophe de)</name>
                <trait>
                   <p>gouverneur de Semur, chevalier, seigneur de Bourbilly et de Montholon lez-Ostun
-                     (Monthelon près Autun) résidence de Sainte- Jeanne Chantal entre 1602 et 1609 ;
+                     (Monthelon près Autun) résidence de Sainte-Jeanne Chantal entre 1602 et 1609 ;
                      elle y fut visitée par Saint François de Sales</p>
                </trait>
                <desc xml:id="CAT_000006_e166_d1">P. avec 1 /4 de page aut. sig. ; Bourbilly, 14 juin
@@ -2564,7 +2573,7 @@
                <num type="lot">192</num>
                <name type="author">Dumas (A.)</name>
                <trait>
-                  <p>fils, le célèbre auteur dramatique, membre de l'Acad. fr</p>
+                  <p>fils, le célèbre auteur dramatique, membre de l'Acad. fr.</p>
                </trait>
                <desc xml:id="CAT_000006_e192_d1">L. a. s. à une femme de lettres; 11 p. 1/2
                   in-8.</desc>
@@ -2616,7 +2625,7 @@
                <num type="lot">195</num>
                <name type="author">Duruy (Victor)</name>
                <trait>
-                  <p>le célèbre historien et homme d'Etat, membre de l'Acad. fr</p>
+                  <p>le célèbre historien et homme d'Etat, membre de l'Acad. fr.</p>
                </trait>
                <desc xml:id="CAT_000006_e195_d1">L. a. s. à M. de Poggenpohl, journaliste, 5 janv.
                   1857 ; 1 p. pl. in-8.</desc>
@@ -2631,10 +2640,10 @@
                <num type="lot">196</num>
                <name type="author">Duruy (Victor)</name>
                <trait>
-                  <p>le célèbre historien, de l'Acad. fr</p>
+                  <p>le célèbre historien, de l'Acad. fr.</p>
                </trait>
                <desc xml:id="CAT_000006_e196_d1">L. a. s. à M. de Poggenpohl, écrivain russe ;
-                  Villeneuve-Saint- Georges, 27 juin 1891 ; 1 p. in-18.</desc>
+                  Villeneuve-Saint-Georges, 27 juin 1891 ; 1 p. in-18.</desc>
                <measure commodity="currency" unit="FRF" quantity="25">25</measure>
                <note>« Je suis bien ignorant de l'ancienne histoire russe. Sur ces vieilles
                   questions je ne saurais donner un avis autorisé. Mais le livre est intéressant et
@@ -5164,7 +5173,7 @@
                <num type="lot">408</num>
                <name type="author">Saint-Georges (Jeanne de HarlayMontglat, dame de)</name>
                <trait>
-                  <p>épouse de Hardouin de Clermont, seigneur de Saint- Georges Elle fut dame
+                  <p>épouse de Hardouin de Clermont, seigneur de Saint-Georges Elle fut dame
                      d'honneur de Christine et d'Henriette de France, filles d'Anne-Marie d'Orléans,
                      duchesse de Montpensier</p>
                </trait>
@@ -5561,7 +5570,7 @@
                <num type="lot">439</num>
                <name type="author">D'Astros (Paul-Thérèse-David, cardinal)</name>
                <trait>
-                  <p>évêque d'Orange en 1817, de Saint- Flour en 1819, de Bayonne en 1820, à
+                  <p>évêque d'Orange en 1817, de Saint-Flour en 1819, de Bayonne en 1820, à
                      Toulouse en 1830, cardinal en 1850</p>
                </trait>
                <desc xml:id="CAT_000006_e439_d1">L. s. à Monseigneur... ; Bayonne, 29 janvier 1822 ;

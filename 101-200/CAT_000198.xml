@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../_schemas/odd_editiones.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../_schemas/odd_editiones.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../schema/odd_editiones.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schema/odd_editiones.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAT_000198">
-   <teiHeader xmlns:tei="http://www.tei-c.org/ns/1.0"
-              xmlns:s="http://purl.oclc.org/dsdl/schematron">
+   <teiHeader xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:s="http://purl.oclc.org/dsdl/schematron">
       <fileDesc>
          <titleStmt>
-            <title>CAT_000198</title>
+            <title>RDA, N°168 (Juillet 1894)</title>
             <respStmt>
-               <persName ref="#COL_000001">Matthias Gille Levenson</persName>
+               <persName ref="#COL_000006">Matthias Gille Levenson</persName>
                <resp>
                   <date when="2020">2020</date>
                </resp>
@@ -24,12 +23,12 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <title>REVUE DES CURIOSITÉS DE L'HISTOIRE ET DE LA BIOGRAPHIE</title>
-               <num type="lot">168</num>
-               <editor>Eugène Charavay fils</editor>
-               <publisher>Eugène Charavay fils</publisher>
-               <pubPlace>Paris,8 quai du Louvre</pubPlace>
-               <date when="1893-02">Juillet 1894</date>
+               <title>REVUE DES AUTOGRAPHES, DES CURIOSITÉS DE L'HISTOIRE ET DE LA BIOGRAPHIE</title>
+               <num>168</num>
+               <editor>Mme veuve CHARAVAY</editor>
+               <publisher>Mme veuve CHARAVAY</publisher>
+               <pubPlace>Paris, 34 rue du Faubourg-Poissonnière</pubPlace>
+               <date when="1894-07">Juillet 1894</date>
             </bibl>
             <listEvent>
                <event>
@@ -45,7 +44,15 @@
             </listEvent>
             <listWit>
                <witness>
-                  <ptr/>
+                  <msDesc>
+                     <msIdentifier>
+                        <country>France</country>
+                        <settlement>Paris</settlement>
+                        <institution>Bibliothèque nationale de France</institution>
+                        <repository>Tolbiac</repository>
+                        <idno type="shelfmark">MICROFILM M-4961 Récolement : 01/03/1870-31/12/1936</idno>
+                     </msIdentifier>
+                  </msDesc>
                </witness>
             </listWit>
             <listBibl>
@@ -55,7 +62,7 @@
       </fileDesc>
       <profileDesc>
          <langUsage>
-            <language ident="fr">french</language>
+            <language ident="fr"/>
          </langUsage>
       </profileDesc>
       <encodingDesc>
@@ -76,6 +83,10 @@
             </application>
          </appInfo>
       </encodingDesc>
+      <revisionDesc>
+         <change who="#COL_000001" when="2020-07">Correction, improving bibliography, adding new mark-up (<gi>measure</gi>) for price and an ID
+            for <gi>desc</gi></change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -269,7 +280,7 @@
                <desc xml:id="CAT_000198_e14_d4">3° Pièce sig. sur vélin de Louis XVI (par le
                   secrétaire de la main), contresignée par le comts de Montmorin; Versailles, 8
                   sept. 1787, 1 p. in-fol. obl. Brevet d'une pension de 2,000 livres en faveur de
-                  Barbé-Marbois. -4° Pièce sig. sur vélin de Cambacérès et de Chaptal; Saint- Cloud,
+                  Barbé-Marbois. -4° Pièce sig. sur vélin de Cambacérès et de Chaptal; Saint-Cloud,
                   27 messidor an XII, double in-fol. obl. Nomination de président du collège
                   électoral de l'Eure.</desc>
             </item>
@@ -1967,7 +1978,7 @@
                <num type="lot">155</num>
                <name type="author">Leconte de Lisle (Ch.-M R)</name>
                <trait>
-                  <p>célèbre poète contemporain, de l'Acad fr</p>
+                  <p>célèbre poète contemporain, de l'Acad fr.</p>
                </trait>
                <desc xml:id="CAT_000198_e155_d1">L. a. s., 1 p. in-8. Belle lettre.</desc>
                <measure commodity="currency" unit="FRF" quantity="4">4</measure>
@@ -1977,7 +1988,7 @@
                <name type="author">Legrenzi (Giovanni)</name>
                <trait>
                   <p>un des plus habiles compositeurs italiens de son temps, maître de chapelle de
-                     Saint- Marc, à Venise, né à Clusone vers 1625, mort en 1660.</p>
+                     Saint-Marc, à Venise, né à Clusone vers 1625, mort en 1660.</p>
                </trait>
                <desc xml:id="CAT_000198_e156_d1">L. a. s.; 1684, 1 p. in-fol. Rare.</desc>
                <measure commodity="currency" unit="FRF" quantity="20">20</measure>
@@ -2235,7 +2246,7 @@
                <num type="lot">176</num>
                <name type="author">Martène (dom Edmond)</name>
                <trait>
-                  <p>érudit bénédictin de la congrégation de Saint- Maur, né à Saint-Jean de Losne
+                  <p>érudit bénédictin de la congrégation de Saint-Maur, né à Saint-Jean de Losne
                      en 1654, mort en 1739.</p>
                </trait>
                <desc xml:id="CAT_000198_e176_d1">L. a. s. au doyen de l'église de Sens;
@@ -2414,7 +2425,7 @@
                   affaire où j'ai mis quelque imprudence (sa séparation avec sa femme), mais, j'ose
                   le dire, une honorable sensibilité, a été la cause d'une détention longue et
                   rigoureuse, que le souvenir et les embarras de mon dérangement pécu¬ niaire ont
-                  engagé mon père à prolonger. » Il s'est réfugié à Paris; il prie M. de Saint- Paul
+                  engagé mon père à prolonger. » Il s'est réfugié à Paris; il prie M. de Saint-Paul
                   de lui adresser les ordres du ministre de la guerre, comte de Saint-Germain, à sa
                   mère retirée aux dames de la Trinité du faubourg Saint-Antoine ; il rappelle qu'il
                   a 26 ans et qu'il n'a jamais manqué à l'honneur. (Il fut envoyé en Corse).</note>
@@ -3626,7 +3637,7 @@
                   monseigneur en ses cuerres que luy a fait le conte de Waudemont ». Ils ont entre
                   les mains des otages et menacent d'occuper la Lorraine avec leurs gens d'armes,
                   s'ils ne sont payés au plus tot; Thirion contraindra au payement les prévôts du
-                  bailliage de Saint- Mihiel; au conseil assistaient l'évêque de Toul, Louis
+                  bailliage de Saint-Mihiel; au conseil assistaient l'évêque de Toul, Louis
                   d'Haraucourt et Erard du Châtelet. (René d'Anjou fut battu et fait prisonnier à
                   Bullégneville par Antoine de Vaudemont, mais sa femme Isabelle de Lorraine sut
                   défendre le duché contre le vainqueur de son mari).</note>

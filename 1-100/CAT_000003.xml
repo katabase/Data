@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../_schemas/odd_editiones.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../_schemas/odd_editiones.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../schema/odd_editiones.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schema/odd_editiones.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAT_000003">
    <teiHeader xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:s="http://purl.oclc.org/dsdl/schematron">
       <fileDesc>
          <titleStmt>
-            <title>CAT_000003</title>
+            <title>LAD, N°507 (avril 1919)</title>
             <respStmt>
                <persName ref="#COL_000002">Lucie Rondeau du Noyer</persName>
                <resp>
@@ -24,7 +24,7 @@
          <sourceDesc>
             <bibl>
                <title>LETTRES AUTOGRAPHES ET DOCUMENTS HISTORIQUES</title>
-               <num type="lot">507</num>
+               <num>507</num>
                <editor>Noël CHARAVAY</editor>
                <publisher>Noël CHARAVAY</publisher>
                <pubPlace> 3, rue de Furstenberg, à Paris</pubPlace>
@@ -44,7 +44,15 @@
             </listEvent>
             <listWit>
                <witness>
-                  <ptr/>
+                  <msDesc>
+                     <msIdentifier>
+                        <country>Switzerland</country>
+                        <settlement>Genève</settlement>
+                        <institution>Bibliothèque de Genève</institution>
+                        <idno type="shelfmark">BGE Gk 408</idno>
+                     </msIdentifier>
+                  </msDesc>
+                  <ptr type="catalogue" target="http://data.rero.ch/01-R008483086"/>
                </witness>
             </listWit>
             <listBibl>
@@ -54,7 +62,7 @@
       </fileDesc>
       <profileDesc>
          <langUsage>
-            <language ident="fr">french</language>
+            <language ident="fr"/>
          </langUsage>
       </profileDesc>
       <encodingDesc>
@@ -76,8 +84,8 @@
          </appInfo>
       </encodingDesc>
       <revisionDesc>
-         <change who="#COL_000001" when="2020-07">Correction, adding new mark-up for price and an ID
-            for desc</change>
+         <change who="#COL_000001" when="2020-07">Correction, improving bibliography, adding new mark-up (<gi>measure</gi>) for price and an ID
+            for <gi>desc</gi></change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -1203,7 +1211,7 @@
             </item>
             <item n="88134" xml:id="CAT_000003_e88134">
                <num type="lot">88134</num>
-               <name type="author">LOUIS XVII,</name>
+               <name type="author">LOUIS XVII</name>
                <trait>
                   <p>l'infortuné fils de Louis XVI</p>
                </trait>

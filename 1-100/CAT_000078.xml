@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../_schemas/odd_editiones.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../_schemas/odd_editiones.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../schema/odd_editiones.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schema/odd_editiones.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAT_000078">
    <teiHeader xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:s="http://purl.oclc.org/dsdl/schematron">
       <fileDesc>
          <titleStmt>
-            <title>CAT_000078</title>
+            <title>RDA, N°91 (Mai 1885)</title>
             <respStmt>
                <persName ref="#COL_000002">Lucie Rondeau du Noyer</persName>
                <resp>
@@ -23,7 +23,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <title>REVUE DES CURIOSITÉS DE L'HISTOIRE ET DE LA BIOGRAPHIE</title>
+               <title>REVUE DES AUTOGRAPHES, DES CURIOSITÉS DE L'HISTOIRE ET DE LA BIOGRAPHIE</title>
                <num>91</num>
                <editor>Eugène Charavay fils</editor>
                <publisher>Eugène Charavay fils</publisher>
@@ -43,7 +43,16 @@
                </event>
             </listEvent>
             <listWit>
-               <witness> MICROFILM M-4961 Récolement : 01/03/1870-31/12/1936<ptr/>
+               <witness>
+                  <msDesc>
+                     <msIdentifier>
+                        <country>France</country>
+                        <settlement>Paris</settlement>
+                        <institution>Bibliothèque nationale de France</institution>
+                        <repository>Tolbiac</repository>
+                        <idno type="shelfmark">MICROFILM M-4961 Récolement : 01/03/1870-31/12/1936</idno>
+                     </msIdentifier>
+                  </msDesc>
                </witness>
             </listWit>
             <listBibl>
@@ -53,7 +62,7 @@
       </fileDesc>
       <profileDesc>
          <langUsage>
-            <language ident="fr">french</language>
+            <language ident="fr"/>
          </langUsage>
       </profileDesc>
       <encodingDesc>
@@ -74,6 +83,10 @@
             </application>
          </appInfo>
       </encodingDesc>
+      <revisionDesc>
+         <change who="#COL_000001" when="2020-07">Correction, improving bibliography, adding new mark-up (<gi>measure</gi>) for price and an ID
+            for <gi>desc</gi></change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -277,7 +290,7 @@
                <num type="lot">16</num>
                <name type="author">Dangeau (Philippe de Courcillon, marquis de)</name>
                <trait>
-                  <p>général, auteur de Mémoires, membre de l'Acad. franc</p>
+                  <p>général, auteur de Mémoires, membre de l'Acad. franc.</p>
                </trait>
                <desc xml:id="CAT_000078_e16_d1">Piece sig. sur vélin, 1710, 1 p. in-4, oblong.
                   Rare.</desc>
@@ -370,7 +383,7 @@
                <num type="lot">23</num>
                <name type="author">Duclos (Charles Pinot)</name>
                <trait>
-                  <p>littérateur et historien du XVIIIe siècle, membre de l'Acad. franc</p>
+                  <p>littérateur et historien du XVIIIe siècle, membre de l'Acad. franc.</p>
                </trait>
                <desc xml:id="CAT_000078_e23_d1">L. a. s.; Paris, 6 février 1770, 2 p. in-4.</desc>
                <measure commodity="currency" unit="FRF" quantity="35">35</measure>
@@ -1219,7 +1232,7 @@
                <name type="author">Verjus (Louis de)</name>
                <trait>
                   <p>comte de Crécy, célèbre ambassadeur en Portugal et en Allemagne, membre do
-                     l'Acad. franc</p>
+                     l'Acad. franc.</p>
                </trait>
                <desc xml:id="CAT_000078_e87_d1">Let. sig., avec la souscription aut., à M. de
                   Feuquières, ambassadeur de France en Suède ; Ratisbonne, mars 1680, 3 p.
