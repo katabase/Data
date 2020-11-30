@@ -1,7 +1,5 @@
 # Output Data - level 1
 
-Digitised manuscripts sale catalogs.
----
 
 This repository contains digitised manuscripts sale catalogs encoded in XML-TEI.
 
@@ -40,7 +38,7 @@ Most of the reconciliation process uses data from the `<desc>` element of our xm
   * `1 /2` -> `1/2`
   * `1 p ` -> `1 p. `
 
-The `clean-xml.py` script [available here](https://github.com/katabase/1_OutputData/tree/master/script/clean-xml.py) tackles this problem:
+The `clean-xml.py` script [available here](https://github.com/katabase/1_OutputData/blob/master/script/clean_xml.py) tackles this problem:
 
   * `python clean-xml.py -f FILENAME` processes one single file
   * `python clean-xml.py -d DIRECTORY` processes all the files contained in a directory
