@@ -1,10 +1,8 @@
 # Output Data - level 1
 
+This repository contains digitised manuscripts sale catalogs encoded in XML-TEI at level 1.
 
-This repository contains digitised manuscripts sale catalogs encoded in XML-TEI.
-
-This if the first level of encoding : the data have not been cleaned (level 2) or post-processed (level 3).
-
+The data have not been cleaned (level 2) or post-processed (level 3).
 
 ## Description of the data
 
