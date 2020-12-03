@@ -42,6 +42,17 @@ The `clean-xml.py` script [available here](https://github.com/katabase/1_OutputD
   * `python clean-xml.py -d DIRECTORY` processes all the files contained in a directory
 
 
+## Installation and use
+
+```shell
+git clone https://github.com/katabase/1_OutputData.git
+cd 1_OutputData
+python3 -m venv my_env
+source my_env/bin/activate
+pip install -r requirements.txt
+python3 clean_xml.py -f file_to_process OR -d directory_to_process
+```
+
 ## Credits
 
 Expliquer qui a fait quoi.
