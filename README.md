@@ -36,10 +36,7 @@ Most of the reconciliation process uses data from the `<desc>` element of our xm
   * `1 /2` -> `1/2`
   * `1 p ` -> `1 p. `
 
-The `clean-xml.py` script [available here](https://github.com/katabase/1_OutputData/blob/master/script/clean_xml.py) tackles this problem:
-
-  * `python clean-xml.py -f FILENAME` processes one single file
-  * `python clean-xml.py -d DIRECTORY` processes all the files contained in a directory
+The `clean-xml.py` script [available here](https://github.com/katabase/1_OutputData/blob/master/script/clean_xml.py) tackles this problem.
 
 
 ## Installation and use
@@ -50,8 +47,10 @@ cd 1_OutputData
 python3 -m venv my_env
 source my_env/bin/activate
 pip install -r requirements.txt
-python3 clean_xml.py -f file_to_process OR -d directory_to_process
 ```
+
+  * `python clean-xml.py -f FILENAME` processes one single file
+  * `python clean-xml.py -d DIRECTORY` processes all the files contained in a directory
 
 ## Credits
 
