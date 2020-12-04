@@ -54,7 +54,9 @@ The `clean-xml.py` script [available here](https://github.com/katabase/1_OutputD
 
 ## Credits
 
-Expliquer qui a fait quoi.
+* The ODD was created by Lucie Rondeau du Noyer.
+* `clean-xml.py`was created by  Simon Gabay.
+* The catalogs were encoded by Lucie Rondeau du Noyer, Simon Gabay, Matthias Gille Levenson, Ljudmila Petkovic and Alexandre Bartz.
 
 ## Cite this repository
 Alexandre Bartz, Simon Gabay, Matthias Gille Levenson, Ljudmila Petkovic and Lucie Rondeau du Noyer, _Manuscript sale catalogues_, Neuchâtel: Université de Neuchâtel, 2019, [https://github.com/katabase/1_OutputData](https://github.com/katabase/1_OutputData).
