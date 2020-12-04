@@ -2,7 +2,7 @@
 
 This repository contains digitised manuscripts sale catalogs encoded in XML-TEI at level 1.
 
-The data have not been cleaned (level 2) or post-processed (level 3).
+The data have not been cleaned ([level 2](https://github.com/katabase/2_CleanedData)) or post-processed ([level 3](https://github.com/katabase/3_TaggedData)).
 
 ## Description of the data
 
@@ -41,16 +41,16 @@ The `clean-xml.py` script [available here](https://github.com/katabase/1_OutputD
 
 ## Installation and use
 
-```shell
-git clone https://github.com/katabase/1_OutputData.git
-cd 1_OutputData
-python3 -m venv my_env
-source my_env/bin/activate
-pip install -r requirements.txt
+```bash
+* git clone https://github.com/katabase/1_OutputData.git
+* cd 1_OutputData
+* python3 -m venv my_env
+* source my_env/bin/activate
+* pip install -r requirements.txt
+* `python clean-xml.py -f FILENAME` processes one single file
+	OR
+* `python clean-xml.py -d DIRECTORY` processes all the files contained in a directory
 ```
-
-  * `python clean-xml.py -f FILENAME` processes one single file
-  * `python clean-xml.py -d DIRECTORY` processes all the files contained in a directory
 
 ## Credits
 
