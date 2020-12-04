@@ -47,9 +47,9 @@ The `clean-xml.py` script [available here](https://github.com/katabase/1_OutputD
 * python3 -m venv my_env
 * source my_env/bin/activate
 * pip install -r requirements.txt
-* `python clean-xml.py -f FILENAME` processes one single file
+* python clean-xml.py -f FILENAME processes one single file
 	OR
-* `python clean-xml.py -d DIRECTORY` processes all the files contained in a directory
+* python clean-xml.py -d DIRECTORY processes all the files contained in a directory
 ```
 
 ## Credits
