@@ -8,6 +8,10 @@ The data have not been cleaned ([level 2](https://github.com/katabase/2_CleanedD
 
 Basic bibliographic information for each catalogue are available [here](https://github.com/katabase/1_OutputData/blob/master/_listDATA.csv).
 
+### Schema
+
+You can find the ODD that validates the encoding in the repository `schema`.
+
 ## Workflow
 
 ### Creation of the data
