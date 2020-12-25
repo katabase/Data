@@ -59,10 +59,13 @@ def desc_correction(input_desc):
     #type of document
     input_desc = re.sub(' Let ', ' Let. ', input_desc)
     input_desc = re.sub('^Let ', 'Let. ', input_desc)
-    input_desc = re.sub(' L aut', ' L. aut', input_desc)
+    input_desc = re.sub('^La sig', 'L. a. sig', input_desc)
+    input_desc = re.sub('^La s. ', ' ', input_desc)
     input_desc = re.sub('^L aut', 'L. aut', input_desc)
+    input_desc = re.sub(' L aut', ' L. aut', input_desc)
     input_desc = re.sub(' L sig', ' L. sig', input_desc)
     input_desc = re.sub('^L sig', 'L. sig', input_desc)
+    input_desc = re.sub(' let ', ' let. ', input_desc)
     input_desc = re.sub(' lig ', ' lig. ', input_desc)
     input_desc = re.sub(' lig,', ' lig.,', input_desc)
     input_desc = re.sub(' lig;', ' lig.;', input_desc)
@@ -73,7 +76,8 @@ def desc_correction(input_desc):
     input_desc = re.sub(' aut,', ' aut.,', input_desc)
     input_desc = re.sub(' aut;', ' aut.;', input_desc)
     input_desc = re.sub('L\.?\s?a[^u]\.?\s?s\.? ', 'L. a. s. ', input_desc)
-    input_desc = re.sub('L\.?\s?a\.? ', 'L. a. ', input_desc)
+    input_desc = re.sub('L\.?\s?a\. ', 'L. a. ', input_desc)
+    input_desc = re.sub('L\.\s?a\.? ', 'L. a. ', input_desc)
     input_desc = re.sub('L\.?\s?s\.? ', 'L. s. ', input_desc)
     input_desc = re.sub('D\.?\s?a[^u]\.?\s?s\.? ', 'D. a. s. ', input_desc)
     input_desc = re.sub('D\.?\s?a\.? ', 'D. a. ', input_desc)
@@ -134,7 +138,18 @@ def desc_correction(input_desc):
     input_desc = re.sub(' (\d)\s(\d\d?)$', r' \1.\2', input_desc)
     input_desc = re.sub(' (\d\d)\s(\d\d?)$', r' \1.\2', input_desc)
     input_desc = re.sub(' (\d\d\d)\s(\d\d?)$', r' \1.\2', input_desc)
-
+    #correcting roman numbers
+    input_desc = re.sub(' VlII ', ' VIII ', input_desc)
+    input_desc = re.sub(' VIlI ', ' VIII ', input_desc)
+    input_desc = re.sub(' VIIl ', ' VIII ', input_desc)
+    input_desc = re.sub(' VIl ', ' VII ', input_desc)
+    input_desc = re.sub(' Vl ', ' VI ', input_desc)
+    input_desc = re.sub(' VlII$', ' VIII', input_desc)
+    input_desc = re.sub(' VIlI$', ' VIII', input_desc)
+    input_desc = re.sub(' VIIl$', ' VIII', input_desc)
+    input_desc = re.sub(' VIl$', ' VII', input_desc)
+    input_desc = re.sub(' Vl$', ' VI', input_desc)
+    
     return input_desc
 
 if __name__ == "__main__":
