@@ -40,7 +40,7 @@ Most of the reconciliation process uses data from the `<desc>` element of our xm
   * `1 /2` -> `1/2`
   * `1 p ` -> `1 p. `
 
-The `clean-xml.py` script [available here](https://github.com/katabase/1_OutputData/blob/master/script/clean_xml.py) tackles this problem.
+The `clean_xml.py` script [available here](https://github.com/katabase/1_OutputData/blob/master/script/clean_xml.py) tackles this problem.
 
 
 ## Installation and use
@@ -51,15 +51,15 @@ The `clean-xml.py` script [available here](https://github.com/katabase/1_OutputD
 * python3 -m venv my_env
 * source my_env/bin/activate
 * pip install -r requirements.txt
-* python clean-xml.py -f FILENAME processes one single file
+* python script/clean_xml.py -f FILENAME processes one single file
 	OR
-* python clean-xml.py -d DIRECTORY processes all the files contained in a directory
+* python script/clean_xml.py -d DIRECTORY processes all the files contained in a directory
 ```
 
 ## Credits
 
 * The ODD was created by Lucie Rondeau du Noyer.
-* `clean-xml.py`was created by  Simon Gabay.
+* `clean_xml.py`was created by  Simon Gabay.
 * The catalogs were encoded by Lucie Rondeau du Noyer, Simon Gabay, Matthias Gille Levenson, Ljudmila Petkovic and Alexandre Bartz.
 
 ## Cite this repository
