@@ -22,7 +22,8 @@ test_desc_5="10 let aut. sig. au citoyen Rousselin; Nantes et La Rochelle, an VI
 test_result_5="10 let. aut. sig. au citoyen Rousselin; Nantes et La Rochelle, an VII"
 test_desc_6="La sig infol° obl; 4 p pl, à Damien.. . ., 11 50"
 test_result_6="L. a. sig. in-fol. obl.; 4 p. pl., à Damien…, 11.50"
-
+test_desc_7="L. a. s., à son frère. 18sept. 3 p. in-4. Jolie lettre."
+test_result_7="L. a. s., à son frère. 18 sept. 3 p. in-4. Jolie lettre."
 
 class TestCarre(unittest.TestCase):
     #Test each assertion previously defined

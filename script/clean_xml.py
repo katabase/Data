@@ -149,9 +149,10 @@ def desc_correction(input_desc):
     input_desc = re.sub(' VIIl$', ' VIII', input_desc)
     input_desc = re.sub(' VIl$', ' VII', input_desc)
     input_desc = re.sub(' Vl$', ' VI', input_desc)
-    
     return input_desc
-
+    #Cleaning segmentation. Ne pas placer avant in4, in8 etc
+    input_desc = re.sub('([0123456789])([a-zA-Z])', r' \1 \2', input_desc)
+    input_desc = re.sub('([a-zA-Z])([0123456789])', r' \1 \2', input_desc)
 if __name__ == "__main__":
     #Get value of parameter
     parser = argparse.ArgumentParser()
