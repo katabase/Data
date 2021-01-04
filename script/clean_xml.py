@@ -175,7 +175,7 @@ if __name__ == "__main__":
       new_name = get_new_name(args.filename,new_dirname)
       my_doc = process_file(args.filename)
       #save result
-      my_doc.write(new_name, encoding='utf-8')
+      my_doc.write(new_name, encoding='utf-8', xml_declaration=True)
 
     #if we process an entire folder
     if args.dirname is not None:
@@ -191,4 +191,4 @@ if __name__ == "__main__":
         new_name = get_new_name(file,new_dirname)
         my_doc = process_file(file)
         #save result
-        my_doc.write(new_name, encoding='utf-8')
+        my_doc.write(new_name, encoding='utf-8', xml_declaration=True)
