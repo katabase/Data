@@ -10,7 +10,7 @@ Basic bibliographic information for each catalogue are available [here](https://
 
 ### Schema
 
-You can find the ODD that validates the encoding in the repository `schema`.
+You can find the ODD that validates the encoding in the repository [Data_extraction (folder `_schemas`)](https://github.com/katabase/Data_extraction/tree/master/_schemas).
 
 ## Workflow
 
