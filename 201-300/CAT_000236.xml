@@ -1868,7 +1868,7 @@
                <note anchored="true">Très belle lettre. Il n'a pu se reudre en Orient, ni visiter Jérusalem ; il y
                   retournera quand son fils (le prince de Wasa) sera majeur.</note>
             </item>
-            <item n="155"/>
+            <item n="155" xml:id="CAT_000236_e155"/>
             <item n="156" xml:id="CAT_000236_e156">
                <num type="lot">156</num>
                <name type="author">Hamelin (Mme)</name>
